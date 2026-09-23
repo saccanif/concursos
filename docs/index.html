@@ -751,49 +751,82 @@
 
   function lerDoCache() {
     if (!("caches" in window)) return Promise.resolve(null);
-    return caches.match(ARQUIVO)
-      .then(function (resposta) { return resposta ? resposta.json() : null; })
-      .catch(function () { return null; });
+    try {
+      return caches.match(ARQUIVO)
+        .then(function (resposta) { return resposta ? resposta.json() : null; })
+        .catch(function () { return null; });
+    } catch (e) {
+      // Em aba privada o Safari derruba a API de cache lançando na hora.
+      return Promise.resolve(null);
+    }
   }
 
-  function buscarDaRede() {
-    return fetch(ARQUIVO + "?v=" + Date.now(), { cache: "no-store" })
+  function buscarDaRede(sinal) {
+    return fetch(ARQUIVO + "?v=" + Date.now(), { cache: "no-store", signal: sinal })
       .then(function (resposta) {
         if (!resposta.ok) throw new Error("HTTP " + resposta.status);
         return resposta.json();
       });
   }
 
+  var LIMITE_MS = 12000;
   var carregando = false;
+  var abortador = null;
+  var buscadoEm = 0;
 
   function carregar(opcoes) {
     var forcado = opcoes && opcoes.forcado;
-    if (carregando) return;
+
+    // Um toque no botão cancela a busca em andamento em vez de ser ignorado.
+    // No celular uma requisição pode ficar pendurada sem nunca resolver (rede
+    // ruim, ou o iOS suspendendo a conexão quando o app vai pro segundo plano);
+    // sem isto, a trava `carregando` nunca era solta e o botão morria de vez.
+    if (carregando) {
+      if (!forcado) return;
+      if (abortador) abortador.abort();
+    }
+
     carregando = true;
     elAtualizar.dataset.carregando = "sim";
     elAtualizar.disabled = true;
     if (forcado) elSelo.textContent = "atualizando…";
 
-    return buscarDaRede()
+    var controle = typeof AbortController === "function" ? new AbortController() : null;
+    abortador = controle;
+    var relogio = setTimeout(function () {
+      if (controle) controle.abort();
+    }, LIMITE_MS);
+
+    function encerrar() {
+      clearTimeout(relogio);
+      if (abortador !== controle) return; // outra busca já assumiu a tela
+      abortador = null;
+      carregando = false;
+      elAtualizar.dataset.carregando = "nao";
+      elAtualizar.disabled = false;
+    }
+
+    return buscarDaRede(controle ? controle.signal : undefined)
       .then(function (pacote) {
+        buscadoEm = Date.now();
         preparar(pacote);
         elAviso.hidden = true;
         desenhar();
         carimbar();
+        encerrar();
       })
-      .catch(function () {
+      .catch(function (erro) {
+        clearTimeout(relogio);
+        // Abortada porque outra busca mais nova assumiu: ela cuida da tela.
+        if (erro && erro.name === "AbortError" && abortador !== controle) return;
         if (PACOTE) {
-          elAviso.textContent = "Sem conexão. Mostrando a última coleta guardada.";
+          elAviso.textContent = "Não consegui atualizar agora — mostrando a última coleta guardada.";
           elAviso.hidden = false;
           carimbar();
         } else {
           mostrarFalha();
         }
-      })
-      .then(function () {
-        carregando = false;
-        elAtualizar.dataset.carregando = "nao";
-        elAtualizar.disabled = false;
+        encerrar();
       });
   }
 
@@ -1127,10 +1160,13 @@
     carregar();
   });
 
-  // Voltar ao app depois de um tempo fora recarrega os dados.
+  // Voltar ao app depois de um tempo fora rebusca os dados. Vai como forçada
+  // de propósito: assim também destrava uma busca que tenha ficado pendurada
+  // enquanto o app estava em segundo plano. Sem PACOTE também tenta, porque
+  // aí a carga inicial falhou e esta é a chance de se recuperar.
   document.addEventListener("visibilitychange", function () {
-    if (document.visibilityState !== "visible" || !PACOTE) return;
-    if (Date.now() - new Date(PACOTE.gerado_em).getTime() > 600000) carregar();
+    if (document.visibilityState !== "visible") return;
+    if (Date.now() - buscadoEm > 600000) carregar({ forcado: true });
   });
 
   if ("serviceWorker" in navigator) {

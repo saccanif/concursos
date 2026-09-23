@@ -7,7 +7,7 @@
  * coleta guardada e o app avisa na tela que está mostrando dado antigo.
  */
 
-var VERSAO = "edital-aberto-v1";
+var VERSAO = "edital-aberto-v2";
 var CASCA = [
   "./",
   "./index.html",
