@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-09-23T18:54:11+00:00",
+ "gerado_em": "2026-09-23T19:13:31+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 429,
- "novos": 1,
+ "total": 431,
+ "novos": 3,
  "encerrados": 0,
  "concursos": [
   {
@@ -44,6 +44,26 @@
    "inscricoes_ate": "2026-11-10",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "a48506101f59e9f9",
+   "orgao": "Com9ºDN - Comando do 9º Distrito Naval da Marinha do Brasil",
+   "titulo": "Marinha do Brasil - AM e RO abre processo seletivo para Oficiais Temporários de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": 23,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-11-10",
+   "visto_em": "2026-09-23T19:13:31+00:00",
+   "novo": true
   },
   {
    "id": "adcd648802538e4f",
@@ -8463,6 +8483,26 @@
    "inscricoes_ate": "2026-10-05",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "fd2651de952695f3",
+   "orgao": "Prefeitura de Tamboril",
+   "titulo": "Prefeitura de Tamboril - CE abre concurso público para Analista Ambiental",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamboril-ce-abre-concurso-publico-para-analista-ambiental",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 5000.0,
+   "salario_por_hora": false,
+   "cargos": "Analista Ambiental",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-12",
+   "visto_em": "2026-09-23T19:13:31+00:00",
+   "novo": true
   },
   {
    "id": "c630f9968c128dda",
