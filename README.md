@@ -1,116 +1,185 @@
 # Edital Aberto
 
-Monitor de concursos públicos abertos no Brasil, com o Espírito Santo em primeiro plano.
+App para acompanhar concursos públicos abertos no Brasil, com o Espírito Santo em
+primeiro plano. Feito para viver no celular: abre pelo ícone na tela de início,
+atualiza sozinho e funciona sem sinal.
 
-O app tem duas metades:
+Nada roda no seu computador. A coleta acontece na nuvem do GitHub, de hora em hora.
 
-1. **O coletor** (`coletor.py`) roda aqui no computador, lê o PCI Concursos, normaliza
-   os dados e guarda em SQLite.
-2. **A página** (`web/app.html`) é publicada como artifact privado e aberta no iPhone
-   ou no iPad, pelo Safari, de qualquer lugar.
-
-Página publicada: https://claude.ai/artifact/L8QQkD86niWg5LvRzspDb9
+```
+GitHub Actions (de hora em hora)        Seu iPhone / iPad
+  coletor.py                              abre o app
+  └─ lê o PCI Concursos                   └─ busca docs/dados.json
+  └─ grava docs/dados.json                └─ mostra a lista
+  └─ commita no repositório               └─ guarda p/ funcionar offline
+           │                                       ▲
+           └────────── GitHub Pages ───────────────┘
+```
 
 ---
 
-## Atualizar os dados
+## Colocar no ar (uma vez só)
+
+### 1. Criar o repositório
+
+No github.com, crie um repositório novo chamado `concursos`. Deixe **público** — o
+GitHub Pages só é gratuito em repositório público, e aqui não há nada sigiloso: são
+dados abertos do PCI, e seus favoritos ficam guardados no próprio aparelho, nunca no
+repositório.
+
+Não marque nenhuma opção de inicialização (README, .gitignore, licença).
+
+### 2. Subir o código
+
+Nesta pasta, com o endereço do repositório recém-criado:
+
+```bash
+git remote add origin https://github.com/SEU_USUARIO/concursos.git
+git branch -M main
+git push -u origin main
+```
+
+### 3. Ligar o GitHub Pages
+
+No repositório: **Settings → Pages → Build and deployment**
+
+- Source: `Deploy from a branch`
+- Branch: `main`, pasta `/docs`
+- Save
+
+Em um ou dois minutos o app estará em:
 
 ```
-python coletor.py
+https://SEU_USUARIO.github.io/concursos/
 ```
 
-Isso baixa a lista, atualiza o banco, diz quantos concursos são novos e quantos
-encerraram, e regera `web/app.html` com os dados embutidos.
+### 4. Ligar a coleta automática
 
-Depois é preciso republicar a página para que o celular veja os dados novos. No
-Claude Code, dentro desta pasta:
+Na aba **Actions**, aceite habilitar os workflows. Abra *Coletar concursos* e clique
+em **Run workflow** para fazer a primeira rodada na hora, sem esperar a virada da hora.
 
-> atualiza o Edital Aberto
+### 5. Instalar no celular
 
-O artifact é republicado na **mesma URL** — o atalho salvo no iPhone continua valendo.
+Abra o endereço no Safari → botão Compartilhar → **Adicionar à Tela de Início**.
 
-### Outros comandos
+Vira um ícone igual a qualquer outro app: abre em tela cheia, sem barra de navegador.
 
-| Comando | O que faz |
+---
+
+## Como o app se mantém atualizado
+
+Três caminhos, e você não precisa fazer nada em nenhum deles:
+
+| Quando | O que acontece |
 | --- | --- |
-| `python coletor.py` | coleta, atualiza o banco e regera a página |
-| `python coletor.py --resumo` | mostra o que já está no banco, sem acessar a internet |
-| `python coletor.py --resumo --uf ES` | idem, só Espírito Santo |
-| `python coletor.py --sem-rede` | regera a página a partir do banco |
+| A cada hora | O GitHub Actions roda o coletor e commita os dados novos |
+| Ao abrir o app | Busca `dados.json` na rede; pinta a lista guardada na hora e troca quando o novo chega |
+| Ao voltar pro app | Se a última coleta tem mais de 10 minutos, busca de novo sozinho |
+
+O botão **⟳** no canto superior força a busca a qualquer momento. Ao lado dele fica
+escrito há quanto tempo os dados foram coletados.
+
+Sem conexão o app continua abrindo, com a última coleta guardada, e avisa na tela
+que os dados podem estar velhos.
 
 ---
 
-## Abrir no iPhone e no iPad
+## O que a tela mostra
 
-1. Abra a URL no Safari, já logado na mesma conta Claude.
-2. Compartilhar → **Adicionar à Tela de Início**. Vira um ícone, abre em tela cheia.
-
-A página carrega os dados embutidos no próprio arquivo, então depois de aberta ela
-funciona mesmo sem sinal.
-
-**Favoritos** (a estrela) ficam guardados no servidor do artifact, então o que você
-marca no iPhone aparece no iPad e vice-versa. Se o armazenamento remoto não estiver
-disponível, a página cai para o armazenamento do próprio aparelho sem quebrar.
-
----
-
-## O que a página mostra
-
-- Seletor **Espírito Santo · Nacional · Brasil** no topo, com a contagem de cada um.
-- Busca por órgão, cargo ou estado (digitar `minas` filtra Minas Gerais).
-- Filtros por escolaridade, salário mínimo e prazo de encerramento; ordem por prazo,
-  salário, vagas ou nome.
+- Seletor **Espírito Santo · Nacional · Brasil**, com a contagem de cada um.
+- Busca por órgão, cargo ou estado — digitar `minas` filtra Minas Gerais.
+- Filtros de escolaridade, salário mínimo e prazo; ordem por prazo, salário, vagas
+  ou nome do órgão.
 - Tarja colorida à esquerda pelo prazo: vermelho até 3 dias, âmbar até 10, verde acima.
-- Etiqueta `novo` nos concursos que apareceram desde a coleta anterior.
-- Tocar na linha abre a página do concurso no PCI.
+- Etiqueta `novo` em quem apareceu nas últimas 36 horas.
+- Estrela para favoritar. Os favoritos ficam no aparelho — marcar no iPhone não
+  aparece no iPad, porque o app é estático e não tem servidor guardando isso.
+- Tocar na linha abre a matéria do concurso no PCI.
 
 ---
 
 ## Estrutura
 
 ```
-coletor.py          coleta, normaliza, grava e gera a página
-dados/concursos.db  SQLite — histórico de todas as coletas
-dados/concursos.json export completo da última coleta
-web/modelo.html     a página, com __DADOS__ no lugar do JSON
-web/app.html        gerado pelo coletor: modelo + dados, pronto para publicar
+coletor.py                     coleta, normaliza e grava docs/dados.json
+gerar_icones.py                gera os ícones do app
+requirements.txt               requests + lxml
+.github/workflows/coletar.yml  a automação de hora em hora
+docs/                          isto é o que o GitHub Pages publica
+  index.html                   o app inteiro, num arquivo só
+  sw.js                        service worker: offline e abertura instantânea
+  manifest.webmanifest         faz o navegador tratar como app instalável
+  dados.json                   a última coleta (reescrito pela automação)
+  icone-*.png                  ícones da tela de início
 ```
 
-`web/app.html` é gerado — editar a página significa editar `web/modelo.html` e rodar
-`python coletor.py --sem-rede`.
+### Não há banco de dados
 
-### Banco
+O histórico é o histórico do git: cada coleta vira um commit de `docs/dados.json`.
+Para saber o que é novidade, o coletor compara a coleta atual com o JSON que já está
+no repositório e carrega adiante o `visto_em` de cada concurso.
 
-`concursos` guarda um registro por concurso, com `ativo = 0` quando ele sai da lista
-do PCI, e `coleta_inicial` marcando em qual coleta apareceu pela primeira vez — é daí
-que sai a etiqueta `novo`. `coletas` guarda uma linha por execução. Nada é apagado,
-então dá para consultar o histórico direto:
+Para olhar o passado:
 
-```sql
-SELECT orgao, salario, inscricoes_ate FROM concursos
-WHERE uf = 'ES' AND ativo = 0 ORDER BY inscricoes_ate DESC;
-```
-
----
-
-## Dependências
-
-`requests` e `lxml`, ambos já instalados. Se precisar em outra máquina:
-
-```
-pip install requests lxml
+```bash
+git log --oneline -- docs/dados.json
+git show <commit>:docs/dados.json | python -m json.tool | less
 ```
 
 ---
 
-## Se o coletor parar de achar concursos
+## Mexer no app
 
-Ele avisa explicitamente quando o seletor `div.na` não casa mais — significa que o
-PCI mudou o HTML. A estrutura esperada hoje é:
+### Rodar o coletor à mão
+
+```bash
+pip install -r requirements.txt
+python coletor.py              # coleta e regrava docs/dados.json
+python coletor.py --resumo --uf ES   # só mostra o que já está no JSON
+```
+
+### Testar a página localmente
+
+```bash
+cd docs && python -m http.server 8777
+```
+
+e abra `http://localhost:8777`. Precisa ser por servidor, não abrindo o arquivo
+direto — o service worker não funciona em `file://`.
+
+### Mudar a frequência da coleta
+
+Em `.github/workflows/coletar.yml`, o campo `cron` (em UTC). Hoje está `"23 * * * *"`,
+de hora em hora. O mínimo prático do GitHub é de 5 em 5 minutos, mas agendamento é
+por ordem de chegada e atrasa quando a fila está cheia — de hora em hora é o ponto
+em que ele é confiável.
+
+---
+
+## Se parar de funcionar
+
+**O app mostra dados antigos e não atualiza.** Veja a aba Actions. O GitHub desativa
+workflows agendados depois de 60 dias sem atividade no repositório; se for isso,
+aparece um aviso com um botão para reativar.
+
+**A coleta falhou.** O coletor avisa explicitamente quando o seletor `div.na` não casa
+mais, o que significa que o PCI mudou o HTML. A estrutura esperada hoje:
 
 - `div.ua` — cabeçalho de estado, com a sigla no atributo `id`
 - `div.na` — um concurso, irmão do cabeçalho (não aninhado); dentro dele
   `div.ca > a` (órgão e link), `div.cd` (vagas, salário, cargos, escolaridade)
   e `div.ce` (prazo de inscrição)
 
-Os seletores estão em `extrair()` e `ler_item()`.
+Os seletores estão em `extrair()` e `ler_item()`, em `coletor.py`.
+
+O coletor tenta três vezes antes de desistir, porque o PCI fica atrás do Cloudflare
+e às vezes recusa a primeira requisição vinda de um datacenter.
+
+**O app não atualiza mesmo com dados novos no repositório.** O service worker guarda
+a casca do app. Ao mudar `index.html` ou `sw.js`, suba o número em `var VERSAO` no
+`sw.js` — é isso que faz o celular descartar a versão antiga.
+
+---
+
+Os dados vêm do [PCI Concursos](https://www.pciconcursos.com.br/concursos/). Confirme
+prazos e requisitos sempre no edital oficial do órgão.
