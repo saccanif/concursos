@@ -1,0 +1,49 @@
+name: Coletar concursos
+
+# Roda de hora em hora na nuvem do GitHub e commita docs/dados.json.
+# O app busca esse arquivo toda vez que é aberto.
+
+on:
+  schedule:
+    # Minuto 23 para não cair no topo da hora, quando a fila do GitHub enche
+    # e os agendamentos atrasam mais.
+    - cron: "23 * * * *"
+  workflow_dispatch: # botão "Run workflow" na aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Coletar
+        run: python coletor.py --uf ES
+
+      - name: Publicar dados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/dados.json
+          if git diff --staged --quiet; then
+            echo "Lista inalterada — nada a commitar."
+          else
+            git commit -m "dados: coleta de $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

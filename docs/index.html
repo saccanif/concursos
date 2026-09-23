@@ -1,0 +1,1144 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Edital Aberto</title>
+<meta name="description" content="Concursos públicos abertos no Brasil, com o Espírito Santo em primeiro plano.">
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icone-180.png">
+<link rel="icon" href="icone-192.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Edital Aberto">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#15304F" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0B1219" media="(prefers-color-scheme: dark)">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Bitter:wght@600;700&display=swap">
+
+<style>
+  :root {
+    --papel: #EEF1F4;
+    --superficie: #FFFFFF;
+    --superficie-2: #F6F8FA;
+    --linha: #D9DFE6;
+    --linha-forte: #C0CAD4;
+    --tinta: #16283D;
+    --tinta-2: #4B5E72;
+    --tinta-3: #78899B;
+    --azul: #1D5B93;
+    --rosa: #C9455C;
+    --rosa-fundo: #FBE9EC;
+    --urgente: #A8342A;
+    --urgente-fundo: #FAE8E5;
+    --atencao: #8A5A12;
+    --atencao-fundo: #FAF0DF;
+    --folga: #2A6A50;
+    --folga-fundo: #E6F2EB;
+    --vencido: #78899B;
+    --vencido-fundo: #ECEFF2;
+    --topo-fundo: #15304F;
+    --topo-tinta: #F1F6FA;
+    --topo-tinta-2: #9DB6CE;
+    --topo-linha: rgba(255, 255, 255, .14);
+    --topo-ativo: #FFFFFF;
+    --sombra: 0 1px 2px rgba(21, 48, 79, .07), 0 2px 10px rgba(21, 48, 79, .04);
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --papel: #0E151D;
+      --superficie: #161F2A;
+      --superficie-2: #1C2733;
+      --linha: #2A3746;
+      --linha-forte: #3B4B5C;
+      --tinta: #E5EBF1;
+      --tinta-2: #A9B9C8;
+      --tinta-3: #7D8C9B;
+      --azul: #74B1E4;
+      --rosa: #EF8397;
+      --rosa-fundo: #3B2128;
+      --urgente: #F1907F;
+      --urgente-fundo: #3A1F1A;
+      --atencao: #E2B36D;
+      --atencao-fundo: #352814;
+      --folga: #82C9A6;
+      --folga-fundo: #142F23;
+      --vencido: #7D8C9B;
+      --vencido-fundo: #1E2833;
+      --topo-fundo: #0B1219;
+      --topo-tinta: #E5EBF1;
+      --topo-tinta-2: #8496A8;
+      --topo-linha: rgba(255, 255, 255, .10);
+      --topo-ativo: #161F2A;
+      --sombra: 0 1px 2px rgba(0, 0, 0, .35), 0 2px 10px rgba(0, 0, 0, .2);
+      color-scheme: dark;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  html { height: 100%; }
+
+  body {
+    margin: 0;
+    min-height: 100%;
+    background: var(--papel);
+    color: var(--tinta);
+    font-family: Archivo, "Segoe UI", system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.45;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior-y: contain;
+  }
+
+  img { max-width: 100%; }
+  [hidden] { display: none !important; }
+
+  .envoltorio {
+    max-width: 760px;
+    margin-inline: auto;
+    padding-inline: 16px;
+  }
+
+  /* ---------- barra fixa ---------- */
+
+  .topo {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--topo-fundo);
+    color: var(--topo-tinta);
+    border-bottom: 1px solid var(--topo-linha);
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+
+  .topo-linha {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding-block: 9px 8px;
+  }
+
+  .marca {
+    font-family: Bitter, Georgia, serif;
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -.01em;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+
+  .marca::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--rosa);
+    flex: none;
+  }
+
+  .estado-dados {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 11.5px;
+    color: var(--topo-tinta-2);
+    white-space: nowrap;
+  }
+
+  .atualizar {
+    width: 36px;
+    height: 36px;
+    flex: none;
+    border: 1px solid var(--topo-linha);
+    border-radius: 50%;
+    background: transparent;
+    color: var(--topo-tinta);
+    font-size: 16px;
+    line-height: 1;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    padding: 0;
+  }
+
+  .atualizar:disabled { opacity: .55; cursor: default; }
+
+  .atualizar .roda { display: block; transition: transform .2s; }
+  .atualizar[data-carregando="sim"] .roda { animation: girar 1s linear infinite; }
+
+  @keyframes girar { to { transform: rotate(360deg); } }
+
+  .escopo {
+    display: flex;
+    gap: 4px;
+    padding-bottom: 10px;
+  }
+
+  .escopo button {
+    flex: 1;
+    min-height: 40px;
+    padding: 5px 6px 6px;
+    border: 1px solid var(--topo-linha);
+    border-radius: 9px;
+    background: transparent;
+    color: var(--topo-tinta-2);
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.2;
+    transition: background .15s, color .15s;
+  }
+
+  .escopo button .conta {
+    font-size: 10.5px;
+    font-weight: 500;
+    opacity: .75;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .escopo button[aria-pressed="true"] {
+    background: var(--topo-tinta);
+    color: var(--topo-ativo);
+    border-color: transparent;
+  }
+
+  /* ---------- aviso de conexão ---------- */
+
+  .aviso-rede {
+    background: var(--atencao-fundo);
+    color: var(--atencao);
+    font-size: 12.5px;
+    font-weight: 600;
+    text-align: center;
+    padding: 8px 16px;
+  }
+
+  /* ---------- controles ---------- */
+
+  .controles { padding-block: 14px 4px; }
+
+  .busca { position: relative; }
+
+  .busca input {
+    width: 100%;
+    min-height: 44px;
+    padding: 10px 40px 10px 14px;
+    border: 1px solid var(--linha);
+    border-radius: 11px;
+    background: var(--superficie);
+    color: var(--tinta);
+    font: inherit;
+    font-size: 16px; /* evita o zoom automático do Safari no iPhone */
+    box-shadow: var(--sombra);
+    -webkit-appearance: none;
+  }
+
+  .busca input::placeholder { color: var(--tinta-3); font-size: 15px; }
+
+  .limpar-busca {
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 32px;
+    height: 32px;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--tinta-3);
+    font-size: 18px;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  details.filtros {
+    margin-top: 10px;
+    border: 1px solid var(--linha);
+    border-radius: 11px;
+    background: var(--superficie);
+    box-shadow: var(--sombra);
+    overflow: hidden;
+  }
+
+  details.filtros > summary {
+    min-height: 44px;
+    padding: 11px 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--tinta-2);
+    list-style: none;
+  }
+
+  details.filtros > summary::-webkit-details-marker { display: none; }
+
+  details.filtros > summary::after {
+    content: "▾";
+    margin-left: auto;
+    color: var(--tinta-3);
+    transition: transform .15s;
+  }
+
+  details.filtros[open] > summary::after { transform: rotate(180deg); }
+
+  .conta-filtros {
+    background: var(--azul);
+    color: #fff;
+    border-radius: 999px;
+    padding: 1px 7px;
+    font-size: 11px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .painel {
+    border-top: 1px solid var(--linha);
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .grupo > .rotulo {
+    display: block;
+    font-size: 10.5px;
+    font-weight: 700;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+    color: var(--tinta-3);
+    margin-bottom: 7px;
+  }
+
+  .fichas { display: flex; flex-wrap: wrap; gap: 6px; }
+
+  .fichas button {
+    min-height: 34px;
+    padding: 6px 12px;
+    border: 1px solid var(--linha-forte);
+    border-radius: 999px;
+    background: var(--superficie-2);
+    color: var(--tinta-2);
+    font: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+
+  .fichas button[aria-pressed="true"] {
+    background: var(--azul);
+    border-color: var(--azul);
+    color: #fff;
+    font-weight: 600;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .fichas button[aria-pressed="true"],
+    :root:not([data-theme="light"]) .conta-filtros,
+    :root:not([data-theme="light"]) .etiqueta.novidade { color: #0E151D; }
+  }
+
+  .duplas { display: flex; flex-wrap: wrap; gap: 12px; }
+  .duplas .grupo { flex: 1 1 150px; min-width: 0; }
+
+  select {
+    width: 100%;
+    min-height: 40px;
+    padding: 8px 10px;
+    border: 1px solid var(--linha-forte);
+    border-radius: 9px;
+    background: var(--superficie-2);
+    color: var(--tinta);
+    font: inherit;
+    font-size: 13.5px;
+  }
+
+  .acoes-filtro { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+
+  .zerar {
+    border: 0;
+    background: none;
+    color: var(--azul);
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 8px 0;
+  }
+
+  /* ---------- resumo ---------- */
+
+  .resumo {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    padding-block: 16px 9px;
+    font-size: 12.5px;
+    color: var(--tinta-2);
+  }
+
+  .resumo strong {
+    font-family: Bitter, Georgia, serif;
+    font-size: 15px;
+    color: var(--tinta);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .resumo .alerta { color: var(--urgente); font-weight: 600; }
+
+  /* ---------- lista ---------- */
+
+  .lista {
+    background: var(--superficie);
+    border: 1px solid var(--linha);
+    border-radius: 13px;
+    box-shadow: var(--sombra);
+    overflow: hidden;
+  }
+
+  .linha {
+    position: relative;
+    display: flex;
+    gap: 12px;
+    padding: 13px 14px 13px 0;
+    border-top: 1px solid var(--linha);
+  }
+
+  .linha:first-child { border-top: 0; }
+
+  .tarja { width: 4px; flex: none; border-radius: 0 3px 3px 0; background: var(--vencido); }
+  .linha[data-urgencia="urgente"] .tarja { background: var(--urgente); }
+  .linha[data-urgencia="atencao"] .tarja { background: var(--atencao); }
+  .linha[data-urgencia="folga"] .tarja { background: var(--folga); }
+
+  .corpo { flex: 1; min-width: 0; }
+
+  .cabeca { display: flex; align-items: flex-start; gap: 10px; }
+
+  .orgao {
+    font-family: Bitter, Georgia, serif;
+    font-weight: 600;
+    font-size: 15.5px;
+    line-height: 1.3;
+    margin: 0;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .alvo { position: absolute; inset: 0; z-index: 1; }
+
+  .favorito {
+    position: relative;
+    z-index: 2;
+    flex: none;
+    width: 38px;
+    height: 38px;
+    margin: -8px -6px -8px 0;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: var(--tinta-3);
+    font-size: 19px;
+    line-height: 1;
+    cursor: pointer;
+    transition: color .15s, transform .15s;
+  }
+
+  .favorito[aria-pressed="true"] { color: var(--rosa); transform: scale(1.06); }
+
+  .cargos {
+    margin: 3px 0 0;
+    font-size: 13px;
+    color: var(--tinta-2);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .etiquetas { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+
+  .etiqueta {
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: .04em;
+    padding: 2px 7px;
+    border-radius: 5px;
+    background: var(--superficie-2);
+    color: var(--tinta-2);
+    border: 1px solid var(--linha);
+    white-space: nowrap;
+  }
+
+  .etiqueta.uf { letter-spacing: .07em; }
+  .etiqueta.uf-es { background: var(--rosa-fundo); color: var(--rosa); border-color: transparent; }
+  .etiqueta.novidade { background: var(--azul); color: #fff; border-color: transparent; }
+
+  .dados {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 3px 14px;
+    margin-top: 9px;
+    font-size: 12.5px;
+    color: var(--tinta-2);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .dados b { color: var(--tinta); font-weight: 600; }
+
+  .prazo {
+    margin-left: auto;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-weight: 600;
+    background: var(--vencido-fundo);
+    color: var(--vencido);
+    white-space: nowrap;
+  }
+
+  .linha[data-urgencia="urgente"] .prazo { background: var(--urgente-fundo); color: var(--urgente); }
+  .linha[data-urgencia="atencao"] .prazo { background: var(--atencao-fundo); color: var(--atencao); }
+  .linha[data-urgencia="folga"] .prazo { background: var(--folga-fundo); color: var(--folga); }
+
+  .vazio { padding: 44px 20px; text-align: center; color: var(--tinta-2); }
+  .vazio p { margin: 0 0 4px; font-family: Bitter, Georgia, serif; font-size: 16px; color: var(--tinta); }
+  .vazio span { font-size: 13px; }
+
+  .esqueleto { padding: 0; }
+  .esqueleto div {
+    height: 76px;
+    border-top: 1px solid var(--linha);
+    background: linear-gradient(90deg, var(--superficie) 25%, var(--superficie-2) 50%, var(--superficie) 75%);
+    background-size: 400% 100%;
+    animation: brilho 1.4s ease-in-out infinite;
+  }
+  .esqueleto div:first-child { border-top: 0; }
+
+  @keyframes brilho { from { background-position: 100% 0; } to { background-position: 0 0; } }
+
+  .rodape {
+    padding-block: 22px;
+    padding-bottom: calc(22px + env(safe-area-inset-bottom, 0px));
+    font-size: 11.5px;
+    line-height: 1.6;
+    color: var(--tinta-3);
+    text-align: center;
+  }
+
+  .rodape a { color: var(--tinta-2); }
+
+  a { color: var(--azul); }
+  :focus-visible { outline: 2px solid var(--azul); outline-offset: 2px; border-radius: 4px; }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="topo">
+  <div class="envoltorio">
+    <div class="topo-linha">
+      <h1 class="marca">Edital Aberto</h1>
+      <div class="estado-dados">
+        <span id="selo-data">carregando…</span>
+        <button type="button" class="atualizar" id="atualizar" aria-label="Atualizar agora">
+          <span class="roda" aria-hidden="true">⟳</span>
+        </button>
+      </div>
+    </div>
+    <div class="escopo" id="escopo" role="group" aria-label="Abrangência">
+      <button type="button" data-escopo="ES" aria-pressed="true">
+        Espírito Santo<span class="conta" data-conta="ES"></span>
+      </button>
+      <button type="button" data-escopo="NACIONAL" aria-pressed="false">
+        Nacional<span class="conta" data-conta="NACIONAL"></span>
+      </button>
+      <button type="button" data-escopo="TODOS" aria-pressed="false">
+        Brasil<span class="conta" data-conta="TODOS"></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<p class="aviso-rede" id="aviso-rede" hidden></p>
+
+<main class="envoltorio">
+  <div class="controles">
+    <div class="busca">
+      <input type="search" id="busca" placeholder="Buscar órgão, cargo ou estado" autocomplete="off"
+             aria-label="Buscar por órgão, cargo ou estado">
+      <button type="button" class="limpar-busca" id="limpar-busca" aria-label="Limpar busca" hidden>×</button>
+    </div>
+
+    <details class="filtros" id="filtros">
+      <summary>Filtros e ordem <span class="conta-filtros" id="conta-filtros" hidden></span></summary>
+      <div class="painel">
+        <div class="grupo">
+          <span class="rotulo">Escolaridade exigida</span>
+          <div class="fichas" id="niveis">
+            <button type="button" data-nivel="Fundamental" aria-pressed="false">Fundamental</button>
+            <button type="button" data-nivel="Médio" aria-pressed="false">Médio</button>
+            <button type="button" data-nivel="Técnico" aria-pressed="false">Técnico</button>
+            <button type="button" data-nivel="Superior" aria-pressed="false">Superior</button>
+          </div>
+        </div>
+
+        <div class="duplas">
+          <div class="grupo">
+            <label class="rotulo" for="salario">Salário a partir de</label>
+            <select id="salario">
+              <option value="0">Qualquer</option>
+              <option value="2000">R$ 2.000</option>
+              <option value="3000">R$ 3.000</option>
+              <option value="5000">R$ 5.000</option>
+              <option value="8000">R$ 8.000</option>
+              <option value="12000">R$ 12.000</option>
+            </select>
+          </div>
+          <div class="grupo">
+            <label class="rotulo" for="prazo">Inscrições encerram em</label>
+            <select id="prazo">
+              <option value="0">Qualquer prazo</option>
+              <option value="7">Até 7 dias</option>
+              <option value="15">Até 15 dias</option>
+              <option value="30">Até 30 dias</option>
+            </select>
+          </div>
+          <div class="grupo">
+            <label class="rotulo" for="ordem">Ordenar por</label>
+            <select id="ordem">
+              <option value="prazo">Prazo de inscrição</option>
+              <option value="salario">Maior salário</option>
+              <option value="vagas">Mais vagas</option>
+              <option value="orgao">Nome do órgão</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="acoes-filtro">
+          <div class="fichas">
+            <button type="button" id="so-favoritos" aria-pressed="false">★ Só favoritos</button>
+          </div>
+          <button type="button" class="zerar" id="zerar">Limpar filtros</button>
+        </div>
+      </div>
+    </details>
+  </div>
+
+  <div class="resumo" id="resumo"></div>
+
+  <div class="lista" id="lista">
+    <div class="esqueleto"><div></div><div></div><div></div><div></div></div>
+  </div>
+
+  <p class="rodape">
+    Dados do <a href="https://www.pciconcursos.com.br/concursos/" target="_blank" rel="noopener">PCI
+    Concursos</a>, coletados automaticamente de hora em hora.<br>
+    Confirme prazos e requisitos sempre no edital oficial do órgão.<br>
+    <span id="rodape-coleta"></span>
+  </p>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+  var ARQUIVO = "dados.json";
+  var PACOTE = null;
+  var CONCURSOS = [];
+
+  var HOJE = new Date();
+  HOJE.setHours(0, 0, 0, 0);
+
+  var moeda = new Intl.NumberFormat("pt-BR", {
+    style: "currency", currency: "BRL", maximumFractionDigits: 0
+  });
+
+  // ------------------------------------------------------------------ //
+  // Armazenamento do aparelho
+  // ------------------------------------------------------------------ //
+
+  function lerLocal(chave) {
+    try { return window.localStorage.getItem(chave); } catch (e) { return null; }
+  }
+
+  function gravarLocal(chave, valor) {
+    try { window.localStorage.setItem(chave, valor); } catch (e) { /* sem storage */ }
+  }
+
+  var CHAVE_FAVORITOS = "edital-aberto:favoritos";
+  var favoritos = new Set();
+
+  (function () {
+    var bruto = lerLocal(CHAVE_FAVORITOS);
+    if (!bruto) return;
+    try {
+      var lista = JSON.parse(bruto);
+      if (Array.isArray(lista)) lista.forEach(function (id) { favoritos.add(id); });
+    } catch (e) { /* ignora */ }
+  })();
+
+  function alternarFavorito(id) {
+    var marcado = !favoritos.has(id);
+    if (marcado) favoritos.add(id); else favoritos.delete(id);
+    gravarLocal(CHAVE_FAVORITOS, JSON.stringify(Array.from(favoritos)));
+    return marcado;
+  }
+
+  var PADRAO = {
+    escopo: "ES", busca: "", niveis: [], salario: 0,
+    prazo: 0, ordem: "prazo", soFavoritos: false
+  };
+  var estado = Object.assign({}, PADRAO);
+  var CHAVE_ESTADO = "edital-aberto:filtros";
+
+  (function () {
+    var bruto = lerLocal(CHAVE_ESTADO);
+    if (!bruto) return;
+    try {
+      var salvo = JSON.parse(bruto);
+      Object.keys(PADRAO).forEach(function (chave) {
+        var valor = salvo[chave];
+        if (valor === undefined || valor === null) return;
+        if (Array.isArray(PADRAO[chave]) && !Array.isArray(valor)) return;
+        if (typeof PADRAO[chave] === "number" && typeof valor !== "number") return;
+        estado[chave] = valor;
+      });
+    } catch (e) { /* mantém o padrão */ }
+  })();
+
+  function salvarEstado() { gravarLocal(CHAVE_ESTADO, JSON.stringify(estado)); }
+
+  // ------------------------------------------------------------------ //
+  // Busca dos dados: cache primeiro (abre instantâneo), rede em seguida
+  // ------------------------------------------------------------------ //
+
+  var elAtualizar = document.getElementById("atualizar");
+  var elSelo = document.getElementById("selo-data");
+  var elAviso = document.getElementById("aviso-rede");
+
+  function preparar(pacote) {
+    PACOTE = pacote;
+    CONCURSOS = (pacote.concursos || []).map(function (c) {
+      var copia = Object.assign({}, c);
+      copia.dias = diasAte(c.inscricoes_ate);
+      copia.urgencia = urgencia(copia.dias);
+      copia.chaveBusca = [c.orgao, c.cargos, c.titulo, c.uf, c.uf_nome, c.escolaridade]
+        .join(" ").toLowerCase();
+      return copia;
+    });
+  }
+
+  function lerDoCache() {
+    if (!("caches" in window)) return Promise.resolve(null);
+    return caches.match(ARQUIVO)
+      .then(function (resposta) { return resposta ? resposta.json() : null; })
+      .catch(function () { return null; });
+  }
+
+  function buscarDaRede() {
+    return fetch(ARQUIVO + "?v=" + Date.now(), { cache: "no-store" })
+      .then(function (resposta) {
+        if (!resposta.ok) throw new Error("HTTP " + resposta.status);
+        return resposta.json();
+      });
+  }
+
+  var carregando = false;
+
+  function carregar(opcoes) {
+    var forcado = opcoes && opcoes.forcado;
+    if (carregando) return;
+    carregando = true;
+    elAtualizar.dataset.carregando = "sim";
+    elAtualizar.disabled = true;
+    if (forcado) elSelo.textContent = "atualizando…";
+
+    return buscarDaRede()
+      .then(function (pacote) {
+        preparar(pacote);
+        elAviso.hidden = true;
+        desenhar();
+        carimbar();
+      })
+      .catch(function () {
+        if (PACOTE) {
+          elAviso.textContent = "Sem conexão. Mostrando a última coleta guardada.";
+          elAviso.hidden = false;
+          carimbar();
+        } else {
+          mostrarFalha();
+        }
+      })
+      .then(function () {
+        carregando = false;
+        elAtualizar.dataset.carregando = "nao";
+        elAtualizar.disabled = false;
+      });
+  }
+
+  function mostrarFalha() {
+    elSelo.textContent = "sem dados";
+    document.getElementById("lista").innerHTML = "";
+    var vazio = texto("div", "vazio");
+    vazio.appendChild(texto("p", null, "Não consegui carregar os concursos"));
+    vazio.appendChild(texto("span", null, "Verifique a conexão e toque em ⟳ para tentar de novo."));
+    document.getElementById("lista").appendChild(vazio);
+  }
+
+  // ------------------------------------------------------------------ //
+  // Datas
+  // ------------------------------------------------------------------ //
+
+  function diasAte(iso) {
+    if (!iso) return null;
+    var p = iso.split("-");
+    return Math.round((new Date(+p[0], +p[1] - 1, +p[2]) - HOJE) / 86400000);
+  }
+
+  function urgencia(dias) {
+    if (dias === null) return "sem-prazo";
+    if (dias < 0) return "vencido";
+    if (dias <= 3) return "urgente";
+    if (dias <= 10) return "atencao";
+    return "folga";
+  }
+
+  function haQuantoTempo(iso) {
+    var minutos = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+    if (!isFinite(minutos) || minutos < 0) return "agora";
+    if (minutos < 2) return "agora";
+    if (minutos < 60) return "há " + minutos + " min";
+    var horas = Math.round(minutos / 60);
+    if (horas < 24) return "há " + horas + (horas === 1 ? " hora" : " horas");
+    var dias = Math.round(horas / 24);
+    return "há " + dias + (dias === 1 ? " dia" : " dias");
+  }
+
+  function carimbar() {
+    if (!PACOTE) return;
+    elSelo.textContent = haQuantoTempo(PACOTE.gerado_em);
+    var data = new Date(PACOTE.gerado_em);
+    document.getElementById("rodape-coleta").textContent =
+      "Última coleta: " + data.toLocaleString("pt-BR", {
+        day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit"
+      }) + " · " + PACOTE.total + " concursos abertos.";
+  }
+
+  // ------------------------------------------------------------------ //
+  // Filtragem
+  // ------------------------------------------------------------------ //
+
+  function noEscopo(c, escopo) {
+    if (escopo === "TODOS") return true;
+    if (escopo === "NACIONAL") return c.uf === "NACIONAL";
+    return c.uf === escopo;
+  }
+
+  function selecionar() {
+    var termo = estado.busca.trim().toLowerCase();
+    return CONCURSOS.filter(function (c) {
+      if (!noEscopo(c, estado.escopo)) return false;
+      if (estado.soFavoritos && !favoritos.has(c.id)) return false;
+      if (termo && c.chaveBusca.indexOf(termo) === -1) return false;
+      if (estado.salario && !(c.salario >= estado.salario)) return false;
+      if (estado.prazo && (c.dias === null || c.dias > estado.prazo)) return false;
+      if (estado.niveis.length) {
+        var tem = estado.niveis.some(function (n) { return (c.niveis || []).indexOf(n) !== -1; });
+        if (!tem) return false;
+      }
+      return true;
+    });
+  }
+
+  var ORDENADORES = {
+    prazo: function (a, b) {
+      if (a.dias === null) return 1;
+      if (b.dias === null) return -1;
+      return a.dias - b.dias || a.orgao.localeCompare(b.orgao, "pt-BR");
+    },
+    salario: function (a, b) { return (b.salario || 0) - (a.salario || 0); },
+    vagas: function (a, b) { return (b.vagas || 0) - (a.vagas || 0); },
+    orgao: function (a, b) { return a.orgao.localeCompare(b.orgao, "pt-BR"); }
+  };
+
+  // ------------------------------------------------------------------ //
+  // Desenho
+  // ------------------------------------------------------------------ //
+
+  function texto(tag, classe, conteudo) {
+    var el = document.createElement(tag);
+    if (classe) el.className = classe;
+    if (conteudo !== undefined) el.textContent = conteudo;
+    return el;
+  }
+
+  function rotuloPrazo(c) {
+    if (c.dias === null) return "sem prazo";
+    var data = c.inscricoes_ate.slice(8, 10) + "/" + c.inscricoes_ate.slice(5, 7);
+    if (c.dias < 0) return data + " · encerrado";
+    if (c.dias === 0) return data + " · último dia";
+    if (c.dias === 1) return data + " · amanhã";
+    return data + " · " + c.dias + " dias";
+  }
+
+  function montarLinha(c) {
+    var linha = texto("article", "linha");
+    linha.dataset.urgencia = c.urgencia;
+    linha.appendChild(texto("div", "tarja"));
+
+    var corpo = texto("div", "corpo");
+    var cabeca = texto("div", "cabeca");
+    cabeca.appendChild(texto("h2", "orgao", c.orgao));
+
+    var estrela = texto("button", "favorito", "★");
+    estrela.type = "button";
+    estrela.setAttribute("aria-pressed", favoritos.has(c.id) ? "true" : "false");
+    estrela.setAttribute("aria-label", "Favoritar " + c.orgao);
+    estrela.addEventListener("click", function (evento) {
+      evento.preventDefault();
+      evento.stopPropagation();
+      var marcado = alternarFavorito(c.id);
+      estrela.setAttribute("aria-pressed", marcado ? "true" : "false");
+      if (estado.soFavoritos && !marcado) desenhar(); else atualizarResumo();
+    });
+    cabeca.appendChild(estrela);
+    corpo.appendChild(cabeca);
+
+    if (c.cargos) corpo.appendChild(texto("p", "cargos", c.cargos));
+
+    var etiquetas = texto("div", "etiquetas");
+    if (c.uf) {
+      var uf = texto("span", "etiqueta uf", c.uf === "NACIONAL" ? "Nacional" : c.uf);
+      if (c.uf === "ES") uf.classList.add("uf-es");
+      etiquetas.appendChild(uf);
+    }
+    (c.niveis || []).forEach(function (n) { etiquetas.appendChild(texto("span", "etiqueta", n)); });
+    if (c.cadastro_reserva) etiquetas.appendChild(texto("span", "etiqueta", "Cadastro de reserva"));
+    if (c.novo) etiquetas.appendChild(texto("span", "etiqueta novidade", "novo"));
+    corpo.appendChild(etiquetas);
+
+    var dados = texto("div", "dados");
+    if (c.vagas) {
+      var vagas = texto("span", "dado");
+      vagas.appendChild(texto("b", null, String(c.vagas)));
+      vagas.appendChild(document.createTextNode(c.vagas === 1 ? " vaga" : " vagas"));
+      dados.appendChild(vagas);
+    }
+    if (c.salario) {
+      var salario = texto("span", "dado");
+      salario.appendChild(document.createTextNode("até "));
+      salario.appendChild(texto("b", null, moeda.format(c.salario)));
+      if (c.salario_por_hora) salario.appendChild(document.createTextNode(" /hora"));
+      dados.appendChild(salario);
+    }
+    dados.appendChild(texto("span", "prazo", rotuloPrazo(c)));
+    corpo.appendChild(dados);
+    linha.appendChild(corpo);
+
+    var alvo = document.createElement("a");
+    alvo.className = "alvo";
+    alvo.href = c.url;
+    alvo.target = "_blank";
+    alvo.rel = "noopener";
+    alvo.setAttribute("aria-label", c.titulo || c.orgao);
+    linha.appendChild(alvo);
+
+    return linha;
+  }
+
+  var elLista = document.getElementById("lista");
+  var elResumo = document.getElementById("resumo");
+  var visiveis = [];
+
+  function atualizarResumo() {
+    var encerrando = visiveis.filter(function (c) {
+      return c.dias !== null && c.dias >= 0 && c.dias <= 7;
+    }).length;
+    var favoritados = visiveis.filter(function (c) { return favoritos.has(c.id); }).length;
+
+    elResumo.textContent = "";
+    elResumo.appendChild(texto("strong", null, String(visiveis.length)));
+    elResumo.appendChild(texto("span", null,
+      visiveis.length === 1 ? "concurso aberto" : "concursos abertos"));
+    if (encerrando) {
+      elResumo.appendChild(texto("span", "alerta",
+        "· " + encerrando + (encerrando === 1 ? " encerra" : " encerram") + " em até 7 dias"));
+    }
+    if (favoritados) {
+      elResumo.appendChild(texto("span", null,
+        "· " + favoritados + " favoritado" + (favoritados === 1 ? "" : "s")));
+    }
+  }
+
+  function desenhar() {
+    visiveis = selecionar().sort(ORDENADORES[estado.ordem] || ORDENADORES.prazo);
+
+    elLista.textContent = "";
+    if (!visiveis.length) {
+      var vazio = texto("div", "vazio");
+      vazio.appendChild(texto("p", null, "Nenhum concurso com esses filtros"));
+      vazio.appendChild(texto("span", null, estado.escopo === "ES"
+        ? "Tente alargar para Brasil ou limpar os filtros."
+        : "Tente limpar os filtros ou buscar outro termo."));
+      elLista.appendChild(vazio);
+    } else {
+      var fragmento = document.createDocumentFragment();
+      visiveis.forEach(function (c) { fragmento.appendChild(montarLinha(c)); });
+      elLista.appendChild(fragmento);
+    }
+
+    atualizarResumo();
+    atualizarContadores();
+    atualizarContaFiltros();
+  }
+
+  function atualizarContadores() {
+    ["ES", "NACIONAL", "TODOS"].forEach(function (escopo) {
+      var alvo = document.querySelector('[data-conta="' + escopo + '"]');
+      if (alvo) {
+        alvo.textContent = CONCURSOS.filter(function (c) { return noEscopo(c, escopo); }).length;
+      }
+    });
+  }
+
+  function atualizarContaFiltros() {
+    var ativos = estado.niveis.length + (estado.salario ? 1 : 0) +
+      (estado.prazo ? 1 : 0) + (estado.soFavoritos ? 1 : 0);
+    var selo = document.getElementById("conta-filtros");
+    selo.textContent = String(ativos);
+    selo.hidden = ativos === 0;
+  }
+
+  // ------------------------------------------------------------------ //
+  // Controles
+  // ------------------------------------------------------------------ //
+
+  function mudou() { salvarEstado(); desenhar(); }
+
+  document.getElementById("escopo").addEventListener("click", function (evento) {
+    var botao = evento.target.closest("button[data-escopo]");
+    if (!botao) return;
+    estado.escopo = botao.dataset.escopo;
+    Array.prototype.forEach.call(this.querySelectorAll("button[data-escopo]"), function (b) {
+      b.setAttribute("aria-pressed", b.dataset.escopo === estado.escopo ? "true" : "false");
+    });
+    mudou();
+  });
+
+  var elBusca = document.getElementById("busca");
+  var elLimpar = document.getElementById("limpar-busca");
+
+  elBusca.addEventListener("input", function () {
+    estado.busca = elBusca.value;
+    elLimpar.hidden = !elBusca.value;
+    mudou();
+  });
+
+  elLimpar.addEventListener("click", function () {
+    elBusca.value = "";
+    estado.busca = "";
+    elLimpar.hidden = true;
+    elBusca.focus();
+    mudou();
+  });
+
+  document.getElementById("niveis").addEventListener("click", function (evento) {
+    var botao = evento.target.closest("button[data-nivel]");
+    if (!botao) return;
+    var nivel = botao.dataset.nivel;
+    var pos = estado.niveis.indexOf(nivel);
+    if (pos === -1) estado.niveis.push(nivel); else estado.niveis.splice(pos, 1);
+    botao.setAttribute("aria-pressed", pos === -1 ? "true" : "false");
+    mudou();
+  });
+
+  [["salario", true], ["prazo", true], ["ordem", false]].forEach(function (par) {
+    var el = document.getElementById(par[0]);
+    el.addEventListener("change", function () {
+      estado[par[0]] = par[1] ? parseInt(el.value, 10) || 0 : el.value;
+      mudou();
+    });
+  });
+
+  var elFavoritos = document.getElementById("so-favoritos");
+  elFavoritos.addEventListener("click", function () {
+    estado.soFavoritos = !estado.soFavoritos;
+    elFavoritos.setAttribute("aria-pressed", estado.soFavoritos ? "true" : "false");
+    mudou();
+  });
+
+  document.getElementById("zerar").addEventListener("click", function () {
+    estado = Object.assign({}, PADRAO, { escopo: estado.escopo });
+    refletirEstado();
+    mudou();
+  });
+
+  elAtualizar.addEventListener("click", function () { carregar({ forcado: true }); });
+
+  function refletirEstado() {
+    elBusca.value = estado.busca;
+    elLimpar.hidden = !estado.busca;
+    document.getElementById("salario").value = String(estado.salario);
+    document.getElementById("prazo").value = String(estado.prazo);
+    document.getElementById("ordem").value = estado.ordem;
+    elFavoritos.setAttribute("aria-pressed", estado.soFavoritos ? "true" : "false");
+    Array.prototype.forEach.call(document.querySelectorAll("button[data-nivel]"), function (b) {
+      b.setAttribute("aria-pressed", estado.niveis.indexOf(b.dataset.nivel) !== -1 ? "true" : "false");
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("button[data-escopo]"), function (b) {
+      b.setAttribute("aria-pressed", b.dataset.escopo === estado.escopo ? "true" : "false");
+    });
+  }
+
+  // ------------------------------------------------------------------ //
+  // Partida
+  // ------------------------------------------------------------------ //
+
+  refletirEstado();
+
+  // Pinta o que estiver em cache na hora, e busca a versão nova em seguida.
+  lerDoCache().then(function (guardado) {
+    if (guardado && !PACOTE) {
+      preparar(guardado);
+      desenhar();
+      carimbar();
+    }
+    carregar();
+  });
+
+  // Voltar ao app depois de um tempo fora recarrega os dados.
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState !== "visible" || !PACOTE) return;
+    if (Date.now() - new Date(PACOTE.gerado_em).getTime() > 600000) carregar();
+  });
+
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("sw.js").catch(function () { /* segue sem offline */ });
+    });
+  }
+})();
+</script>
+</body>
+</html>
