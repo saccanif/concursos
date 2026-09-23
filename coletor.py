@@ -222,13 +222,21 @@ def ler_anterior() -> dict:
 def montar_pacote(itens: list[dict], anterior: dict) -> dict:
     agora = datetime.now(timezone.utc)
     antigos = {c["id"]: c for c in anterior.get("concursos", [])}
-    primeira_coleta = not antigos
     corte = (agora - timedelta(hours=HORAS_COMO_NOVIDADE)).isoformat()
+
+    # Na semeadura nada é novidade — não há com o que comparar. Datar tudo com
+    # a hora corrente marcaria a lista inteira como nova pelas 36 horas
+    # seguintes, então o carimbo inicial nasce fora da janela de novidade.
+    if antigos:
+        carimbo = agora.isoformat(timespec="seconds")
+    else:
+        carimbo = (agora - timedelta(hours=HORAS_COMO_NOVIDADE, seconds=1)
+                   ).isoformat(timespec="seconds")
 
     for item in itens:
         visto = antigos.get(item["id"], {}).get("visto_em")
-        item["visto_em"] = visto or agora.isoformat(timespec="seconds")
-        item["novo"] = bool(not primeira_coleta and item["visto_em"] > corte)
+        item["visto_em"] = visto or carimbo
+        item["novo"] = item["visto_em"] > corte
 
     encerrados = [c for c in antigos.values() if c["id"] not in {i["id"] for i in itens}]
 
@@ -243,8 +251,12 @@ def montar_pacote(itens: list[dict], anterior: dict) -> dict:
 
 
 def gravar(pacote: dict) -> None:
+    # Uma linha por campo: o arquivo fica maior em disco, mas é servido com
+    # gzip (pela rede a diferença some) e, como cada coleta vira um commit, o
+    # git passa a guardar deltas pequenos em vez de reescrever a cada hora uma
+    # única linha gigante. De quebra, `git show` vira um diff legível.
     SAIDA.parent.mkdir(parents=True, exist_ok=True)
-    SAIDA.write_text(json.dumps(pacote, ensure_ascii=False, separators=(",", ":")),
+    SAIDA.write_text(json.dumps(pacote, ensure_ascii=False, indent=1) + "\n",
                      encoding="utf-8")
 
 

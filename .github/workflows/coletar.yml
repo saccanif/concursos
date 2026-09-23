@@ -40,10 +40,37 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/dados.json
-          if git diff --staged --quiet; then
-            echo "Lista inalterada — nada a commitar."
-          else
+
+          # O push pode ser recusado se o remoto andar entre o checkout e aqui
+          # (um push seu, ou outra execução deste workflow). Como docs/dados.json
+          # é gerado e este workflow é o único que escreve nele, em caso de
+          # corrida a versão recém-coletada simplesmente vence: realinhamos com
+          # o remoto, devolvemos o arquivo por cima e commitamos de novo.
+          guardado="$(mktemp)"
+          cp docs/dados.json "$guardado"
+
+          for tentativa in 1 2 3; do
+            git add docs/dados.json
+            if git diff --staged --quiet; then
+              echo "Lista inalterada — nada a publicar."
+              exit 0
+            fi
+
             git commit -m "dados: coleta de $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
-          fi
+
+            if git push; then
+              echo "Publicado na tentativa $tentativa."
+              exit 0
+            fi
+
+            echo "Push recusado — o remoto andou. Refazendo em cima dele."
+            git reset --hard HEAD~1
+            # FETCH_HEAD em vez de origin/main: o checkout do Actions é raso e
+            # nem sempre cria a referência de rastreamento do branch.
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+            cp "$guardado" docs/dados.json
+          done
+
+          echo "Não consegui publicar após 3 tentativas." >&2
+          exit 1
