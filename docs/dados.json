@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-24T01:27:39+00:00",
+ "gerado_em": "2026-09-24T07:38:46+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 432,
+ "total": 416,
  "novos": 19,
- "encerrados": 0,
+ "encerrados": 16,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -291,28 +291,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-11-09",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "f7c72ea3bb6a4ced",
-   "orgao": "Câmara de Colômbia",
-   "titulo": "Câmara de Colômbia - SP publica edital retificado de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-colombia-sp-publica-edital-retificado-de-concurso-publico",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 8,
-   "cadastro_reserva": false,
-   "salario": 7825.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -1950,26 +1928,6 @@
    "novo": false
   },
   {
-   "id": "94d89ce9278110a9",
-   "orgao": "UNIFAI - Centro Universitário de Adamantina",
-   "titulo": "Centro Universitário de Adamantina - SP abre vaga para Analista Jurídico",
-   "url": "https://www.pciconcursos.com.br/noticias/centro-universitario-de-adamantina-sp-abre-vaga-para-analista-juridico",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 4494.0,
-   "salario_por_hora": false,
-   "cargos": "Analista Jurídico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
    "id": "7df9c63407e4bcd9",
    "orgao": "CMTC - MOBI-Rio - Companhia Municipal de Transportes Coletivos",
    "titulo": "MOBI-Rio - RJ abre processo seletivo para diversos cargos",
@@ -2225,27 +2183,6 @@
    "inscricoes_ate": "2026-10-04",
    "visto_em": "2026-09-23T22:58:42+00:00",
    "novo": true
-  },
-  {
-   "id": "22d7ba55b59e9179",
-   "orgao": "Câmara de Augusto de Lima",
-   "titulo": "Câmara de Augusto de Lima - MG abre concurso para Motorista e Auxiliar Administrativo e Legislativo",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-augusto-de-lima-mg-abre-concurso-para-motorista-e-auxiliar-administrativo-e-legislativo",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2742.96,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar Administrativo e Legislativo, Motorista",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
   },
   {
    "id": "e4b635f413718493",
@@ -3010,27 +2947,6 @@
    "novo": false
   },
   {
-   "id": "2d683f993354cd1c",
-   "orgao": "Prefeitura de Buritis",
-   "titulo": "Prefeitura de Buritis - MG abre vagas para Recepcionista e Técnico em Enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-buritis-mg-abre-vagas-para-recepcionista-e-tecnico-em-enfermagem",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 1676.32,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem, Recepcionista",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
    "id": "6ad1f4765b14aa3f",
    "orgao": "Prefeitura de Campanário",
    "titulo": "Prefeitura de Campanário - MG retifica edital de concurso público",
@@ -3050,26 +2966,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-10-02",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "7605ca054aec5d77",
-   "orgao": "Prefeitura de Caparaó",
-   "titulo": "Prefeitura de Caparaó - MG abre seleção para agentes comunitários de saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caparao-mg-abre-selecao-para-agentes-comunitarios-de-saude",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -3427,46 +3323,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-11-03",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "d922d3435c948c58",
-   "orgao": "Prefeitura de Leopoldina",
-   "titulo": "Prefeitura de Leopoldina - MG abre processo seletivo para o cargo de Motorista",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-processo-seletivo-para-o-cargo-de-motorista",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2714.19,
-   "salario_por_hora": false,
-   "cargos": "Agente de Serviço Operacional (Motorista)",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "83969086f550a46d",
-   "orgao": "Prefeitura de Mesquita",
-   "titulo": "Município de Mesquita - MG abre seleção para agentes de saúde e de endemias",
-   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-mesquita-mg-abre-selecao-para-agentes-de-saude-e-de-endemias",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 18,
-   "cadastro_reserva": false,
-   "salario": 3036.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde, Agente de Combate a Endemias",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -4044,26 +3900,6 @@
     "Médio"
    ],
    "inscricoes_ate": "2026-11-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "202ffd00ec5dda12",
-   "orgao": "Prefeitura de União de Minas",
-   "titulo": "Prefeitura de União de Minas - MG abre vagas para motoristas de veículos leves e pesados",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uniao-de-minas-mg-abre-vagas-para-motoristas-de-veiculos-leves-e-pesados",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 2596.25,
-   "salario_por_hora": false,
-   "cargos": "Motorista de Veículos Leves e Pesados",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -4794,26 +4630,6 @@
    "novo": false
   },
   {
-   "id": "81031531b6687c79",
-   "orgao": "Prefeitura de São Jerônimo da Serra",
-   "titulo": "Prefeitura de São Jerônimo da Serra - PR abre vaga para Médico da Estratégia Saúde da Família",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jeronimo-da-serra-pr-abre-vaga-para-medico-da-estrategia-saude-da-familia",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 16490.22,
-   "salario_por_hora": false,
-   "cargos": "Médico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
    "id": "4bcf85102f0eecfe",
    "orgao": "Prefeitura de São José da Boa Vista",
    "titulo": "Prefeitura de São José da Boa Vista - PR abre seleção para agentes comunitários de saúde e de combate às endemias",
@@ -4920,26 +4736,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-10-27",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "942d92ca3d39ba59",
-   "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
-   "titulo": "UNIOESTE - PR abre processo seletivo com 100 vagas para técnicos de enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-com-100-vagas-para-tecnicos-de-enfermagem",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 100,
-   "cadastro_reserva": false,
-   "salario": 5659.63,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Enfermagem",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -5278,46 +5074,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-09-25",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "ff45ba7910bfa72e",
-   "orgao": "Prefeitura de Coqueiros do Sul",
-   "titulo": "Prefeitura de Coqueiros do Sul - RS abre seleção para profissionais de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiros-do-sul-rs-abre-selecao-para-profissionais-de-nivel-superior",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 6300.0,
-   "salario_por_hora": false,
-   "cargos": "Fonoaudiólogo, Fisioterapeuta, Professor de História e Geografia",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "23cf467dca55020d",
-   "orgao": "Prefeitura de Doutor Maurício Cardoso",
-   "titulo": "Prefeitura de Doutor Maurício Cardoso - RS abre vaga para Enfermeiro",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-mauricio-cardoso-rs-abre-vaga-para-enfermeiro",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 6766.34,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -5734,48 +5490,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-09-27",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "0bbe09f12e95a6ad",
-   "orgao": "Celesc - Celesc Distribuição S.A.",
-   "titulo": "Celesc - SC abre concurso público para cadastro de reserva em diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/celesc-sc-abre-concurso-publico-para-cadastro-de-reserva-em-diversos-cargos",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 6905.11,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "2f6459914c7c8a47",
-   "orgao": "CIGAMVALI - Consórcio Intermunicipal de Gestão Pública do Vale do Itapocu",
-   "titulo": "CIGAMVALI - SC abre processo seletivo para Analistas Ambientais",
-   "url": "https://www.pciconcursos.com.br/noticias/cigamvali-sc-abre-processo-seletivo-para-analistas-ambientais",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 7186.23,
-   "salario_por_hora": false,
-   "cargos": "Analista Ambiental",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
@@ -6916,27 +6630,6 @@
    "novo": false
   },
   {
-   "id": "ca02387cf1db4fac",
-   "orgao": "SME - Secretaria Municipal de Educação de São José",
-   "titulo": "Prefeitura de São José - SC retifica processo seletivo para a secretaria de educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-retifica-processo-seletivo-para-a-secretaria-de-educacao",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5355.59,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
    "id": "e8f3d39339b22be1",
    "orgao": "APS - Associação das Pioneiras Sociais (Rede SARAH)",
    "titulo": "Associação das Pioneiras Sociais abre seleção para Médico Neurofisiologista",
@@ -7388,27 +7081,6 @@
     "Superior"
    ],
    "inscricoes_ate": "2026-10-06",
-   "visto_em": "2026-09-22T06:54:02+00:00",
-   "novo": false
-  },
-  {
-   "id": "34efb07f2901efdb",
-   "orgao": "POLITEC - Perícia Oficial e Identificação Técnica",
-   "titulo": "POLITEC - MT abre processo seletivo para assistente administrativo e assistente social",
-   "url": "https://www.pciconcursos.com.br/noticias/politec-mt-abre-processo-seletivo-para-assistente-administrativo-e-assistente-social",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 36,
-   "cadastro_reserva": false,
-   "salario": 8269.16,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Desenvolvimento Econômico e Social, Analista de Desenvolvimento Econômico e Social",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_ate": "2026-09-23",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
   },
