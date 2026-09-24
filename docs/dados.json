@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-24T13:35:38+00:00",
+ "gerado_em": "2026-09-24T18:12:01+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 425,
- "novos": 28,
- "encerrados": 0,
+ "total": 436,
+ "novos": 39,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1458,6 +1458,27 @@
    "novo": false
   },
   {
+   "id": "094bcac254f4e1f5",
+   "orgao": "Prefeitura de Mairinque",
+   "titulo": "Prefeitura de Mairinque - SP abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairinque-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4400.77,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-19",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "76cf8f53d211d56a",
    "orgao": "Prefeitura de Paulínia",
    "titulo": "Prefeitura de Paulínia - SP retifica concurso com 40 vagas para Guarda Municipal",
@@ -1476,6 +1497,26 @@
    "inscricoes_ate": "2026-10-08",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "304d828dc355a3c4",
+   "orgao": "Prefeitura de Pereira Barreto",
+   "titulo": "Prefeitura de Pereira Barreto - SP abre processo seletivo para Educador Social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pereira-barreto-sp-abre-processo-seletivo-para-educador-social",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2250.61,
+   "salario_por_hora": false,
+   "cargos": "Educador Social",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-10-09",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
   },
   {
    "id": "da293c80fdfc8262",
@@ -2627,6 +2668,26 @@
    "novo": false
   },
   {
+   "id": "18a2f7414cf20bda",
+   "orgao": "CIS-VERDE - Consórcio Intermunicipal Multifinalitário",
+   "titulo": "CIS-VERDE - MG abre processo seletivo para Assistente Administrativo",
+   "url": "https://www.pciconcursos.com.br/noticias/cis-verde-mg-abre-processo-seletivo-para-assistente-administrativo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1767.52,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-10-01",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "40727087927fac34",
    "orgao": "CISICOM - Consórcio Intermunicipal dos Serviços de Inspeção do Centro-Oeste Mineiro",
    "titulo": "CISICOM - MG anuncia concurso público com vaga para médico veterinário",
@@ -3155,6 +3216,26 @@
    "inscricoes_ate": "2026-10-08",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "ffcaf06c9365e054",
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre seleção para auxiliares de serviços na UPAM",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-selecao-para-auxiliares-de-servicos-na-upam",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_ate": "2026-10-03",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
   },
   {
    "id": "eee591d1a6981d60",
@@ -5139,6 +5220,26 @@
    "novo": false
   },
   {
+   "id": "e28de26e4ca86a5a",
+   "orgao": "Prefeitura de Doutor Maurício Cardoso",
+   "titulo": "Prefeitura de Doutor Maurício Cardoso - RS abre seleção para Técnico em Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-mauricio-cardoso-rs-abre-selecao-para-tecnico-em-enfermagem",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2381.51,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_ate": "2026-09-30",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "01d5b4dab0c1250e",
    "orgao": "Prefeitura de Ibirubá",
    "titulo": "Prefeitura de Ibirubá - RS abre processo seletivo para Auxiliar de Ensino",
@@ -5322,6 +5423,26 @@
    "novo": false
   },
   {
+   "id": "92814520de43f9b2",
+   "orgao": "Prefeitura de Santo Antônio da Patrulha",
+   "titulo": "Prefeitura de Santo Antônio da Patrulha - RS abre vagas para Cuidador Social e Professor de Geografia",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vagas-para-cuidador-social-e-professor-de-geografia",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2565.32,
+   "salario_por_hora": false,
+   "cargos": "Cuidador Social, Professor Área 2",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-09-28",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "dd331425313f89b2",
    "orgao": "Prefeitura de São Pedro da Serra",
    "titulo": "Prefeitura de São Pedro da Serra - RS abre concurso público com salários de até R$ 7.907,66",
@@ -5472,6 +5593,26 @@
    "novo": false
   },
   {
+   "id": "8b69d13463cc5940",
+   "orgao": "AMESC - Associação dos Municípios do Extremo Sul Catarinense",
+   "titulo": "AMESC - SC abre seleção para o cargo de Auxiliar Administrativo",
+   "url": "https://www.pciconcursos.com.br/noticias/amesc-sc-abre-selecao-para-o-cargo-de-auxiliar-administrativo",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2800.0,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Administrativo",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-09-30",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "f86b1a6755cc105e",
    "orgao": "Câmara de Capinzal",
    "titulo": "Câmara de Capinzal - SC anuncia concurso público para cargos de nível superior",
@@ -5490,6 +5631,27 @@
    "inscricoes_ate": "2026-10-28",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "facf93b137ab4f09",
+   "orgao": "Câmara de Descanso",
+   "titulo": "Câmara de Descanso - SC abre concurso com salários de até R$ 4.300,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-descanso-sc-abre-concurso-com-salarios-de-ate-4300",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 4300.0,
+   "salario_por_hora": false,
+   "cargos": "Analista Administrativo, Controlador Interno, Zelador",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-26",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
   },
   {
    "id": "56aca1e1ab3f83e5",
@@ -5698,6 +5860,26 @@
    "novo": false
   },
   {
+   "id": "aeae4ee5151227f7",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre seleção para Assistente Administrativo no HEMOSC de Criciúma",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-no-hemosc-de-criciuma",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2613.92,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-09-25",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "a91c5ad4f06c089d",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
    "titulo": "FAHECE - SC abre seleção para coordenador e médico regulador das urgências",
@@ -5716,6 +5898,26 @@
    "inscricoes_ate": "2026-09-24",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "b51fd0da41383133",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Assistente Administrativo II no Serviço de Obras e Manutenção",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-ii-no-servico-de-obras-e-manutencao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3066.92,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo II",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-09-25",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
   },
   {
    "id": "e29ac206b5f863b5",
@@ -6954,6 +7156,27 @@
    "novo": true
   },
   {
+   "id": "1f1b794305a62a3a",
+   "orgao": "Prefeitura de Mineiros",
+   "titulo": "Prefeitura de Mineiros - GO abre processo seletivo para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mineiros-go-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 74,
+   "cadastro_reserva": false,
+   "salario": 1703.86,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-10-16",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
+  },
+  {
    "id": "b5000528f83cb0e7",
    "orgao": "Prefeitura de Nova Aurora",
    "titulo": "Prefeitura de Nova Aurora - GO abre concurso público com vagas de até R$ 3.737,65",
@@ -7797,26 +8020,6 @@
    "novo": false
   },
   {
-   "id": "01946c35bcebac56",
-   "orgao": "Prefeitura de Primavera de Rondônia",
-   "titulo": "Prefeitura de Primavera de Rondônia - RO abre seleção para motoristas e operadores de máquinas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-de-rondonia-ro-abre-selecao-para-motoristas-e-operadores-de-maquinas",
-   "uf": "RO",
-   "uf_nome": "Rondônia",
-   "vagas": 18,
-   "cadastro_reserva": false,
-   "salario": 2056.42,
-   "salario_por_hora": false,
-   "cargos": "Motorista de Veículos Leves, Motorista de Veículos Pesados, Operador de Máquinas Pesadas",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_ate": "2026-10-02",
-   "visto_em": "2026-09-23T22:58:42+00:00",
-   "novo": true
-  },
-  {
    "id": "141d968afe62af1e",
    "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
    "titulo": "AgSUS abre seleção com salários de até R$ 10.302,00",
@@ -8044,6 +8247,26 @@
    "inscricoes_ate": "2026-11-10",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "06847d3f1c184cb2",
+   "orgao": "FESF-SUS - Fundação Estatal Saúde da Família",
+   "titulo": "FESF-SUS - BA abre seleção para Médicos da Estratégia Saúde da Família e Preceptores",
+   "url": "https://www.pciconcursos.com.br/noticias/fesf-sus-ba-abre-selecao-para-medicos-da-estrategia-saude-da-familia-e-preceptores",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 11076.49,
+   "salario_por_hora": false,
+   "cargos": "Médico(a) da Estratégia Saúde da Família e Preceptor(a)",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-09-27",
+   "visto_em": "2026-09-24T18:12:01+00:00",
+   "novo": true
   },
   {
    "id": "730f46a85144da4e",
