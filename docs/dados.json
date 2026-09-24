@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-24T18:12:01+00:00",
+ "gerado_em": "2026-09-24T18:27:13+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 436,
- "novos": 39,
- "encerrados": 1,
+ "total": 438,
+ "novos": 41,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -3218,6 +3218,26 @@
    "novo": false
   },
   {
+   "id": "49373f723f85eb5a",
+   "orgao": "Prefeitura de Couto de Magalhães de Minas",
+   "titulo": "Prefeitura de Couto de Magalhães de Minas - MG abre vagas para Professor de Educação Física e Coordenador Administrativo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-couto-de-magalhaes-de-minas-mg-abre-vagas-para-professor-de-educacao-fisica-e-coordenador-administrativo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3068.06,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Física, Coordenador Administrativo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-09",
+   "visto_em": "2026-09-24T18:27:13+00:00",
+   "novo": true
+  },
+  {
    "id": "ffcaf06c9365e054",
    "orgao": "Prefeitura de Curvelo",
    "titulo": "Prefeitura de Curvelo - MG abre seleção para auxiliares de serviços na UPAM",
@@ -4549,6 +4569,29 @@
    "inscricoes_ate": "2026-09-24",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "02f75efd190475cc",
+   "orgao": "Prefeitura de Colombo",
+   "titulo": "Prefeitura de Colombo - PR abre processo seletivo com salários de até R$ 8.040,50",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colombo-pr-abre-processo-seletivo-com-salarios-de-ate-8040",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 470,
+   "cadastro_reserva": false,
+   "salario": 8040.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-18",
+   "visto_em": "2026-09-24T18:27:13+00:00",
+   "novo": true
   },
   {
    "id": "502549d450bbc568",
