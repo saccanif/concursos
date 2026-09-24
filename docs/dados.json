@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-09-24T18:28:28+00:00",
+ "gerado_em": "2026-09-24T18:37:17+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 438,
- "novos": 0,
+ "total": 439,
+ "novos": 1,
  "encerrados": 0,
  "concursos": [
   {
@@ -4565,6 +4565,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "731331090b3bb667",
+   "orgao": "SEMASA - Serviço Municipal de Saneamento Básico e Infraestrutura de Carangola",
+   "titulo": "SEMASA de Carangola - MG abre processo seletivo para o cargo de Encanador",
+   "url": "https://www.pciconcursos.com.br/noticias/semasa-de-carangola-mg-abre-processo-seletivo-para-o-cargo-de-encanador",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 1684.8,
+   "salario_por_hora": false,
+   "cargos": "Encanador",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "30/09 a02/10/2026",
+   "visto_em": "2026-09-24T18:37:17+00:00",
+   "novo": true
   },
   {
    "id": "cfbe9e66323aa77b",
