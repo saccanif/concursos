@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-24T07:38:46+00:00",
+ "gerado_em": "2026-09-24T13:35:38+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 416,
- "novos": 19,
- "encerrados": 16,
+ "total": 425,
+ "novos": 28,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -458,6 +458,26 @@
    "inscricoes_ate": "2026-10-17",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "992c27fb2d8b3aae",
+   "orgao": "Câmara de Rinópolis",
+   "titulo": "Câmara de Rinópolis - SP abre concurso público para Controle Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-rinopolis-sp-abre-concurso-publico-para-controle-interno",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3076.38,
+   "salario_por_hora": false,
+   "cargos": "Controle Interno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-07",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
   },
   {
    "id": "80ff562bb82ade5c",
@@ -3240,6 +3260,27 @@
    "novo": false
   },
   {
+   "id": "f5e7f9704e88a84b",
+   "orgao": "Prefeitura de Inimutaba",
+   "titulo": "Prefeitura de Inimutaba - MG abre seleção para Técnico de Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inimutaba-mg-abre-selecao-para-tecnico-de-enfermagem",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1800.0,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_ate": "2026-09-28",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
+  },
+  {
    "id": "f5ab9004d2ebf793",
    "orgao": "Prefeitura de Ipaba",
    "titulo": "Prefeitura de Ipaba - MG retifica edital de concurso público com salários de até R$ 5.275,34",
@@ -3261,6 +3302,26 @@
    "inscricoes_ate": "2026-10-08",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "b980a97d6c751158",
+   "orgao": "Prefeitura de Ipatinga",
+   "titulo": "Prefeitura de Ipatinga - MG abre vagas para Educador Comunitário Artístico de Xadrez",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipatinga-mg-abre-vagas-para-educador-comunitario-artistico-de-xadrez",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3474.67,
+   "salario_por_hora": false,
+   "cargos": "Educador Comunitário Artístico",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-10-02",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
   },
   {
    "id": "4de1722cfb555995",
@@ -5078,6 +5139,26 @@
    "novo": false
   },
   {
+   "id": "01d5b4dab0c1250e",
+   "orgao": "Prefeitura de Ibirubá",
+   "titulo": "Prefeitura de Ibirubá - RS abre processo seletivo para Auxiliar de Ensino",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiruba-rs-abre-processo-seletivo-para-auxiliar-de-ensino",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2751.79,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Ensino",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_ate": "2026-10-02",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
+  },
+  {
    "id": "98d4958f23f887e0",
    "orgao": "Prefeitura de Itaara",
    "titulo": "Prefeitura de Itaara - RS abre vagas para Monitores de Inclusão Escolar",
@@ -5492,6 +5573,28 @@
    "inscricoes_ate": "2026-09-27",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "e2d38b0e74cc9a47",
+   "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
+   "titulo": "CISAMAVI - SC abre concurso público com salários de até R$ 10.520,99",
+   "url": "https://www.pciconcursos.com.br/noticias/cisamavi-sc-abre-concurso-publico-com-salarios-de-ate-10520",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 10520.99,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-28",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
   },
   {
    "id": "514e9b84f15b7914",
@@ -5932,6 +6035,27 @@
    "novo": false
   },
   {
+   "id": "785cc5d12cb9eda4",
+   "orgao": "Prefeitura de Gaspar",
+   "titulo": "Prefeitura de Gaspar - SC abre concurso com vagas para a área da Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-concurso-com-vagas-para-a-area-da-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 38,
+   "cadastro_reserva": false,
+   "salario": 5480.28,
+   "salario_por_hora": false,
+   "cargos": "Professor, Auxiliar de Professor da Educação Especial, Assistente Educacional",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-22",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
+  },
+  {
    "id": "977f48d3ef92cf5f",
    "orgao": "Prefeitura de Guabiruba",
    "titulo": "Prefeitura de Guabiruba - SC abre processo seletivo para cadastro de reserva em diversos cargos",
@@ -6306,6 +6430,29 @@
    "inscricoes_ate": "2026-09-28",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "3230e0b0e1f4c02a",
+   "orgao": "Prefeitura de São Domingos",
+   "titulo": "Prefeitura de São Domingos - SC abre concurso público com salários de até R$ 7.949,24",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 36,
+   "cadastro_reserva": false,
+   "salario": 7949.24,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-28",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
   },
   {
    "id": "67a299eaf61f85f2",
@@ -6784,6 +6931,27 @@
    "inscricoes_ate": "2026-10-20",
    "visto_em": "2026-09-22T06:54:02+00:00",
    "novo": false
+  },
+  {
+   "id": "9240f76268a80982",
+   "orgao": "Prefeitura de Mambaí",
+   "titulo": "Prefeitura de Mambaí - GO abre processo seletivo para profissionais da área de enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mambai-go-abre-processo-seletivo-para-profissionais-da-area-de-enfermagem",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 2680.0,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem, Enfermeiro",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-10-06",
+   "visto_em": "2026-09-24T13:35:38+00:00",
+   "novo": true
   },
   {
    "id": "b5000528f83cb0e7",
@@ -8195,6 +8363,28 @@
    ],
    "inscricoes_ate": "2026-10-12",
    "visto_em": "2026-09-23T19:13:31+00:00",
+   "novo": true
+  },
+  {
+   "id": "ffec7ec3d1727e7b",
+   "orgao": "Prefeitura de Ubajara",
+   "titulo": "Prefeitura de Ubajara - CE publica edital de concurso com vagas para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubajara-ce-publica-edital-de-concurso-com-vagas-para-diversos-cargos",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_ate": "2026-11-01",
+   "visto_em": "2026-09-24T13:35:38+00:00",
    "novo": true
   },
   {
