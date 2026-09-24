@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-24T18:37:17+00:00",
+ "gerado_em": "2026-09-24T22:28:04+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 439,
- "novos": 1,
- "encerrados": 0,
+ "total": 448,
+ "novos": 11,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -2089,6 +2089,28 @@
    "novo": false
   },
   {
+   "id": "d48c115ac7544e3d",
+   "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
+   "titulo": "SEBRAE-SP abre vaga para Consultor de Políticas Públicas",
+   "url": "https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-vaga-para-consultor-de-politicas-publicas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 13814.0,
+   "salario_por_hora": false,
+   "cargos": "Consultor de Políticas Públicas",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-24",
+   "prazo_texto": "24/09/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
    "id": "7242f8a7f8154852",
    "orgao": "Sebrae - Serviço de Apoio às Micro e Pequenas Empresas do Estado de São Paulo",
    "titulo": "Sebrae - SP abre seleção para bolsistas no Programa Agentes Locais de Inovação",
@@ -2249,10 +2271,10 @@
    "novo": false
   },
   {
-   "id": "011dcae77452d79a",
+   "id": "cb74cdabb3bbbe13",
    "orgao": "CREMERJ - Conselho Regional de Medicina do Rio de Janeiro",
-   "titulo": "CREMERJ abre concurso com salários de até R$ 18.000,00 para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/cremerj-abre-concurso-com-salarios-de-ate-18000-para-diversos-cargos",
+   "titulo": "CREMERJ retifica concurso com salários de até R$ 18.000,00 para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/cremerj-retifica-concurso-com-salarios-de-ate-18000-para-diversos-cargos",
    "uf": "RJ",
    "uf_nome": "Rio de Janeiro",
    "vagas": 146,
@@ -2269,8 +2291,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
   },
   {
    "id": "4ea0c5d6b0018fa2",
@@ -3749,6 +3771,28 @@
    "novo": false
   },
   {
+   "id": "0472997013218c68",
+   "orgao": "Prefeitura de Itabira",
+   "titulo": "Prefeitura de Itabira - MG abre processo seletivo para Psicólogo e Terapeuta Ocupacional",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itabira-mg-abre-processo-seletivo-para-psicologo-e-terapeuta-ocupacional",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5386.76,
+   "salario_por_hora": false,
+   "cargos": "Analista/Psicólogo Organizacional, Analista/Terapeuta Ocupacional",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-07",
+   "prazo_texto": "30/09 a07/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
    "id": "4de1722cfb555995",
    "orgao": "Prefeitura de Itanhandu",
    "titulo": "Prefeitura de Itanhandu - MG abre seleção para Agente de Combate às Endemias",
@@ -3817,6 +3861,30 @@
    "prazo_texto": "05/10 a03/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "79f878f65552e347",
+   "orgao": "Prefeitura de Lagoa Santa",
+   "titulo": "Prefeitura de Lagoa Santa - MG abre processo seletivo com salários de até R$ 5.185,61",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-santa-mg-abre-processo-seletivo-com-salarios-de-ate-5185",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 277,
+   "cadastro_reserva": false,
+   "salario": 5185.61,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-29",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "29/09 a16/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
   },
   {
    "id": "d87633180687e2cd",
@@ -4589,6 +4657,28 @@
    "novo": true
   },
   {
+   "id": "9bcaf14b72594cda",
+   "orgao": "UFV - Universidade Federal de Viçosa",
+   "titulo": "UFV - MG abre vaga para profissional técnico especializado em linguagem de sinais",
+   "url": "https://www.pciconcursos.com.br/noticias/ufv-mg-abre-vaga-para-profissional-tecnico-especializado-em-linguagem-de-sinais",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4967.04,
+   "salario_por_hora": false,
+   "cargos": "Profissional Técnico Especializado em Linguagem de Sinais",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "28/09 a16/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
    "id": "cfbe9e66323aa77b",
    "orgao": "UNIFAL - Universidade Federal de Alfenas",
    "titulo": "UNIFAL - MG abre concurso público para médico ginecologista e obstetra",
@@ -5289,6 +5379,29 @@
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "77f7caa93bc9f18f",
+   "orgao": "Prefeitura de Reserva do Iguaçu",
+   "titulo": "Prefeitura de Reserva do Iguaçu - PR abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-reserva-do-iguacu-pr-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1877.98,
+   "salario_por_hora": false,
+   "cargos": "Agente Ambiental, Auxiliar de Serviços Gerais, Cozinheira",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
   },
   {
    "id": "4bcf85102f0eecfe",
@@ -6805,6 +6918,31 @@
    "novo": false
   },
   {
+   "id": "11735f30c98c2833",
+   "orgao": "Prefeitura de Dionísio Cerqueira",
+   "titulo": "Prefeitura de Dionísio Cerqueira - SC abre seleções com salários de até R$ 25.523,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dionisio-cerqueira-sc-abre-selecoes-com-salarios-de-ate-25523",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 25523.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
    "id": "368a9648d6f50298",
    "orgao": "Prefeitura de Erval Velho",
    "titulo": "Prefeitura de Erval Velho - SC retifica concurso público com salários de até R$ 22.044,76",
@@ -7278,6 +7416,29 @@
    "prazo_texto": "28/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "197c2a6aa61e69a2",
+   "orgao": "Prefeitura de Pinhalzinho",
+   "titulo": "Prefeitura de Pinhalzinho - SC abre processo seletivo para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-profissionais-da-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2718.87,
+   "salario_por_hora": false,
+   "cargos": "Agente Educativo, Professor",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
   },
   {
    "id": "c871ed1b94931c71",
@@ -8818,6 +8979,28 @@
    "novo": false
   },
   {
+   "id": "30d4d2d9799e027a",
+   "orgao": "Prefeitura de Nova Brasilândia D'Oeste",
+   "titulo": "Prefeitura de Nova Brasilândia D'Oeste - RO abre seleção para Operador de Máquinas Pesadas e Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-brasilandia-doeste-ro-abre-selecao-para-operador-de-maquinas-pesadas-e-motorista",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 1838.54,
+   "salario_por_hora": false,
+   "cargos": "Operador de Máquinas Pesadas, Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-25",
+   "inscricoes_ate": "2026-10-01",
+   "prazo_texto": "25/09 a01/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
    "id": "3e3c1a2a936e5902",
    "orgao": "Prefeitura de Novo Horizonte do Oeste",
    "titulo": "Prefeitura de Novo Horizonte do Oeste - RO abre seleção com vagas para a saúde",
@@ -8841,6 +9024,28 @@
    "prazo_texto": "25/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "2df3eb57d287d037",
+   "orgao": "Prefeitura de Primavera de Rondônia",
+   "titulo": "Prefeitura de Primavera de Rondônia - RO abre seleção para cargos de nível fundamental",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-primavera-de-rondonia-ro-abre-selecao-para-cargos-de-nivel-fundamental",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 2056.42,
+   "salario_por_hora": false,
+   "cargos": "Motorista de Veículos Leves, Motorista de Veículos Pesados, Operador de Máquinas Pesadas",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "28/09 a02/10/2026",
+   "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
   },
   {
    "id": "141d968afe62af1e",
