@@ -115,6 +115,8 @@ def ler_item(elemento, uf: str, uf_nome: str) -> dict | None:
     spans = [limpar(s.text_content())
              for s in elemento.xpath('div[@class="ca"]/div[@class="cd"]//span')]
     escolaridade = spans[-1] if spans else ""
+    prazo = limpar(elemento.xpath('string(div[@class="ca"]/div[@class="ce"])'))
+    inscricoes_de, inscricoes_ate = extrair_periodo(prazo)
 
     return {
         "id": hashlib.sha1(url.encode("utf-8")).hexdigest()[:16],
@@ -130,7 +132,9 @@ def ler_item(elemento, uf: str, uf_nome: str) -> dict | None:
         "cargos": extrair_cargos(spans),
         "escolaridade": escolaridade,
         "niveis": extrair_niveis(escolaridade),
-        "inscricoes_ate": converter_data(elemento.xpath('string(div[@class="ca"]/div[@class="ce"])')),
+        "inscricoes_de": inscricoes_de,
+        "inscricoes_ate": inscricoes_ate,
+        "prazo_texto": prazo,
     }
 
 
@@ -195,15 +199,57 @@ def extrair_niveis(escolaridade: str) -> list[str]:
     return [rotulo for chave, rotulo in NIVEIS if chave in texto]
 
 
-def converter_data(texto: str) -> str | None:
-    achado = re.search(r"(\d{2})/(\d{2})/(\d{4})", texto or "")
-    if not achado:
-        return None
-    dia, mes, ano = achado.groups()
+# O lookbehind impede que o padrão casque no meio de uma data já formada:
+# sem ele, "14/12/2026 a04/01/2027" casava a partir do "26" de 2026.
+RE_PERIODO_CHEIO = re.compile(r"(?<![\d/])(\d{2})/(\d{2})/(\d{4})\s*a\s*(\d{2})/(\d{2})/(\d{4})")
+RE_PERIODO = re.compile(r"(?<![\d/])(\d{2})(?:/(\d{2}))?\s*a\s*(\d{2})/(\d{2})/(\d{4})")
+RE_DATA = re.compile(r"(?<![\d/])(\d{2})/(\d{2})/(\d{4})")
+
+
+def data_segura(ano: int, mes: int, dia: int) -> str | None:
     try:
-        return date(int(ano), int(mes), int(dia)).isoformat()
+        return date(ano, mes, dia).isoformat()
     except ValueError:
         return None
+
+
+def extrair_periodo(texto: str) -> tuple[str | None, str | None]:
+    """Devolve (início, fim) das inscrições em ISO.
+
+    O PCI escreve o prazo de três jeitos, e é a presença do início que
+    distingue um concurso que ainda vai abrir de um já aberto:
+
+        "14/12/2026 a04/01/2027"   as duas datas completas
+        "25/09 a01/10/2026"        início sem ano — herda o ano do fim
+        "07 a28/10/2026"           início sem mês nem ano — herda os dois
+        "16/10/2026"               só o fim; a inscrição já está aberta
+        "Prorrogado até 01/10/2026"  idem, com um rótulo na frente
+
+    Quando o início vem sem mês e o mês do fim é menor, o período virou o
+    ano (ex.: 28/12 a 15/01/2027), então o início pertence ao ano anterior.
+    """
+    texto = limpar(texto)
+
+    achado = RE_PERIODO_CHEIO.search(texto)
+    if achado:
+        dia_ini, mes_ini, ano_ini, dia_fim, mes_fim, ano_fim = achado.groups()
+        return (data_segura(int(ano_ini), int(mes_ini), int(dia_ini)),
+                data_segura(int(ano_fim), int(mes_fim), int(dia_fim)))
+
+    achado = RE_PERIODO.search(texto)
+    if achado:
+        dia_ini, mes_ini, dia_fim, mes_fim, ano = achado.groups()
+        mes_ini = int(mes_ini or mes_fim)
+        ano_ini = int(ano) - 1 if mes_ini > int(mes_fim) else int(ano)
+        return (data_segura(ano_ini, mes_ini, int(dia_ini)),
+                data_segura(int(ano), int(mes_fim), int(dia_fim)))
+
+    achado = RE_DATA.search(texto)
+    if achado:
+        dia, mes, ano = achado.groups()
+        return None, data_segura(int(ano), int(mes), int(dia))
+
+    return None, None
 
 
 # --------------------------------------------------------------------------- #
@@ -271,18 +317,24 @@ def imprimir_resumo(pacote: dict, uf: str | None = None) -> None:
         concursos = [c for c in concursos if (c.get("uf") or "").upper() == alvo]
 
     hoje = date.today()
+    hoje_iso = hoje.isoformat()
+    a_abrir = sum(1 for c in concursos if (c.get("inscricoes_de") or "") > hoje_iso)
     onde = f" em {uf.upper()}" if uf else ""
     quando = pacote.get("gerado_em", "")[:16].replace("T", " ")
-    print(f"\n{len(concursos)} concursos abertos{onde}  ·  coleta de {quando} UTC\n")
+    print(f"\n{len(concursos)} concursos{onde}  ·  {len(concursos) - a_abrir} com inscrição "
+          f"aberta, {a_abrir} a abrir  ·  coleta de {quando} UTC\n")
 
     for c in sorted(concursos, key=lambda c: c.get("inscricoes_ate") or "9999")[:40]:
         prazo = ""
-        if c.get("inscricoes_ate"):
+        if (c.get("inscricoes_de") or "") > hoje_iso:
+            abertura = date.fromisoformat(c["inscricoes_de"])
+            prazo = f"abre {abertura:%d/%m} (em {(abertura - hoje).days}d)"
+        elif c.get("inscricoes_ate"):
             limite = date.fromisoformat(c["inscricoes_ate"])
-            prazo = f"{limite.strftime('%d/%m')} ({(limite - hoje).days}d)"
+            prazo = f"até {limite:%d/%m} ({(limite - hoje).days}d)"
         salario = f"R$ {c['salario']:,.0f}".replace(",", ".") if c.get("salario") else "-"
         marca = "*" if c.get("novo") else " "
-        print(f" {marca} [{c.get('uf') or '--':<3}] {c['orgao'][:52]:<52} {salario:>11}  {prazo}")
+        print(f" {marca} [{c.get('uf') or '--':<3}] {c['orgao'][:50]:<50} {salario:>11}  {prazo}")
 
     if len(concursos) > 40:
         print(f"\n   ... e mais {len(concursos) - 40}.")

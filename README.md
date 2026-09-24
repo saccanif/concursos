@@ -88,9 +88,15 @@ que os dados podem estar velhos.
 
 - Seletor **Espírito Santo · Nacional · Brasil**, com a contagem de cada um.
 - Busca por órgão, cargo ou estado — digitar `minas` filtra Minas Gerais.
-- Filtros de escolaridade, salário mínimo e prazo; ordem por prazo, salário, vagas
-  ou nome do órgão.
-- Tarja colorida à esquerda pelo prazo: vermelho até 3 dias, âmbar até 10, verde acima.
+- Filtros de situação, escolaridade, salário mínimo e prazo; ordem por prazo,
+  salário, vagas ou nome do órgão.
+- **Concursos com inscrição aberta e os que ainda vão abrir**, no mesmo lugar.
+  Os que vão abrir levam etiqueta `a abrir`, tarja índigo e o prazo escrito como
+  "abre 25/09 · em 1 dia". Na ordem por prazo, os abertos vêm primeiro, porque
+  são os que dá para resolver hoje; depois os futuros, na ordem em que abrem.
+  O filtro *Situação* separa os dois quando você quiser olhar um de cada vez.
+- Tarja colorida à esquerda pelo prazo: vermelho até 3 dias, âmbar até 10, verde
+  acima, índigo para quem ainda não abriu.
 - Etiqueta `novo` em quem apareceu nas últimas 36 horas.
 - Estrela para favoritar. Os favoritos ficam no aparelho — marcar no iPhone não
   aparece no iPad, porque o app é estático e não tem servidor guardando isso.

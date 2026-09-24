@@ -40,6 +40,8 @@
     --folga-fundo: #E6F2EB;
     --vencido: #78899B;
     --vencido-fundo: #ECEFF2;
+    --porvir: #4B4E9E;
+    --porvir-fundo: #ECEDF9;
     --topo-fundo: #15304F;
     --topo-tinta: #F1F6FA;
     --topo-tinta-2: #9DB6CE;
@@ -70,6 +72,8 @@
       --folga-fundo: #142F23;
       --vencido: #7D8C9B;
       --vencido-fundo: #1E2833;
+      --porvir: #9DA0EA;
+      --porvir-fundo: #23254A;
       --topo-fundo: #0B1219;
       --topo-tinta: #E5EBF1;
       --topo-tinta-2: #8496A8;
@@ -518,6 +522,12 @@
   .linha[data-urgencia="atencao"] .prazo { background: var(--atencao-fundo); color: var(--atencao); }
   .linha[data-urgencia="folga"] .prazo { background: var(--folga-fundo); color: var(--folga); }
 
+  /* Inscrição ainda não abriu: não é urgência, é outra fase — cor própria,
+     fora da escala vermelho/âmbar/verde dos prazos. */
+  .linha[data-urgencia="porvir"] .tarja { background: var(--porvir); }
+  .linha[data-urgencia="porvir"] .prazo { background: var(--porvir-fundo); color: var(--porvir); }
+  .etiqueta.porvir { background: var(--porvir-fundo); color: var(--porvir); border-color: transparent; }
+
   .vazio { padding: 44px 20px; text-align: center; color: var(--tinta-2); }
   .vazio p { margin: 0 0 4px; font-family: Bitter, Georgia, serif; font-size: 16px; color: var(--tinta); }
   .vazio span { font-size: 13px; }
@@ -593,6 +603,15 @@
     <details class="filtros" id="filtros">
       <summary>Filtros e ordem <span class="conta-filtros" id="conta-filtros" hidden></span></summary>
       <div class="painel">
+        <div class="grupo">
+          <span class="rotulo">Situação da inscrição</span>
+          <div class="fichas" id="situacao">
+            <button type="button" data-situacao="todas" aria-pressed="true">Todas</button>
+            <button type="button" data-situacao="aberta" aria-pressed="false">Abertas</button>
+            <button type="button" data-situacao="a_abrir" aria-pressed="false">A abrir</button>
+          </div>
+        </div>
+
         <div class="grupo">
           <span class="rotulo">Escolaridade exigida</span>
           <div class="fichas" id="niveis">
@@ -707,7 +726,7 @@
 
   var PADRAO = {
     escopo: "ES", busca: "", niveis: [], salario: 0,
-    prazo: 0, ordem: "prazo", soFavoritos: false
+    prazo: 0, ordem: "prazo", soFavoritos: false, situacao: "todas"
   };
   var estado = Object.assign({}, PADRAO);
   var CHAVE_ESTADO = "edital-aberto:filtros";
@@ -742,7 +761,11 @@
     CONCURSOS = (pacote.concursos || []).map(function (c) {
       var copia = Object.assign({}, c);
       copia.dias = diasAte(c.inscricoes_ate);
-      copia.urgencia = urgencia(copia.dias);
+      copia.abreEm = diasAte(c.inscricoes_de);
+      // Edital publicado, inscrição ainda por abrir. Calculado aqui e não na
+      // coleta para virar sozinho na data certa, mesmo sem coleta nova.
+      copia.aAbrir = copia.abreEm !== null && copia.abreEm > 0;
+      copia.urgencia = copia.aAbrir ? "porvir" : urgencia(copia.dias);
       copia.chaveBusca = [c.orgao, c.cargos, c.titulo, c.uf, c.uf_nome, c.escolaridade]
         .join(" ").toLowerCase();
       return copia;
@@ -892,6 +915,8 @@
     var termo = estado.busca.trim().toLowerCase();
     return CONCURSOS.filter(function (c) {
       if (!noEscopo(c, estado.escopo)) return false;
+      if (estado.situacao === "aberta" && c.aAbrir) return false;
+      if (estado.situacao === "a_abrir" && !c.aAbrir) return false;
       if (estado.soFavoritos && !favoritos.has(c.id)) return false;
       if (termo && c.chaveBusca.indexOf(termo) === -1) return false;
       if (estado.salario && !(c.salario >= estado.salario)) return false;
@@ -906,6 +931,10 @@
 
   var ORDENADORES = {
     prazo: function (a, b) {
+      // Quem já está aberto vem primeiro — dá para agir hoje. Depois os que
+      // ainda vão abrir, na ordem em que abrem.
+      if (a.aAbrir !== b.aAbrir) return a.aAbrir ? 1 : -1;
+      if (a.aAbrir) return a.abreEm - b.abreEm || a.orgao.localeCompare(b.orgao, "pt-BR");
       if (a.dias === null) return 1;
       if (b.dias === null) return -1;
       return a.dias - b.dias || a.orgao.localeCompare(b.orgao, "pt-BR");
@@ -927,6 +956,11 @@
   }
 
   function rotuloPrazo(c) {
+    if (c.aAbrir) {
+      var abre = c.inscricoes_de.slice(8, 10) + "/" + c.inscricoes_de.slice(5, 7);
+      if (c.abreEm === 1) return "abre amanhã";
+      return "abre " + abre + " · em " + c.abreEm + " dias";
+    }
     if (c.dias === null) return "sem prazo";
     var data = c.inscricoes_ate.slice(8, 10) + "/" + c.inscricoes_ate.slice(5, 7);
     if (c.dias < 0) return data + " · encerrado";
@@ -966,6 +1000,7 @@
       if (c.uf === "ES") uf.classList.add("uf-es");
       etiquetas.appendChild(uf);
     }
+    if (c.aAbrir) etiquetas.appendChild(texto("span", "etiqueta porvir", "a abrir"));
     (c.niveis || []).forEach(function (n) { etiquetas.appendChild(texto("span", "etiqueta", n)); });
     if (c.cadastro_reserva) etiquetas.appendChild(texto("span", "etiqueta", "Cadastro de reserva"));
     if (c.novo) etiquetas.appendChild(texto("span", "etiqueta novidade", "novo"));
@@ -1005,15 +1040,20 @@
   var visiveis = [];
 
   function atualizarResumo() {
-    var encerrando = visiveis.filter(function (c) {
+    var abertos = visiveis.filter(function (c) { return !c.aAbrir; });
+    var porvir = visiveis.length - abertos.length;
+    var encerrando = abertos.filter(function (c) {
       return c.dias !== null && c.dias >= 0 && c.dias <= 7;
     }).length;
     var favoritados = visiveis.filter(function (c) { return favoritos.has(c.id); }).length;
 
     elResumo.textContent = "";
     elResumo.appendChild(texto("strong", null, String(visiveis.length)));
-    elResumo.appendChild(texto("span", null,
-      visiveis.length === 1 ? "concurso aberto" : "concursos abertos"));
+    elResumo.appendChild(texto("span", null, visiveis.length === 1 ? "concurso" : "concursos"));
+    if (porvir) {
+      elResumo.appendChild(texto("span", null,
+        "· " + abertos.length + " com inscrição aberta, " + porvir + " a abrir"));
+    }
     if (encerrando) {
       elResumo.appendChild(texto("span", "alerta",
         "· " + encerrando + (encerrando === 1 ? " encerra" : " encerram") + " em até 7 dias"));
@@ -1057,7 +1097,8 @@
 
   function atualizarContaFiltros() {
     var ativos = estado.niveis.length + (estado.salario ? 1 : 0) +
-      (estado.prazo ? 1 : 0) + (estado.soFavoritos ? 1 : 0);
+      (estado.prazo ? 1 : 0) + (estado.soFavoritos ? 1 : 0) +
+      (estado.situacao !== "todas" ? 1 : 0);
     var selo = document.getElementById("conta-filtros");
     selo.textContent = String(ativos);
     selo.hidden = ativos === 0;
@@ -1093,6 +1134,17 @@
     estado.busca = "";
     elLimpar.hidden = true;
     elBusca.focus();
+    mudou();
+  });
+
+  // Escolha única, ao contrário das fichas de escolaridade, que acumulam.
+  document.getElementById("situacao").addEventListener("click", function (evento) {
+    var botao = evento.target.closest("button[data-situacao]");
+    if (!botao) return;
+    estado.situacao = botao.dataset.situacao;
+    Array.prototype.forEach.call(this.querySelectorAll("button[data-situacao]"), function (b) {
+      b.setAttribute("aria-pressed", b.dataset.situacao === estado.situacao ? "true" : "false");
+    });
     mudou();
   });
 
@@ -1138,6 +1190,9 @@
     elFavoritos.setAttribute("aria-pressed", estado.soFavoritos ? "true" : "false");
     Array.prototype.forEach.call(document.querySelectorAll("button[data-nivel]"), function (b) {
       b.setAttribute("aria-pressed", estado.niveis.indexOf(b.dataset.nivel) !== -1 ? "true" : "false");
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("button[data-situacao]"), function (b) {
+      b.setAttribute("aria-pressed", b.dataset.situacao === estado.situacao ? "true" : "false");
     });
     Array.prototype.forEach.call(document.querySelectorAll("button[data-escopo]"), function (b) {
       b.setAttribute("aria-pressed", b.dataset.escopo === estado.escopo ? "true" : "false");
