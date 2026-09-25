@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-25T01:34:39+00:00",
+ "gerado_em": "2026-09-25T07:54:35+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 448,
- "novos": 11,
- "encerrados": 0,
+ "total": 433,
+ "novos": 10,
+ "encerrados": 15,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -803,28 +803,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "07/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "dfe2f507df947efc",
-   "orgao": "FUNDACI - Fundação Arte e Cultura de Ilhabela",
-   "titulo": "FUNDACI de Ilhabela - SP abre concurso público para cargos de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/fundaci-de-ilhabela-sp-abre-concurso-publico-para-cargos-de-nivel-superior",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 12814.86,
-   "salario_por_hora": false,
-   "cargos": "Advogado, Controle Interno",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2089,28 +2067,6 @@
    "novo": false
   },
   {
-   "id": "d48c115ac7544e3d",
-   "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
-   "titulo": "SEBRAE-SP abre vaga para Consultor de Políticas Públicas",
-   "url": "https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-vaga-para-consultor-de-politicas-publicas",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 13814.0,
-   "salario_por_hora": false,
-   "cargos": "Consultor de Políticas Públicas",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
-  },
-  {
    "id": "7242f8a7f8154852",
    "orgao": "Sebrae - Serviço de Apoio às Micro e Pequenas Empresas do Estado de São Paulo",
    "titulo": "Sebrae - SP abre seleção para bolsistas no Programa Agentes Locais de Inovação",
@@ -2430,30 +2386,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "df3baac9f5b92e94",
-   "orgao": "AMVAP Saúde - Consórcio Público Intermunicipal de Saúde do Triângulo Mineiro",
-   "titulo": "AMVAP Saúde - MG abre seleção com salários de até R$ 5.838,48",
-   "url": "https://www.pciconcursos.com.br/noticias/amvap-saude-mg-abre-selecao-com-salarios-de-ate-5838",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 12,
-   "cadastro_reserva": false,
-   "salario": 5838.48,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2957,9 +2889,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-01",
-   "prazo_texto": "25/09 a01/10/2026",
+   "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4044,9 +3976,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "25/09 a04/10/2026",
+   "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5089,28 +5021,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-06",
    "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "1a2291ab1b1ee309",
-   "orgao": "Prefeitura de Castro",
-   "titulo": "Prefeitura de Castro - PR abre concurso público para o cargo de técnico em enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castro-pr-abre-concurso-publico-para-o-cargo-de-tecnico-em-enfermagem",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 32,
-   "cadastro_reserva": false,
-   "salario": 3136.69,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6164,30 +6074,6 @@
    "novo": false
   },
   {
-   "id": "3ec62e52d03b940b",
-   "orgao": "Prefeitura de Torres",
-   "titulo": "Prefeitura de Torres - RS anuncia processos seletivos para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-anuncia-processos-seletivos-para-cadastro-de-reserva",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 7883.04,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "a392b104647f6313",
    "orgao": "Prefeitura de Três Palmeiras",
    "titulo": "Prefeitura de Três Palmeiras - RS abre seleção para o cargo de Psicólogo",
@@ -6363,9 +6249,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "25/09 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6478,9 +6364,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "25/09 a28/10/2026",
+   "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6552,28 +6438,6 @@
    "novo": false
   },
   {
-   "id": "e52e613cfed86a1c",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre seleção para Técnico Auxiliar de Regulação Médica em Joaçaba",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-em-joacaba",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2856.58,
-   "salario_por_hora": false,
-   "cargos": "Técnico(a) Auxiliar de Regulação Médica II - TARM II",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "e135ec9fdddefd59",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
    "titulo": "FAHECE - SC anuncia seleção para Motorista no HEMOSC de Florianópolis",
@@ -6614,28 +6478,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-09-25",
    "prazo_texto": "25/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "a91c5ad4f06c089d",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-   "titulo": "FAHECE - SC abre seleção para coordenador e médico regulador das urgências",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-coordenador-e-medico-regulador-das-urgencias",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 7200.0,
-   "salario_por_hora": false,
-   "cargos": "Coordenador(a) Médico(a), Médico(a) Regulador(a) das Urgências",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -7752,28 +7594,6 @@
    "novo": false
   },
   {
-   "id": "b6cd8e164c49aef4",
-   "orgao": "Prefeitura de União do Oeste",
-   "titulo": "Prefeitura de União do Oeste - SC abre seleção para professores",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uniao-do-oeste-sc-abre-selecao-para-professores",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 5516.11,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "d121b3529ad328db",
    "orgao": "Prefeitura de Vargeão",
    "titulo": "Prefeitura de Vargeão - SC abre concurso com vagas imediatas e cadastro de reserva",
@@ -8169,9 +7989,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "25/09 a22/10/2026",
+   "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8366,28 +8186,6 @@
    "novo": false
   },
   {
-   "id": "f101cbf18355afcd",
-   "orgao": "Prefeitura de Paranaíba",
-   "titulo": "Prefeitura de Paranaíba - MS anuncia processo seletivo com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranaiba-ms-anuncia-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "MS",
-   "uf_nome": "Mato Grosso do Sul",
-   "vagas": 22,
-   "cadastro_reserva": false,
-   "salario": 1719.25,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "3341b3556b997b8f",
    "orgao": "Câmara de Figueirópolis D'Oeste",
    "titulo": "Câmara de Figueirópolis D'Oeste - MT abre concurso para Analista Administrativo",
@@ -8478,53 +8276,6 @@
    "inscricoes_de": "2026-09-28",
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "28/09 a07/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "25d70111ba9cb2c3",
-   "orgao": "Prefeitura de Comodoro",
-   "titulo": "Prefeitura de Comodoro - MT abre processo seletivo com salários de até R$ 4.342,06",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-comodoro-mt-abre-processo-seletivo-com-salarios-de-ate-4342",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 19,
-   "cadastro_reserva": false,
-   "salario": 4342.06,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "b6a811babc0ff5d9",
-   "orgao": "Prefeitura de Juara - Secretaria Municipal de Saúde",
-   "titulo": "Prefeitura de Juara - MT abre seleção para técnicos em enfermagem e odontólogos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juara-mt-abre-selecao-para-tecnicos-em-enfermagem-e-odontologos",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5871.56,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem, Odontólogo",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8994,9 +8745,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-01",
-   "prazo_texto": "25/09 a01/10/2026",
+   "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": true
   },
@@ -9978,28 +9729,6 @@
    "novo": false
   },
   {
-   "id": "df8a0e7f33836ec0",
-   "orgao": "Prefeitura de São João do Tigre",
-   "titulo": "Prefeitura de São João do Tigre - PB abre vaga para Psicólogo Educacional",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-tigre-pb-abre-vaga-para-psicologo-educacional",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1800.0,
-   "salario_por_hora": false,
-   "cargos": "Psicólogo Educacional",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "7e0e9e52161ffa12",
    "orgao": "Câmara de Mirandiba",
    "titulo": "Câmara de Mirandiba - PE abre concurso público com vagas para diversos cargos",
@@ -10170,50 +9899,6 @@
    "novo": false
   },
   {
-   "id": "66de17c30b173f1b",
-   "orgao": "Prefeitura de São Vicente Férrer",
-   "titulo": "Prefeitura de São Vicente Férrer - PE abre 35 vagas para profissionais de apoio escolar",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-ferrer-pe-abre-35-vagas-para-profissionais-de-apoio-escolar",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 35,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Profissional de Apoio Escolar (Educação Inclusiva)",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "0696bd7c53b2ccfa",
-   "orgao": "Prefeitura de Tamandaré",
-   "titulo": "Prefeitura de Tamandaré - PE retifica edital do concurso para Guarda Civil Municipal",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamandare-pe-retifica-edital-do-concurso-para-guarda-civil-municipal",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 30,
-   "cadastro_reserva": false,
-   "salario": 1800.0,
-   "salario_por_hora": false,
-   "cargos": "Guarda Civil Municipal",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "547c02a98f4c5235",
    "orgao": "Câmara de Dom Expedito Lopes",
    "titulo": "Câmara de Dom Expedito Lopes - PI abre concurso público com cinco vagas imediatas",
@@ -10282,29 +9967,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "8164af9094aeccec",
-   "orgao": "COPIRN - Consórcio Público Intermunicipal do Rio Grande do Norte",
-   "titulo": "COPIRN abre seleção para Contador e Assistente Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/copirn-abre-selecao-para-contador-e-assistente-administrativo",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3694.75,
-   "salario_por_hora": false,
-   "cargos": "Contador, Assistente Administrativo",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-24",
-   "prazo_texto": "24/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -10421,9 +10083,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-25",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "25/09 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   }
