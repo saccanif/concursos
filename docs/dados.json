@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-25T18:41:06+00:00",
+ "gerado_em": "2026-09-25T22:25:38+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 457,
- "novos": 37,
- "encerrados": 2,
+ "total": 469,
+ "novos": 49,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1013,6 +1013,29 @@
    "novo": false
   },
   {
+   "id": "694073d4595c638c",
+   "orgao": "Prefeitura da Estância Turística de São Roque",
+   "titulo": "Prefeitura de São Roque - SP abre processo seletivo para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-processo-seletivo-para-profissionais-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2805.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
+  },
+  {
    "id": "bdcf88a30c88c672",
    "orgao": "Prefeitura de Anhembi",
    "titulo": "Prefeitura de Anhembi - SP abre concurso público com salários de até R$ 6.407,17",
@@ -1642,6 +1665,29 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "0ed47a06fff37b3b",
+   "orgao": "Prefeitura de Ituverava",
+   "titulo": "Prefeitura de Ituverava - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ituverava-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 2796.94,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
   },
   {
    "id": "094bcac254f4e1f5",
@@ -2807,6 +2853,28 @@
    "prazo_texto": "11/11 a11/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "ae1e90eef4aa944e",
+   "orgao": "Câmara de Nova Módica",
+   "titulo": "Câmara de Nova Módica - MG abre concurso público para Ouvidor",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-nova-modica-mg-abre-concurso-publico-para-ouvidor",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4200.0,
+   "salario_por_hora": false,
+   "cargos": "Ouvidor da Câmara Municipal",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "30/11 a28/12/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
   },
   {
    "id": "1c26ff744627fc85",
@@ -3981,6 +4049,28 @@
    "novo": true
   },
   {
+   "id": "b22029154b5df84a",
+   "orgao": "Prefeitura de Maripá de Minas",
+   "titulo": "Prefeitura de Maripá de Minas - MG abre vagas para profissionais de apoio escolar e tutores de alunos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maripa-de-minas-mg-abre-vagas-para-profissionais-de-apoio-escolar-e-tutores-de-alunos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 13.87,
+   "salario_por_hora": true,
+   "cargos": "Profissional de Apoio Escolar - PAE, Tutor de Alunos (Tempo Integral)",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-28",
+   "prazo_texto": "28/09/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
+  },
+  {
    "id": "d87633180687e2cd",
    "orgao": "Prefeitura de Monte Sião",
    "titulo": "Prefeitura de Monte Sião - MG abre seleção para enfermeiros de pronto atendimento",
@@ -4165,6 +4255,31 @@
    "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b1d84953332cd133",
+   "orgao": "Prefeitura de Patis",
+   "titulo": "Prefeitura de Patis - MG abre concurso público com salários de até R$ 13.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 154,
+   "cadastro_reserva": false,
+   "salario": 13500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-03",
+   "inscricoes_ate": "2026-12-30",
+   "prazo_texto": "03 a30/12/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
   },
   {
    "id": "1280b16cfe6f5223",
@@ -4751,6 +4866,29 @@
    "novo": true
   },
   {
+   "id": "98a51b4af04af70f",
+   "orgao": "SEMEA - Secretaria Municipal de Meio Ambiente de Varginha",
+   "titulo": "Prefeitura de Varginha - MG abre seleção para Auxiliar de Veterinário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varginha-mg-abre-selecao-para-auxiliar-de-veterinario",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2112.13,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Veterinário",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-29",
+   "prazo_texto": "29/09/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
+  },
+  {
    "id": "9bcaf14b72594cda",
    "orgao": "UFV - Universidade Federal de Viçosa",
    "titulo": "UFV - MG abre vaga para profissional técnico especializado em linguagem de sinais",
@@ -5039,6 +5177,30 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "01 a02/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "fc9dbe351e84f147",
+   "orgao": "Câmara de Rio Azul",
+   "titulo": "Câmara de Rio Azul - PR abre concurso com salários de até R$ 5.275,16",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-rio-azul-pr-abre-concurso-com-salarios-de-ate-5275",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5275.16,
+   "salario_por_hora": false,
+   "cargos": "Agente de Serviços Operacionais, Assistente Legislativo, Contador",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "05 a26/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": true
   },
   {
@@ -5687,6 +5849,30 @@
    "prazo_texto": "06 a27/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "e87bbf0ebc134992",
+   "orgao": "UEM - Universidade Estadual de Maringá",
+   "titulo": "UEM - PR abre seleção para cargos técnicos e médicos com salários de até R$ 7.997,72",
+   "url": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-selecao-para-cargos-tecnicos-e-medicos-com-salarios-de-ate-7997",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 7997.72,
+   "salario_por_hora": false,
+   "cargos": "Técnico Administrativo, Técnico em Informática, Técnico em Segurança do Trabalho",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-06",
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "06 a27/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
   },
   {
    "id": "0a5f466aa12349f2",
@@ -7101,6 +7287,28 @@
    "novo": false
   },
   {
+   "id": "53e6a9e4759863b4",
+   "orgao": "Prefeitura de Chapecó",
+   "titulo": "Prefeitura de Chapecó - SC abre concurso público para Atendente de Central do Cidadão",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-abre-concurso-publico-para-atendente-de-central-do-cidadao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 2900.0,
+   "salario_por_hora": false,
+   "cargos": "Atendente de Central do Cidadão",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-09-29",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/09 a29/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
+  },
+  {
    "id": "a1572e6d0d60c9ee",
    "orgao": "Prefeitura de Concórdia",
    "titulo": "Prefeitura de Concórdia - SC abre processo seletivo para profissionais da educação",
@@ -8008,6 +8216,28 @@
    "novo": false
   },
   {
+   "id": "992d967a068cdb09",
+   "orgao": "SAFI - Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade",
+   "titulo": "SAFI - Itá/SC abre processo seletivo para Educador Social",
+   "url": "https://www.pciconcursos.com.br/noticias/safi-ita-sc-abre-processo-seletivo-para-educador-social",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2919.05,
+   "salario_por_hora": false,
+   "cargos": "Educador Social",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "02/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
+  },
+  {
    "id": "e18e4821704f5300",
    "orgao": "SEJURI - Secretaria de Estado de Justiça e Reintegração Social",
    "titulo": "SEJURI - SC abre processo seletivo para Médico Clínico Geral",
@@ -8758,6 +8988,30 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "bce0438040a889a6",
+   "orgao": "Prefeitura de Novo Mundo",
+   "titulo": "Prefeitura de Novo Mundo - MT abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-mundo-mt-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3671.16,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-09-29",
+   "prazo_texto": "28 a29/09/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
+   "novo": true
   },
   {
    "id": "886c2a0cb4dd3d71",
@@ -10377,6 +10631,29 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "79e3d1cf12370926",
+   "orgao": "Câmara de Goianinha",
+   "titulo": "Câmara de Goianinha - RN abre concurso público com salários de até R$ 3.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-goianinha-rn-abre-concurso-publico-com-salarios-de-ate-3000",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 3000.0,
+   "salario_por_hora": false,
+   "cargos": "Técnico Legislativo, Controlador Interno, Contador",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "28/09 a14/10/2026",
+   "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": true
   },
   {
