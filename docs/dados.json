@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-25T07:54:35+00:00",
+ "gerado_em": "2026-09-25T13:53:01+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 433,
- "novos": 10,
- "encerrados": 15,
+ "total": 436,
+ "novos": 14,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -321,6 +321,28 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "acdba203df79e0ef",
+   "orgao": "Câmara de Clementina",
+   "titulo": "Câmara de Clementina - SP abre concurso para o cargo de Controlador Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-clementina-sp-abre-concurso-para-o-cargo-de-controlador-interno",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2500.0,
+   "salario_por_hora": false,
+   "cargos": "Controlador Interno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "28/09 a26/10/2026",
+   "visto_em": "2026-09-25T13:53:01+00:00",
+   "novo": true
   },
   {
    "id": "3f7bbc3ed2c7021d",
@@ -1014,6 +1036,29 @@
    "prazo_texto": "25/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b1928e1d92e82edd",
+   "orgao": "Prefeitura de Araçoiaba da Serra",
+   "titulo": "Prefeitura de Araçoiaba da Serra - SP abre seleção para cadastro de reserva na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-selecao-para-cadastro-de-reserva-na-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3940.7,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-09-25T13:53:01+00:00",
+   "novo": true
   },
   {
    "id": "e925633aeadd542a",
@@ -5336,10 +5381,10 @@
    "novo": false
   },
   {
-   "id": "1f113d8c2b73f407",
+   "id": "07fc814b43dd142c",
    "orgao": "Prefeitura de Tamarana",
-   "titulo": "Prefeitura de Tamarana - PR abre concurso e processo seletivo na área da saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamarana-pr-abre-concurso-e-processo-seletivo-na-area-da-saude",
+   "titulo": "Prefeitura de Tamarana - PR republica o concurso público e retifica o processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamarana-pr-republica-o-concurso-publico-e-retifica-o-processo-seletivo",
    "uf": "PR",
    "uf_nome": "Paraná",
    "vagas": 5,
@@ -5354,10 +5399,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-09-25T13:53:01+00:00",
+   "novo": true
   },
   {
    "id": "c98412f59b9469fb",
@@ -6277,6 +6322,28 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "2f6ae2a02da356b8",
+   "orgao": "Câmara de Jaborá",
+   "titulo": "Câmara de Jaborá - SC abre concurso para Coordenador de Controle Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jabora-sc-abre-concurso-para-coordenador-de-controle-interno",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2231.2,
+   "salario_por_hora": false,
+   "cargos": "Coordenador de Controle Interno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "30/09 a29/10/2026",
+   "visto_em": "2026-09-25T13:53:01+00:00",
+   "novo": true
   },
   {
    "id": "565525033d5580cc",
