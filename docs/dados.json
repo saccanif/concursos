@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-25T13:53:01+00:00",
+ "gerado_em": "2026-09-25T18:41:06+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 436,
- "novos": 14,
- "encerrados": 1,
+ "total": 457,
+ "novos": 37,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1038,6 +1038,31 @@
    "novo": false
   },
   {
+   "id": "9716590d17604605",
+   "orgao": "Prefeitura de Aparecida",
+   "titulo": "Prefeitura de Aparecida - SP abre concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aparecida-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 21,
+   "cadastro_reserva": false,
+   "salario": 6946.91,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "b1928e1d92e82edd",
    "orgao": "Prefeitura de Araçoiaba da Serra",
    "titulo": "Prefeitura de Araçoiaba da Serra - SP abre seleção para cadastro de reserva na área da educação",
@@ -1640,6 +1665,30 @@
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "8727df7e53f60c91",
+   "orgao": "Prefeitura de Matão",
+   "titulo": "Prefeitura de Matão - SP abre concurso público com salários de até R$ 17.433,24",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-17433",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 44,
+   "cadastro_reserva": false,
+   "salario": 17433.24,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-26",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "26/09 a29/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "76cf8f53d211d56a",
@@ -2410,6 +2459,30 @@
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "7bd95bab52f4a5b9",
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre seleção para Técnico de Eletroencefalograma e Técnico Administrativo",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-selecao-para-tecnico-de-eletroencefalograma-e-tecnico-administrativo",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3005.34,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Eletroencefalograma, Técnico Administrativo",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-30",
+   "prazo_texto": "30/09/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "061e0e3d2a0dc461",
@@ -3815,6 +3888,28 @@
    "novo": false
   },
   {
+   "id": "c7be299c78929da5",
+   "orgao": "Prefeitura de João Monlevade",
+   "titulo": "Prefeitura de João Monlevade - MG abre seleção para o cargo de Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-monlevade-mg-abre-selecao-para-o-cargo-de-motorista",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1799.76,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "05 a13/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "9141208427a32a2d",
    "orgao": "Prefeitura de Lagoa da Prata",
    "titulo": "Prefeitura de Lagoa da Prata - MG altera período de inscrições do concurso público com salários de até R$ 21 mil",
@@ -3861,6 +3956,28 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "29/09 a16/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
+   "novo": true
+  },
+  {
+   "id": "d7651ed07285ca51",
+   "orgao": "Prefeitura de Leopoldina",
+   "titulo": "Prefeitura de Leopoldina - MG abre seleção para cadastro de reserva na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-para-cadastro-de-reserva-na-educacao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4066.02,
+   "salario_por_hora": false,
+   "cargos": "Especialista em Educação Básica, Professor PEB II, Professor PEB III",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "05 a16/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": true
   },
   {
@@ -4766,6 +4883,28 @@
    "novo": false
   },
   {
+   "id": "449bd472d12ce9e7",
+   "orgao": "Prefeitura de Afonso Cláudio",
+   "titulo": "Prefeitura de Afonso Cláudio - ES abre processo seletivo para merendeira",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-afonso-claudio-es-abre-processo-seletivo-para-merendeira",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Merendeira",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-26",
+   "inscricoes_ate": "2026-09-28",
+   "prazo_texto": "26 a28/09/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "1ece434712edd43c",
    "orgao": "Prefeitura de Anchieta",
    "titulo": "Prefeitura de Anchieta - ES abre concurso público para professores",
@@ -4855,6 +4994,52 @@
    "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "0ce29cb15ed16cce",
+   "orgao": "Prefeitura de São Gabriel da Palha",
+   "titulo": "Prefeitura de São Gabriel da Palha - ES abre vagas para Servente, Merendeira e Cuidador",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-gabriel-da-palha-es-abre-vagas-para-servente-merendeira-e-cuidador",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 1242.43,
+   "salario_por_hora": false,
+   "cargos": "Servente, Merendeira, Cuidador",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "01 a08/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "9769d6295cf9c2f3",
+   "orgao": "SEMTAC - Secretaria Municipal de Trabalho, Assistência e Cidadania de Guarapari",
+   "titulo": "Prefeitura de Guarapari - ES abre seleção para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarapari-es-abre-selecao-para-formacao-de-cadastro-de-reserva",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1746.45,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "01 a02/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "8ddda616d9b33b02",
@@ -4999,6 +5184,31 @@
    "prazo_texto": "07/10 a05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "d6f41dad291996d4",
+   "orgao": "Prefeitura de Ângulo",
+   "titulo": "Prefeitura de Ângulo - PR abre concurso com salários de até R$ 6.771,80",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-angulo-pr-abre-concurso-com-salarios-de-ate-6771",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 26,
+   "cadastro_reserva": false,
+   "salario": 6771.8,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "01 a20/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "290297ebab7f20e2",
@@ -5849,6 +6059,28 @@
    "novo": false
   },
   {
+   "id": "1836f3c5f681ac4a",
+   "orgao": "Prefeitura de Crissiumal",
+   "titulo": "Prefeitura de Crissiumal - RS abre processo seletivo para auxiliares de educação infantil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-auxiliares-de-educacao-infantil",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 1581.69,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Educação Infantil",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-28",
+   "prazo_texto": "28/09/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "e28de26e4ca86a5a",
    "orgao": "Prefeitura de Doutor Maurício Cardoso",
    "titulo": "Prefeitura de Doutor Maurício Cardoso - RS abre seleção para Técnico em Enfermagem",
@@ -5962,6 +6194,28 @@
    "novo": false
   },
   {
+   "id": "e194c68162803961",
+   "orgao": "Prefeitura de Lajeado",
+   "titulo": "Prefeitura de Lajeado - RS abre seleção para Bibliotecário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-abre-selecao-para-bibliotecario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5889.11,
+   "salario_por_hora": false,
+   "cargos": "Bibliotecário",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "05/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "139aef0d596dacc1",
    "orgao": "Prefeitura de Maquiné",
    "titulo": "Prefeitura de Maquiné - RS abre seleção para Operador de Máquinas Especializado",
@@ -6028,6 +6282,28 @@
    "novo": false
   },
   {
+   "id": "4b4049a3d4d4a967",
+   "orgao": "Prefeitura de Nova Prata",
+   "titulo": "Prefeitura de Nova Prata - RS abre seleção para o cargo de Visitador do PIM",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-selecao-para-o-cargo-de-visitador-do-pim",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1924.18,
+   "salario_por_hora": false,
+   "cargos": "Visitador",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-09-28",
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "28/09 a05/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "560fd2a373f04792",
    "orgao": "Prefeitura de Pinhal Grande",
    "titulo": "Prefeitura de Pinhal Grande - RS abre seleção para Agente de Combate às Endemias",
@@ -6092,6 +6368,29 @@
    "prazo_texto": "28/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "12e21062c1bc7c31",
+   "orgao": "Prefeitura de Santo Antônio da Patrulha",
+   "titulo": "Prefeitura de Santo Antônio da Patrulha - RS abre vaga para atendente de farmácia",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vaga-para-atendente-de-farmacia",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2864.12,
+   "salario_por_hora": false,
+   "cargos": "Atendente de Farmácia",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "dd331425313f89b2",
@@ -6569,6 +6868,29 @@
    "prazo_texto": "25/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b985e70df037da58",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+   "titulo": "FAHECE - SC anuncia vaga para Técnico em Radioterapia em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-em-radioterapia-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3928.47,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Radioterapia I",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-30",
+   "prazo_texto": "30/09/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "e29ac206b5f863b5",
@@ -8251,6 +8573,28 @@
    "prazo_texto": "25/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "e88158ceaa8d4867",
+   "orgao": "Prefeitura de Coxim",
+   "titulo": "Prefeitura de Coxim - MS abre processo seletivo para motoristas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coxim-ms-abre-processo-seletivo-para-motoristas",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 2180.45,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-26",
+   "inscricoes_ate": "2026-10-01",
+   "prazo_texto": "26/09 a01/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "3341b3556b997b8f",
@@ -10014,6 +10358,28 @@
    "novo": false
   },
   {
+   "id": "e152857c7221f460",
+   "orgao": "Câmara de Cerro Corá",
+   "titulo": "Câmara de Cerro Corá - RN abre concurso público para o cargo de Controlador Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cerro-cora-rn-abre-concurso-publico-para-o-cargo-de-controlador-interno",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2283.9,
+   "salario_por_hora": false,
+   "cargos": "Controlador Interno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
    "id": "41bb9e6f96d257a4",
    "orgao": "Câmara de Pau dos Ferros",
    "titulo": "Câmara de Pau dos Ferros - RN abre concurso público com salários de até R$ 4.714,65",
@@ -10038,10 +10404,105 @@
    "novo": false
   },
   {
-   "id": "f59dc475581126b6",
+   "id": "cccf26ff2f35bef4",
+   "orgao": "Câmara de Santana do Seridó",
+   "titulo": "Câmara de Santana do Seridó - RN abre concurso público com quatro vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santana-do-serido-rn-abre-concurso-publico-com-quatro-vagas-imediatas",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 2000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "690d18a130118a85",
+   "orgao": "Câmara de São João do Sabugi",
+   "titulo": "Câmara de São João do Sabugi - RN abre concurso público para cargos efetivos",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joao-do-sabugi-rn-abre-concurso-publico-para-cargos-efetivos",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2160.53,
+   "salario_por_hora": false,
+   "cargos": "Controlador Interno, Técnico em Informática, Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "6f3c5918d479bfc6",
+   "orgao": "Prefeitura de Acari",
+   "titulo": "Prefeitura de Acari - RN abre concurso público com salários de até R$ 3.847,97",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acari-rn-abre-concurso-publico-com-salarios-de-ate-3847",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 3847.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "10b2b493674408be",
+   "orgao": "Prefeitura de Jucurutu",
+   "titulo": "Prefeitura de Jucurutu - RN publica edital de concurso com salários de até R$ 4.867,69",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jucurutu-rn-publica-edital-de-concurso-com-salarios-de-ate-4867",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 144,
+   "cadastro_reserva": false,
+   "salario": 4867.69,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "c3bbcee42c4bccc9",
    "orgao": "Prefeitura de Nísia Floresta",
-   "titulo": "Prefeitura de Nísia Floresta - RN abre concurso público para Guarda Municipal",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nisia-floresta-rn-abre-concurso-publico-para-guarda-municipal",
+   "titulo": "Prefeitura de Nísia Floresta - RN divulga retificação de concurso público para Guarda Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nisia-floresta-rn-divulga-retificacao-de-concurso-publico-para-guarda-municipal",
    "uf": "RN",
    "uf_nome": "Rio Grande do Norte",
    "vagas": 30,
@@ -10056,8 +10517,32 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "2ed5ecdfe96f9e0a",
+   "orgao": "Prefeitura de São Fernando",
+   "titulo": "Prefeitura de São Fernando - RN abre concurso público com salários de até R$ 4.101,05",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-fernando-rn-abre-concurso-publico-com-salarios-de-ate-4101",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 4101.05,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "8525beaea90b4f1d",
@@ -10110,10 +10595,10 @@
    "novo": false
   },
   {
-   "id": "d2549bc1e1147cf4",
+   "id": "150ee4d09e7516eb",
    "orgao": "Prefeitura e Câmara de Nísia Floresta",
-   "titulo": "Prefeitura e Câmara de Nísia Floresta - RN abrem concurso público com vagas imediatas e reservas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-nisia-floresta-rn-abrem-concurso-publico-com-vagas-imediatas-e-reservas",
+   "titulo": "Prefeitura e Câmara de Nísia Floresta - RN divulgam retificação de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-nisia-floresta-rn-divulgam-retificacao-de-concurso-publico",
    "uf": "RN",
    "uf_nome": "Rio Grande do Norte",
    "vagas": 61,
@@ -10130,8 +10615,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-09-25T18:41:06+00:00",
+   "novo": true
   },
   {
    "id": "a61797631e115006",
