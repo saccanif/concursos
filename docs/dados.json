@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-26T07:47:27+00:00",
+ "gerado_em": "2026-09-26T13:09:48+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 437,
- "novos": 48,
- "encerrados": 32,
+ "novos": 39,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -2154,7 +2154,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4ea0c5d6b0018fa2",
@@ -3674,7 +3674,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "30/09 a07/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4de1722cfb555995",
@@ -3767,7 +3767,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "29/09 a16/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d7651ed07285ca51",
@@ -4606,7 +4606,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "28/09 a16/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cfbe9e66323aa77b",
@@ -5378,7 +5378,7 @@
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4bcf85102f0eecfe",
@@ -6807,7 +6807,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "368a9648d6f50298",
@@ -7305,7 +7305,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c871ed1b94931c71",
@@ -8748,7 +8748,7 @@
    "inscricoes_ate": "2026-10-01",
    "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2df3eb57d287d037",
@@ -8770,7 +8770,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "28/09 a02/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "141d968afe62af1e",
