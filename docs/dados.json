@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-09-26T22:56:01+00:00",
+ "gerado_em": "2026-09-27T01:32:08+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 437,
- "novos": 39,
+ "total": 438,
+ "novos": 40,
  "encerrados": 0,
  "concursos": [
   {
@@ -9089,6 +9089,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "4a1f54971f900d20",
+   "orgao": "SENAR-AR/BA - Serviço Nacional de Aprendizagem Rural",
+   "titulo": "SENAR-AR/BA abre processo seletivo com salários de até R$ 6.948,00",
+   "url": "https://www.pciconcursos.com.br/noticias/senar-ar-ba-abre-processo-seletivo-com-salarios-de-ate-6948",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 6948.0,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Química, Analista de RH, Pedagogo",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-09-27T01:32:08+00:00",
+   "novo": true
   },
   {
    "id": "f11cc911d2aadbdb",
