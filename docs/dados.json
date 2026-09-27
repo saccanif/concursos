@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-27T08:16:36+00:00",
+ "gerado_em": "2026-09-27T14:02:00+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 437,
- "novos": 13,
- "encerrados": 1,
+ "novos": 1,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -871,7 +871,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9716590d17604605",
@@ -1478,7 +1478,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "094bcac254f4e1f5",
@@ -2640,7 +2640,7 @@
    "inscricoes_ate": "2026-12-28",
    "prazo_texto": "30/11 a28/12/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1c26ff744627fc85",
@@ -3811,7 +3811,7 @@
    "inscricoes_ate": "2026-09-28",
    "prazo_texto": "28/09/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1bd20bc92e1f5a3d",
@@ -3977,7 +3977,7 @@
    "inscricoes_ate": "2026-12-30",
    "prazo_texto": "03 a30/12/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1280b16cfe6f5223",
@@ -4584,7 +4584,7 @@
    "inscricoes_ate": "2026-09-29",
    "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9bcaf14b72594cda",
@@ -4899,7 +4899,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "05 a26/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8ddda616d9b33b02",
@@ -5522,7 +5522,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "06 a27/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0a5f466aa12349f2",
@@ -6734,7 +6734,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/09 a29/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a1572e6d0d60c9ee",
@@ -7640,7 +7640,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "312088e4a7a84053",
@@ -8347,7 +8347,7 @@
    "inscricoes_ate": "2026-09-29",
    "prazo_texto": "28 a29/09/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "886c2a0cb4dd3d71",
@@ -9917,7 +9917,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "28/09 a14/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "41bb9e6f96d257a4",
