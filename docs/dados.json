@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-28T00:50:18+00:00",
+ "gerado_em": "2026-09-28T07:01:03+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 437,
+ "total": 423,
  "novos": 1,
- "encerrados": 0,
+ "encerrados": 14,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -183,28 +183,6 @@
    "novo": false
   },
   {
-   "id": "89baeeb4b21a21d3",
-   "orgao": "ADE SAMPA - Agência São Paulo de Desenvolvimento",
-   "titulo": "ADE SAMPA - SP abre seleção pública para Assistente II na área de Gerência Jurídica",
-   "url": "https://www.pciconcursos.com.br/noticias/ade-sampa-sp-abre-selecao-publica-para-assistente-ii-na-area-de-gerencia-juridica",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 4586.83,
-   "salario_por_hora": false,
-   "cargos": "Assistente II",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "1affa3337da24547",
    "orgao": "Câmara da Estância Balneária de Itanhaém",
    "titulo": "Câmara de Itanhaém - SP abre concurso público com salários de até R$ 7.097,00",
@@ -316,9 +294,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "28/09 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-25T13:53:01+00:00",
    "novo": false
   },
@@ -431,30 +409,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "5c05e9ae3e328bd5",
-   "orgao": "Câmara de Martinópolis",
-   "titulo": "Câmara de Martinópolis - SP abre processo seletivo para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-martinopolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5995.65,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -1275,31 +1229,6 @@
    "novo": false
   },
   {
-   "id": "cb0bb465d52fb99e",
-   "orgao": "Prefeitura de Guaiçara",
-   "titulo": "Prefeitura de Guaiçara - SP abre processo seletivo para diversos níveis de escolaridade",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-processo-seletivo-para-diversos-niveis-de-escolaridade",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 3913.82,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "b5a3c804bae6fb76",
    "orgao": "Prefeitura de Guarulhos",
    "titulo": "Prefeitura de Guarulhos - SP abre concurso público com 200 vagas para guardas civis municipais",
@@ -1756,9 +1685,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "28/09 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -1877,28 +1806,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-01",
    "prazo_texto": "01/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "7fa2465a4515d9da",
-   "orgao": "Prefeitura de Vera Cruz",
-   "titulo": "Prefeitura de Vera Cruz - SP retifica edital de concurso público para professores e psicopedagogos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vera-cruz-sp-retifica-edital-de-concurso-publico-para-professores-e-psicopedagogos",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 13,
-   "cadastro_reserva": false,
-   "salario": 3847.8,
-   "salario_por_hora": false,
-   "cargos": "Professor, Psicopedagogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2110,29 +2017,6 @@
    "novo": false
   },
   {
-   "id": "b6e2e275479ca243",
-   "orgao": "CRA/RJ - Conselho Regional de Administração do Rio de Janeiro",
-   "titulo": "CRA-RJ divulga retificação do concurso público com salários até R$ 6.369,00",
-   "url": "https://www.pciconcursos.com.br/noticias/cra-rj-divulga-retificacao-do-concurso-publico-com-salarios-ate-6369",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 84,
-   "cadastro_reserva": false,
-   "salario": 6369.0,
-   "salario_por_hora": false,
-   "cargos": "Profissional de Apoio Administrativo, Administrador, Fiscal",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "Prorrogado até27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "cb74cdabb3bbbe13",
    "orgao": "CREMERJ - Conselho Regional de Medicina do Rio de Janeiro",
    "titulo": "CREMERJ retifica concurso com salários de até R$ 18.000,00 para diversos cargos",
@@ -2242,9 +2126,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "28/09 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2545,9 +2429,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/09 a28/10/2026",
+   "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2885,9 +2769,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "28/09 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3307,9 +3191,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "28 a30/09/2026",
+   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3465,9 +3349,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-03",
-   "prazo_texto": "28/09 a03/10/2026",
+   "prazo_texto": "03/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4602,9 +4486,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "28/09 a16/10/2026",
+   "prazo_texto": "16/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
   },
@@ -5158,9 +5042,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "28/09 a18/10/2026",
+   "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5470,9 +5354,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "28/09 a27/10/2026",
+   "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5864,9 +5748,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
-   "prazo_texto": "28/09 a02/10/2026",
+   "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5886,9 +5770,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "28 a30/09/2026",
+   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5999,32 +5883,10 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
-   "inscricoes_ate": "2026-10-05",
-   "prazo_texto": "28/09 a05/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
-   "id": "560fd2a373f04792",
-   "orgao": "Prefeitura de Pinhal Grande",
-   "titulo": "Prefeitura de Pinhal Grande - RS abre seleção para Agente de Combate às Endemias",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecao-para-agente-de-combate-as-endemias",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": true,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente de Combate às Endemias",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "05/10/2026",
+   "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
   {
@@ -6043,9 +5905,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
-   "prazo_texto": "28/09 a07/10/2026",
+   "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6370,29 +6232,6 @@
    "novo": false
   },
   {
-   "id": "43ac4359266e5cd7",
-   "orgao": "Câmara de Vereadores de São Joaquim",
-   "titulo": "Câmara de São Joaquim - SC retifica o edital de concurso público com salários de até R$ 9.870,45",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joaquim-sc-retifica-o-edital-de-concurso-publico-com-salarios-de-ate-9870",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 9870.45,
-   "salario_por_hora": false,
-   "cargos": "Assessor de Contabilidade, Assessor Jurídico, Secretário(a)",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "e2d38b0e74cc9a47",
    "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
    "titulo": "CISAMAVI - SC abre concurso público com salários de até R$ 10.520,99",
@@ -6435,51 +6274,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "7f009839a17f24df",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC prorroga inscrições do processo seletivo para Assistente de Comunicação I - PCD",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-do-processo-seletivo-para-assistente-de-comunicacao-i-pcd",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2136.38,
-   "salario_por_hora": false,
-   "cargos": "Assistente de Comunicação I, Auxiliar de Higienização",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "Prorrogado até27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "e9cd609e9f7d9da5",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre vaga para Farmacêutico Supervisor no CEPON",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-farmaceutico-supervisor-no-cepon",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 5682.97,
-   "salario_por_hora": false,
-   "cargos": "Farmacêutico II - Supervisor",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -7352,9 +7146,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/09 a28/10/2026",
+   "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -7658,9 +7452,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "28/09 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8038,9 +7832,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/09 a28/10/2026",
+   "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8250,9 +8044,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
-   "prazo_texto": "28/09 a07/10/2026",
+   "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8343,9 +8137,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "28 a29/09/2026",
+   "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
   },
@@ -8556,9 +8350,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "28/09 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8683,29 +8477,6 @@
    "novo": false
   },
   {
-   "id": "9cd1d37935ad9dbc",
-   "orgao": "CISAN Central - Consórcio Intermunicipal de Saneamento da Região Central de Rondônia",
-   "titulo": "CISAN Central - RO abre processo seletivo com salários de até R$ 7.130,13",
-   "url": "https://www.pciconcursos.com.br/noticias/cisan-central-ro-abre-processo-seletivo-com-salarios-de-ate-7130",
-   "uf": "RO",
-   "uf_nome": "Rondônia",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 7130.13,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "30d4d2d9799e027a",
    "orgao": "Prefeitura de Nova Brasilândia D'Oeste",
    "titulo": "Prefeitura de Nova Brasilândia D'Oeste - RO abre seleção para Operador de Máquinas Pesadas e Motorista",
@@ -8743,9 +8514,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
-   "prazo_texto": "28/09 a02/10/2026",
+   "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
   },
@@ -8861,28 +8632,6 @@
    "novo": false
   },
   {
-   "id": "2d892799c41ce483",
-   "orgao": "Prefeitura de Delmiro Gouveia",
-   "titulo": "Prefeitura de Delmiro Gouveia - AL abre seleção com 9 vagas para odontólogos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-delmiro-gouveia-al-abre-selecao-com-9-vagas-para-odontologos",
-   "uf": "AL",
-   "uf_nome": "Alagoas",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 2220.0,
-   "salario_por_hora": false,
-   "cargos": "Odontólogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "c54d59de2c4b1f82",
    "orgao": "Prefeitura de Porto Calvo",
    "titulo": "Prefeitura de Porto Calvo - AL retifica edital de concurso público",
@@ -8975,28 +8724,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "06847d3f1c184cb2",
-   "orgao": "FESF-SUS - Fundação Estatal Saúde da Família",
-   "titulo": "FESF-SUS - BA abre seleção para Médicos da Estratégia Saúde da Família e Preceptores",
-   "url": "https://www.pciconcursos.com.br/noticias/fesf-sus-ba-abre-selecao-para-medicos-da-estrategia-saude-da-familia-e-preceptores",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 11076.49,
-   "salario_por_hora": false,
-   "cargos": "Médico(a) da Estratégia Saúde da Família e Preceptor(a)",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -9111,53 +8838,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-09-29",
    "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "acbdfe6453e57fa9",
-   "orgao": "Câmara de Icapuí",
-   "titulo": "Câmara de Icapuí - CE abre concurso público com oito vagas",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-icapui-ce-abre-concurso-publico-com-oito-vagas",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 8,
-   "cadastro_reserva": false,
-   "salario": 3865.51,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "e443ef0cef91f1ab",
-   "orgao": "Câmara de Paramoti",
-   "titulo": "Câmara de Paramoti - CE abre concurso público com cinco vagas imediatas",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-paramoti-ce-abre-concurso-publico-com-cinco-vagas-imediatas",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 3000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-27",
-   "prazo_texto": "27/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -9458,9 +9138,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-12",
-   "prazo_texto": "28/09 a12/10/2026",
+   "prazo_texto": "12/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -9505,9 +9185,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "28/09 a13/11/2026",
+   "prazo_texto": "13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -9913,9 +9593,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "28/09 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
   },
