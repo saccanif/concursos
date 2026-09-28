@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-28T07:01:03+00:00",
+ "gerado_em": "2026-09-28T15:33:58+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 423,
- "novos": 1,
- "encerrados": 14,
+ "total": 431,
+ "novos": 9,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -624,6 +624,30 @@
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "2b8200e759894822",
+   "orgao": "FJPO - Fundação José Pedro de Oliveira",
+   "titulo": "Fundação José Pedro de Oliveira - SP abre concurso público com salários de até R$ 8.991,96",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-jose-pedro-de-oliveira-sp-abre-concurso-publico-com-salarios-de-ate-8991",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 8991.96,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "05/10 a12/11/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
   },
   {
    "id": "6f875f82bda62a8b",
@@ -1251,6 +1275,28 @@
    "novo": false
   },
   {
+   "id": "4ac66bf9061e9725",
+   "orgao": "Prefeitura de Guarulhos",
+   "titulo": "Prefeitura de Guarulhos - SP abre vagas para Programas de Residência Multiprofissional em Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarulhos-sp-abre-vagas-para-programas-de-residencia-multiprofissional-em-saude",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
+  },
+  {
    "id": "4cb0495f237bc724",
    "orgao": "Prefeitura de Icém",
    "titulo": "Prefeitura de Icém - SP abre novo concurso público para diversos cargos",
@@ -1856,6 +1902,31 @@
    "novo": false
   },
   {
+   "id": "078b8e88745d1496",
+   "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
+   "titulo": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
+   "url": "https://www.pciconcursos.com.br/noticias/prudenprev-sp-abre-concurso-publico-com-salarios-de-ate-11102",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 11102.06,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "05/10 a10/11/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
+  },
+  {
    "id": "7240a9787ac662e9",
    "orgao": "SAAEB - Serviço Autônomo de Água e Esgoto de Brotas",
    "titulo": "SAAEB de Brotas - SP abre concurso público com salários de até R$ 6.139,03",
@@ -2297,10 +2368,10 @@
    "novo": false
   },
   {
-   "id": "2c90105aeb3920f4",
+   "id": "918c8ef335b13c18",
    "orgao": "Câmara de Capinópolis",
-   "titulo": "Câmara de Capinópolis - MG abre concurso público com salários de até R$ 5.800,00",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-capinopolis-mg-abre-concurso-publico-com-salarios-de-ate-5800",
+   "titulo": "Câmara de Capinópolis - MG retifica edital de concurso público com salários de até R$ 5.800,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-capinopolis-mg-retifica-edital-de-concurso-publico-com-salarios-de-ate-5800",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
    "vagas": 5,
@@ -2314,10 +2385,10 @@
     "Superior"
    ],
    "inscricoes_de": "2026-10-01",
-   "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "01 a16/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "Prorrogado de01/10 a10/11/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
   },
   {
    "id": "b76d3021ec912165",
@@ -3603,6 +3674,28 @@
    "prazo_texto": "05 a13/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
+  },
+  {
+   "id": "a5a6a716af77fee2",
+   "orgao": "Prefeitura de Juruaia",
+   "titulo": "Prefeitura de Juruaia - MG abre processo seletivo para Profissional de Apoio Escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juruaia-mg-abre-processo-seletivo-para-profissional-de-apoio-escolar",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 1700.0,
+   "salario_por_hora": false,
+   "cargos": "Profissional de Apoio Escolar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
   },
   {
    "id": "9141208427a32a2d",
@@ -6673,6 +6766,28 @@
    "novo": false
   },
   {
+   "id": "168783d6ff568f0a",
+   "orgao": "Prefeitura de Fraiburgo",
+   "titulo": "Prefeitura de Fraiburgo - SC abre processo seletivo com vagas para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-com-vagas-para-medicos",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 12551.71,
+   "salario_por_hora": false,
+   "cargos": "Médico para atuação no CAPS, Médico do Trabalho",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
+  },
+  {
    "id": "52875770bf59560d",
    "orgao": "Prefeitura de Garuva",
    "titulo": "Prefeitura de Garuva - SC abre seleção para o cargo de Cuidador",
@@ -7652,6 +7767,29 @@
    "novo": false
   },
   {
+   "id": "0c3460976ed78e47",
+   "orgao": "Prefeitura de Mambaí",
+   "titulo": "Prefeitura de Mambaí - GO abre processo seletivo para atuação na Casa de Apoio do Município",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mambai-go-abre-processo-seletivo-para-atuacao-na-casa-de-apoio-do-municipio",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2500.0,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais, Condutor de Veículos, Agente Administrativo",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "01 a08/10/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
+  },
+  {
    "id": "1f1b794305a62a3a",
    "orgao": "Prefeitura de Mineiros",
    "titulo": "Prefeitura de Mineiros - GO abre processo seletivo para a Secretaria de Educação",
@@ -8379,6 +8517,29 @@
    "novo": false
   },
   {
+   "id": "24b63e632b64c407",
+   "orgao": "ALEPA - Assembleia Legislativa do Estado do Pará",
+   "titulo": "Assembleia Legislativa do Estado do Pará - PA abre concursos para diversos cargos com salários de até R$ 3.697,73",
+   "url": "https://www.pciconcursos.com.br/noticias/assembleia-legislativa-do-estado-do-para-pa-abre-concursos-para-diversos-cargos-com-salarios-de-ate-3697",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 135,
+   "cadastro_reserva": false,
+   "salario": 3697.73,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "01/10 a04/11/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
+  },
+  {
    "id": "039e191c0d5fef71",
    "orgao": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
    "titulo": "SEPLAD e FHCGV - PA anunciam concurso público com vagas imediatas e formação de cadastro de reserva",
@@ -8815,7 +8976,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-27T01:32:08+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f11cc911d2aadbdb",
@@ -9529,6 +9690,31 @@
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "79a2f907cfed0d49",
+   "orgao": "Prefeitura de Bela Vista do Piauí",
+   "titulo": "Prefeitura de Bela Vista do Piauí - PI abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-piaui-pi-abre-concurso-publico-para-diversos-cargos",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 64,
+   "cadastro_reserva": false,
+   "salario": 5000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-09-28T15:33:58+00:00",
+   "novo": true
   },
   {
    "id": "a87245b3df26ef78",
