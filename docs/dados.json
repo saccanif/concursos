@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-29T08:37:20+00:00",
+ "gerado_em": "2026-09-29T15:56:49+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 420,
- "novos": 32,
- "encerrados": 32,
+ "total": 428,
+ "novos": 40,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -549,6 +549,29 @@
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "f169712e6b068d4b",
+   "orgao": "COMDERP - Companhia Municipal de Desenvolvimento de São José do Rio Pardo",
+   "titulo": "COMDERP - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/comderp-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2405.2,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "05 a26/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
   },
   {
    "id": "105415fbacc264e9",
@@ -3584,6 +3607,31 @@
    "novo": false
   },
   {
+   "id": "1aca33f019d38f33",
+   "orgao": "Prefeitura de Leandro Ferreira",
+   "titulo": "Prefeitura de Leandro Ferreira - MG abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leandro-ferreira-mg-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3305.38,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "30/09 a09/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
    "id": "d7651ed07285ca51",
    "orgao": "Prefeitura de Leopoldina",
    "titulo": "Prefeitura de Leopoldina - MG abre seleção para cadastro de reserva na educação",
@@ -3981,6 +4029,29 @@
    "novo": false
   },
   {
+   "id": "b4c77d3bdfbde410",
+   "orgao": "Prefeitura de Rubelita",
+   "titulo": "Prefeitura de Rubelita - MG abre vagas para Professor de Educação Física e Monitor Esportivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rubelita-mg-abre-vagas-para-professor-de-educacao-fisica-e-monitor-esportivo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4170.46,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Física, Monitor Esportivo",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-06",
+   "prazo_texto": "06/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
    "id": "0f78959eec777ee6",
    "orgao": "Prefeitura de Santana de Pirapama",
    "titulo": "Prefeitura de Santana de Pirapama - MG abre concurso com salários de até R$ 6.221,41",
@@ -4122,6 +4193,28 @@
    "prazo_texto": "28/11 a28/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "f58b7150eb11dece",
+   "orgao": "Prefeitura de São Romão",
+   "titulo": "Prefeitura de São Romão - MG abre seleção para agentes de saúde e agentes de combate às endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-romao-mg-abre-selecao-para-agentes-de-saude-e-agentes-de-combate-as-endemias",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-30",
+   "prazo_texto": "30/11 a30/12/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
   },
   {
    "id": "ae7fd589989ff3c7",
@@ -5049,6 +5142,28 @@
    "novo": false
   },
   {
+   "id": "d8a1a2285f95c866",
+   "orgao": "Prefeitura de Guaporema",
+   "titulo": "Prefeitura de Guaporema - PR abre seleção para Fisioterapeuta e Médico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaporema-pr-abre-selecao-para-fisioterapeuta-e-medico",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 10592.34,
+   "salario_por_hora": false,
+   "cargos": "Fisioterapeuta, Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
    "id": "5c7bfd9dd8daff17",
    "orgao": "Prefeitura de Itapejara D'Oeste",
    "titulo": "Prefeitura de Itapejara D'Oeste - PR abre processo seletivo para diversos cargos de nível fundamental",
@@ -5750,6 +5865,28 @@
    "novo": false
   },
   {
+   "id": "e213eab8efc800ed",
+   "orgao": "Prefeitura de Maquiné",
+   "titulo": "Prefeitura de Maquiné - RS abre seleção para Visitador do PIM",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecao-para-visitador-do-pim",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2100.0,
+   "salario_por_hora": false,
+   "cargos": "Visitador Primeira Infância Melhor - PIM",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "05 a09/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
    "id": "724572e3fbd4cfd4",
    "orgao": "Prefeitura de Nova Pádua",
    "titulo": "Prefeitura de Nova Pádua - RS abre seleção para agentes de serviços gerais e complementares",
@@ -6204,6 +6341,28 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "5e1b2b4e4a415dfa",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Terapeuta Ocupacional I no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-terapeuta-ocupacional-i-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4546.46,
+   "salario_por_hora": false,
+   "cargos": "Terapeuta Ocupacional I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
   },
   {
    "id": "b985e70df037da58",
@@ -8305,6 +8464,31 @@
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "7c1a48ade3e58256",
+   "orgao": "SESPA - Secretaria de Estado de Saúde Pública",
+   "titulo": "SESPA - PA abre seleção com vagas para o Hospital Regional de Cametá",
+   "url": "https://www.pciconcursos.com.br/noticias/sespa-pa-abre-selecao-com-vagas-para-o-hospital-regional-de-cameta",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 150,
+   "cadastro_reserva": false,
+   "salario": 4547.45,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-09-30",
+   "prazo_texto": "30/09/2026",
+   "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
   },
   {
    "id": "17b0f67a0ea4dbfb",
