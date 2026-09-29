@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-29T15:56:49+00:00",
+ "gerado_em": "2026-09-29T20:51:54+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 428,
- "novos": 40,
- "encerrados": 0,
+ "total": 440,
+ "novos": 53,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -806,6 +806,28 @@
    "novo": true
   },
   {
+   "id": "f3a3c26997ec8e2b",
+   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
+   "titulo": "IPSM de São José dos Campos - SP abre concurso para diversos cargos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-abre-concurso-para-diversos-cargos-de-nivel-superior",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 5860.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "01 a30/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "03d4989e5ebee11c",
    "orgao": "Marinha do Brasil - Comando do 8º Distrito Naval",
    "titulo": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
@@ -1498,6 +1520,30 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
+  },
+  {
+   "id": "ceb2d9c3760f837e",
+   "orgao": "Prefeitura de Morro Agudo",
+   "titulo": "Prefeitura de Morro Agudo - SP abre concurso com salários de até R$ 5.815,68",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-agudo-sp-abre-concurso-com-salarios-de-ate-5815",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 5815.68,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "30/09 a05/11/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
   },
   {
    "id": "76cf8f53d211d56a",
@@ -3332,6 +3378,50 @@
    "novo": false
   },
   {
+   "id": "3b17c75f0cfc8171",
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre vaga em processo seletivo para mecânico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-vaga-em-processo-seletivo-para-mecanico",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3487.57,
+   "salario_por_hora": false,
+   "cargos": "Mecânico",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-06",
+   "prazo_texto": "01 a06/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
+   "id": "6b50c6d51f7f686f",
+   "orgao": "Prefeitura de Delfinópolis",
+   "titulo": "Prefeitura de Delfinópolis - MG abre processo seletivo para Fisioterapeuta",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-delfinopolis-mg-abre-processo-seletivo-para-fisioterapeuta",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3766.28,
+   "salario_por_hora": false,
+   "cargos": "Fisioterapeuta",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "30/09 a05/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "7e4c8e85e1238726",
    "orgao": "Prefeitura de Divinópolis",
    "titulo": "Prefeitura de Divinópolis - MG abre vaga em processo seletivo para Biomédico",
@@ -3845,10 +3935,10 @@
    "novo": false
   },
   {
-   "id": "42856167b1fa834b",
+   "id": "eabc5fa6cdb40e95",
    "orgao": "Prefeitura de Pedro Teixeira",
-   "titulo": "Prefeitura de Pedro Teixeira - MG publica edital de concurso público com salários de até R$ 5.494,76",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedro-teixeira-mg-publica-edital-de-concurso-publico-com-salarios-de-ate-5494",
+   "titulo": "Prefeitura de Pedro Teixeira - MG publica edital retificado de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedro-teixeira-mg-publica-edital-retificado-de-concurso-publico",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
    "vagas": 120,
@@ -3866,8 +3956,8 @@
    "inscricoes_de": "2026-09-30",
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/09 a30/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
   },
   {
    "id": "b1a2a250157bb3ba",
@@ -5843,6 +5933,28 @@
    "novo": false
   },
   {
+   "id": "6e8e27cebeb7ae8b",
+   "orgao": "Prefeitura de Jacutinga",
+   "titulo": "Prefeitura de Jacutinga - RS abre concurso para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacutinga-rs-abre-concurso-para-agentes-comunitarios-de-saude",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "e194c68162803961",
    "orgao": "Prefeitura de Lajeado",
    "titulo": "Prefeitura de Lajeado - RS abre seleção para Bibliotecário",
@@ -5884,6 +5996,30 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "05 a09/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
+   "id": "da71970aa5f254a9",
+   "orgao": "Prefeitura de Marau",
+   "titulo": "Prefeitura de Marau - RS abre oito processos seletivos para diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-oito-processos-seletivos-para-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "02/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
   {
@@ -6951,6 +7087,30 @@
    "novo": false
   },
   {
+   "id": "d7546d6577984017",
+   "orgao": "Prefeitura de Major Vieira",
+   "titulo": "Prefeitura de Major Vieira - SC abre concurso público com salários de até R$ 8.442,71",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-concurso-publico-com-salarios-de-ate-8442",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 8442.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "30/09 a19/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "49c16013491de64b",
    "orgao": "Prefeitura de Maravilha",
    "titulo": "Prefeitura de Maravilha - SC abre concurso com salários de até R$ 15.748,20",
@@ -7095,6 +7255,31 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
+  },
+  {
+   "id": "f32f552ff7e52074",
+   "orgao": "Prefeitura de Ponte Alta",
+   "titulo": "Prefeitura de Ponte Alta - SC abre processo seletivo com salários de até R$ 17.248,32",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponte-alta-sc-abre-processo-seletivo-com-salarios-de-ate-17248",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 17248.32,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
   },
   {
    "id": "ecb3a96a9778e2d0",
@@ -8018,6 +8203,30 @@
    "novo": false
   },
   {
+   "id": "d96855a41965c4d0",
+   "orgao": "Prefeitura de Alta Taquari",
+   "titulo": "Prefeitura de Alta Taquari - MT abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alta-taquari-mt-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5588.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "01 a30/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "1e6558d4b346026b",
    "orgao": "Prefeitura de Canarana",
    "titulo": "Prefeitura de Canarana - MT abre processo seletivo com salários de até R$ 8.214,61",
@@ -8466,6 +8675,28 @@
    "novo": false
   },
   {
+   "id": "3605796169e2906f",
+   "orgao": "Prefeitura de Rurópolis",
+   "titulo": "Prefeitura de Rurópolis - PA abre processo seletivo para brigadistas de incêndio",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ruropolis-pa-abre-processo-seletivo-para-brigadistas-de-incendio",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Brigadista de Incêndio",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "30/09 a09/10/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
+  },
+  {
    "id": "7c1a48ade3e58256",
    "orgao": "SESPA - Secretaria de Estado de Saúde Pública",
    "titulo": "SESPA - PA abre seleção com vagas para o Hospital Regional de Cametá",
@@ -8536,6 +8767,29 @@
    "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
+  },
+  {
+   "id": "91ba978974546f1d",
+   "orgao": "Prefeitura de Porto Velho",
+   "titulo": "Prefeitura de Porto Velho - RO abre concurso com vagas para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-velho-ro-abre-concurso-com-vagas-para-a-educacao",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 265,
+   "cadastro_reserva": false,
+   "salario": 3847.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "13/10 a11/11/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
   },
   {
    "id": "141d968afe62af1e",
@@ -8625,6 +8879,31 @@
    "prazo_texto": "Reaberto até16/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "0a86b772f98ed9ba",
+   "orgao": "Prefeitura de Chã Preta",
+   "titulo": "Prefeitura de Chã Preta - AL abre concursos com salários de até R$ 7.256,60",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cha-preta-al-abre-concursos-com-salarios-de-ate-7256",
+   "uf": "AL",
+   "uf_nome": "Alagoas",
+   "vagas": 76,
+   "cadastro_reserva": false,
+   "salario": 7256.6,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-11-01",
+   "prazo_texto": "01/10 a01/11/2026",
+   "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": true
   },
   {
    "id": "c54d59de2c4b1f82",
