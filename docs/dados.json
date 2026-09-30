@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-29T20:51:54+00:00",
+ "gerado_em": "2026-09-30T00:31:35+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 440,
- "novos": 53,
- "encerrados": 1,
+ "total": 446,
+ "novos": 59,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -4874,6 +4874,29 @@
    "novo": true
   },
   {
+   "id": "1d0e9b4e57b05dcf",
+   "orgao": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
+   "titulo": "SAMU 192 - ES abre processos seletivos para enfermeiros e técnicos em enfermagem socorrista",
+   "url": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processos-seletivos-para-enfermeiros-e-tecnicos-em-enfermagem-socorrista",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3707.42,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro Socorrista, Técnico em Enfermagem Socorrista",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-11",
+   "prazo_texto": "11/10/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
+   "novo": true
+  },
+  {
    "id": "9769d6295cf9c2f3",
    "orgao": "SEMTAC - Secretaria Municipal de Trabalho, Assistência e Cidadania de Guarapari",
    "titulo": "Prefeitura de Guarapari - ES abre seleção para formação de cadastro de reserva",
@@ -5703,6 +5726,28 @@
    "novo": false
   },
   {
+   "id": "f6d6c9277072d814",
+   "orgao": "Prefeitura de Arvorezinha",
+   "titulo": "Prefeitura de Arvorezinha - RS retoma concurso público para Fiscal Ambiental e Fiscal Sanitário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arvorezinha-rs-retoma-concurso-publico-para-fiscal-ambiental-e-fiscal-sanitario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Fiscal Ambiental, Fiscal Sanitário",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "Reabertura de13/10 a13/11/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
+   "novo": true
+  },
+  {
    "id": "9b6a984568ac5c94",
    "orgao": "Prefeitura de Barão",
    "titulo": "Prefeitura de Barão - RS abre concurso para Fiscal e Professores",
@@ -6498,6 +6543,28 @@
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
+   "novo": true
+  },
+  {
+   "id": "7bfc21dc22d7a9c2",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC anuncia processos seletivos para o SAMU com vagas exclusivas para PCD",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-com-vagas-exclusivas-para-pcd",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I, Assistente de Almoxarifado I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-04",
+   "prazo_texto": "04/10/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
    "novo": true
   },
   {
@@ -7611,6 +7678,28 @@
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
+  },
+  {
+   "id": "8efa4250518ce99b",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processos seletivos com vagas para médicos especialistas",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processos-seletivos-com-vagas-para-medicos-especialistas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 10581.16,
+   "salario_por_hora": false,
+   "cargos": "Médico Especialista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
+   "novo": true
   },
   {
    "id": "312088e4a7a84053",
@@ -8747,6 +8836,28 @@
    "novo": false
   },
   {
+   "id": "261983e2335a0134",
+   "orgao": "Prefeitura de Alto Paraíso",
+   "titulo": "Prefeitura de Alto Paraíso - RO abre processo seletivo para Psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-paraiso-ro-abre-processo-seletivo-para-psicologo",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2590.5,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo(a)",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-09-30",
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "30/09 a05/10/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
+   "novo": true
+  },
+  {
    "id": "30d4d2d9799e027a",
    "orgao": "Prefeitura de Nova Brasilândia D'Oeste",
    "titulo": "Prefeitura de Nova Brasilândia D'Oeste - RO abre seleção para Operador de Máquinas Pesadas e Motorista",
@@ -9138,6 +9249,29 @@
    "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "41682244580d2a12",
+   "orgao": "Câmara de Meruoca",
+   "titulo": "Câmara de Meruoca - CE reabre inscrições de concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-meruoca-ce-reabre-inscricoes-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 2500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-07",
+   "prazo_texto": "Reaberto até07/10/2026",
+   "visto_em": "2026-09-30T00:31:35+00:00",
+   "novo": true
   },
   {
    "id": "9d768927da6bb81d",
