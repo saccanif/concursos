@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T00:31:35+00:00",
+ "gerado_em": "2026-09-30T06:47:43+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 446,
- "novos": 59,
- "encerrados": 0,
+ "total": 434,
+ "novos": 50,
+ "encerrados": 12,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -406,9 +406,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "30/09 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": true
   },
@@ -500,31 +500,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-06",
    "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "ba4c90a6550d50a9",
-   "orgao": "CaraguaPrev - Instituto de Previdência do Município de Caraguatatuba",
-   "titulo": "CaraguaPrev - SP abre concurso público com salários de até R$ 7.104,30",
-   "url": "https://www.pciconcursos.com.br/noticias/caraguaprev-sp-abre-concurso-publico-com-salarios-de-ate-7104",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 7,
-   "cadastro_reserva": false,
-   "salario": 7104.3,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -692,28 +667,6 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "05/10 a12/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
-  },
-  {
-   "id": "3d308c69537e5794",
-   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-   "titulo": "FUNCAMP - SP abre processo seletivo para Analista de Sistemas Júnior no Hospital Estadual de Sumaré",
-   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-de-sistemas-junior-no-hospital-estadual-de-sumare",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 5100.0,
-   "salario_por_hora": false,
-   "cargos": "Analista de Sistemas Júnior",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -846,28 +799,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "95a6ecbcd9c9f29f",
-   "orgao": "Prefeitura da Estância Balneária de Itanhaém",
-   "titulo": "Prefeitura de Itanhaém - SP abre concurso com 20 vagas para guardas civis municipais",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itanhaem-sp-abre-concurso-com-20-vagas-para-guardas-civis-municipais",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 2662.0,
-   "salario_por_hora": false,
-   "cargos": "Guarda Civil Municipal 2ª Classe",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -1313,7 +1244,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4cb0495f237bc724",
@@ -1539,9 +1470,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "30/09 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -1943,7 +1874,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "05/10 a10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7240a9787ac662e9",
@@ -2361,7 +2292,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "Prorrogado de01/10 a10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b76d3021ec912165",
@@ -3415,33 +3346,11 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-05",
-   "prazo_texto": "30/09 a05/10/2026",
+   "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
-  },
-  {
-   "id": "7e4c8e85e1238726",
-   "orgao": "Prefeitura de Divinópolis",
-   "titulo": "Prefeitura de Divinópolis - MG abre vaga em processo seletivo para Biomédico",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-divinopolis-mg-abre-vaga-em-processo-seletivo-para-biomedico",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2822.51,
-   "salario_por_hora": false,
-   "cargos": "Biomédico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "982e21471bf23940",
@@ -3575,9 +3484,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
-   "prazo_texto": "30/09 a07/10/2026",
+   "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
   },
@@ -3645,7 +3554,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9141208427a32a2d",
@@ -3715,9 +3624,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "30/09 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
    "novo": true
   },
@@ -3782,34 +3691,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
-   "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "30/09 a14/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "6c091d8c9cef6b28",
-   "orgao": "Prefeitura de Oliveira Fortes",
-   "titulo": "Prefeitura de Oliveira Fortes - MG publica retificação de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oliveira-fortes-mg-publica-retificacao-de-concurso-publico",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 67,
-   "cadastro_reserva": false,
-   "salario": 10331.93,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3953,9 +3837,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "30/09 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -4307,28 +4191,6 @@
    "novo": true
   },
   {
-   "id": "ae7fd589989ff3c7",
-   "orgao": "Prefeitura de São Sebastião do Oeste",
-   "titulo": "Prefeitura de São Sebastião do Oeste - MG abre processo seletivo para cargos de nível médio",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-sebastiao-do-oeste-mg-abre-processo-seletivo-para-cargos-de-nivel-medio",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 22,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente de Combate às Endemias, Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "ca74b75cc32dd5c1",
    "orgao": "Prefeitura de São Sebastião do Rio Verde",
    "titulo": "Prefeitura de São Sebastião do Rio Verde - MG abre concurso público com salários de até R$ 12.642,00",
@@ -4554,33 +4416,10 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-30",
-   "inscricoes_ate": "2026-10-02",
-   "prazo_texto": "30/09 a02/10/2026",
-   "visto_em": "2026-09-24T18:37:17+00:00",
-   "novo": false
-  },
-  {
-   "id": "98a51b4af04af70f",
-   "orgao": "SEMEA - Secretaria Municipal de Meio Ambiente de Varginha",
-   "titulo": "Prefeitura de Varginha - MG abre seleção para Auxiliar de Veterinário",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varginha-mg-abre-selecao-para-auxiliar-de-veterinario",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2112.13,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Veterinário",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-25T22:25:38+00:00",
+   "inscricoes_ate": "2026-10-02",
+   "prazo_texto": "02/10/2026",
+   "visto_em": "2026-09-24T18:37:17+00:00",
    "novo": false
   },
   {
@@ -4867,9 +4706,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "30/09 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": true
   },
@@ -5057,9 +4896,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "30/09 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6426,9 +6265,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "30/09 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-25T13:53:01+00:00",
    "novo": false
   },
@@ -6654,28 +6493,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "04cb26c26c4716fa",
-   "orgao": "OGMO Itajaí - Órgão Gestor de Mão de Obra do Trabalho Portuário Avulso do Porto de Itajaí",
-   "titulo": "OGMO Itajaí - SC abre processo seletivo para cadastro de reserva na categoria Capatazia/Arrumador",
-   "url": "https://www.pciconcursos.com.br/noticias/ogmo-itajai-sc-abre-processo-seletivo-para-cadastro-de-reserva-na-categoria-capatazia-arrumador",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 122,
-   "cadastro_reserva": false,
-   "salario": null,
-   "salario_por_hora": false,
-   "cargos": "Capatazia/Arrumador",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6937,7 +6754,7 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "52875770bf59560d",
@@ -7129,31 +6946,6 @@
    "novo": false
   },
   {
-   "id": "0564a0ba232c9c71",
-   "orgao": "Prefeitura de Lontras",
-   "titulo": "Prefeitura de Lontras - SC divulga retificação de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-divulga-retificacao-de-concurso-publico",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 27,
-   "cadastro_reserva": false,
-   "salario": 8105.36,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "d7546d6577984017",
    "orgao": "Prefeitura de Major Vieira",
    "titulo": "Prefeitura de Major Vieira - SC abre concurso público com salários de até R$ 8.442,71",
@@ -7171,9 +6963,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "30/09 a19/10/2026",
+   "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -7959,7 +7751,7 @@
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "01 a08/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1f1b794305a62a3a",
@@ -8410,30 +8202,6 @@
    "novo": false
   },
   {
-   "id": "bce0438040a889a6",
-   "orgao": "Prefeitura de Novo Mundo",
-   "titulo": "Prefeitura de Novo Mundo - MT abre processo seletivo para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-mundo-mt-abre-processo-seletivo-para-cadastro-de-reserva",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3671.16,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": false
-  },
-  {
    "id": "886c2a0cb4dd3d71",
    "orgao": "Prefeitura de Santa Carmem",
    "titulo": "Prefeitura de Santa Carmem - MT abre processo seletivo para diversos níveis de escolaridade",
@@ -8688,7 +8456,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "01/10 a04/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "039e191c0d5fef71",
@@ -8779,9 +8547,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "30/09 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -8851,9 +8619,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-09-30",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-05",
-   "prazo_texto": "30/09 a05/10/2026",
+   "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
    "novo": true
   },
@@ -8901,29 +8669,6 @@
    "prazo_texto": "13/10 a11/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
-  },
-  {
-   "id": "141d968afe62af1e",
-   "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do Sistema Único de Saúde",
-   "titulo": "AgSUS abre seleção com salários de até R$ 10.302,00",
-   "url": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-com-salarios-de-ate-10302",
-   "uf": "RR",
-   "uf_nome": "Roraima",
-   "vagas": 11,
-   "cadastro_reserva": false,
-   "salario": 10302.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "9b2f62ac9035e31a",
@@ -9225,30 +8970,6 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": true
-  },
-  {
-   "id": "f11cc911d2aadbdb",
-   "orgao": "Câmara de Graça",
-   "titulo": "Câmara de Graça - CE publica edital de concurso público com salários de até R$ 4.300,00",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-graca-ce-publica-edital-de-concurso-publico-com-salarios-de-ate-4300",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 22,
-   "cadastro_reserva": false,
-   "salario": 4300.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-29",
-   "prazo_texto": "29/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "41682244580d2a12",
@@ -10030,7 +9751,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a87245b3df26ef78",
