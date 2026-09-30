@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T06:47:43+00:00",
+ "gerado_em": "2026-09-30T13:49:22+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 434,
- "novos": 50,
- "encerrados": 12,
+ "novos": 28,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -410,7 +410,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "516bc2c86db8b523",
@@ -734,7 +734,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b67618601396e963",
@@ -756,7 +756,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f3a3c26997ec8e2b",
@@ -1803,7 +1803,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "989f7f251196ed1d",
@@ -2890,7 +2890,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1be37b3325772aab",
@@ -4070,7 +4070,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ffa5f5c59728fccc",
@@ -4262,10 +4262,10 @@
    "novo": false
   },
   {
-   "id": "fa4d5d30d2fa2265",
+   "id": "80325fc079406e99",
    "orgao": "Prefeitura de Tocos do Moji",
-   "titulo": "Prefeitura de Tocos do Moji - MG abre seleção para Agente Comunitário de Saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tocos-do-moji-mg-abre-selecao-para-agente-comunitario-de-saude",
+   "titulo": "Prefeitura de Tocos do Moji - MG retifica edital de processo seletivo para Agente Comunitário de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tocos-do-moji-mg-retifica-edital-de-processo-seletivo-para-agente-comunitario-de-saude",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
    "vagas": 1,
@@ -4277,11 +4277,11 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-09",
-   "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "09 a23/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-30",
+   "prazo_texto": "30/11 a30/12/2026",
+   "visto_em": "2026-09-30T13:49:22+00:00",
+   "novo": true
   },
   {
    "id": "8032de0439888269",
@@ -4688,7 +4688,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8f0b83f571aefb38",
@@ -4710,7 +4710,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1d0e9b4e57b05dcf",
@@ -5041,7 +5041,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "02f75efd190475cc",
@@ -5351,7 +5351,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bf089f184a1cdf6f",
@@ -5654,7 +5654,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b46e461e452daeb",
@@ -5970,7 +5970,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c93be702d7019aeb",
@@ -5994,7 +5994,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "01 a16/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0a5d20499dd2ae4e",
@@ -7160,7 +7160,7 @@
    "inscricoes_ate": "2026-10-01",
    "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3230e0b0e1f4c02a",
@@ -7447,7 +7447,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "992d967a068cdb09",
@@ -7557,7 +7557,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2969da1d770a7ebb",
@@ -7705,7 +7705,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9240f76268a80982",
@@ -8245,7 +8245,7 @@
    "inscricoes_ate": "2026-10-05",
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fb17baa3e747c7b0",
@@ -8969,7 +8969,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "41682244580d2a12",
@@ -9039,7 +9039,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f2482edee5cbbcc6",
@@ -9135,7 +9135,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0b055cd40001a790",
@@ -9702,7 +9702,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "547c02a98f4c5235",
@@ -9797,7 +9797,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e152857c7221f460",
