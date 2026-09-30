@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-09-30T19:25:57+00:00",
+ "gerado_em": "2026-09-30T23:54:38+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 452,
- "novos": 46,
+ "total": 459,
+ "novos": 53,
  "encerrados": 0,
  "concursos": [
   {
@@ -824,6 +824,29 @@
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "bdf9817bf510d233",
+   "orgao": "Prefeitura da Estância Turística de Ibitinga",
+   "titulo": "Prefeitura de Ibitinga - SP abre concurso público com vagas em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 2755.3,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-03",
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "03 a18/10/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
+   "novo": true
   },
   {
    "id": "4e11e92df823e518",
@@ -4964,6 +4987,31 @@
    "novo": false
   },
   {
+   "id": "35cc856741a81e0c",
+   "orgao": "SESA - Secretaria da Saúde",
+   "titulo": "SESA - ES abre processos seletivos para diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/sesa-es-abre-processos-seletivos-para-diversas-areas",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 12689.93,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-06",
+   "prazo_texto": "06/10/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
+   "novo": true
+  },
+  {
    "id": "fc9dbe351e84f147",
    "orgao": "Câmara de Rio Azul",
    "titulo": "Câmara de Rio Azul - PR abre concurso com salários de até R$ 5.275,16",
@@ -6824,6 +6872,30 @@
    "novo": false
   },
   {
+   "id": "55f84c39a51f6033",
+   "orgao": "Prefeitura de Braço do Norte",
+   "titulo": "Prefeitura de Braço do Norte - SC abre seleção para a Secretaria de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-selecao-para-a-secretaria-de-saude",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 4703.1,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "14/10/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
+   "novo": true
+  },
+  {
    "id": "a82e54387aa54405",
    "orgao": "Prefeitura de Caçador",
    "titulo": "Prefeitura de Caçador - SC abre seleção para cadastro de reserva na educação",
@@ -7436,6 +7508,28 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "01 a09/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
+   "id": "cd4395053e0e224e",
+   "orgao": "Prefeitura de Rio das Antas",
+   "titulo": "Prefeitura de Rio das Antas - SC abre processo seletivo para Agente Comunitário de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-06",
+   "prazo_texto": "06/10/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": true
   },
   {
@@ -8996,6 +9090,31 @@
    "novo": true
   },
   {
+   "id": "7ce5e21e6dcce188",
+   "orgao": "Prefeitura de Porto Velho",
+   "titulo": "Prefeitura de Porto Velho - RO abre concurso com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-velho-ro-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 2098,
+   "cadastro_reserva": false,
+   "salario": 9828.19,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "13/10 a11/11/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
+   "novo": true
+  },
+  {
    "id": "9b2f62ac9035e31a",
    "orgao": "ADEAL - Agência de Defesa e Inspeção Agropecuária de Alagoas",
    "titulo": "ADEAL abre concurso público para cargos de Fiscal Estadual Agropecuário",
@@ -9665,6 +9784,52 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "05 a14/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
+   "id": "edeecc7f09274b5f",
+   "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
+   "titulo": "SEAP - MA abre seleções para auxiliares penitenciários em Imperatriz",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecoes-para-auxiliares-penitenciarios-em-imperatriz",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1822.34,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Penitenciário Temporário",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "05 a14/10/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
+   "novo": true
+  },
+  {
+   "id": "1067e115a7b7b407",
+   "orgao": "Câmara de Guarabira",
+   "titulo": "Câmara de Guarabira - PB abre concurso público com salários de até R$ 3.354,70",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-guarabira-pb-abre-concurso-publico-com-salarios-de-ate-3354",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 3354.7,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "21/10 a22/11/2026",
+   "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": true
   },
   {
