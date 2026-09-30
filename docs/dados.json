@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T13:49:22+00:00",
+ "gerado_em": "2026-09-30T19:25:57+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 434,
- "novos": 28,
- "encerrados": 1,
+ "total": 452,
+ "novos": 46,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1084,6 +1084,30 @@
    "novo": false
   },
   {
+   "id": "87d951f09b253383",
+   "orgao": "Prefeitura de Cachoeira Paulista",
+   "titulo": "Prefeitura de Cachoeira Paulista - SP abre processo seletivo com salários de até R$ 10.073,41",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cachoeira-paulista-sp-abre-processo-seletivo-com-salarios-de-ate-10073",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 36,
+   "cadastro_reserva": false,
+   "salario": 10073.41,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "4726acbb82833627",
    "orgao": "Prefeitura de Caiabu",
    "titulo": "Prefeitura de Caiabu - SP abre concurso público com salários de até R$ 5.825,26",
@@ -1404,6 +1428,29 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
+  },
+  {
+   "id": "365c73cae449bcfe",
+   "orgao": "Prefeitura de Lorena",
+   "titulo": "Prefeitura de Lorena - SP abre concurso com salários de até R$ 8.890,46",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lorena-sp-abre-concurso-com-salarios-de-ate-8890",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 8890.46,
+   "salario_por_hora": false,
+   "cargos": "Agente de Atendimento Especial, Médico Psiquiatra, Tesoureiro",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "094bcac254f4e1f5",
@@ -2433,6 +2480,28 @@
    "novo": false
   },
   {
+   "id": "ee13e4996fbf8c83",
+   "orgao": "Câmara de Lajinha",
+   "titulo": "Câmara de Lajinha - MG abre concurso público para o cargo de Controlador Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-lajinha-mg-abre-concurso-publico-para-o-cargo-de-controlador-interno",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3800.0,
+   "salario_por_hora": false,
+   "cargos": "Controlador Interno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-29",
+   "prazo_texto": "30/11 a29/12/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "c07f95b4f6fe5306",
    "orgao": "Câmara de Lambari",
    "titulo": "Câmara de Lambari - MG abre concurso público com salários de até R$ 5.500,00",
@@ -2595,6 +2664,29 @@
    "novo": false
   },
   {
+   "id": "66c1f15a2c0d9b03",
+   "orgao": "Câmara de Serranos",
+   "titulo": "Câmara de Serranos - MG abre vagas para Agente Administrativo, Auxiliar Técnico Legislativo e Contador",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-serranos-mg-abre-vagas-para-agente-administrativo-auxiliar-tecnico-legislativo-e-contador",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 3280.6,
+   "salario_por_hora": false,
+   "cargos": "Agente Administrativo, Auxiliar Técnico Legislativo, Contador",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-01",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "01/12/2026 a04/01/2027",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "a4ee8eca76d12d81",
    "orgao": "Câmara de Tiradentes",
    "titulo": "Câmara de Tiradentes - MG abre concurso público para Controlador Interno e Tesoureiro",
@@ -2727,6 +2819,28 @@
    "prazo_texto": "05/10 a05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "49e5af5c5ffaa332",
+   "orgao": "DEMLURB - Departamento Municipal de Limpeza Urbana",
+   "titulo": "DEMLURB Juiz de Fora - MG abre seleções para Auxiliar de Serviços e Operador de Máquinas I",
+   "url": "https://www.pciconcursos.com.br/noticias/demlurb-juiz-de-fora-mg-abre-selecoes-para-auxiliar-de-servicos-e-operador-de-maquinas-i",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2392.82,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços, Operador de Máquinas I",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-14",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "14 a16/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "bf81f6effe989398",
@@ -4026,6 +4140,53 @@
    "novo": true
   },
   {
+   "id": "02b699512be03d5a",
+   "orgao": "Prefeitura de Salto da Divisa",
+   "titulo": "Prefeitura de Salto da Divisa - MG abre seleção para Agentes de Saúde e de Endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-da-divisa-mg-abre-selecao-para-agentes-de-saude-e-de-endemias",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 21,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-01",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "01/12/2026 a04/01/2027",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
+   "id": "0f6e596191e4702b",
+   "orgao": "Prefeitura de Santa Luzia",
+   "titulo": "Prefeitura de Santa Luzia - MG abre concurso público com salários de até R$ 8.628,87",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-mg-abre-concurso-publico-com-salarios-de-ate-8628",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 454,
+   "cadastro_reserva": false,
+   "salario": 8628.87,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-17",
+   "inscricoes_ate": "2027-01-15",
+   "prazo_texto": "17/12/2026 a15/01/2027",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "0f78959eec777ee6",
    "orgao": "Prefeitura de Santana de Pirapama",
    "titulo": "Prefeitura de Santana de Pirapama - MG abre concurso com salários de até R$ 6.221,41",
@@ -4577,6 +4738,28 @@
    "novo": false
   },
   {
+   "id": "5e2e3bcf4544878e",
+   "orgao": "Prefeitura de Fundão",
+   "titulo": "Prefeitura de Fundão - ES abre processo seletivo para Guarda-Parque",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fundao-es-abre-processo-seletivo-para-guarda-parque",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 1673.6,
+   "salario_por_hora": false,
+   "cargos": "Guarda-Parque",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "01 a05/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "417637838a177b48",
    "orgao": "Prefeitura de Ibiraçu",
    "titulo": "Prefeitura de Ibiraçu - ES publica edital retificado de processo seletivo para a área da educação",
@@ -4600,6 +4783,28 @@
    "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "87454eb0a73944e8",
+   "orgao": "Prefeitura de João Neiva",
+   "titulo": "Prefeitura de João Neiva - ES abre processo seletivo para profissionais de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-neiva-es-abre-processo-seletivo-para-profissionais-de-saude",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4393.45,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "05 a09/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "a242b8026c22c908",
@@ -5092,6 +5297,30 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6b8560fccddafbd8",
+   "orgao": "Prefeitura de Flor da Serra do Sul",
+   "titulo": "Prefeitura de Flor da Serra do Sul - PR abre processo seletivo com salários de até R$ 4.969,40",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-flor-da-serra-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-4969",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 4969.4,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "01 a15/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "d8a1a2285f95c866",
@@ -5702,6 +5931,31 @@
    "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "7e4e2ff109a6295a",
+   "orgao": "Prefeitura de Coqueiro Baixo",
+   "titulo": "Prefeitura de Coqueiro Baixo - RS abre concurso com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiro-baixo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 3815.17,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "e28de26e4ca86a5a",
@@ -7163,6 +7417,28 @@
    "novo": false
   },
   {
+   "id": "8ba77772706b673a",
+   "orgao": "Prefeitura de Rancho Queimado",
+   "titulo": "Prefeitura de Rancho Queimado - SC abre seleção com vaga para Agente Operacional I",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-com-vaga-para-agente-operacional-i",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2066.79,
+   "salario_por_hora": false,
+   "cargos": "Agente Operacional I",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-01",
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "01 a09/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "3230e0b0e1f4c02a",
    "orgao": "Prefeitura de São Domingos",
    "titulo": "Prefeitura de São Domingos - SC abre concurso público com salários de até R$ 7.949,24",
@@ -7560,6 +7836,31 @@
    "novo": false
   },
   {
+   "id": "e2b077a609e5dd2a",
+   "orgao": "Câmara de Cristalina",
+   "titulo": "Câmara de Cristalina - GO abre concurso público com salários de até R$ 8.383,20",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cristalina-go-abre-concurso-publico-com-salarios-de-ate-8383",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 36,
+   "cadastro_reserva": true,
+   "salario": 8383.2,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "29/10 a18/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "2969da1d770a7ebb",
    "orgao": "Câmara de Mutunópolis",
    "titulo": "Câmara de Mutunópolis - GO abre concurso com salários de até R$ 5.000,00",
@@ -7656,6 +7957,30 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "21aea01c329eb7ce",
+   "orgao": "Prefeitura de Aparecida de Goiânia",
+   "titulo": "Prefeitura de Aparecida de Goiânia - GO abre concurso público com vagas na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aparecida-de-goiania-go-abre-concurso-publico-com-vagas-na-area-da-educacao",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 2956,
+   "cadastro_reserva": false,
+   "salario": 4508.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/11 a09/12/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "0fc86e7bb1b964c6",
@@ -9320,6 +9645,29 @@
    "novo": false
   },
   {
+   "id": "0877c8012b88bdaf",
+   "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
+   "titulo": "SEAP - MA abre seleções para o cargo de Auxiliar Penitenciário em Grajaú e Coroatá",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecoes-para-o-cargo-de-auxiliar-penitenciario-em-grajau-e-coroata",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1822.34,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Penitenciário Masculino, Auxiliar Penitenciário Feminino",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "05 a14/10/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "23dc99ecb7236ebe",
    "orgao": "Câmara de São José do Sabugi",
    "titulo": "Câmara de São José do Sabugi - PB abre concurso público com 11 vagas",
@@ -9584,6 +9932,52 @@
    "novo": false
   },
   {
+   "id": "88c181e160f75a5b",
+   "orgao": "CBM - Corpo de Bombeiros Militar de Pernambuco",
+   "titulo": "Secretaria de Defesa Social - PE anuncia concurso com 570 vagas para Bombeiros",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-pe-anuncia-concurso-com-570-vagas-para-bombeiros",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 570,
+   "cadastro_reserva": false,
+   "salario": 12937.33,
+   "salario_por_hora": false,
+   "cargos": "Soldado do Corpo de Bombeiros Militar, 2º Tenente do Corpo de Bombeiros Militar",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/10 a05/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
+   "id": "2821a321b9c422b0",
+   "orgao": "PMPE - Polícia Militar de Pernambuco",
+   "titulo": "PMPE abre concurso público para soldados e oficiais",
+   "url": "https://www.pciconcursos.com.br/noticias/pmpe-abre-concurso-publico-para-soldados-e-oficiais",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 1320,
+   "cadastro_reserva": false,
+   "salario": 12937.33,
+   "salario_por_hora": false,
+   "cargos": "Soldado, 2º Tenente",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/10 a05/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
+  },
+  {
    "id": "4b9d33e47701497b",
    "orgao": "Prefeitura de Belo Jardim",
    "titulo": "Prefeitura de Belo Jardim - PE abre concurso público com vagas para diversas secretarias",
@@ -9703,6 +10097,28 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "d01edb83a6e711ee",
+   "orgao": "UPE - Universidade de Pernambuco",
+   "titulo": "Universidade de Pernambuco abre concurso público para o cargo de Advogado",
+   "url": "https://www.pciconcursos.com.br/noticias/universidade-de-pernambuco-abre-concurso-publico-para-o-cargo-de-advogado",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4165.25,
+   "salario_por_hora": false,
+   "cargos": "Advogado",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-02",
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/10 a02/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
+   "novo": true
   },
   {
    "id": "547c02a98f4c5235",
