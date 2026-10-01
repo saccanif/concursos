@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-09-30T23:54:38+00:00",
+ "gerado_em": "2026-10-01T06:03:28+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 459,
- "novos": 53,
- "encerrados": 0,
+ "total": 442,
+ "novos": 45,
+ "encerrados": 17,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -546,7 +546,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "05 a26/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "105415fbacc264e9",
@@ -774,9 +774,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "01 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -1031,30 +1031,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "da255d3c00f8fa85",
-   "orgao": "Prefeitura de Buri",
-   "titulo": "Prefeitura de Buri - SP abre processos seletivos com salários de até R$ 6.208,41",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-buri-sp-abre-processos-seletivos-com-salarios-de-ate-6208",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 6208.41,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -1898,30 +1874,6 @@
    "novo": false
   },
   {
-   "id": "4ddcb7c9c6098c0b",
-   "orgao": "Prefeitura do Município de Santana de Parnaíba",
-   "titulo": "Prefeitura de Santana de Parnaíba - SP abre seleções para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-parnaiba-sp-abre-selecoes-para-cadastro-de-reserva",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 14975.66,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "078b8e88745d1496",
    "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
    "titulo": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
@@ -2033,9 +1985,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "01 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2055,9 +2007,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "01 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2202,30 +2154,6 @@
    "novo": false
   },
   {
-   "id": "7bd95bab52f4a5b9",
-   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
-   "titulo": "RioSaúde - RJ abre seleção para Técnico de Eletroencefalograma e Técnico Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-selecao-para-tecnico-de-eletroencefalograma-e-tecnico-administrativo",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3005.34,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Eletroencefalograma, Técnico Administrativo",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
    "id": "061e0e3d2a0dc461",
    "orgao": "UFRRJ - Universidade Federal Rural do Rio de Janeiro",
    "titulo": "UFRRJ publica edital de concurso público para cargos de nível médio e técnico",
@@ -2358,9 +2286,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "Prorrogado de01/10 a10/11/2026",
+   "prazo_texto": "Prorrogado até10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
   },
@@ -3266,28 +3194,6 @@
    "novo": false
   },
   {
-   "id": "eca8b8597637f31f",
-   "orgao": "Prefeitura de Catas Altas",
-   "titulo": "Prefeitura de Catas Altas - MG abre processo seletivo para Monitor Escolar",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catas-altas-mg-abre-processo-seletivo-para-monitor-escolar",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 1841.7,
-   "salario_por_hora": false,
-   "cargos": "Monitor Escolar",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "a8167cd8cd3b30b3",
    "orgao": "Prefeitura de Cláudio",
    "titulo": "Prefeitura de Cláudio - MG divulga Processo Seletivo para Fisioterapeuta",
@@ -3461,9 +3367,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "01 a06/10/2026",
+   "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -3765,7 +3671,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d7651ed07285ca51",
@@ -3880,28 +3786,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-04",
    "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "cad264331379fe0a",
-   "orgao": "Prefeitura de Paraisópolis",
-   "titulo": "Prefeitura de Paraisópolis - MG abre vaga para Agente Administrativo I",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraisopolis-mg-abre-vaga-para-agente-administrativo-i",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2310.09,
-   "salario_por_hora": false,
-   "cargos": "Agente Administrativo I",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4160,7 +4044,7 @@
    "inscricoes_ate": "2026-10-06",
    "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "02b699512be03d5a",
@@ -4372,7 +4256,7 @@
    "inscricoes_ate": "2026-12-30",
    "prazo_texto": "30/11 a30/12/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ca74b75cc32dd5c1",
@@ -4776,36 +4660,11 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-05",
-   "prazo_texto": "01 a05/10/2026",
+   "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": true
-  },
-  {
-   "id": "417637838a177b48",
-   "orgao": "Prefeitura de Ibiraçu",
-   "titulo": "Prefeitura de Ibiraçu - ES publica edital retificado de processo seletivo para a área da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiracu-es-publica-edital-retificado-de-processo-seletivo-para-a-area-da-educacao",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": 10,
-   "cadastro_reserva": false,
-   "salario": 5490.99,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "87454eb0a73944e8",
@@ -4852,28 +4711,6 @@
    "novo": false
   },
   {
-   "id": "0f90b57d8cf38d54",
-   "orgao": "Prefeitura de Santa Teresa",
-   "titulo": "Prefeitura de Santa Teresa - ES abre processos seletivos para professores habilitados e não habilitados",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-teresa-es-abre-processos-seletivos-para-professores-habilitados-e-nao-habilitados",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 4301.84,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "0ce29cb15ed16cce",
    "orgao": "Prefeitura de São Gabriel da Palha",
    "titulo": "Prefeitura de São Gabriel da Palha - ES abre vagas para Servente, Merendeira e Cuidador",
@@ -4890,9 +4727,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-08",
-   "prazo_texto": "01 a08/10/2026",
+   "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
@@ -4980,9 +4817,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
-   "prazo_texto": "01 a02/10/2026",
+   "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
@@ -5198,9 +5035,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-20",
-   "prazo_texto": "01 a20/10/2026",
+   "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
@@ -5364,9 +5201,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-15",
-   "prazo_texto": "01 a15/10/2026",
+   "prazo_texto": "15/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": true
   },
@@ -5390,7 +5227,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5c7bfd9dd8daff17",
@@ -5703,28 +5540,6 @@
    "novo": false
   },
   {
-   "id": "6f92da3a11a3cf6f",
-   "orgao": "Câmara de Vereadores de Santa Bárbara do Sul",
-   "titulo": "Câmara de Santa Bárbara do Sul - RS abre concurso público para Servente Interna",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-barbara-do-sul-rs-abre-concurso-publico-para-servente-interna",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2264.25,
-   "salario_por_hora": false,
-   "cargos": "Servente Interna",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "819e002a7c889b5f",
    "orgao": "Comando do 5º Distrito Naval da Marinha do Brasil",
    "titulo": "Marinha do Brasil - 5º Distrito Naval abre seleção para Oficiais Médicos Temporários no RS",
@@ -5959,28 +5774,6 @@
    "novo": false
   },
   {
-   "id": "63f142905d9cc021",
-   "orgao": "Prefeitura de Canguçu",
-   "titulo": "Prefeitura de Canguçu - RS abre seleção para Auxiliar em Saúde Bucal",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cangucu-rs-abre-selecao-para-auxiliar-em-saude-bucal",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1683.64,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar em Saúde Bucal",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "7e4e2ff109a6295a",
    "orgao": "Prefeitura de Coqueiro Baixo",
    "titulo": "Prefeitura de Coqueiro Baixo - RS abre concurso com vagas imediatas e cadastro de reserva",
@@ -6006,28 +5799,6 @@
    "novo": true
   },
   {
-   "id": "e28de26e4ca86a5a",
-   "orgao": "Prefeitura de Doutor Maurício Cardoso",
-   "titulo": "Prefeitura de Doutor Maurício Cardoso - RS abre seleção para Técnico em Enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-mauricio-cardoso-rs-abre-selecao-para-tecnico-em-enfermagem",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2381.51,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "01d5b4dab0c1250e",
    "orgao": "Prefeitura de Ibirubá",
    "titulo": "Prefeitura de Ibirubá - RS abre processo seletivo para Auxiliar de Ensino",
@@ -6046,28 +5817,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "98d4958f23f887e0",
-   "orgao": "Prefeitura de Itaara",
-   "titulo": "Prefeitura de Itaara - RS abre vagas para Monitores de Inclusão Escolar",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaara-rs-abre-vagas-para-monitores-de-inclusao-escolar",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 2860.8,
-   "salario_por_hora": false,
-   "cargos": "Monitor de Inclusão Escolar",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6182,7 +5931,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "05 a09/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "da71970aa5f254a9",
@@ -6292,9 +6041,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "01 a16/10/2026",
+   "prazo_texto": "16/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
   },
@@ -6458,28 +6207,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "8b69d13463cc5940",
-   "orgao": "AMESC - Associação dos Municípios do Extremo Sul Catarinense",
-   "titulo": "AMESC - SC abre seleção para o cargo de Auxiliar Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/amesc-sc-abre-selecao-para-o-cargo-de-auxiliar-administrativo",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2800.0,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar Administrativo",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -6684,7 +6411,7 @@
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7bfc21dc22d7a9c2",
@@ -6707,29 +6434,6 @@
    "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
    "novo": true
-  },
-  {
-   "id": "b985e70df037da58",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-   "titulo": "FAHECE - SC anuncia vaga para Técnico em Radioterapia em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-em-radioterapia-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3928.47,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Radioterapia I",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
   },
   {
    "id": "e29ac206b5f863b5",
@@ -7504,9 +7208,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "01 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": true
   },
@@ -8166,9 +7870,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-08",
-   "prazo_texto": "01 a08/10/2026",
+   "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
   },
@@ -8378,9 +8082,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "01 a22/10/2026",
+   "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8427,9 +8131,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-02",
-   "prazo_texto": "01 a02/10/2026",
+   "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8520,9 +8224,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "01 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -8545,9 +8249,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "01 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8664,31 +8368,6 @@
    "inscricoes_ate": "2026-10-05",
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
-   "id": "fb17baa3e747c7b0",
-   "orgao": "Prefeitura de Sapezal",
-   "titulo": "Prefeitura de Sapezal - MT abre processo seletivo com salários de até R$ 7.313,43",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sapezal-mt-abre-processo-seletivo-com-salarios-de-ate-7313",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 7313.43,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8871,9 +8550,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "01/10 a04/11/2026",
+   "prazo_texto": "04/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
   },
@@ -8970,31 +8649,6 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
-  },
-  {
-   "id": "7c1a48ade3e58256",
-   "orgao": "SESPA - Secretaria de Estado de Saúde Pública",
-   "titulo": "SESPA - PA abre seleção com vagas para o Hospital Regional de Cametá",
-   "url": "https://www.pciconcursos.com.br/noticias/sespa-pa-abre-selecao-com-vagas-para-o-hospital-regional-de-cameta",
-   "uf": "PA",
-   "uf_nome": "Pará",
-   "vagas": 150,
-   "cadastro_reserva": false,
-   "salario": 4547.45,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-29T15:56:49+00:00",
    "novo": true
   },
   {
@@ -9199,9 +8853,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-01",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-01",
-   "prazo_texto": "01/10 a01/11/2026",
+   "prazo_texto": "01/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": true
   },
@@ -9719,28 +9373,6 @@
    "novo": false
   },
   {
-   "id": "d2da9f3cefe640b0",
-   "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
-   "titulo": "SEAP - MA abre seleção para Especialista Penitenciário em Psicologia em Governador Nunes Freire",
-   "url": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecao-para-especialista-penitenciario-em-psicologia-em-governador-nunes-freire",
-   "uf": "MA",
-   "uf_nome": "Maranhão",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3644.68,
-   "salario_por_hora": false,
-   "cargos": "Especialista Penitenciário em Psicologia",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "6fd8637b1b4cc1a9",
    "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
    "titulo": "SEAP - MA abre processos seletivos para Agente e Auxiliar Penitenciário",
@@ -10020,31 +9652,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "3af881e07f43a3b7",
-   "orgao": "Prefeitura de Poço Dantas",
-   "titulo": "Prefeitura de Poço Dantas - PB abre concurso público com salários de até R$ 15.000,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poco-dantas-pb-abre-concurso-publico-com-salarios-de-ate-15000",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 84,
-   "cadastro_reserva": false,
-   "salario": 15000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-09-30",
-   "prazo_texto": "30/09/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
