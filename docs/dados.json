@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-01T13:25:31+00:00",
+ "gerado_em": "2026-10-01T19:35:23+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 447,
- "novos": 31,
+ "total": 453,
+ "novos": 37,
  "encerrados": 0,
  "concursos": [
   {
@@ -4645,6 +4645,50 @@
    "novo": false
   },
   {
+   "id": "094c6af4de18320c",
+   "orgao": "HEVV - Hospital Evangélico de Vila Velha",
+   "titulo": "Hospital Evangélico de Vila Velha - ES abre seleção para residência e especialização médica",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-vila-velha-es-abre-selecao-para-residencia-e-especializacao-medica",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 40,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
+  },
+  {
+   "id": "3116072ab8212a55",
+   "orgao": "PMES - Polícia Militar do Espírito Santo",
+   "titulo": "PMES - ES abre seleção para técnicos em laboratório e farmácia",
+   "url": "https://www.pciconcursos.com.br/noticias/pmes-es-abre-selecao-para-tecnicos-em-laboratorio-e-farmacia",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 2985.86,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Laboratório/Análises Clínicas, Técnico em Farmácia",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
+  },
+  {
    "id": "1ece434712edd43c",
    "orgao": "Prefeitura de Anchieta",
    "titulo": "Prefeitura de Anchieta - ES abre concurso público para professores",
@@ -5796,6 +5840,29 @@
    "novo": false
   },
   {
+   "id": "6b703332f0aafccf",
+   "orgao": "Prefeitura de Cerro Largo",
+   "titulo": "Prefeitura de Cerro Largo - RS abre processos seletivos para engenheiro civil e visitador do PIM",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-largo-rs-abre-processos-seletivos-para-engenheiro-civil-e-visitador-do-pim",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5437.56,
+   "salario_por_hora": false,
+   "cargos": "Engenheiro Civil, Visitador do PIM",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
+  },
+  {
    "id": "7e4e2ff109a6295a",
    "orgao": "Prefeitura de Coqueiro Baixo",
    "titulo": "Prefeitura de Coqueiro Baixo - RS abre concurso com vagas imediatas e cadastro de reserva",
@@ -6573,6 +6640,31 @@
    "novo": false
   },
   {
+   "id": "bb6b5cbe62aa012f",
+   "orgao": "Prefeitura de Águas Mornas",
+   "titulo": "Prefeitura de Águas Mornas - SC abre concurso e processo seletivo com salários de até R$ 10.109,68",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-mornas-sc-abre-concurso-e-processo-seletivo-com-salarios-de-ate-10109",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 10109.68,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-02",
+   "inscricoes_ate": "2026-10-31",
+   "prazo_texto": "02 a31/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
+  },
+  {
    "id": "f9bf38f356d64c3c",
    "orgao": "Prefeitura de Balneário Piçarras",
    "titulo": "Prefeitura de Balneário Piçarras - SC abre seleções com salários de até R$ 22.936,56",
@@ -6737,6 +6829,31 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "00ba5e3b7ed34f6f",
+   "orgao": "Prefeitura de Descanso",
+   "titulo": "Prefeitura de Descanso - SC abre processos seletivos com salários de até R$ 21.965,25",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-descanso-sc-abre-processos-seletivos-com-salarios-de-ate-21965",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 21965.25,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
   },
   {
    "id": "11735f30c98c2833",
@@ -9462,6 +9579,28 @@
    "prazo_texto": "01/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "73fad40792270f23",
+   "orgao": "Secretaria Municipal de Saúde de Fortim",
+   "titulo": "Prefeitura de Fortim - CE abre processo seletivo para Fisioterapeuta",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fortim-ce-abre-processo-seletivo-para-fisioterapeuta",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2800.0,
+   "salario_por_hora": false,
+   "cargos": "Fisioterapeuta",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "05/10/2026",
+   "visto_em": "2026-10-01T19:35:23+00:00",
+   "novo": true
   },
   {
    "id": "c630f9968c128dda",
