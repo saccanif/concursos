@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-01T19:35:23+00:00",
+ "gerado_em": "2026-10-01T23:55:52+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 453,
- "novos": 37,
+ "total": 462,
+ "novos": 46,
  "encerrados": 0,
  "concursos": [
   {
@@ -2750,6 +2750,30 @@
    "novo": false
   },
   {
+   "id": "ff26e4b2da08db7d",
+   "orgao": "CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço",
+   "titulo": "CIMME - MG abre processo seletivo com salários de até R$ 3.749,00",
+   "url": "https://www.pciconcursos.com.br/noticias/cimme-mg-abre-processo-seletivo-com-salarios-de-ate-3749",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 3749.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-12",
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "12 a19/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
+  },
+  {
    "id": "18a2f7414cf20bda",
    "orgao": "CIS-VERDE - Consórcio Intermunicipal Multifinalitário",
    "titulo": "CIS-VERDE - MG abre processo seletivo para Assistente Administrativo",
@@ -2794,6 +2818,31 @@
    "novo": false
   },
   {
+   "id": "9e65b87bdb49b46e",
+   "orgao": "CISURG Saúde Médio Piracicaba",
+   "titulo": "CISURG Médio Piracicaba - MG abre processo seletivo com salários de até R$ 10.967,31",
+   "url": "https://www.pciconcursos.com.br/noticias/cisurg-medio-piracicaba-mg-abre-processo-seletivo-com-salarios-de-ate-10967",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 33,
+   "cadastro_reserva": false,
+   "salario": 10967.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-06",
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "06 a20/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
+  },
+  {
    "id": "49e5af5c5ffaa332",
    "orgao": "DEMLURB - Departamento Municipal de Limpeza Urbana",
    "titulo": "DEMLURB Juiz de Fora - MG abre seleções para Auxiliar de Serviços e Operador de Máquinas I",
@@ -2836,6 +2885,28 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "7d7c35fc4b65571f",
+   "orgao": "DME - Empresas DME",
+   "titulo": "Empresas DME - MG abrem processo seletivo para aprendizes na área administrativa",
+   "url": "https://www.pciconcursos.com.br/noticias/empresas-dme-mg-abrem-processo-seletivo-para-aprendizes-na-area-administrativa",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Aprendiz",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
   },
   {
    "id": "a0fdc6e3b0af6bdf",
@@ -4867,6 +4938,28 @@
    "novo": false
   },
   {
+   "id": "a3d2cc5d2f4bed9c",
+   "orgao": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
+   "titulo": "SAMU 192 - ES abre processo seletivo para o cargo de telefonista auxiliar de regulação médica",
+   "url": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processo-seletivo-para-o-cargo-de-telefonista-auxiliar-de-regulacao-medica",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 1933.15,
+   "salario_por_hora": false,
+   "cargos": "Telefonista Auxiliar de Regulação Médica",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-11",
+   "prazo_texto": "11/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
+  },
+  {
    "id": "9769d6295cf9c2f3",
    "orgao": "SEMTAC - Secretaria Municipal de Trabalho, Assistência e Cidadania de Guarapari",
    "titulo": "Prefeitura de Guarapari - ES abre seleção para formação de cadastro de reserva",
@@ -6113,6 +6206,31 @@
    "novo": false
   },
   {
+   "id": "6dcc3429c5342fa6",
+   "orgao": "Prefeitura de Panambi",
+   "titulo": "Prefeitura de Panambi - RS abre concurso público com salários de até R$ 5.388,99",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panambi-rs-abre-concurso-publico-com-salarios-de-ate-5388",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 31,
+   "cadastro_reserva": false,
+   "salario": 5388.99,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "28/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
+  },
+  {
    "id": "c93be702d7019aeb",
    "orgao": "Prefeitura de Pinhal da Serra",
    "titulo": "Prefeitura de Pinhal da Serra - RS abre concurso com salários de até R$ 22.223,98",
@@ -6483,6 +6601,30 @@
    "novo": false
   },
   {
+   "id": "74e68e0256301b84",
+   "orgao": "Consórcio Intermunicipal de Serviços de Acolhimento da Região da AMURC",
+   "titulo": "Consórcio Intermunicipal da Região da AMURC - SC abre processo seletivo para diversos níveis",
+   "url": "https://www.pciconcursos.com.br/noticias/consorcio-intermunicipal-da-regiao-da-amurc-sc-abre-processo-seletivo-para-diversos-niveis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 4902.94,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
+  },
+  {
    "id": "514e9b84f15b7914",
    "orgao": "CONSÓRCIO LAMBARI - Consórcio Intermunicipal Multifinalitário do Alto Uruguai Catarinense",
    "titulo": "Consórcio Lambari - SC abre concurso público para Auxiliar Administrativo",
@@ -6569,6 +6711,28 @@
    "prazo_texto": "01/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "375d29762eaa17ca",
+   "orgao": "HEMOSC - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2507.23,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem I",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
   },
   {
    "id": "f19fbb4859494fb0",
@@ -7540,6 +7704,30 @@
    "prazo_texto": "10/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "fb13a05ecdabfa3e",
+   "orgao": "Prefeitura de Serra Alta",
+   "titulo": "Prefeitura de Serra Alta - SC abre concurso com salários de até R$ 9.903,40",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-alta-sc-abre-concurso-com-salarios-de-ate-9903",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 23,
+   "cadastro_reserva": false,
+   "salario": 9903.4,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-02",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "02 a30/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
   },
   {
    "id": "aab0142bb8405984",
@@ -8672,6 +8860,28 @@
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "e60d32b77f0fef99",
+   "orgao": "TCE - Tribunal de Contas do Estado do Acre",
+   "titulo": "TCE - AC reabre concurso para Auditor - Conselheiro Substituto",
+   "url": "https://www.pciconcursos.com.br/noticias/tce-ac-reabre-concurso-para-auditor-conselheiro-substituto",
+   "uf": "AC",
+   "uf_nome": "Acre",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 39753.22,
+   "salario_por_hora": false,
+   "cargos": "Auditor - Conselheiro Substituto",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "Reabertura de05 a26/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": true
   },
   {
    "id": "262fe65b628ec075",
