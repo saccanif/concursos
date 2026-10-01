@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-01T06:03:28+00:00",
+ "gerado_em": "2026-10-01T13:25:31+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 442,
- "novos": 45,
- "encerrados": 17,
+ "total": 447,
+ "novos": 31,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -778,7 +778,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "03d4989e5ebee11c",
@@ -801,6 +801,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "5bbfd45276297312",
+   "orgao": "Município da Estância Balneária de Praia Grande",
+   "titulo": "Prefeitura de Praia Grande - SP abre processo seletivo para residência multiprofissional",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sp-abre-processo-seletivo-para-residencia-multiprofissional",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 28,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Fisioterapeuta, Odontólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-01T13:25:31+00:00",
+   "novo": true
   },
   {
    "id": "11afeeb247b5cf63",
@@ -1520,7 +1542,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "76cf8f53d211d56a",
@@ -3371,7 +3393,7 @@
    "inscricoes_ate": "2026-10-06",
    "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b50c6d51f7f686f",
@@ -3393,7 +3415,7 @@
    "inscricoes_ate": "2026-10-05",
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "982e21471bf23940",
@@ -3862,7 +3884,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b1a2a250157bb3ba",
@@ -4798,7 +4820,7 @@
    "inscricoes_ate": "2026-10-11",
    "prazo_texto": "11/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9769d6295cf9c2f3",
@@ -5676,7 +5698,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "Reabertura de13/10 a13/11/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9b6a984568ac5c94",
@@ -5887,7 +5909,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e194c68162803961",
@@ -5955,7 +5977,7 @@
    "inscricoes_ate": "2026-10-02",
    "prazo_texto": "02/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "724572e3fbd4cfd4",
@@ -6116,6 +6138,30 @@
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "c0d251a86e831555",
+   "orgao": "Prefeitura de Torres",
+   "titulo": "Prefeitura de Torres - RS abre seleções para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-selecoes-para-formacao-de-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 7602.21,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-10",
+   "prazo_texto": "10/10/2026",
+   "visto_em": "2026-10-01T13:25:31+00:00",
+   "novo": true
   },
   {
    "id": "4a9dc5ed352880ee",
@@ -6433,7 +6479,7 @@
    "inscricoes_ate": "2026-10-04",
    "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e29ac206b5f863b5",
@@ -6997,7 +7043,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "49c16013491de64b",
@@ -7168,7 +7214,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ecb3a96a9778e2d0",
@@ -7565,7 +7611,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "312088e4a7a84053",
@@ -8228,6 +8274,29 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
+   "novo": false
+  },
+  {
+   "id": "6c69a62b28fa4446",
+   "orgao": "Prefeitura de Boa Esperança do Norte",
+   "titulo": "Prefeitura de Boa Esperança do Norte - MT abre processo seletivo com salários de até R$ 5.895,90",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-esperanca-do-norte-mt-abre-processo-seletivo-com-salarios-de-ate-5895",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5895.9,
+   "salario_por_hora": false,
+   "cargos": "Professor de Escolinha de Iniciação Esportiva, Professor, Monitor de Oficinas",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "05 a26/10/2026",
+   "visto_em": "2026-10-01T13:25:31+00:00",
    "novo": true
   },
   {
@@ -8512,6 +8581,28 @@
    "novo": false
   },
   {
+   "id": "1be92cc5f0e7236c",
+   "orgao": "Prefeitura de Santana",
+   "titulo": "Prefeitura de Santana - AP publica edital de concurso público para guardas civis municipais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-ap-publica-edital-de-concurso-publico-para-guardas-civis-municipais",
+   "uf": "AP",
+   "uf_nome": "Amapá",
+   "vagas": 50,
+   "cadastro_reserva": false,
+   "salario": 2100.0,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal Classe III",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-14",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "14/10 a09/11/2026",
+   "visto_em": "2026-10-01T13:25:31+00:00",
+   "novo": true
+  },
+  {
    "id": "4e3878ce1c1e70d2",
    "orgao": "SEAD/AP - Secretaria de Estado da Administração do Amapá",
    "titulo": "SEAD - AP publica edital de concurso para Delegado e Oficial Investigador de Polícia Civil",
@@ -8649,7 +8740,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "17b0f67a0ea4dbfb",
@@ -8696,7 +8787,7 @@
    "inscricoes_ate": "2026-10-05",
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "30d4d2d9799e027a",
@@ -8741,7 +8832,7 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "13/10 a11/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7ce5e21e6dcce188",
@@ -8857,7 +8948,7 @@
    "inscricoes_ate": "2026-11-01",
    "prazo_texto": "01/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c54d59de2c4b1f82",
@@ -9001,6 +9092,28 @@
    "novo": false
   },
   {
+   "id": "77ef545d520629af",
+   "orgao": "Prefeitura de Palmas de Monte Alto",
+   "titulo": "Prefeitura de Palmas de Monte Alto - BA abre concurso para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmas-de-monte-alto-ba-abre-concurso-para-agentes-comunitarios-de-saude",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-01T13:25:31+00:00",
+   "novo": true
+  },
+  {
    "id": "74f075b1fb19ca7b",
    "orgao": "Prefeitura de Salvador",
    "titulo": "Prefeitura de Salvador - BA abre concurso público para guardas civis municipais",
@@ -9090,7 +9203,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "Reaberto até07/10/2026",
    "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9d768927da6bb81d",
