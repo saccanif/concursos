@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-02T12:43:55+00:00",
+ "gerado_em": "2026-10-02T18:28:29+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 443,
- "novos": 22,
- "encerrados": 1,
+ "total": 455,
+ "novos": 34,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1405,6 +1405,28 @@
    "novo": false
   },
   {
+   "id": "90274a2e1fe5041b",
+   "orgao": "Prefeitura de Lençóis Paulista",
+   "titulo": "Prefeitura de Lençóis Paulista - SP abre concurso público para cargos de nível superior na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-para-cargos-de-nivel-superior-na-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 8644.0,
+   "salario_por_hora": false,
+   "cargos": "Diretor de Escola, Professor de Educação Infantil, Professor de Ensino Fundamental",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-07",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "07/10 a03/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
+  },
+  {
    "id": "365c73cae449bcfe",
    "orgao": "Prefeitura de Lorena",
    "titulo": "Prefeitura de Lorena - SP abre concurso com salários de até R$ 8.890,46",
@@ -1636,6 +1658,29 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "638661db1e471e41",
+   "orgao": "Prefeitura de Santa Adélia",
+   "titulo": "Prefeitura de Santa Adélia - SP abre seleção para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-adelia-sp-abre-selecao-para-profissionais-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 1728.76,
+   "salario_por_hora": false,
+   "cargos": "Apoio Escolar, Professor de Educação Básica I, Professor de Educação Básica II",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "05 a18/10/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "d06f2f962ae78025",
@@ -1878,6 +1923,28 @@
    "novo": false
   },
   {
+   "id": "87a8aca832eceafa",
+   "orgao": "SEFAZ - Secretaria da Fazenda e Planejamento",
+   "titulo": "SEFAZ - SP abre concurso público para Analista em Planejamento, Orçamento e Finanças Públicas",
+   "url": "https://www.pciconcursos.com.br/noticias/sefaz-sp-abre-concurso-publico-para-analista-em-planejamento-orcamento-e-financas-publicas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 11359.5,
+   "salario_por_hora": false,
+   "cargos": "Analista em Planejamento, Orçamento e Finanças Públicas",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "05/10 a03/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
+  },
+  {
    "id": "93b937f6da445ac4",
    "orgao": "SETEC - Serviços Técnicos Gerais",
    "titulo": "SETEC Campinas - SP abre concurso público para o cargo de Procurador",
@@ -1942,6 +2009,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "06067ba42c50aa00",
+   "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
+   "titulo": "CBMERJ - RJ abre processo seletivo para 1º tenente temporário",
+   "url": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-abre-processo-seletivo-para-1-tenente-temporario",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 192,
+   "cadastro_reserva": false,
+   "salario": 12279.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "19/10 a09/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "cb74cdabb3bbbe13",
@@ -2221,6 +2310,28 @@
    "prazo_texto": "Prorrogado até10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "3bfc2c889aea6b9c",
+   "orgao": "Câmara de Caratinga",
+   "titulo": "Câmara de Caratinga - MG abre concurso público para o cargo de Contador",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-caratinga-mg-abre-concurso-publico-para-o-cargo-de-contador",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5182.9,
+   "salario_por_hora": false,
+   "cargos": "Contador",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-07",
+   "inscricoes_ate": "2027-01-05",
+   "prazo_texto": "07/12/2026 a05/01/2027",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "b76d3021ec912165",
@@ -3628,6 +3739,31 @@
    "novo": false
   },
   {
+   "id": "344dc83d26ac207e",
+   "orgao": "Prefeitura de Lagoa Santa",
+   "titulo": "Prefeitura de Lagoa Santa - MG abre concurso público com salários de até R$ 8.860,79",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-santa-mg-abre-concurso-publico-com-salarios-de-ate-8860",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 79,
+   "cadastro_reserva": false,
+   "salario": 8860.79,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-16",
+   "inscricoes_ate": "2027-01-18",
+   "prazo_texto": "16/12/2026 a18/01/2027",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
+  },
+  {
    "id": "1aca33f019d38f33",
    "orgao": "Prefeitura de Leandro Ferreira",
    "titulo": "Prefeitura de Leandro Ferreira - MG abre processo seletivo para formação de cadastro de reserva",
@@ -3767,6 +3903,29 @@
    "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "82d47f6c2a315572",
+   "orgao": "Prefeitura de Paraguaçu",
+   "titulo": "Prefeitura de Paraguaçu - MG abre seleção para Agente de Desenvolvimento Infantil e Servente Escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraguacu-mg-abre-selecao-para-agente-de-desenvolvimento-infantil-e-servente-escolar",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 1807.25,
+   "salario_por_hora": false,
+   "cargos": "Agente de Desenvolvimento Infantil, Servente Escolar",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "Apenas dia05/10/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "b1d84953332cd133",
@@ -4556,6 +4715,29 @@
    "prazo_texto": "05/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "5bf856b2993663c3",
+   "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
+   "titulo": "CRECI - ES abre concurso público com salários de até R$ 8.250,00",
+   "url": "https://www.pciconcursos.com.br/noticias/creci-es-abre-concurso-publico-com-salarios-de-ate-8250",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 24,
+   "cadastro_reserva": false,
+   "salario": 8250.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "05/10 a10/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "1de25ddc16e28dab",
@@ -8673,6 +8855,30 @@
    "novo": false
   },
   {
+   "id": "8200e5a66ac0819b",
+   "orgao": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
+   "titulo": "TRT 8 - PA/AP publica edital de concurso para técnicos e analistas judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 16040.88,
+   "salario_por_hora": false,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/10 a05/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
+  },
+  {
    "id": "17b0f67a0ea4dbfb",
    "orgao": "Câmara de Candeias do Jamari",
    "titulo": "Câmara de Candeias do Jamari - RO abre concurso com vagas imediatas e cadastro de reserva",
@@ -9065,6 +9271,28 @@
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-27T01:32:08+00:00",
    "novo": false
+  },
+  {
+   "id": "59ef1dd5926658ef",
+   "orgao": "SRH - Superintendência de Recursos Humanos e SAEB - Secretaria de Administração",
+   "titulo": "SAEB - BA abre concurso público para Especialista em Políticas Públicas e Gestão Governamental",
+   "url": "https://www.pciconcursos.com.br/noticias/saeb-ba-abre-concurso-publico-para-especialista-em-politicas-publicas-e-gestao-governamental",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 50,
+   "cadastro_reserva": false,
+   "salario": 10860.62,
+   "salario_por_hora": false,
+   "cargos": "Especialista em Políticas Públicas e Gestão Governamental",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "16/10 a11/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "50efa32e328f6dd4",
@@ -9699,6 +9927,31 @@
    "novo": false
   },
   {
+   "id": "b88152088811d2c5",
+   "orgao": "Prefeitura de Poço Dantas",
+   "titulo": "Prefeitura de Poço Dantas - PB prorroga inscrições de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poco-dantas-pb-prorroga-inscricoes-de-concurso-publico",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 84,
+   "cadastro_reserva": false,
+   "salario": 15000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "Prorrogado até20/10/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
+  },
+  {
    "id": "7e0e9e52161ffa12",
    "orgao": "Câmara de Mirandiba",
    "titulo": "Câmara de Mirandiba - PE abre concurso público com vagas para diversos cargos",
@@ -9982,6 +10235,31 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "a9d5310948319b45",
+   "orgao": "Prefeitura de São João da Varjota",
+   "titulo": "Prefeitura de São João da Varjota - PI abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-varjota-pi-abre-concurso-publico-para-diversos-cargos",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 64,
+   "cadastro_reserva": false,
+   "salario": 7200.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/11/2026",
+   "visto_em": "2026-10-02T18:28:29+00:00",
+   "novo": true
   },
   {
    "id": "ae94e04f5c3a1352",
