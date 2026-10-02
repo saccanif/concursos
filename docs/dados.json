@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-02T18:28:29+00:00",
+ "gerado_em": "2026-10-02T23:00:58+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 455,
- "novos": 34,
+ "total": 474,
+ "novos": 53,
  "encerrados": 0,
  "concursos": [
   {
@@ -917,6 +917,28 @@
    "novo": false
   },
   {
+   "id": "23d2f0ca0ab9d172",
+   "orgao": "Prefeitura da Estância Turística de São Roque",
+   "titulo": "Prefeitura de São Roque - SP abre seleção para o cargo de Médico do Trabalho",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-selecao-para-o-cargo-de-medico-do-trabalho",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5901.75,
+   "salario_por_hora": false,
+   "cargos": "Médico do Trabalho",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
    "id": "9716590d17604605",
    "orgao": "Prefeitura de Aparecida",
    "titulo": "Prefeitura de Aparecida - SP abre concurso público com vagas imediatas e cadastro de reserva",
@@ -1778,6 +1800,31 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "a8376e9c5c6611ad",
+   "orgao": "Prefeitura de Tarumã",
+   "titulo": "Prefeitura de Tarumã - SP abre processo seletivo com salários de até R$ 23.539,17",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taruma-sp-abre-processo-seletivo-com-salarios-de-ate-23539",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 23539.17,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "05 a19/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "55eb2621b9a253a2",
@@ -2745,6 +2792,29 @@
    "prazo_texto": "30/10 a01/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "ca4309c694728420",
+   "orgao": "CIGEDAS - Consórcio Intermunicipal de Gestão e Desenvolvimento Ambiental Sustentável das Vertentes",
+   "titulo": "CIGEDAS - MG abre processo seletivo com salários de até R$ 5.152,55",
+   "url": "https://www.pciconcursos.com.br/noticias/cigedas-mg-abre-processo-seletivo-com-salarios-de-ate-5152",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 5152.55,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "09 a23/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "c353126081236209",
@@ -3809,6 +3879,31 @@
    "prazo_texto": "05 a16/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
+  },
+  {
+   "id": "40310717d84e5c5e",
+   "orgao": "Prefeitura de Luislândia",
+   "titulo": "Prefeitura de Luislândia - MG abre concurso público com vagas em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luislandia-mg-abre-concurso-publico-com-vagas-em-diversas-areas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 88,
+   "cadastro_reserva": false,
+   "salario": 10000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-10",
+   "inscricoes_ate": "2027-01-06",
+   "prazo_texto": "10/12/2026 a06/01/2027",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "1bd20bc92e1f5a3d",
@@ -5290,6 +5385,29 @@
    "novo": false
   },
   {
+   "id": "a984f49c38dd210b",
+   "orgao": "Prefeitura de Cascavel",
+   "titulo": "Prefeitura de Cascavel - PR abre teste seletivo com salários de até R$ 7.477,16",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cascavel-pr-abre-teste-seletivo-com-salarios-de-ate-7477",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 7477.16,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Infantil Temporário, Monitor de Biblioteca Temporário, Professor Temporário",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "05/10 a03/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
    "id": "96e3b52b13c172f8",
    "orgao": "Prefeitura de Cerro Azul",
    "titulo": "Prefeitura de Cerro Azul - PR abre seleção com salários de até R$ 13.407,84",
@@ -5407,6 +5525,29 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
    "novo": false
+  },
+  {
+   "id": "a65ade3687fcebe0",
+   "orgao": "Prefeitura de Irati",
+   "titulo": "Prefeitura de Irati - PR abre processo seletivo para Psicólogo e Vigia",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irati-pr-abre-processo-seletivo-para-psicologo-e-vigia",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4702.5,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo, Vigia",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "08 a14/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "5c7bfd9dd8daff17",
@@ -5693,6 +5834,30 @@
    "prazo_texto": "06 a27/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
+  },
+  {
+   "id": "77bf79639de2495b",
+   "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
+   "titulo": "UNIOESTE - PR abre processo seletivo para agentes universitários no HUOP",
+   "url": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-para-agentes-universitarios-no-huop",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 7997.72,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "08/10 a30/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "819e002a7c889b5f",
@@ -6251,6 +6416,28 @@
    "novo": false
   },
   {
+   "id": "dae1b7e59b8c7530",
+   "orgao": "Prefeitura de Porto Alegre",
+   "titulo": "Prefeitura de Porto Alegre - RS abre concurso para cargos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-concurso-para-cargos-de-nivel-superior",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 9135.44,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-06",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "06/10 a03/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
    "id": "0a5d20499dd2ae4e",
    "orgao": "Prefeitura de Presidente Lucena",
    "titulo": "Prefeitura de Presidente Lucena - RS abre seleção para Auxiliar de Serviços Gerais",
@@ -6271,6 +6458,28 @@
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "708e3515827ce820",
+   "orgao": "Prefeitura de Rio Grande",
+   "titulo": "Prefeitura de Rio Grande - RS abre vagas para Assistente Social, Nutricionista e Psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-vagas-para-assistente-social-nutricionista-e-psicologo",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 2780.15,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social, Nutricionista, Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-05",
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "05 a13/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "12e21062c1bc7c31",
@@ -6688,6 +6897,140 @@
    "novo": false
   },
   {
+   "id": "7423374e3f84ba79",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre vaga para analista de administração de pessoal II em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-analista-de-administracao-de-pessoal-ii-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5538.88,
+   "salario_por_hora": false,
+   "cargos": "Analista de Administração de Pessoal II",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "f25626d0ccaea8d0",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia vagas para assistente administrativo e técnico de enfermagem no CEPON",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vagas-para-assistente-administrativo-e-tecnico-de-enfermagem-no-cepon",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3373.61,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I, Técnico de Enfermagem I",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-04",
+   "prazo_texto": "04/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "a26c015735f3db0f",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Fonoaudiólogo I no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-fonoaudiologo-i-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3409.85,
+   "salario_por_hora": false,
+   "cargos": "Fonoaudiólogo I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-11",
+   "prazo_texto": "11/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "f3a58398277f0e99",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processo seletivo para Assistente Financeiro I em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-financeiro-i-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente Financeiro I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-07",
+   "prazo_texto": "07/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "08121831f74837d1",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia vaga para técnico de saúde bucal no HEMOSC de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-saude-bucal-no-hemosc-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2300.19,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Saúde Bucal",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "05/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "9881d86bb4161038",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia vaga para assistente administrativo no CEPON em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-assistente-administrativo-no-cepon-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-04",
+   "prazo_texto": "04/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
    "id": "375d29762eaa17ca",
    "orgao": "HEMOSC - Fundação de Apoio ao Hemosc e Cepon",
    "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
@@ -6753,6 +7096,31 @@
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "706b9308b130f107",
+   "orgao": "PMC - Município de Corupá",
+   "titulo": "Prefeitura de Corupá - SC abre concurso com salários de até R$ 13.778,50",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-corupa-sc-abre-concurso-com-salarios-de-ate-13778",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 31,
+   "cadastro_reserva": false,
+   "salario": 13778.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "bb6b5cbe62aa012f",
@@ -8273,6 +8641,29 @@
    "novo": false
   },
   {
+   "id": "94012c97cc379535",
+   "orgao": "Prefeitura de Bonito",
+   "titulo": "Prefeitura de Bonito - MS abre processos seletivos para a Secretaria de Educação e Cultura",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bonito-ms-abre-processos-seletivos-para-a-secretaria-de-educacao-e-cultura",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "14/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
+  },
+  {
    "id": "3341b3556b997b8f",
    "orgao": "Câmara de Figueirópolis D'Oeste",
    "titulo": "Câmara de Figueirópolis D'Oeste - MT abre concurso para Analista Administrativo",
@@ -8342,6 +8733,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
+  },
+  {
+   "id": "5c90561d35253b45",
+   "orgao": "Prefeitura de Apiacás",
+   "titulo": "Prefeitura de Apiacás - MT anuncia seleção para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiacas-mt-anuncia-selecao-para-a-area-da-educacao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3833.69,
+   "salario_por_hora": false,
+   "cargos": "Professor Nível Superior, Apoio Administrativo Educacional",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-05",
+   "prazo_texto": "05/10/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "6c69a62b28fa4446",
@@ -9781,6 +10195,29 @@
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6b02fbd548dd42b3",
+   "orgao": "Prefeitura de Água Branca",
+   "titulo": "Prefeitura de Água Branca - PB abre concursos públicos para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-abre-concursos-publicos-para-diversos-cargos",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 24,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-06",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/10 a06/11/2026",
+   "visto_em": "2026-10-02T23:00:58+00:00",
+   "novo": true
   },
   {
    "id": "9dc7bfd0ecff46dc",
