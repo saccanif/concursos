@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03T13:27:10+00:00",
+ "gerado_em": "2026-10-03T17:59:32+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 450,
  "novos": 34,
@@ -6506,6 +6506,28 @@
    "novo": false
   },
   {
+   "id": "375d29762eaa17ca",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2507.23,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem I",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-10-01T23:55:52+00:00",
+   "novo": false
+  },
+  {
    "id": "7423374e3f84ba79",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
    "titulo": "FAHECE - SC abre vaga para analista de administração de pessoal II em Florianópolis",
@@ -6638,28 +6660,6 @@
    "prazo_texto": "04/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": true
-  },
-  {
-   "id": "375d29762eaa17ca",
-   "orgao": "HEMOSC - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 2507.23,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Enfermagem I",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "09/10/2026",
-   "visto_em": "2026-10-01T23:55:52+00:00",
-   "novo": false
   },
   {
    "id": "f19fbb4859494fb0",
