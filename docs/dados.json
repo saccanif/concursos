@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-03T23:54:31+00:00",
+ "gerado_em": "2026-10-04T05:59:26+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 450,
- "novos": 34,
- "encerrados": 0,
+ "total": 449,
+ "novos": 31,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -3351,28 +3351,6 @@
    "novo": false
   },
   {
-   "id": "ffcaf06c9365e054",
-   "orgao": "Prefeitura de Curvelo",
-   "titulo": "Prefeitura de Curvelo - MG abre seleção para auxiliares de serviços na UPAM",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-selecao-para-auxiliares-de-servicos-na-upam",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Serviços",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-03",
-   "prazo_texto": "03/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "3b17c75f0cfc8171",
    "orgao": "Prefeitura de Curvelo",
    "titulo": "Prefeitura de Curvelo - MG abre vaga em processo seletivo para mecânico",
@@ -6183,7 +6161,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "05 a07/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4a9dc5ed352880ee",
@@ -7464,7 +7442,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "aab0142bb8405984",
@@ -8618,7 +8596,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "08 a29/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4e3878ce1c1e70d2",
