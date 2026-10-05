@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-05T07:08:10+00:00",
+ "gerado_em": "2026-10-05T16:06:33+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 439,
- "novos": 1,
+ "total": 455,
+ "novos": 27,
  "encerrados": 10,
  "concursos": [
   {
@@ -668,6 +668,28 @@
    "novo": false
   },
   {
+   "id": "d57e2f72ab675c5f",
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos para médicos em duas especialidades cirúrgicas",
+   "url": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-para-medicos-em-duas-especialidades-cirurgicas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5979.93,
+   "salario_por_hora": false,
+   "cargos": "Médico I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "ba700bd4f4f01e67",
    "orgao": "HES - Hospital Estadual Sumaré",
    "titulo": "FUNCAMP - SP abre processo seletivo para Auxiliar de Enfermagem no Hospital de Sumaré",
@@ -1061,6 +1083,29 @@
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b76473008e215c04",
+   "orgao": "Prefeitura de Cerquilho",
+   "titulo": "Prefeitura de Cerquilho - SP abre seleção com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerquilho-sp-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 23,
+   "cadastro_reserva": false,
+   "salario": 2613.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "bd5349e3ad9bfb62",
@@ -1474,6 +1519,31 @@
    "novo": false
   },
   {
+   "id": "3f550751b1f029f0",
+   "orgao": "Prefeitura de Porto Feliz",
+   "titulo": "Prefeitura de Porto Feliz - SP publica editais de concursos para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-editais-de-concursos-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5882.37,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "da293c80fdfc8262",
    "orgao": "Prefeitura de Riolândia",
    "titulo": "Prefeitura de Riolândia - SP abre concurso público com vagas imediatas e cadastro de reserva",
@@ -1637,6 +1707,31 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "cdb433f5a77e6512",
+   "orgao": "Prefeitura de São Joaquim da Barra",
+   "titulo": "Prefeitura de São Joaquim da Barra - SP abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-da-barra-sp-abre-concurso-publico-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 10171.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "c5a88befce71aae3",
@@ -4531,6 +4626,28 @@
    "novo": false
   },
   {
+   "id": "96812274e10182c4",
+   "orgao": "HECI - Hospital Evangélico de Cachoeiro de Itapemirim",
+   "titulo": "Hospital Evangélico de Cachoeiro de Itapemirim - ES abre seleção para residência em saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-cachoeiro-de-itapemirim-es-abre-selecao-para-residencia-em-saude",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 16,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "094c6af4de18320c",
    "orgao": "HEVV - Hospital Evangélico de Vila Velha",
    "titulo": "Hospital Evangélico de Vila Velha - ES abre seleção para residência e especialização médica",
@@ -4551,6 +4668,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-01T19:35:23+00:00",
    "novo": false
+  },
+  {
+   "id": "c2c0ef1566c3afe0",
+   "orgao": "HIFA - Hospital Materno Infantil Francisco de Assis",
+   "titulo": "HIFA - ES anuncia processo seletivo para residência médica com 30 vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/hifa-es-anuncia-processo-seletivo-para-residencia-medica-com-30-vagas",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "3116072ab8212a55",
@@ -5178,10 +5317,10 @@
    "novo": false
   },
   {
-   "id": "4c30c99b85a4f954",
+   "id": "ff34b5c49291e687",
    "orgao": "Prefeitura de Ivaiporã",
-   "titulo": "Prefeitura de Ivaiporã - PR abre concurso público com salários de até R$ 18.106,37",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-abre-concurso-publico-com-salarios-de-ate-18106",
+   "titulo": "Prefeitura de Ivaiporã - PR retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-retifica-edital-de-concurso-publico",
    "uf": "PR",
    "uf_nome": "Paraná",
    "vagas": 15,
@@ -5199,14 +5338,14 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
-   "id": "6cc15ecb9ad960cb",
+   "id": "06f9665a05fd04e9",
    "orgao": "Prefeitura de Ivaiporã",
-   "titulo": "Prefeitura de Ivaiporã - PR abre concurso público para agentes de saúde e de endemias",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-abre-concurso-publico-para-agentes-de-saude-e-de-endemias",
+   "titulo": "Prefeitura de Ivaiporã - PR retifica concurso público para agentes de saúde e de endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-retifica-concurso-publico-para-agentes-de-saude-e-de-endemias",
    "uf": "PR",
    "uf_nome": "Paraná",
    "vagas": null,
@@ -5221,14 +5360,14 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
-   "id": "3b30cec04c8147dc",
+   "id": "4f8a0f09d08dab30",
    "orgao": "Prefeitura de Mirador",
-   "titulo": "Prefeitura de Mirador - PR abre concurso público com salários de até R$ 15.159,36",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirador-pr-abre-concurso-publico-com-salarios-de-ate-15159",
+   "titulo": "Prefeitura de Mirador - PR retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirador-pr-retifica-edital-de-concurso-publico",
    "uf": "PR",
    "uf_nome": "Paraná",
    "vagas": 27,
@@ -5246,14 +5385,14 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "07/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
-   "id": "037fd8cb19139166",
+   "id": "bc0629d3280b6772",
    "orgao": "Prefeitura de Nova Tebas",
-   "titulo": "Prefeitura de Nova Tebas - PR abre concurso público com salários de até R$ 20.616,83",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-tebas-pr-abre-concurso-publico-com-salarios-de-ate-20616",
+   "titulo": "Prefeitura de Nova Tebas - PR divulga retificações de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-tebas-pr-divulga-retificacoes-de-concurso-publico",
    "uf": "PR",
    "uf_nome": "Paraná",
    "vagas": 37,
@@ -5271,8 +5410,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "77f7caa93bc9f18f",
@@ -6550,6 +6689,30 @@
    "novo": false
   },
   {
+   "id": "7a04ffbd6b0123c8",
+   "orgao": "Prefeitura de Apiúna",
+   "titulo": "Prefeitura de Apiúna - SC abre processo seletivo com salários de até R$ 5.130,63",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-processo-seletivo-com-salarios-de-ate-5130",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "1ae5b745a5fa455e",
    "orgao": "Prefeitura de Barra Bonita",
    "titulo": "Prefeitura de Barra Bonita - SC abre concurso com salários de até R$ 8.344,63",
@@ -6832,10 +6995,10 @@
    "novo": false
   },
   {
-   "id": "2cb842675e946790",
+   "id": "c77daa63bf3e426c",
    "orgao": "Prefeitura de Ipumirim",
-   "titulo": "Prefeitura de Ipumirim - SC abre concurso público com salários de até R$ 6.990,04",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-abre-concurso-publico-com-salarios-de-ate-6990",
+   "titulo": "Prefeitura de Ipumirim - SC divulga retificação de concurso público com salários de até R$ 6.990,04",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-6990",
    "uf": "SC",
    "uf_nome": "Santa Catarina",
    "vagas": 9,
@@ -6852,8 +7015,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "282a7c64b96cda0c",
@@ -6928,10 +7091,10 @@
    "novo": false
   },
   {
-   "id": "49c16013491de64b",
+   "id": "b1a81c60231d2c7b",
    "orgao": "Prefeitura de Maravilha",
-   "titulo": "Prefeitura de Maravilha - SC abre concurso com salários de até R$ 15.748,20",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maravilha-sc-abre-concurso-com-salarios-de-ate-15748",
+   "titulo": "Prefeitura de Maravilha - SC retifica concurso com salários de até R$ 15.748,20",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maravilha-sc-retifica-concurso-com-salarios-de-ate-15748",
    "uf": "SC",
    "uf_nome": "Santa Catarina",
    "vagas": 11,
@@ -6949,8 +7112,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "e313ce5ee59798ea",
@@ -7092,6 +7255,31 @@
    "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": false
+  },
+  {
+   "id": "49318a03119161c7",
+   "orgao": "Prefeitura de Saltinho",
+   "titulo": "Prefeitura de Saltinho - SC abre concurso público com salários de até R$ 5.022,81",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-saltinho-sc-abre-concurso-publico-com-salarios-de-ate-5022",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5022.81,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-07",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "07/10 a05/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "3230e0b0e1f4c02a",
@@ -7427,6 +7615,30 @@
    "novo": false
   },
   {
+   "id": "81a74805c6aabf54",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo com salários de até R$ 5.670,38",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-com-salarios-de-ate-5670",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 5670.38,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Informática, Engenheiro Eletricista, Técnico em Prótese e Órtese",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "312088e4a7a84053",
    "orgao": "SME - Secretaria Municipal de Educação de Itapoá",
    "titulo": "Prefeitura de Itapoá - SC abre processo seletivo para fonoaudiólogo",
@@ -7447,6 +7659,28 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "984f0ea184e13141",
+   "orgao": "Câmara dos Deputados",
+   "titulo": "Câmara dos Deputados - DF abre concurso público para analistas legislativos",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": 184,
+   "cadastro_reserva": false,
+   "salario": 32070.88,
+   "salario_por_hora": false,
+   "cargos": "Analista Legislativo, Engenheiro, Museólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-15",
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "15/10 a17/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "81bcb8a1dbfb4a7e",
@@ -7949,6 +8183,54 @@
    "novo": false
   },
   {
+   "id": "47c309c9c66aa7c1",
+   "orgao": "Prefeitura de Sonora",
+   "titulo": "Prefeitura de Sonora - MS abre processo seletivo com salários de até R$ 6.406,02",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sonora-ms-abre-processo-seletivo-com-salarios-de-ate-6406",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 6406.02,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "55426f634467a339",
+   "orgao": "Câmara de Colniza",
+   "titulo": "Câmara de Colniza - MT abre concurso público para Auxiliar Administrativo e Procurador Jurídico",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-colniza-mt-abre-concurso-publico-para-auxiliar-administrativo-e-procurador-juridico",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 9571.69,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Administrativo, Procurador Jurídico",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "3341b3556b997b8f",
    "orgao": "Câmara de Figueirópolis D'Oeste",
    "titulo": "Câmara de Figueirópolis D'Oeste - MT abre concurso para Analista Administrativo",
@@ -8135,10 +8417,10 @@
    "novo": false
   },
   {
-   "id": "c71ed4bb304e6175",
+   "id": "ca34b5244dbe8d93",
    "orgao": "Prefeitura de Nova Mutum",
-   "titulo": "Prefeitura de Nova Mutum - MT abre processo seletivo com salários de até R$ 22.696,88",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-mutum-mt-abre-processo-seletivo-com-salarios-de-ate-22696",
+   "titulo": "Prefeitura de Nova Mutum - MT retifica edital de processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-mutum-mt-retifica-edital-de-processo-seletivo",
    "uf": "MT",
    "uf_nome": "Mato Grosso",
    "vagas": 81,
@@ -8156,8 +8438,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "886c2a0cb4dd3d71",
@@ -8505,6 +8787,31 @@
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "0f4e118a859c8206",
+   "orgao": "Prefeitura de Bujaru",
+   "titulo": "Prefeitura de Bujaru - PA abre concurso público com salários de até R$ 4.543,83",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bujaru-pa-abre-concurso-publico-com-salarios-de-ate-4543",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 100,
+   "cadastro_reserva": false,
+   "salario": 4543.83,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "13/10 a12/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "242095c085b2bf46",
@@ -8882,10 +9189,10 @@
    "novo": false
   },
   {
-   "id": "4c753bde5d0bda54",
+   "id": "626edb489509bbb9",
    "orgao": "Prefeitura de Catu",
-   "titulo": "Prefeitura de Catu - BA abre concurso público para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catu-ba-abre-concurso-publico-para-diversos-cargos",
+   "titulo": "Prefeitura de Catu - BA prorroga inscrições do concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catu-ba-prorroga-inscricoes-do-concurso-publico-para-diversos-cargos",
    "uf": "BA",
    "uf_nome": "Bahia",
    "vagas": 148,
@@ -8899,10 +9206,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "30/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "Prorrogado até12/11/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "77ef545d520629af",
@@ -9112,6 +9419,29 @@
    "novo": false
   },
   {
+   "id": "6b9b89adfbf53328",
+   "orgao": "Prefeitura de Aracati",
+   "titulo": "Prefeitura de Aracati - CE abre concursos para Agente Comunitário de Saúde e Intérprete de Libras",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracati-ce-abre-concursos-para-agente-comunitario-de-saude-e-interprete-de-libras",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Tradutor e Intérprete de Libras",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "24/11/2026 a07/01/2027",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "3dcc8b4861bdb5d7",
    "orgao": "Prefeitura de Groaíras",
    "titulo": "Prefeitura de Groaíras - CE reabre inscrições para concursos públicos",
@@ -9206,10 +9536,34 @@
    "novo": false
   },
   {
-   "id": "5baa5cdcbbcf9f11",
+   "id": "dfaf44f8714814d2",
+   "orgao": "Prefeitura de Meruoca",
+   "titulo": "Prefeitura de Meruoca - CE abre processo seletivo para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-meruoca-ce-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 49,
+   "cadastro_reserva": false,
+   "salario": 3000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "86105af313d5813e",
    "orgao": "Prefeitura de Piquet Carneiro",
-   "titulo": "Prefeitura de Piquet Carneiro - CE abre concurso público para diversos níveis de escolaridade",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piquet-carneiro-ce-abre-concurso-publico-para-diversos-niveis-de-escolaridade",
+   "titulo": "Prefeitura de Piquet Carneiro - CE divulga retificação de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piquet-carneiro-ce-divulga-retificacao-de-concurso-publico",
    "uf": "CE",
    "uf_nome": "Ceará",
    "vagas": 100,
@@ -9227,8 +9581,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "a9941d3540f739c5",
@@ -9767,6 +10121,28 @@
    "novo": false
   },
   {
+   "id": "b7ad12f6bf6e3e11",
+   "orgao": "SDS - Secretaria de Defesa Social",
+   "titulo": "Secretaria de Defesa Social e de Administração - PE abrem concurso com 1.315 vagas para a Polícia Civil",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-e-de-administracao-pe-abrem-concurso-com-1315-vagas-para-a-policia-civil",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 315,
+   "cadastro_reserva": false,
+   "salario": 13560.0,
+   "salario_por_hora": false,
+   "cargos": "Agente de Polícia, Delegado de Polícia, Escrivão de Polícia",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-15",
+   "inscricoes_ate": "2026-12-16",
+   "prazo_texto": "15/10 a16/12/2026",
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
    "id": "d01edb83a6e711ee",
    "orgao": "UPE - Universidade de Pernambuco",
    "titulo": "Universidade de Pernambuco abre concurso público para o cargo de Advogado",
@@ -10095,10 +10471,10 @@
    "novo": false
   },
   {
-   "id": "2ed5ecdfe96f9e0a",
+   "id": "8cbab35f7b624069",
    "orgao": "Prefeitura de São Fernando",
-   "titulo": "Prefeitura de São Fernando - RN abre concurso público com salários de até R$ 4.101,05",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-fernando-rn-abre-concurso-publico-com-salarios-de-ate-4101",
+   "titulo": "Prefeitura de São Fernando - RN retifica edital de concurso público com salários de até R$ 4.101,05",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-fernando-rn-retifica-edital-de-concurso-publico-com-salarios-de-ate-4101",
    "uf": "RN",
    "uf_nome": "Rio Grande do Norte",
    "vagas": 22,
@@ -10115,8 +10491,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
   },
   {
    "id": "8525beaea90b4f1d",
