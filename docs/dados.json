@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-04T21:33:34+00:00",
+ "gerado_em": "2026-10-05T01:00:04+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 449,
- "novos": 0,
- "encerrados": 0,
+ "novos": 1,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -8621,10 +8621,10 @@
    "novo": false
   },
   {
-   "id": "24b63e632b64c407",
+   "id": "56438229e6027814",
    "orgao": "ALEPA - Assembleia Legislativa do Estado do Pará",
-   "titulo": "Assembleia Legislativa do Estado do Pará - PA abre concursos para diversos cargos com salários de até R$ 3.697,73",
-   "url": "https://www.pciconcursos.com.br/noticias/assembleia-legislativa-do-estado-do-para-pa-abre-concursos-para-diversos-cargos-com-salarios-de-ate-3697",
+   "titulo": "Assembleia Legislativa do Estado do Pará abre concursos para diversos cargos com salários de até R$ 3.697,73",
+   "url": "https://www.pciconcursos.com.br/noticias/assembleia-legislativa-do-estado-do-para-abre-concursos-para-diversos-cargos-com-salarios-de-ate-3697",
    "uf": "PA",
    "uf_nome": "Pará",
    "vagas": 135,
@@ -8640,8 +8640,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
-   "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": false
+   "visto_em": "2026-10-05T01:00:04+00:00",
+   "novo": true
   },
   {
    "id": "039e191c0d5fef71",
