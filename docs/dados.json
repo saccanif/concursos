@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-05T01:00:04+00:00",
+ "gerado_em": "2026-10-05T07:08:10+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 449,
+ "total": 439,
  "novos": 1,
- "encerrados": 1,
+ "encerrados": 10,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -520,9 +520,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "05 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
    "novo": false
   },
@@ -548,30 +548,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "4b36caec0dcb0c57",
-   "orgao": "EMDURB - Empresa Municipal de Desenvolvimento Urbano e Rural de Bauru",
-   "titulo": "EMDURB de Bauru - SP abre processo seletivo para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/emdurb-de-bauru-sp-abre-processo-seletivo-para-diversos-cargos",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 7,
-   "cadastro_reserva": false,
-   "salario": 5457.24,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -641,9 +617,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-12",
-   "prazo_texto": "05/10 a12/11/2026",
+   "prazo_texto": "12/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
   },
@@ -1521,31 +1497,6 @@
    "novo": false
   },
   {
-   "id": "370439dfa9128f04",
-   "orgao": "Prefeitura de Roseira",
-   "titulo": "Prefeitura de Roseira - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-roseira-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 17,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "01cf9a5dc42d8809",
    "orgao": "Prefeitura de Saltinho",
    "titulo": "Prefeitura de Saltinho - SP abre concurso público com salários de até R$ 8.962,00",
@@ -1609,9 +1560,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "05 a18/10/2026",
+   "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -1731,9 +1682,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "05 a19/10/2026",
+   "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
   },
@@ -1825,9 +1776,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "05/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
   },
@@ -1896,9 +1847,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "05/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -2154,28 +2105,6 @@
    "novo": false
   },
   {
-   "id": "b90b2ce66f805165",
-   "orgao": "AMVAP SAÚDE - Consórcio Público Intermunicipal de Saúde do Triângulo Mineiro",
-   "titulo": "AMVAP Saúde - MG abre processo seletivo com vagas para farmacêuticos generalistas",
-   "url": "https://www.pciconcursos.com.br/noticias/amvap-saude-mg-abre-processo-seletivo-com-vagas-para-farmaceuticos-generalistas",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 6631.81,
-   "salario_por_hora": false,
-   "cargos": "Farmacêutico Generalista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "e4b635f413718493",
    "orgao": "Câmara de Bocaina de Minas",
    "titulo": "Câmara de Bocaina de Minas - MG abre concurso público com salários de R$ 1.621,00",
@@ -2355,9 +2284,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "05/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2789,9 +2718,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3274,9 +3203,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "05 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3344,9 +3273,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "05 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3501,9 +3430,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-20",
-   "prazo_texto": "05 a20/10/2026",
+   "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3523,9 +3452,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
-   "prazo_texto": "05 a13/10/2026",
+   "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
@@ -3570,9 +3499,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "05/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3666,9 +3595,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "05 a16/10/2026",
+   "prazo_texto": "16/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
@@ -3763,31 +3692,6 @@
    "inscricoes_de": "2026-10-19",
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "19/10 a18/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "a66e960545678556",
-   "orgao": "Prefeitura de Papagaios",
-   "titulo": "Prefeitura de Papagaios - MG abre seleção com salários de até R$ 5.702,79",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-papagaios-mg-abre-selecao-com-salarios-de-ate-5702",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 5702.79,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4304,9 +4208,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4576,9 +4480,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "05/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -4730,9 +4634,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "05 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
   },
@@ -4913,9 +4817,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "05 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-25T22:25:38+00:00",
    "novo": false
   },
@@ -5126,9 +5030,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "05/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
   },
@@ -5903,9 +5807,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
-   "prazo_texto": "05 a09/10/2026",
+   "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-29T15:56:49+00:00",
    "novo": false
   },
@@ -6062,9 +5966,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
-   "prazo_texto": "05 a13/10/2026",
+   "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
   },
@@ -6157,9 +6061,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-07",
-   "prazo_texto": "05 a07/10/2026",
+   "prazo_texto": "07/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
    "novo": false
   },
@@ -6325,28 +6229,6 @@
    "novo": false
   },
   {
-   "id": "565525033d5580cc",
-   "orgao": "Câmara de Ponte Alta",
-   "titulo": "Câmara de Ponte Alta - SC abre concurso público com salários de até R$ 5.905,61",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ponte-alta-sc-abre-concurso-publico-com-salarios-de-ate-5905",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 5905.61,
-   "salario_por_hora": false,
-   "cargos": "Assessor Jurídico, Auditor Interno, Agente de Licitação",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "33827b6cfc8bf677",
    "orgao": "Câmara de Rio Fortuna",
    "titulo": "Câmara de Rio Fortuna - SC abre seleção para Agente Operacional",
@@ -6462,28 +6344,6 @@
    "novo": false
   },
   {
-   "id": "7bfc21dc22d7a9c2",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC anuncia processos seletivos para o SAMU com vagas exclusivas para PCD",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-com-vagas-exclusivas-para-pcd",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2519.21,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I, Assistente de Almoxarifado I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": false
-  },
-  {
    "id": "375d29762eaa17ca",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
    "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
@@ -6524,29 +6384,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
-   "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "f25626d0ccaea8d0",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC anuncia vagas para assistente administrativo e técnico de enfermagem no CEPON",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vagas-para-assistente-administrativo-e-tecnico-de-enfermagem-no-cepon",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3373.61,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I, Técnico de Enfermagem I",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
   },
@@ -6614,28 +6451,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-05",
    "prazo_texto": "05/10/2026",
-   "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "9881d86bb4161038",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC anuncia vaga para assistente administrativo no CEPON em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-assistente-administrativo-no-cepon-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2519.21,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
   },
@@ -8174,9 +7989,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "05 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8244,9 +8059,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "05 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-01T13:25:31+00:00",
    "novo": false
   },
@@ -8406,9 +8221,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "05 a22/10/2026",
+   "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8431,9 +8246,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "05 a22/10/2026",
+   "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8523,9 +8338,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "Reabertura de05 a26/10/2026",
+   "prazo_texto": "Reaberto até26/10/2026",
    "visto_em": "2026-10-01T23:55:52+00:00",
    "novo": false
   },
@@ -8756,9 +8571,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -9567,9 +9382,9 @@
     "Médio",
     "Técnico"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "05 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
   },
@@ -9589,9 +9404,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "05 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": false
   },
@@ -9859,30 +9674,6 @@
    "novo": false
   },
   {
-   "id": "7e0e9e52161ffa12",
-   "orgao": "Câmara de Mirandiba",
-   "titulo": "Câmara de Mirandiba - PE abre concurso público com vagas para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-mirandiba-pe-abre-concurso-publico-com-vagas-para-diversos-cargos",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 10,
-   "cadastro_reserva": false,
-   "salario": 2500.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "b6250bf269c1ec4d",
    "orgao": "Câmara de Trindade",
    "titulo": "Câmara de Trindade - PE divulga retificação de concurso público",
@@ -9923,9 +9714,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
   },
@@ -9946,35 +9737,10 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-05",
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/10 a05/11/2026",
-   "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
-   "id": "4b9d33e47701497b",
-   "orgao": "Prefeitura de Belo Jardim",
-   "titulo": "Prefeitura de Belo Jardim - PE abre concurso público com vagas para diversas secretarias",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belo-jardim-pe-abre-concurso-publico-com-vagas-para-diversas-secretarias",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 151,
-   "cadastro_reserva": false,
-   "salario": 4813.5,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-04",
-   "prazo_texto": "04/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
   },
   {
