@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-06T03:03:03+00:00",
+ "gerado_em": "2026-10-06T10:25:53+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 447,
- "novos": 62,
- "encerrados": 36,
+ "total": 437,
+ "novos": 61,
+ "encerrados": 10,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -989,30 +989,6 @@
    "novo": false
   },
   {
-   "id": "b49e8163cb60d239",
-   "orgao": "Prefeitura de Cubatão",
-   "titulo": "Prefeitura de Cubatão - SP abre concursos públicos com salários de até R$ 5.565,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concursos-publicos-com-salarios-de-ate-5565",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 56,
-   "cadastro_reserva": false,
-   "salario": 5565.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-15",
-   "prazo_texto": "15/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "e9ac53e2d4568843",
    "orgao": "Prefeitura de Embu das Artes",
    "titulo": "Prefeitura de Embu das Artes - SP divulga retificação de concurso com diversas vagas e cadastro de reserva",
@@ -1691,29 +1667,6 @@
    "novo": false
   },
   {
-   "id": "55eb2621b9a253a2",
-   "orgao": "Prefeitura de Tatuí",
-   "titulo": "Prefeitura de Tatuí - SP abre concurso público para cargos de nível fundamental e médio",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tatui-sp-abre-concurso-publico-para-cargos-de-nivel-fundamental-e-medio",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 107,
-   "cadastro_reserva": false,
-   "salario": 2193.73,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-13",
-   "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "0797693c3a872c5b",
    "orgao": "Prefeitura do Município de Carapicuíba",
    "titulo": "Prefeitura de Carapicuíba - SP abre novos concursos para cadastro de reserva em diversas áreas",
@@ -1735,28 +1688,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
-   "id": "989f7f251196ed1d",
-   "orgao": "Prefeitura do Município de Mauá",
-   "titulo": "Prefeitura de Mauá - SP abre concurso com 100 vagas para guardas civis municipais",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-concurso-com-100-vagas-para-guardas-civis-municipais",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 100,
-   "cadastro_reserva": false,
-   "salario": 3823.39,
-   "salario_por_hora": false,
-   "cargos": "Guarda Civil Municipal - 3ª classe",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-08",
-   "prazo_texto": "08/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -2033,29 +1964,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "Prorrogado até15/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "87de3d7103a58add",
-   "orgao": "Prefeitura de São Gonçalo",
-   "titulo": "Prefeitura de São Gonçalo - RJ abre concursos para Guardas Municipais",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-goncalo-rj-abre-concursos-para-guardas-municipais",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 101,
-   "cadastro_reserva": false,
-   "salario": 4535.54,
-   "salario_por_hora": false,
-   "cargos": "Guarda Municipal Nível II, Guarda Municipal Nível III - Psicólogo",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4833,30 +4741,6 @@
    "novo": false
   },
   {
-   "id": "f1cd3ec7b9ff16eb",
-   "orgao": "PMC - Prefeitura de Curitiba",
-   "titulo": "Prefeitura de Curitiba - PR abre concursos públicos com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-abre-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 348,
-   "cadastro_reserva": false,
-   "salario": 14117.18,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": "2026-10-07",
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "07/10 a05/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "d6f41dad291996d4",
    "orgao": "Prefeitura de Ângulo",
    "titulo": "Prefeitura de Ângulo - PR abre concurso com salários de até R$ 6.771,80",
@@ -7287,28 +7171,6 @@
    "novo": false
   },
   {
-   "id": "d6efccb2c268a7f2",
-   "orgao": "Prefeitura de São José",
-   "titulo": "Prefeitura de São José - SC abre concurso com 300 vagas para auxiliares de educação especial",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 300,
-   "cadastro_reserva": false,
-   "salario": 4581.88,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Educação Especial",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "16/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "d6bf41e53d4e1089",
    "orgao": "Prefeitura de São Lourenço do Oeste",
    "titulo": "Prefeitura de São Lourenço do Oeste - SC abre seleção para psicólogo",
@@ -8623,28 +8485,6 @@
    "novo": false
   },
   {
-   "id": "36eae8167a76ad8f",
-   "orgao": "SEAD/AP - Secretaria de Estado da Administração do Amapá",
-   "titulo": "SEAD - AP publica edital retificado de concurso para Delegado e Oficial Investigador de Polícia Civil",
-   "url": "https://www.pciconcursos.com.br/noticias/sead-ap-publica-edital-retificado-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
-   "uf": "AP",
-   "uf_nome": "Amapá",
-   "vagas": 396,
-   "cadastro_reserva": false,
-   "salario": 31439.06,
-   "salario_por_hora": false,
-   "cargos": "Delegado de Polícia Civil, Oficial Investigador de Polícia Civil",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
-  },
-  {
    "id": "cc0e965e25b8723a",
    "orgao": "TJAP - Tribunal de Justiça do Estado do Amapá",
    "titulo": "TJAP - AP abre concurso público para o cargo de juiz de direito substituto",
@@ -8688,30 +8528,6 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": true
-  },
-  {
-   "id": "039e191c0d5fef71",
-   "orgao": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
-   "titulo": "SEPLAD e FHCGV - PA anunciam concurso público com vagas imediatas e formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/seplad-e-fhcgv-pa-anunciam-concurso-publico-com-vagas-imediatas-e-formacao-de-cadastro-de-reserva",
-   "uf": "PA",
-   "uf_nome": "Pará",
-   "vagas": 215,
-   "cadastro_reserva": false,
-   "salario": 3918.15,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "42b9171df259f295",
@@ -9226,30 +9042,6 @@
    "novo": false
   },
   {
-   "id": "50efa32e328f6dd4",
-   "orgao": "UFBA - Universidade Federal da Bahia",
-   "titulo": "UFBA - BA publica edital de concurso público para técnicos-administrativos em educação",
-   "url": "https://www.pciconcursos.com.br/noticias/ufba-ba-publica-edital-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": 139,
-   "cadastro_reserva": false,
-   "salario": 5215.39,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "29/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
    "id": "41682244580d2a12",
    "orgao": "Câmara de Meruoca",
    "titulo": "Câmara de Meruoca - CE reabre inscrições de concurso público com vagas imediatas e cadastro de reserva",
@@ -9643,29 +9435,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "51859ca3ba12e37b",
-   "orgao": "DPE - Defensoria Pública do Estado da Paraíba",
-   "titulo": "DPE - PB abre concurso público com salários de até R$ 5.197,50",
-   "url": "https://www.pciconcursos.com.br/noticias/dpe-pb-abre-concurso-publico-com-salarios-de-ate-5197",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 5197.5,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
