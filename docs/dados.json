@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-06T10:25:53+00:00",
+ "gerado_em": "2026-10-06T17:14:59+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 437,
- "novos": 61,
- "encerrados": 10,
+ "total": 446,
+ "novos": 71,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -3541,6 +3541,28 @@
    "novo": false
   },
   {
+   "id": "52e89d6a7dbd0a72",
+   "orgao": "Prefeitura de Pavão",
+   "titulo": "Prefeitura de Pavão - MG anuncia processo seletivo para o cargo de Psicólogo do CREAS",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pavao-mg-anuncia-processo-seletivo-para-o-cargo-de-psicologo-do-creas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3050.0,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo(a) do CREAS",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-12",
+   "prazo_texto": "12/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "1280b16cfe6f5223",
    "orgao": "Prefeitura de Pedra Dourada",
    "titulo": "Prefeitura de Pedra Dourada - MG divulga retificações do concurso público e do processo seletivo",
@@ -5956,6 +5978,31 @@
    "novo": false
   },
   {
+   "id": "23e7930965eebc21",
+   "orgao": "Prefeitura de Vicente Dutra",
+   "titulo": "Prefeitura de Vicente Dutra - RS abre concurso público com salários de até R$ 9.089,82",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-concurso-publico-com-salarios-de-ate-9089",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 9089.82,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "ad1234fecc4f5942",
    "orgao": "Prefeitura e Câmara de Portão",
    "titulo": "Prefeitura e Câmara de Portão - RS abrem concursos públicos para diversos cargos",
@@ -6337,6 +6384,28 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
+   "novo": true
+  },
+  {
+   "id": "9d1ce550b75f1e80",
+   "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+   "titulo": "FAHECE - SC abre processo seletivo para o cargo de Assistente Administrativo II em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-assistente-administrativo-ii-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3066.93,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo II",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": true
   },
   {
@@ -6856,6 +6925,31 @@
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "c71f547c0ddb21a6",
+   "orgao": "Prefeitura de Lontras",
+   "titulo": "Prefeitura de Lontras - SC abre processo seletivo com salários de até R$ 8.105,36",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-abre-processo-seletivo-com-salarios-de-ate-8105",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 8105.36,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-07",
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "07 a27/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
   },
   {
    "id": "d7546d6577984017",
@@ -7451,6 +7545,28 @@
    "novo": true
   },
   {
+   "id": "2c10eda3f2d0ea3e",
+   "orgao": "HSL - Hospital Santa Lúcia",
+   "titulo": "Hospital Santa Lúcia abre vagas para residência médica em diversas especialidades",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-santa-lucia-abre-vagas-para-residencia-medica-em-diversas-especialidades",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "81bcb8a1dbfb4a7e",
    "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
    "titulo": "IGESDF - DF publica editais de seleção para Médicos com salários de até R$ 16 mil",
@@ -7876,6 +7992,30 @@
    "novo": false
   },
   {
+   "id": "3166046d298cc7b1",
+   "orgao": "Prefeitura de São Domingos",
+   "titulo": "Prefeitura de São Domingos - GO abre processo seletivo na saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-go-abre-processo-seletivo-na-saude",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 3000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "09 a14/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "4208bd40f3e27e20",
    "orgao": "Prefeitura de São Luís de Montes Belos",
    "titulo": "Prefeitura de São Luís de Montes Belos - GO abre concurso público com salários de até R$ 5.559,33",
@@ -8017,6 +8157,29 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "8adb027e74876bb5",
+   "orgao": "UEMS - Universidade Estadual de Mato Grosso do Sul",
+   "titulo": "UEMS abre processo seletivo para o cargo de Tradutor e Intérprete de Libras",
+   "url": "https://www.pciconcursos.com.br/noticias/uems-abre-processo-seletivo-para-o-cargo-de-tradutor-e-interprete-de-libras",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 10200.29,
+   "salario_por_hora": false,
+   "cargos": "Tradutor e Intérprete de Libras",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": true
   },
   {
@@ -8416,6 +8579,29 @@
    "novo": false
   },
   {
+   "id": "959fe2e43eca18bc",
+   "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Amapá",
+   "titulo": "Conselho de Arquitetura e Urbanismo do Amapá abre concurso público em Macapá",
+   "url": "https://www.pciconcursos.com.br/noticias/conselho-de-arquitetura-e-urbanismo-do-amapa-abre-concurso-publico-em-macapa",
+   "uf": "AP",
+   "uf_nome": "Amapá",
+   "vagas": 2,
+   "cadastro_reserva": true,
+   "salario": 9726.66,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo, Auxiliar de Fiscalização, Agente de Fiscalização",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "262fe65b628ec075",
    "orgao": "IFAP - Instituto Federal de Educação, Ciência e Tecnologia do Amapá",
    "titulo": "IFAP abre concurso para cargos de Técnico-Administrativo em Educação",
@@ -8744,6 +8930,29 @@
    "prazo_texto": "13/10 a11/11/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": false
+  },
+  {
+   "id": "7f3e0c3d946c38a3",
+   "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Tocantins",
+   "titulo": "CAU - TO abre concurso público com salários de até R$ 9.726,00",
+   "url": "https://www.pciconcursos.com.br/noticias/cau-to-abre-concurso-publico-com-salarios-de-ate-9726",
+   "uf": "TO",
+   "uf_nome": "Tocantins",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 9726.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
   },
   {
    "id": "9b2f62ac9035e31a",
@@ -9701,6 +9910,31 @@
    "novo": false
   },
   {
+   "id": "10dd8361e6d28e6f",
+   "orgao": "Prefeitura de Floresta",
+   "titulo": "Prefeitura de Floresta - PE publica edital retificado de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-edital-retificado-de-concurso-publico",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 431,
+   "cadastro_reserva": false,
+   "salario": 8000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "Prorrogado até22/10/2026",
+   "visto_em": "2026-10-06T17:14:59+00:00",
+   "novo": true
+  },
+  {
    "id": "51ddb8724a456034",
    "orgao": "Prefeitura do Recife",
    "titulo": "Prefeitura do Recife - PE abre concurso público com vagas para músicos",
@@ -9814,30 +10048,6 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "a87245b3df26ef78",
-   "orgao": "Prefeitura de Currais",
-   "titulo": "Prefeitura de Currais - PI abre concurso com salários de até R$ 9.726,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-currais-pi-abre-concurso-com-salarios-de-ate-9726",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 37,
-   "cadastro_reserva": false,
-   "salario": 9726.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-13",
-   "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
