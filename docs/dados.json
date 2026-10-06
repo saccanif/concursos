@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-06T17:14:59+00:00",
+ "gerado_em": "2026-10-06T21:40:17+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 446,
- "novos": 71,
- "encerrados": 1,
+ "total": 461,
+ "novos": 88,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -391,10 +391,10 @@
    "novo": false
   },
   {
-   "id": "516bc2c86db8b523",
+   "id": "31d8a209513c2e76",
    "orgao": "Câmara de Jeriquara",
-   "titulo": "Câmara de Jeriquara - SP abre concurso para o cargo de Controlador Interno",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-abre-concurso-para-o-cargo-de-controlador-interno",
+   "titulo": "Câmara de Jeriquara - SP retifica concurso para o cargo de Controlador Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jeriquara-sp-retifica-concurso-para-o-cargo-de-controlador-interno",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": 1,
@@ -409,8 +409,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "727a22b0aa98077a",
@@ -1218,6 +1218,31 @@
    "novo": false
   },
   {
+   "id": "65f3144b85f18a80",
+   "orgao": "Prefeitura de Jaborandi",
+   "titulo": "Prefeitura de Jaborandi - SP abre concurso público com salários de até R$ 5.325,60",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaborandi-sp-abre-concurso-publico-com-salarios-de-ate-5325",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 31,
+   "cadastro_reserva": false,
+   "salario": 5325.6,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-07",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "07/10 a05/11/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "90274a2e1fe5041b",
    "orgao": "Prefeitura de Lençóis Paulista",
    "titulo": "Prefeitura de Lençóis Paulista - SP abre concurso público para cargos de nível superior na educação",
@@ -1667,6 +1692,28 @@
    "novo": false
   },
   {
+   "id": "5aabe1d285568b9f",
+   "orgao": "Prefeitura de Urânia",
+   "titulo": "Prefeitura de Urânia - SP prorroga inscrições de concurso público para Coordenador e Orientador Social do CRAS",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urania-sp-prorroga-inscricoes-de-concurso-publico-para-coordenador-e-orientador-social-do-cras",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3562.8,
+   "salario_por_hora": false,
+   "cargos": "Coordenador do CRAS, Orientador Social do CRAS",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "Prorrogado até15/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "0797693c3a872c5b",
    "orgao": "Prefeitura do Município de Carapicuíba",
    "titulo": "Prefeitura de Carapicuíba - SP abre novos concursos para cadastro de reserva em diversas áreas",
@@ -1990,6 +2037,29 @@
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "c1f6927b08ed2526",
+   "orgao": "Riosaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "Riosaúde - RJ abre processos seletivos para enfermeiros e técnicos em radiologia",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processos-seletivos-para-enfermeiros-e-tecnicos-em-radiologia",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 51,
+   "cadastro_reserva": false,
+   "salario": 5239.4,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro Generalista, Técnico em Radiologia",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "061e0e3d2a0dc461",
@@ -3235,6 +3305,30 @@
    "novo": false
   },
   {
+   "id": "53f509d80a8d6f77",
+   "orgao": "Prefeitura de Itabira",
+   "titulo": "Prefeitura de Itabira - MG abre processo seletivo com salários de até R$ 4.040,07",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itabira-mg-abre-processo-seletivo-com-salarios-de-ate-4040",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 88,
+   "cadastro_reserva": false,
+   "salario": 4040.07,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "19 a23/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "4de1722cfb555995",
    "orgao": "Prefeitura de Itanhandu",
    "titulo": "Prefeitura de Itanhandu - MG abre seleção para Agente de Combate às Endemias",
@@ -3277,6 +3371,28 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
+  },
+  {
+   "id": "2e694ec3e89dd452",
+   "orgao": "Prefeitura de João Monlevade",
+   "titulo": "Prefeitura de João Monlevade - MG abre vaga para Médico ESF",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-monlevade-mg-abre-vaga-para-medico-esf",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 22419.2,
+   "salario_por_hora": false,
+   "cargos": "Médico ESF",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "13 a15/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "a5a6a716af77fee2",
@@ -3613,6 +3729,29 @@
    "novo": false
   },
   {
+   "id": "e87e059c5b7e2381",
+   "orgao": "Prefeitura de Perdigão",
+   "titulo": "Prefeitura de Perdigão - MG abre seleções para Enfermeiro e Serviçal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-perdigao-mg-abre-selecoes-para-enfermeiro-e-servical",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3901.12,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Serviçal",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "09 a13/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "b1a2a250157bb3ba",
    "orgao": "Prefeitura de Piracema",
    "titulo": "Prefeitura de Piracema - MG abre concurso e processo seletivo com diversas vagas",
@@ -3792,6 +3931,29 @@
    "prazo_texto": "26/10 a24/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "f734dea7cc06b6e9",
+   "orgao": "Prefeitura de Rodeiro",
+   "titulo": "Prefeitura de Rodeiro - MG abre seleção com salários de até R$ 17.412,12",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rodeiro-mg-abre-selecao-com-salarios-de-ate-17412",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 17412.12,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "b4c77d3bdfbde410",
@@ -4284,6 +4446,28 @@
    "novo": false
   },
   {
+   "id": "008a044fd9e7144a",
+   "orgao": "ARIES - Agência Reguladora Intermunicipal de Saneamento Básico do Estado do Espírito Santo",
+   "titulo": "ARIES - ES abre seleção para analista de fiscalização e regulação",
+   "url": "https://www.pciconcursos.com.br/noticias/aries-es-abre-selecao-para-analista-de-fiscalizacao-e-regulacao",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4200.57,
+   "salario_por_hora": false,
+   "cargos": "Analista de Fiscalização e Regulação",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "5bf856b2993663c3",
    "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
    "titulo": "CRECI - ES abre concurso público com salários de até R$ 8.250,00",
@@ -4461,6 +4645,30 @@
    "novo": false
   },
   {
+   "id": "47b4dead221e7573",
+   "orgao": "Prefeitura de Montanha",
+   "titulo": "Prefeitura de Montanha - ES abre processo seletivo para profissionais de diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montanha-es-abre-processo-seletivo-para-profissionais-de-diversas-areas",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3483.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "20 a26/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "a242b8026c22c908",
    "orgao": "Prefeitura de Santa Maria de Jetibá",
    "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre concurso público com vagas para guardas municipais",
@@ -4573,6 +4781,29 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "42677bb76740c631",
+   "orgao": "Prefeitura de Vitória",
+   "titulo": "Prefeitura de Vitória - ES abre seleções para profissionais de saúde e educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitoria-es-abre-selecoes-para-profissionais-de-saude-e-educacao",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 4314.98,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "14/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "1d0e9b4e57b05dcf",
@@ -5539,6 +5770,31 @@
    "novo": false
   },
   {
+   "id": "1a6d211fc21b4989",
+   "orgao": "Prefeitura de Colinas",
+   "titulo": "Prefeitura de Colinas - RS abre concurso público com salários de até R$ 15.103,34",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colinas-rs-abre-concurso-publico-com-salarios-de-ate-15103",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 15103.34,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "7e4e2ff109a6295a",
    "orgao": "Prefeitura de Coqueiro Baixo",
    "titulo": "Prefeitura de Coqueiro Baixo - RS abre concurso com vagas imediatas e cadastro de reserva",
@@ -5562,6 +5818,28 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "44dff14fe2f87a03",
+   "orgao": "Prefeitura de Gramado",
+   "titulo": "Prefeitura de Gramado - RS abre seleção para Agente de Defesa Civil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-selecao-para-agente-de-defesa-civil",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4532.74,
+   "salario_por_hora": false,
+   "cargos": "Agente de Proteção e Defesa Civil",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "3d1156daa8f097d5",
@@ -5675,6 +5953,28 @@
    "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "a14348212752c2a3",
+   "orgao": "Prefeitura de Novo Machado",
+   "titulo": "Prefeitura de Novo Machado - RS abre seleção para atendente de consultório dentário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-machado-rs-abre-selecao-para-atendente-de-consultorio-dentario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2258.39,
+   "salario_por_hora": false,
+   "cargos": "Atendente do Consultório Dentário",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-07",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "07 a14/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "6dcc3429c5342fa6",
@@ -6855,6 +7155,29 @@
    "novo": false
   },
   {
+   "id": "ddb7f9b6d66b8de6",
+   "orgao": "Prefeitura de Imbituba",
+   "titulo": "Prefeitura de Imbituba - SC abre concurso público com salários de até R$ 4.807,49",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-concurso-publico-com-salarios-de-ate-4807",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 4807.49,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-12",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "12/10 a11/11/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "c77daa63bf3e426c",
    "orgao": "Prefeitura de Ipumirim",
    "titulo": "Prefeitura de Ipumirim - SC divulga retificação de concurso público com salários de até R$ 6.990,04",
@@ -7430,6 +7753,31 @@
    "novo": false
   },
   {
+   "id": "1a01a24ffabd056b",
+   "orgao": "Prefeitura de Witmarsum",
+   "titulo": "Prefeitura de Witmarsum - SC abre concurso público e processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-witmarsum-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 5201.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
+  },
+  {
    "id": "398b29a69a79fbd8",
    "orgao": "Prefeitura e Câmara de Benedito Novo",
    "titulo": "Prefeitura e Câmara de Benedito Novo - SC abrem concursos e processos seletivos com diversas vagas",
@@ -7685,6 +8033,28 @@
    "prazo_texto": "28/10 a18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "ed5d97cf2614bbf0",
+   "orgao": "COMURG - Companhia de Urbanização de Goiânia",
+   "titulo": "COMURG - GO abre processo seletivo para analistas de governança",
+   "url": "https://www.pciconcursos.com.br/noticias/comurg-go-abre-processo-seletivo-para-analistas-de-governanca",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 15000.0,
+   "salario_por_hora": false,
+   "cargos": "Analista de Governança",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": true
   },
   {
    "id": "1bfe4b52dc38c44c",
@@ -8083,31 +8453,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "29c053b1e8d7cc64",
-   "orgao": "Prefeitura e Câmara de Inaciolândia",
-   "titulo": "Prefeitura e Câmara de Inaciolândia - GO publicam edital de concurso com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-inaciolandia-go-publicam-edital-de-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 67,
-   "cadastro_reserva": false,
-   "salario": 4070.2,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
