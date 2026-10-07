@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-07T16:35:10+00:00",
+ "gerado_em": "2026-10-07T22:02:14+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 453,
- "novos": 36,
+ "total": 471,
+ "novos": 54,
  "encerrados": 0,
  "concursos": [
   {
@@ -597,6 +597,29 @@
    "novo": false
   },
   {
+   "id": "68b420fb137b53e6",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Assistente Contábil exclusivo para PCD",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-assistente-contabil-exclusivo-para-pcd",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3254.51,
+   "salario_por_hora": false,
+   "cargos": "Assistente Contábil",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "d57e2f72ab675c5f",
    "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
    "titulo": "HCFMRP-USP - SP abre concursos para médicos em duas especialidades cirúrgicas",
@@ -774,6 +797,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
+  },
+  {
+   "id": "ffaf59ad48c8871f",
+   "orgao": "Prefeitura de Álvares Machado",
+   "titulo": "Prefeitura de Álvares Machado - SP abre processo seletivo para enfermeiros e psicólogos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvares-machado-sp-abre-processo-seletivo-para-enfermeiros-e-psicologos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5729.45,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Enfermeiro ESF, Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "9716590d17604605",
@@ -988,6 +1033,28 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "28a20294a6b242aa",
+   "orgao": "Prefeitura de General Salgado",
+   "titulo": "Prefeitura de General Salgado - SP abre concurso para cargos na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-general-salgado-sp-abre-concurso-para-cargos-na-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 6319.48,
+   "salario_por_hora": false,
+   "cargos": "Diretor de Escola, Professor Coordenador, Professor Auxiliar I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "08 a22/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "b5a3c804bae6fb76",
@@ -1240,6 +1307,30 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "ac03f18d41055913",
+   "orgao": "Prefeitura de Lucélia",
+   "titulo": "Prefeitura de Lucélia - SP abre concurso público e processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lucelia-sp-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4048.35,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "08 a30/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "094bcac254f4e1f5",
@@ -1690,6 +1781,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "7e8c0a3ac20bf789",
+   "orgao": "PRUDENCO - Companhia Prudentina de Desenvolvimento",
+   "titulo": "PRUDENCO - SP abre concurso público para Coletor e Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/prudenco-sp-abre-concurso-publico-para-coletor-e-motorista",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2636.72,
+   "salario_por_hora": false,
+   "cargos": "Coletor, Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/11/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "078b8e88745d1496",
@@ -3034,6 +3147,28 @@
    "novo": false
   },
   {
+   "id": "57a8ee8f356c57ea",
+   "orgao": "Prefeitura de Catas Altas",
+   "titulo": "Prefeitura de Catas Altas - MG abre seleção para o cargo de Cozinheiro",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catas-altas-mg-abre-selecao-para-o-cargo-de-cozinheiro",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Cozinheiro",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-14",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "14 a16/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "a8167cd8cd3b30b3",
    "orgao": "Prefeitura de Cláudio",
    "titulo": "Prefeitura de Cláudio - MG divulga Processo Seletivo para Fisioterapeuta",
@@ -4104,6 +4239,28 @@
    "novo": false
   },
   {
+   "id": "0c3cac96d715ae8c",
+   "orgao": "Prefeitura de São Tomás de Aquino",
+   "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tomas-de-aquino-mg-abre-processo-seletivo-na-area-da-educacao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 3388.85,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "09 a19/11/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "436bc673c7f85d81",
    "orgao": "Prefeitura de São Vicente de Minas",
    "titulo": "Prefeitura de São Vicente de Minas - MG abre concurso público com salários de até R$ 15.142,28",
@@ -4760,6 +4917,29 @@
    "prazo_texto": "11/10/2026",
    "visto_em": "2026-10-01T23:55:52+00:00",
    "novo": false
+  },
+  {
+   "id": "41f7abdeeeab3ac3",
+   "orgao": "SEMMA - Secretaria Municipal de Meio Ambiente de Vila Velha",
+   "titulo": "Prefeitura de Vila Velha - ES abre processo seletivo com salários de até R$ 7.579,95",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-velha-es-abre-processo-seletivo-com-salarios-de-ate-7579",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 7579.95,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "36316fbef1ecbd6d",
@@ -5838,6 +6018,30 @@
    "novo": true
   },
   {
+   "id": "48b687309dfe9dad",
+   "orgao": "Prefeitura de Osório",
+   "titulo": "Prefeitura de Osório - RS abre seleções para Visitador do PIM e Médico Veterinário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osorio-rs-abre-selecoes-para-visitador-do-pim-e-medico-veterinario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5763.26,
+   "salario_por_hora": false,
+   "cargos": "Visitador do Programa Primeira Infância Melhor, Médico Veterinário",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-09",
+   "prazo_texto": "09/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "6dcc3429c5342fa6",
    "orgao": "Prefeitura de Panambi",
    "titulo": "Prefeitura de Panambi - RS abre concurso público com salários de até R$ 5.388,99",
@@ -6113,6 +6317,31 @@
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
    "novo": false
+  },
+  {
+   "id": "50a6fb9cad062b48",
+   "orgao": "Prefeitura de Três Forquilhas",
+   "titulo": "Prefeitura de Três Forquilhas - RS abre concurso público com salários de até R$ 7.045,55",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-forquilhas-rs-abre-concurso-publico-com-salarios-de-ate-7045",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 53,
+   "cadastro_reserva": false,
+   "salario": 7045.55,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "08 a20/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "4a9dc5ed352880ee",
@@ -6830,6 +7059,29 @@
    "novo": false
   },
   {
+   "id": "f8f319079dc216cf",
+   "orgao": "Prefeitura de Chapecó",
+   "titulo": "Prefeitura de Chapecó - SC abre seleção para instrutores em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-abre-selecao-para-instrutores-em-diversas-areas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5333.97,
+   "salario_por_hora": false,
+   "cargos": "Instrutor, Instrutor Desportivo",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "a073f328df5ff7ff",
    "orgao": "Prefeitura de Coronel Martins",
    "titulo": "Prefeitura de Coronel Martins - SC abre processo seletivo com salários de até R$ 7.207,55",
@@ -7261,6 +7513,29 @@
    "novo": false
   },
   {
+   "id": "f9e9ab53e6beec10",
+   "orgao": "Prefeitura de Nova Trento",
+   "titulo": "Prefeitura de Nova Trento - SC abre seleção com salários de até R$ 5.130,63",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-trento-sc-abre-selecao-com-salarios-de-ate-5130",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-08",
+   "prazo_texto": "08/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "6628be720db1d3f5",
    "orgao": "Prefeitura de Paraíso",
    "titulo": "Prefeitura de Paraíso - SC publica edital de concurso público com salários de até R$ 15.126,65",
@@ -7376,6 +7651,28 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "726351e9aa6376d1",
+   "orgao": "Prefeitura de Rio Negrinho",
+   "titulo": "Prefeitura de Rio Negrinho - SC abre vaga para médico psiquiatra",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-vaga-para-medico-psiquiatra",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 18538.78,
+   "salario_por_hora": false,
+   "cargos": "Médico Especialista Psiquiatra",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "49318a03119161c7",
@@ -8204,6 +8501,30 @@
    "novo": false
   },
   {
+   "id": "87d809fa60052781",
+   "orgao": "Prefeitura de Santa Rita do Araguaia",
+   "titulo": "Prefeitura de Santa Rita do Araguaia - GO abre processo seletivo para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-araguaia-go-abre-processo-seletivo-para-a-educacao",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 41,
+   "cadastro_reserva": false,
+   "salario": 3895.92,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "13 a23/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
    "id": "3166046d298cc7b1",
    "orgao": "Prefeitura de São Domingos",
    "titulo": "Prefeitura de São Domingos - GO abre processo seletivo na saúde",
@@ -8320,6 +8641,51 @@
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
+  },
+  {
+   "id": "f2fff4ea4955ff68",
+   "orgao": "Prefeitura de Caracol",
+   "titulo": "Prefeitura de Caracol - MS abre seleção para cargos na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caracol-ms-abre-selecao-para-cargos-na-educacao",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 65,
+   "cadastro_reserva": false,
+   "salario": 2724.84,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "13 a15/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
+   "id": "d102c2ee40099e86",
+   "orgao": "Prefeitura de Caracol",
+   "titulo": "Prefeitura de Caracol - MS abre processo seletivo para profissionais de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caracol-ms-abre-processo-seletivo-para-profissionais-de-nivel-superior",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4954.26,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo, Assistente Social, Professor",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-14",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "14 a16/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "47c309c9c66aa7c1",
@@ -8579,6 +8945,28 @@
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "e99b28381c350cdc",
+   "orgao": "Prefeitura de Novo Santo Antônio",
+   "titulo": "Prefeitura de Novo Santo Antônio - MT abre processo seletivo para Psicólogo e Nutricionista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-santo-antonio-mt-abre-processo-seletivo-para-psicologo-e-nutricionista",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 5328.17,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo, Psicólogo Educacional, Nutricionista - Saúde",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "09 a15/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "54e2787794e36141",
@@ -9231,6 +9619,30 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "3f4f7cf5484cadcb",
+   "orgao": "CONSAN - Consórcio Público Interfederativo de Saúde de Piemonte da Chapada Norte",
+   "titulo": "CONSAN - BA abre seleção para Assistente Administrativo, Técnico em Enfermagem e Assessor Técnico",
+   "url": "https://www.pciconcursos.com.br/noticias/consan-ba-abre-selecao-para-assistente-administrativo-tecnico-em-enfermagem-e-assessor-tecnico",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4730.85,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo, Técnico em Enfermagem, Assessor Técnico",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-08",
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "08 a20/10/2026",
+   "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
   },
   {
    "id": "730f46a85144da4e",
