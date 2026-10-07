@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-07T01:36:31+00:00",
+ "gerado_em": "2026-10-07T08:45:51+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 461,
- "novos": 88,
- "encerrados": 0,
+ "total": 444,
+ "novos": 61,
+ "encerrados": 17,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -458,30 +458,6 @@
    "novo": false
   },
   {
-   "id": "80ff562bb82ade5c",
-   "orgao": "Câmara de Rio das Pedras",
-   "titulo": "Câmara de Rio das Pedras - SP abre concurso com salários de até R$ 5.856,50.",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-rio-das-pedras-sp-abre-concurso-com-salarios-de-ate-5856-50",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 4,
-   "cadastro_reserva": false,
-   "salario": 5856.5,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "f169712e6b068d4b",
    "orgao": "COMDERP - Companhia Municipal de Desenvolvimento de São José do Rio Pardo",
    "titulo": "COMDERP - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -617,7 +593,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ba700bd4f4f01e67",
@@ -729,29 +705,6 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
-   "novo": false
-  },
-  {
-   "id": "4e11e92df823e518",
-   "orgao": "Prefeitura da Estância Turística de Olímpia",
-   "titulo": "Prefeitura de Olímpia - SP abre processo seletivo para diversos cargos na área da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpia-sp-abre-processo-seletivo-para-diversos-cargos-na-area-da-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 1745.31,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -963,7 +916,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bd5349e3ad9bfb62",
@@ -1107,28 +1060,6 @@
    "novo": false
   },
   {
-   "id": "f82ddc70b31e8d02",
-   "orgao": "Prefeitura de Itaju",
-   "titulo": "Prefeitura de Itaju - SP abre concursos públicos para Motorista e Operador de Máquinas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaju-sp-abre-concursos-publicos-para-motorista-e-operador-de-maquinas",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 1961.04,
-   "salario_por_hora": false,
-   "cargos": "Motorista, Operador de Máquinas",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "a92d3b750df2ab1b",
    "orgao": "Prefeitura de Itapecerica da Serra",
    "titulo": "Prefeitura de Itapecerica da Serra - SP abre concurso para Motorista de Caminhão",
@@ -1236,9 +1167,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "07/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": true
   },
@@ -1258,9 +1189,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "07/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -1425,7 +1356,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "da293c80fdfc8262",
@@ -1614,7 +1545,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bfed79a3d6bef5c2",
@@ -3139,9 +3070,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "07/10 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3189,28 +3120,6 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "3b17c75f0cfc8171",
-   "orgao": "Prefeitura de Curvelo",
-   "titulo": "Prefeitura de Curvelo - MG abre vaga em processo seletivo para mecânico",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-vaga-em-processo-seletivo-para-mecanico",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3487.57,
-   "salario_por_hora": false,
-   "cargos": "Mecânico",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
   },
   {
@@ -3866,28 +3775,6 @@
    "novo": false
   },
   {
-   "id": "af0398cfd0785fc7",
-   "orgao": "Prefeitura de Ponte Nova",
-   "titulo": "Prefeitura de Ponte Nova - MG abre processo seletivo para médicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponte-nova-mg-abre-processo-seletivo-para-medicos",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 8,
-   "cadastro_reserva": false,
-   "salario": 4735.93,
-   "salario_por_hora": false,
-   "cargos": "Médico Dermatologista, Médico Ginecologista, Médico Neurologista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "00573c65699a58ed",
    "orgao": "Prefeitura de Porto Firme",
    "titulo": "Prefeitura de Porto Firme - MG abre novo concurso público com salários de até R$ 3.873,30",
@@ -3954,29 +3841,6 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": true
-  },
-  {
-   "id": "b4c77d3bdfbde410",
-   "orgao": "Prefeitura de Rubelita",
-   "titulo": "Prefeitura de Rubelita - MG abre vagas para Professor de Educação Física e Monitor Esportivo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rubelita-mg-abre-vagas-para-professor-de-educacao-fisica-e-monitor-esportivo",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 4170.46,
-   "salario_por_hora": false,
-   "cargos": "Professor de Educação Física, Monitor Esportivo",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-29T15:56:49+00:00",
-   "novo": false
   },
   {
    "id": "02b699512be03d5a",
@@ -4532,7 +4396,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "094c6af4de18320c",
@@ -4576,7 +4440,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3116072ab8212a55",
@@ -4851,31 +4715,6 @@
    "novo": false
   },
   {
-   "id": "35cc856741a81e0c",
-   "orgao": "SESA - Secretaria da Saúde",
-   "titulo": "SESA - ES abre processos seletivos para diversas áreas",
-   "url": "https://www.pciconcursos.com.br/noticias/sesa-es-abre-processos-seletivos-para-diversas-areas",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 12689.93,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-30T23:54:38+00:00",
-   "novo": false
-  },
-  {
    "id": "36316fbef1ecbd6d",
    "orgao": "Câmara de Cantagalo",
    "titulo": "Câmara de Cantagalo - PR abre concurso público para o cargo de Assessor Jurídico",
@@ -5059,31 +4898,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "6caa383ce01de6b3",
-   "orgao": "Prefeitura de Brasilândia do Sul",
-   "titulo": "Prefeitura de Brasilândia do Sul - PR abre processo seletivo com salários de até R$ 5.130,64",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasilandia-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 5130.64,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5274,7 +5088,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "06f9665a05fd04e9",
@@ -5296,7 +5110,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "95524a59d29046fa",
@@ -5343,7 +5157,7 @@
    "inscricoes_ate": "2026-10-07",
    "prazo_texto": "07/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bc0629d3280b6772",
@@ -5368,7 +5182,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77f7caa93bc9f18f",
@@ -5933,28 +5747,6 @@
    "novo": false
   },
   {
-   "id": "724572e3fbd4cfd4",
-   "orgao": "Prefeitura de Nova Pádua",
-   "titulo": "Prefeitura de Nova Pádua - RS abre seleção para agentes de serviços gerais e complementares",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-selecao-para-agentes-de-servicos-gerais-e-complementares",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 2638.26,
-   "salario_por_hora": false,
-   "cargos": "Agente de Serviços Gerais, Agente de Serviços Complementares",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "a14348212752c2a3",
    "orgao": "Prefeitura de Novo Machado",
    "titulo": "Prefeitura de Novo Machado - RS abre seleção para atendente de consultório dentário",
@@ -5970,9 +5762,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "07 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": true
   },
@@ -6440,29 +6232,6 @@
    "novo": false
   },
   {
-   "id": "33827b6cfc8bf677",
-   "orgao": "Câmara de Rio Fortuna",
-   "titulo": "Câmara de Rio Fortuna - SC abre seleção para Agente Operacional",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-rio-fortuna-sc-abre-selecao-para-agente-operacional",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 2350.42,
-   "salario_por_hora": false,
-   "cargos": "Agente Operacional de Serviços Diversos",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "e2d38b0e74cc9a47",
    "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
    "titulo": "CISAMAVI - SC abre concurso público com salários de até R$ 10.520,99",
@@ -6850,7 +6619,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fac5f2ddcd3551e6",
@@ -6868,9 +6637,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-14",
-   "prazo_texto": "07 a14/10/2026",
+   "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": true
   },
@@ -7199,7 +6968,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "282a7c64b96cda0c",
@@ -7268,9 +7037,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "07 a27/10/2026",
+   "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": true
   },
@@ -7346,7 +7115,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e313ce5ee59798ea",
@@ -7491,28 +7260,6 @@
    "novo": false
   },
   {
-   "id": "cd4395053e0e224e",
-   "orgao": "Prefeitura de Rio das Antas",
-   "titulo": "Prefeitura de Rio das Antas - SC abre processo seletivo para Agente Comunitário de Saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-30T23:54:38+00:00",
-   "novo": false
-  },
-  {
    "id": "49318a03119161c7",
    "orgao": "Prefeitura de Saltinho",
    "titulo": "Prefeitura de Saltinho - SC abre concurso público com salários de até R$ 5.022,81",
@@ -7531,11 +7278,11 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "07/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3230e0b0e1f4c02a",
@@ -7626,9 +7373,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-07",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-21",
-   "prazo_texto": "07 a21/10/2026",
+   "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": true
   },
@@ -7846,7 +7593,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "312088e4a7a84053",
@@ -7890,7 +7637,7 @@
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "15/10 a17/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -8175,29 +7922,6 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
-   "id": "9240f76268a80982",
-   "orgao": "Prefeitura de Mambaí",
-   "titulo": "Prefeitura de Mambaí - GO abre processo seletivo para profissionais da área de enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mambai-go-abre-processo-seletivo-para-profissionais-da-area-de-enfermagem",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 18,
-   "cadastro_reserva": false,
-   "salario": 2680.0,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem, Enfermeiro",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8502,7 +8226,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8adb027e74876bb5",
@@ -8548,28 +8272,6 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
-  },
-  {
-   "id": "3341b3556b997b8f",
-   "orgao": "Câmara de Figueirópolis D'Oeste",
-   "titulo": "Câmara de Figueirópolis D'Oeste - MT abre concurso para Analista Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-figueiropolis-doeste-mt-abre-concurso-para-analista-administrativo",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3602.0,
-   "salario_por_hora": false,
-   "cargos": "Analista Administrativo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8714,30 +8416,6 @@
    "novo": false
   },
   {
-   "id": "0fd8f1755f437fa6",
-   "orgao": "Prefeitura de Nova Lacerda",
-   "titulo": "Prefeitura de Nova Lacerda - MT abre processo seletivo para a Secretaria de Educação e Cultura",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-lacerda-mt-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 4225.47,
-   "salario_por_hora": false,
-   "cargos": "Professor, Monitor de Aluno, Agente de Serviços Gerais",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "06/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
-  },
-  {
    "id": "ca34b5244dbe8d93",
    "orgao": "Prefeitura de Nova Mutum",
    "titulo": "Prefeitura de Nova Mutum - MT retifica edital de processo seletivo",
@@ -8760,7 +8438,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "aeb3d1d429be824e",
@@ -9107,7 +8785,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "13/10 a12/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "242095c085b2bf46",
@@ -9391,31 +9069,6 @@
    "novo": false
   },
   {
-   "id": "c54d59de2c4b1f82",
-   "orgao": "Prefeitura de Porto Calvo",
-   "titulo": "Prefeitura de Porto Calvo - AL retifica edital de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-calvo-al-retifica-edital-de-concurso-publico",
-   "uf": "AL",
-   "uf_nome": "Alagoas",
-   "vagas": 201,
-   "cadastro_reserva": false,
-   "salario": 8000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "Prorrogado até06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "265e0b3631030a34",
    "orgao": "Prefeitura de Teotônio Vilela",
    "titulo": "Prefeitura de Teotônio Vilela - AL retifica o edital de concurso público com vagas na área da educação",
@@ -9504,7 +9157,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "Prorrogado até12/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77ef545d520629af",
@@ -9685,7 +9338,7 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "24/11/2026 a07/01/2027",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3dcc8b4861bdb5d7",
@@ -9803,7 +9456,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "86105af313d5813e",
@@ -9828,7 +9481,7 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fd2651de952695f3",
@@ -10039,53 +9692,6 @@
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": true
-  },
-  {
-   "id": "dcc86dade255890e",
-   "orgao": "Prefeitura de Campina Grande",
-   "titulo": "Prefeitura de Campina Grande - PB reabre inscrições para concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-pb-reabre-inscricoes-para-concurso-publico",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 935,
-   "cadastro_reserva": false,
-   "salario": 8816.66,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "Reaberto até06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "e775a10b237401a6",
-   "orgao": "Prefeitura de Campina Grande",
-   "titulo": "Prefeitura de Campina Grande - PB reabre inscrições de concurso público para Agente de Trânsito",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-pb-reabre-inscricoes-de-concurso-publico-para-agente-de-transito",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 40,
-   "cadastro_reserva": false,
-   "salario": 3170.83,
-   "salario_por_hora": false,
-   "cargos": "Agente de Trânsito",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-06",
-   "prazo_texto": "Reaberto até06/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
   },
   {
    "id": "7511d70e74239072",
@@ -10322,7 +9928,7 @@
    "inscricoes_ate": "2026-12-16",
    "prazo_texto": "15/10 a16/12/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d01edb83a6e711ee",
@@ -10650,7 +10256,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8525beaea90b4f1d",
