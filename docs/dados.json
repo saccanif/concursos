@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-07T08:45:51+00:00",
+ "gerado_em": "2026-10-07T16:35:10+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 444,
- "novos": 61,
- "encerrados": 17,
+ "total": 453,
+ "novos": 36,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -277,6 +277,29 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "ff04ed092e67d6c9",
+   "orgao": "Câmara de Cesário Lange",
+   "titulo": "Câmara de Cesário Lange - SP abre concurso público com salários de até R$ 3.774,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cesario-lange-sp-abre-concurso-publico-com-salarios-de-ate-3774",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 3774.0,
+   "salario_por_hora": false,
+   "cargos": "Apoio Administrativo, Apoio Operacional, Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "09/10 a02/11/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "acdba203df79e0ef",
@@ -571,7 +594,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d57e2f72ab675c5f",
@@ -1033,7 +1056,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4cb0495f237bc724",
@@ -1471,7 +1494,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d06f2f962ae78025",
@@ -1570,7 +1593,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c5a88befce71aae3",
@@ -1741,6 +1764,30 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "bc4aa0cef39687b3",
+   "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
+   "titulo": "SEBRAE-SP abre seleções para Analista de Backoffice e Analista de Negócio Sênior",
+   "url": "https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-selecoes-para-analista-de-backoffice-e-analista-de-negocio-senior",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 9365.0,
+   "salario_por_hora": false,
+   "cargos": "Analista de Backoffice, Analista de Negócio Sênior",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "87a8aca832eceafa",
@@ -3749,7 +3796,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "046c2d02acc4770b",
@@ -4146,7 +4193,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "09 a16/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8032de0439888269",
@@ -4577,7 +4624,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "16 a28/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0ce29cb15ed16cce",
@@ -4734,6 +4781,28 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "09 a28/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
+   "novo": false
+  },
+  {
+   "id": "aecd01f678969995",
+   "orgao": "Câmara de Jundiaí do Sul",
+   "titulo": "Câmara de Jundiaí do Sul - PR abre processo seletivo para Auxiliar de Serviços Gerais",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jundiai-do-sul-pr-abre-processo-seletivo-para-auxiliar-de-servicos-gerais",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "13 a27/10/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
    "novo": true
   },
   {
@@ -5132,7 +5201,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4f8a0f09d08dab30",
@@ -5347,7 +5416,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "19 a28/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77bf79639de2495b",
@@ -5678,7 +5747,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b2c30bcc93636c64",
@@ -5814,7 +5883,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "19 a30/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c93be702d7019aeb",
@@ -5882,7 +5951,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0a5d20499dd2ae4e",
@@ -5996,7 +6065,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c0d251a86e831555",
@@ -6185,6 +6254,31 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6f38e4db8eaeee11",
+   "orgao": "Câmara de Fraiburgo",
+   "titulo": "Câmara de Fraiburgo - SC abre concurso público com remunerações de até R$ 6.747,11",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-fraiburgo-sc-abre-concurso-publico-com-remuneracoes-de-ate-6747",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 6747.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "56aca1e1ab3f83e5",
@@ -6431,7 +6525,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ad0cc6645f673bc8",
@@ -6453,7 +6547,7 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9d1ce550b75f1e80",
@@ -6500,7 +6594,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f19fbb4859494fb0",
@@ -6641,7 +6735,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "55f84c39a51f6033",
@@ -6711,7 +6805,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "53e6a9e4759863b4",
@@ -6853,6 +6947,30 @@
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "18c43f34d0984972",
+   "orgao": "Prefeitura de Fraiburgo",
+   "titulo": "Município de Fraiburgo - SC abre processo seletivo com salários de até R$ 5.146,31",
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-fraiburgo-sc-abre-processo-seletivo-com-salarios-de-ate-5146",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 5146.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "52875770bf59560d",
@@ -7090,7 +7208,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b1a81c60231d2c7b",
@@ -7235,7 +7353,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8ba77772706b673a",
@@ -7377,7 +7495,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6f54ea9a89b64338",
@@ -7426,7 +7544,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8e1c428ea86ff8a0",
@@ -7730,7 +7848,7 @@
    "inscricoes_ate": "2026-10-08",
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "378b7e1641cb4963",
@@ -7826,7 +7944,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "Prorrogado até19/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca2a82a7a59f231",
@@ -7848,7 +7966,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "09 a30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "21aea01c329eb7ce",
@@ -8038,7 +8156,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "09 a30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5b97300537cbe833",
@@ -8460,7 +8578,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "54e2787794e36141",
@@ -8713,7 +8831,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/10 a13/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c46b6ea5c7132f19",
@@ -8736,7 +8854,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "42b9171df259f295",
@@ -8904,7 +9022,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "91ba978974546f1d",
@@ -9182,6 +9300,30 @@
    "novo": false
   },
   {
+   "id": "e1c3576db7949715",
+   "orgao": "Prefeitura de Rio Real",
+   "titulo": "Prefeitura de Rio Real - BA abre inscrições para concursos e processo seletivo com diversas vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-real-ba-abre-inscricoes-para-concursos-e-processo-seletivo-com-diversas-vagas",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 141,
+   "cadastro_reserva": true,
+   "salario": 4430.06,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
+  },
+  {
    "id": "74f075b1fb19ca7b",
    "orgao": "Prefeitura de Salvador",
    "titulo": "Prefeitura de Salvador - BA abre concurso público para guardas civis municipais",
@@ -9247,6 +9389,30 @@
    "prazo_texto": "16/10 a11/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
+  },
+  {
+   "id": "db0a8ea572226153",
+   "orgao": "Câmara de Graça",
+   "titulo": "Câmara de Graça - CE reabre inscrições para concurso público com salários de até R$ 4.300,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-graca-ce-reabre-inscricoes-para-concurso-publico-com-salarios-de-ate-4300",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 4300.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "Reaberto até25/10/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "41682244580d2a12",
@@ -9527,7 +9693,7 @@
    "inscricoes_ate": "2026-11-01",
    "prazo_texto": "01/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6fd8637b1b4cc1a9",
@@ -9691,7 +9857,7 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7511d70e74239072",
@@ -9788,7 +9954,7 @@
    "inscricoes_ate": "2026-11-07",
    "prazo_texto": "07/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b6250bf269c1ec4d",
@@ -10094,6 +10260,30 @@
    "novo": false
   },
   {
+   "id": "6d2c879b9aaba52d",
+   "orgao": "Câmara de Mossoró",
+   "titulo": "Câmara de Mossoró - RN abre concurso público com salários de até R$ 8.810,69",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-mossoro-rn-abre-concurso-publico-com-salarios-de-ate-8810",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 24,
+   "cadastro_reserva": false,
+   "salario": 8810.69,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "13/10 a12/11/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
+  },
+  {
    "id": "41bb9e6f96d257a4",
    "orgao": "Câmara de Pau dos Ferros",
    "titulo": "Câmara de Pau dos Ferros - RN abre concurso público com salários de até R$ 4.714,65",
@@ -10164,6 +10354,30 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
+  },
+  {
+   "id": "1b25b04942be4be9",
+   "orgao": "Câmara de Tibau do Sul",
+   "titulo": "Câmara de Tibau do Sul - RN abre concurso público com oito vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-tibau-do-sul-rn-abre-concurso-publico-com-oito-vagas-imediatas",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 3000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
   },
   {
    "id": "6f3c5918d479bfc6",
