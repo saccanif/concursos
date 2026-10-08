@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-08T09:04:19+00:00",
+ "gerado_em": "2026-10-08T16:33:33+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 450,
- "novos": 44,
- "encerrados": 21,
+ "total": 461,
+ "novos": 38,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -389,7 +389,7 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "727a22b0aa98077a",
@@ -529,6 +529,28 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
+   "novo": true
+  },
+  {
+   "id": "fc2fd8cb99b07a1e",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para o cargo de Ajudante de Cozinha",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-o-cargo-de-ajudante-de-cozinha",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1999.99,
+   "salario_por_hora": false,
+   "cargos": "Ajudante de Cozinha",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": true
   },
   {
@@ -825,6 +847,29 @@
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "2608901cfcc4258a",
+   "orgao": "Prefeitura de Buritizal",
+   "titulo": "Prefeitura de Buritizal - SP abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-buritizal-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5923.15,
+   "salario_por_hora": false,
+   "cargos": "Diretor, Professor de Educação Básica, Auxiliar de Desenvolvimento Infantil",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
   },
   {
    "id": "87d951f09b253383",
@@ -1173,7 +1218,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "90274a2e1fe5041b",
@@ -1668,7 +1713,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "Prorrogado até15/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0797693c3a872c5b",
@@ -2062,7 +2107,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "061e0e3d2a0dc461",
@@ -3283,7 +3328,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "19 a23/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4de1722cfb555995",
@@ -3349,7 +3394,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "13 a15/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a5a6a716af77fee2",
@@ -3589,6 +3634,31 @@
    "novo": false
   },
   {
+   "id": "05dc29e5cae174c5",
+   "orgao": "Prefeitura de Paraguaçu",
+   "titulo": "Prefeitura de Paraguaçu - MG abre concurso público com salários de até R$ 20.128,27",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraguacu-mg-abre-concurso-publico-com-salarios-de-ate-20128",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 100,
+   "cadastro_reserva": false,
+   "salario": 20128.27,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-21",
+   "inscricoes_ate": "2027-01-19",
+   "prazo_texto": "21/12/2026 a19/01/2027",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
    "id": "b1d84953332cd133",
    "orgao": "Prefeitura de Patis",
    "titulo": "Prefeitura de Patis - MG abre concurso público com salários de até R$ 13.500,00",
@@ -3706,7 +3776,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "09 a13/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b1a2a250157bb3ba",
@@ -3866,7 +3936,7 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "02b699512be03d5a",
@@ -4355,7 +4425,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5bf856b2993663c3",
@@ -4534,7 +4604,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "20 a26/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a242b8026c22c908",
@@ -4649,7 +4719,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1d0e9b4e57b05dcf",
@@ -5540,6 +5610,29 @@
    "novo": false
   },
   {
+   "id": "7cbc506019728b91",
+   "orgao": "Prefeitura de Barão do Triunfo",
+   "titulo": "Prefeitura de Barão do Triunfo - RS abre seleção para diversos níveis escolares",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-do-triunfo-rs-abre-selecao-para-diversos-niveis-escolares",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente de Combate a Endemias, Motorista de Ambulância, Agente Comunitário de Saúde",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "14/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
    "id": "6b703332f0aafccf",
    "orgao": "Prefeitura de Cerro Largo",
    "titulo": "Prefeitura de Cerro Largo - RS abre processos seletivos para engenheiro civil e visitador do PIM",
@@ -5585,7 +5678,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7e4e2ff109a6295a",
@@ -5613,6 +5706,52 @@
    "novo": false
   },
   {
+   "id": "b4a6e94d9fa96234",
+   "orgao": "Prefeitura de Feliz",
+   "titulo": "Prefeitura de Feliz - RS abre processo seletivo para o cargo de Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-para-o-cargo-de-motorista",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2315.99,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "acd213a92197d688",
+   "orgao": "Prefeitura de Garibaldi",
+   "titulo": "Prefeitura de Garibaldi - RS abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garibaldi-rs-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 7823.79,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "28/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
    "id": "44dff14fe2f87a03",
    "orgao": "Prefeitura de Gramado",
    "titulo": "Prefeitura de Gramado - RS abre seleção para Agente de Defesa Civil",
@@ -5632,7 +5771,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3d1156daa8f097d5",
@@ -5745,7 +5884,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "48b687309dfe9dad",
@@ -6414,6 +6553,29 @@
    "novo": false
   },
   {
+   "id": "e7bc50a7e1752696",
+   "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
+   "titulo": "Hospital Regional de Araranguá - SC abre seleções para Copeiro, Auxiliar de Cozinha e Cozinheiro",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-selecoes-para-copeiro-auxiliar-de-cozinha-e-cozinheiro",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Copeiro(a), Auxiliar de Cozinha, Cozinheiro(a)",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-12",
+   "prazo_texto": "12/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
    "id": "d090a9e6925980c0",
    "orgao": "Hospital São Lucas da Prefeitura de Major Vieira",
    "titulo": "Prefeitura de Major Vieira - SC abre processo seletivo para formação de cadastro de reserva no Hospital São Lucas",
@@ -6927,6 +7089,31 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "12/10 a11/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
+   "novo": false
+  },
+  {
+   "id": "624639fc088c0f78",
+   "orgao": "Prefeitura de Imbuia",
+   "titulo": "Prefeitura de Imbuia - SC abre processo seletivo com salários de até R$ 7.362,28",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbuia-sc-abre-processo-seletivo-com-salarios-de-ate-7362",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 7362.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": true
   },
   {
@@ -7266,6 +7453,28 @@
    "novo": false
   },
   {
+   "id": "fa5b4d7f116f4ea3",
+   "orgao": "Prefeitura de Rancho Queimado",
+   "titulo": "Prefeitura de Rancho Queimado - SC abre seleção para Assistente Social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-assistente-social",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 6474.04,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
    "id": "726351e9aa6376d1",
    "orgao": "Prefeitura de Rio Negrinho",
    "titulo": "Prefeitura de Rio Negrinho - SC abre vaga para médico psiquiatra",
@@ -7550,7 +7759,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "398b29a69a79fbd8",
@@ -7807,7 +8016,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1bfe4b52dc38c44c",
@@ -9393,6 +9602,55 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "Reaberto até25/10/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
+   "novo": true
+  },
+  {
+   "id": "126c369d70c49d84",
+   "orgao": "Câmara de São Benedito",
+   "titulo": "Câmara de São Benedito - CE abre concurso público para níveis fundamental e médio",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-benedito-ce-abre-concurso-publico-para-niveis-fundamental-e-medio",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 2000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "d2d1f22c4b21ab68",
+   "orgao": "Prefeitura de Acaraú",
+   "titulo": "Prefeitura de Acaraú - CE retifica concurso com vagas para diversos níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acarau-ce-retifica-concurso-com-vagas-para-diversos-niveis-de-escolaridade",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 266,
+   "cadastro_reserva": false,
+   "salario": 5000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "Prorrogado até20/10/2026",
+   "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": true
   },
   {
