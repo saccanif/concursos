@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-08T16:33:33+00:00",
+ "gerado_em": "2026-10-08T22:08:15+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 461,
- "novos": 38,
+ "total": 471,
+ "novos": 48,
  "encerrados": 0,
  "concursos": [
   {
@@ -463,6 +463,28 @@
    "novo": false
   },
   {
+   "id": "ccf1f34bcbbe038d",
+   "orgao": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
+   "titulo": "DETRAN - SP prorroga inscrições do concurso com 145 vagas para agentes estaduais de trânsito",
+   "url": "https://www.pciconcursos.com.br/noticias/detran-sp-prorroga-inscricoes-do-concurso-com-145-vagas-para-agentes-estaduais-de-transito",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 145,
+   "cadastro_reserva": false,
+   "salario": 5702.18,
+   "salario_por_hora": false,
+   "cargos": "Agente Estadual de Trânsito",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "Prorrogado até13/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
    "id": "2b8200e759894822",
    "orgao": "FJPO - Fundação José Pedro de Oliveira",
    "titulo": "Fundação José Pedro de Oliveira - SP abre concurso público com salários de até R$ 8.991,96",
@@ -551,6 +573,29 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "cd2860d26278e4e8",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre seleções para Auxiliar de Cozinha, Auxiliar de Lavanderia e Recepcionista",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-auxiliar-de-cozinha-auxiliar-de-lavanderia-e-recepcionista",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2197.08,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Cozinha, Auxiliar de Lavanderia, Recepcionista",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
    "novo": true
   },
   {
@@ -5865,6 +5910,31 @@
    "novo": false
   },
   {
+   "id": "6a9660aedcd36ba8",
+   "orgao": "Prefeitura de Maratá",
+   "titulo": "Prefeitura de Maratá - RS abre concurso público com salários de até R$ 10.165,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marata-rs-abre-concurso-publico-com-salarios-de-ate-10165",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 29,
+   "cadastro_reserva": false,
+   "salario": 10165.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
    "id": "a14348212752c2a3",
    "orgao": "Prefeitura de Novo Machado",
    "titulo": "Prefeitura de Novo Machado - RS abre seleção para atendente de consultório dentário",
@@ -6329,6 +6399,28 @@
    "novo": false
   },
   {
+   "id": "99c2de8b156f9991",
+   "orgao": "Câmara de Marema",
+   "titulo": "Câmara de Marema - SC abre concurso público para o cargo de Faxineira",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-marema-sc-abre-concurso-publico-para-o-cargo-de-faxineira",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2883.51,
+   "salario_por_hora": false,
+   "cargos": "Faxineira",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
    "id": "e2d38b0e74cc9a47",
    "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
    "titulo": "CISAMAVI - SC abre concurso público com salários de até R$ 10.520,99",
@@ -6507,6 +6599,28 @@
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "e49bf39221cbfc50",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Médico no HEMOSC de Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medico-no-hemosc-de-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 10153.19,
+   "salario_por_hora": false,
+   "cargos": "Médico II",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-13",
+   "prazo_texto": "13/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
   },
   {
    "id": "ad0cc6645f673bc8",
@@ -7286,6 +7400,31 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "60dff943592b2258",
+   "orgao": "Prefeitura de Marema",
+   "titulo": "Prefeitura de Marema - SC abre concurso com salários de até R$ 8.976,39",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marema-sc-abre-concurso-com-salarios-de-ate-8976",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 8976.39,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
   },
   {
    "id": "e313ce5ee59798ea",
@@ -8488,6 +8627,30 @@
    "novo": true
   },
   {
+   "id": "426de0b96c1c825b",
+   "orgao": "Prefeitura de Nova Alvorada do Sul",
+   "titulo": "Prefeitura de Nova Alvorada do Sul - MS abre seleção para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-alvorada-do-sul-ms-abre-selecao-para-a-secretaria-de-educacao",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3592.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
    "id": "47c309c9c66aa7c1",
    "orgao": "Prefeitura de Sonora",
    "titulo": "Prefeitura de Sonora - MS abre processo seletivo com salários de até R$ 6.406,02",
@@ -8862,6 +9025,28 @@
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "838a41d6efd74c63",
+   "orgao": "FUNDAPE - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre",
+   "titulo": "FUNDAPE - AC abre processo seletivo para cargo de apoio à gerência de projeto acadêmico",
+   "url": "https://www.pciconcursos.com.br/noticias/fundape-ac-abre-processo-seletivo-para-cargo-de-apoio-a-gerencia-de-projeto-academico",
+   "uf": "AC",
+   "uf_nome": "Acre",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-10",
+   "prazo_texto": "10/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
   },
   {
    "id": "e60d32b77f0fef99",
@@ -9978,6 +10163,50 @@
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": false
+  },
+  {
+   "id": "4df137044953f43e",
+   "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
+   "titulo": "SEAP - MA abre seleção para Agente Penitenciário em Godofredo Viana",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecao-para-agente-penitenciario-em-godofredo-viana",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3952.58,
+   "salario_por_hora": false,
+   "cargos": "Agente Penitenciário Masculino",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "09 a23/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "51e4d35ebe678013",
+   "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
+   "titulo": "SEAP - MA abre seleções para auxiliares penitenciários em diferentes unidades",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecoes-para-auxiliares-penitenciarios-em-diferentes-unidades",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1822.34,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Penitenciário",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-09",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "09 a23/10/2026",
+   "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
   },
   {
    "id": "1067e115a7b7b407",
