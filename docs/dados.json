@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-09T16:17:16+00:00",
+ "gerado_em": "2026-10-09T20:57:49+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 459,
- "novos": 38,
- "encerrados": 2,
+ "total": 471,
+ "novos": 51,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -413,6 +413,52 @@
    "novo": false
   },
   {
+   "id": "02e5c73c880d636c",
+   "orgao": "Cemmil - Consórcio Intermunicipal Cemmil para o Desenvolvimento Sustentável",
+   "titulo": "Consórcio Cemmil - SP abre processo seletivo com vagas em Carapicuíba",
+   "url": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-processo-seletivo-com-vagas-em-carapicuiba",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 28,
+   "cadastro_reserva": false,
+   "salario": 6889.64,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-14",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "14/10 a12/11/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
+  },
+  {
+   "id": "48964d9968387cad",
+   "orgao": "Cemmil - Consórcio Intermunicipal Cemmil para o Desenvolvimento Sustentável",
+   "titulo": "Consórcio Cemmil - SP abre vagas para nível fundamental em Pirassununga",
+   "url": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-sp-abre-vagas-para-nivel-fundamental-em-pirassununga",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 2298.12,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
+  },
+  {
    "id": "f169712e6b068d4b",
    "orgao": "COMDERP - Companhia Municipal de Desenvolvimento de São José do Rio Pardo",
    "titulo": "COMDERP - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -502,6 +548,30 @@
    "inscricoes_ate": "2026-10-13",
    "prazo_texto": "Prorrogado até13/10/2026",
    "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "3e06e546a9e37e97",
+   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+   "titulo": "FAMESP - SP abre processos seletivos em diferentes cidades",
+   "url": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-em-diferentes-cidades",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 12154.19,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "16 a25/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": true
   },
   {
@@ -616,6 +686,28 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-08T22:08:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "918222181400479b",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Garçom",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-garcom",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2100.0,
+   "salario_por_hora": false,
+   "cargos": "Garçom",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": true
   },
   {
@@ -957,6 +1049,28 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-10-08T16:33:33+00:00",
+   "novo": true
+  },
+  {
+   "id": "75f4aa93d2ccb857",
+   "orgao": "Prefeitura de Cabreúva",
+   "titulo": "Prefeitura de Cabreúva - SP abre concurso público para Guarda Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cabreuva-sp-abre-concurso-publico-para-guarda-municipal",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3846.34,
+   "salario_por_hora": false,
+   "cargos": "Guarda Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": true
   },
   {
@@ -1377,6 +1491,28 @@
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "9aa70bdb5bc7e8ef",
+   "orgao": "Prefeitura de Marabá Paulista",
+   "titulo": "Prefeitura de Marabá Paulista - SP abre concurso público para Psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maraba-paulista-sp-abre-concurso-publico-para-psicologo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3857.19,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/11/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
   },
   {
    "id": "8727df7e53f60c91",
@@ -5178,6 +5314,29 @@
    "novo": false
   },
   {
+   "id": "3aca63a999018d58",
+   "orgao": "Prefeitura de Lobato",
+   "titulo": "Prefeitura de Lobato - PR abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lobato-pr-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 16,
+   "cadastro_reserva": false,
+   "salario": 2565.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "13 a23/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
+  },
+  {
    "id": "95524a59d29046fa",
    "orgao": "Prefeitura de Mandaguari",
    "titulo": "Prefeitura de Mandaguari - PR abre processo seletivo com vaga para técnico de enfermagem",
@@ -5811,6 +5970,30 @@
    "novo": true
   },
   {
+   "id": "4f91416f8a5a4fc1",
+   "orgao": "Prefeitura de Marau",
+   "titulo": "Prefeitura de Marau - RS abre processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-processo-seletivo-para-diversos-cargos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-15",
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "15 a21/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
+  },
+  {
    "id": "a14348212752c2a3",
    "orgao": "Prefeitura de Novo Machado",
    "titulo": "Prefeitura de Novo Machado - RS abre seleção para atendente de consultório dentário",
@@ -5971,6 +6154,29 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "6bc0478322db2fc0",
+   "orgao": "Prefeitura de Restinga Sêca",
+   "titulo": "Prefeitura de Restinga Sêca - RS abre seleção para Oficial Administrativo, Secretário de Escola e Servente de Escola",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-restinga-seca-rs-abre-selecao-para-oficial-administrativo-secretario-de-escola-e-servente-de-escola",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3265.57,
+   "salario_por_hora": false,
+   "cargos": "Oficial Administrativo, Secretário de Escola, Servente de Escola II",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "13 a23/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
   },
   {
    "id": "708e3515827ce820",
@@ -6161,6 +6367,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": false
+  },
+  {
+   "id": "a22a62a2c7000987",
+   "orgao": "Prefeitura de Vila Nova do Sul",
+   "titulo": "Prefeitura de Vila Nova do Sul - RS abre seleção para Fiscal de Tributos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-selecao-para-fiscal-de-tributos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2390.02,
+   "salario_por_hora": false,
+   "cargos": "Fiscal de Tributos",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "13 a19/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
   },
   {
    "id": "01d01d2e990af42d",
@@ -7087,10 +7315,33 @@
    "novo": false
   },
   {
-   "id": "282a7c64b96cda0c",
+   "id": "73cde9255f1f6d77",
+   "orgao": "Prefeitura de Itajaí",
+   "titulo": "Prefeitura de Itajaí - SC abre processo seletivo para cadastro de reserva na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-processo-seletivo-para-cadastro-de-reserva-na-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 6637.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
+  },
+  {
+   "id": "c885eff3b2320e3e",
    "orgao": "Prefeitura de Jaborá",
-   "titulo": "Prefeitura de Jaborá - SC abre concurso público com salários de até R$ 13.813,85",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jabora-sc-abre-concurso-publico-com-salarios-de-ate-13813",
+   "titulo": "Prefeitura de Jaborá - SC divulga retificações de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jabora-sc-divulga-retificacoes-de-concurso-publico",
    "uf": "SC",
    "uf_nome": "Santa Catarina",
    "vagas": 34,
@@ -7108,8 +7359,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
   },
   {
    "id": "83359782324037a4",
@@ -9209,6 +9460,28 @@
    "prazo_texto": "13/10 a11/11/2026",
    "visto_em": "2026-09-30T23:54:38+00:00",
    "novo": false
+  },
+  {
+   "id": "298d89cf52978e08",
+   "orgao": "Prefeitura de Rio Crespo",
+   "titulo": "Prefeitura de Rio Crespo - RO abre processo seletivo para farmacêutico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-crespo-ro-abre-processo-seletivo-para-farmaceutico",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2715.57,
+   "salario_por_hora": false,
+   "cargos": "Farmacêutico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "13 a16/10/2026",
+   "visto_em": "2026-10-09T20:57:49+00:00",
+   "novo": true
   },
   {
    "id": "7f3e0c3d946c38a3",
