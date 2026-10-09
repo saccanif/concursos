@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-09T09:10:56+00:00",
+ "gerado_em": "2026-10-09T16:17:16+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 445,
- "novos": 39,
- "encerrados": 27,
+ "total": 459,
+ "novos": 38,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -93,6 +93,29 @@
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "74f47b17c61dbacd",
+   "orgao": "CREF - Conselho Regional de Educação Física",
+   "titulo": "CREF - RO, TO, AP, AC e RR abre seleções para nível médio e superior",
+   "url": "https://www.pciconcursos.com.br/noticias/cref-ro-to-ap-ac-e-rr-abre-selecoes-para-nivel-medio-e-superior",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 3700.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "20 a30/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "ddaad1763a73b3ea",
@@ -438,6 +461,28 @@
    "novo": false
   },
   {
+   "id": "6a9d94dd80898cc6",
+   "orgao": "Defensoria Pública do Estado de São Paulo",
+   "titulo": "Defensoria Pública de SP abre concurso para Defensor Público",
+   "url": "https://www.pciconcursos.com.br/noticias/defensoria-publica-de-sp-abre-concurso-para-defensor-publico",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 70,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Defensor Público",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "13/10 a11/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "ccf1f34bcbbe038d",
    "orgao": "DETRAN - Departamento Estadual de Trânsito de São Paulo",
    "titulo": "DETRAN - SP prorroga inscrições do concurso com 145 vagas para agentes estaduais de trânsito",
@@ -526,7 +571,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fc2fd8cb99b07a1e",
@@ -685,6 +730,29 @@
    "novo": false
   },
   {
+   "id": "16cfc57102f10886",
+   "orgao": "Prefeitura da Estância Climática de Nuporanga",
+   "titulo": "Prefeitura de Nuporanga - SP abre concurso com salários de até R$ 6.209,98",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nuporanga-sp-abre-concurso-com-salarios-de-ate-6209",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 6209.98,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "bdf9817bf510d233",
    "orgao": "Prefeitura da Estância Turística de Ibitinga",
    "titulo": "Prefeitura de Ibitinga - SP abre concurso público com vagas em diversas áreas",
@@ -772,7 +840,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9716590d17604605",
@@ -987,6 +1055,31 @@
    "novo": false
   },
   {
+   "id": "7448279f80d549fd",
+   "orgao": "Prefeitura de Floreal",
+   "titulo": "Prefeitura de Floreal - SP abre concurso público com salários de até R$ 10.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floreal-sp-abre-concurso-publico-com-salarios-de-ate-10500",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 10500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "28a20294a6b242aa",
    "orgao": "Prefeitura de General Salgado",
    "titulo": "Prefeitura de General Salgado - SP abre concurso para cargos na educação",
@@ -1006,7 +1099,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b5a3c804bae6fb76",
@@ -1260,7 +1353,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "094bcac254f4e1f5",
@@ -1354,6 +1447,30 @@
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "fb9c40f7b4eacc76",
+   "orgao": "Prefeitura de Piedade",
+   "titulo": "Prefeitura de Piedade - SP publica edital de concurso público com salários de até R$ 17.397,46",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piedade-sp-publica-edital-de-concurso-publico-com-salarios-de-ate-17397",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 17397.46,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "3f550751b1f029f0",
@@ -1546,6 +1663,28 @@
    "novo": false
   },
   {
+   "id": "530287a9e04336d4",
+   "orgao": "Prefeitura de São Simão",
+   "titulo": "Prefeitura de São Simão - SP abre processo seletivo para Ajudante Geral e Jardineiro",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-simao-sp-abre-processo-seletivo-para-ajudante-geral-e-jardineiro",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1897.2,
+   "salario_por_hora": false,
+   "cargos": "Ajudante Geral, Jardineiro",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "bfed79a3d6bef5c2",
    "orgao": "Prefeitura de Taquaritinga",
    "titulo": "Prefeitura de Taquaritinga - SP abre concurso público para diversos cargos",
@@ -1686,7 +1825,7 @@
    "inscricoes_ate": "2026-11-02",
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "078b8e88745d1496",
@@ -3001,7 +3140,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "14 a16/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a8167cd8cd3b30b3",
@@ -3136,6 +3275,28 @@
    "prazo_texto": "13/10 a13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "349f03f300a76a85",
+   "orgao": "Prefeitura de Inimutaba",
+   "titulo": "Prefeitura de Inimutaba - MG abre seleção para Agente Comunitário de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inimutaba-mg-abre-selecao-para-agente-comunitario-de-saude",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "53f509d80a8d6f77",
@@ -4003,7 +4164,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "09 a19/11/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "436bc673c7f85d81",
@@ -4370,6 +4531,29 @@
    "novo": false
   },
   {
+   "id": "49957a1fcfd1ea7e",
+   "orgao": "Prefeitura de Castelo",
+   "titulo": "Prefeitura de Castelo - ES abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castelo-es-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3127.8,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-14",
+   "prazo_texto": "13 a14/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "87454eb0a73944e8",
    "orgao": "Prefeitura de João Neiva",
    "titulo": "Prefeitura de João Neiva - ES abre processo seletivo para profissionais de saúde",
@@ -4573,7 +4757,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "36316fbef1ecbd6d",
@@ -4618,6 +4802,29 @@
    "prazo_texto": "13 a27/10/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
    "novo": false
+  },
+  {
+   "id": "eb35a06d92a08092",
+   "orgao": "Câmara de Quatro Barras",
+   "titulo": "Câmara de Quatro Barras - PR abre concurso público com salários de até R$ 5.403,69",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-quatro-barras-pr-abre-concurso-publico-com-salarios-de-ate-5403",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 5403.69,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "fc9dbe351e84f147",
@@ -5647,7 +5854,7 @@
    "inscricoes_ate": "2026-10-09",
    "prazo_texto": "09/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6dcc3429c5342fa6",
@@ -5833,6 +6040,31 @@
    "novo": false
   },
   {
+   "id": "9492bedefa77167b",
+   "orgao": "Prefeitura de Tio Hugo",
+   "titulo": "Prefeitura de Tio Hugo - RS abre concurso com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 66,
+   "cadastro_reserva": false,
+   "salario": 11943.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/10 a16/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "c0d251a86e831555",
    "orgao": "Prefeitura de Torres",
    "titulo": "Prefeitura de Torres - RS abre seleções para formação de cadastro de reserva",
@@ -5879,7 +6111,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4a9dc5ed352880ee",
@@ -6593,7 +6825,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "00ba5e3b7ed34f6f",
@@ -7210,7 +7442,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "49318a03119161c7",
@@ -7261,6 +7493,31 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "27e507e6e0661530",
+   "orgao": "Prefeitura de São João Batista",
+   "titulo": "Município de São João Batista - SC abre processos seletivos para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-sao-joao-batista-sc-abre-processos-seletivos-para-diversos-cargos",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6897.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "139ce1ecf6e36ab9",
@@ -7428,6 +7685,31 @@
    "novo": false
   },
   {
+   "id": "e31b1a47ec1ea407",
+   "orgao": "Prefeitura de Urussanga",
+   "titulo": "Prefeitura de Urussanga - SC abre processo seletivo com salários de até R$ 23.930,19",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urussanga-sc-abre-processo-seletivo-com-salarios-de-ate-23930",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 23930.19,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
    "id": "1a01a24ffabd056b",
    "orgao": "Prefeitura de Witmarsum",
    "titulo": "Prefeitura de Witmarsum - SC abre concurso público e processo seletivo para diversos cargos",
@@ -7566,6 +7848,28 @@
    "prazo_texto": "15/10 a17/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "086084c62ce8d650",
+   "orgao": "CGU - Controladoria-Geral da União",
+   "titulo": "CGU abre concurso público com vagas para auditores federais de finanças e controle",
+   "url": "https://www.pciconcursos.com.br/noticias/cgu-abre-concurso-publico-com-vagas-para-auditores-federais-de-financas-e-controle",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 20000.0,
+   "salario_por_hora": false,
+   "cargos": "Auditor Federal de Finanças e Controle",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-10",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "10/10 a04/11/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -7966,7 +8270,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "13 a23/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3166046d298cc7b1",
@@ -8107,7 +8411,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "13 a15/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d102c2ee40099e86",
@@ -8129,7 +8433,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "14 a16/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "426de0b96c1c825b",
@@ -8390,7 +8694,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "54e2787794e36141",
@@ -9088,7 +9392,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "730f46a85144da4e",
@@ -9322,10 +9626,10 @@
    "novo": true
   },
   {
-   "id": "d2182ce53d3bccf7",
+   "id": "2b74b489c36fc6bc",
    "orgao": "Prefeitura de Alto Santo",
-   "titulo": "Prefeitura de Alto Santo - CE abre concurso para cargos de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-abre-concurso-para-cargos-de-nivel-superior",
+   "titulo": "Prefeitura de Alto Santo - CE retifica concurso para cargos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-retifica-concurso-para-cargos-de-nivel-superior",
    "uf": "CE",
    "uf_nome": "Ceará",
    "vagas": 4,
@@ -9340,8 +9644,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "f2482edee5cbbcc6",
@@ -9487,10 +9791,35 @@
    "novo": false
   },
   {
-   "id": "fd2651de952695f3",
+   "id": "4febb19b3fca687a",
+   "orgao": "Prefeitura de Poranga",
+   "titulo": "Prefeitura de Poranga - CE reabre inscrições para concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 98,
+   "cadastro_reserva": false,
+   "salario": 4750.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "Reaberto até19/10/2026",
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
+   "id": "a70f29d12cb9a27b",
    "orgao": "Prefeitura de Tamboril",
-   "titulo": "Prefeitura de Tamboril - CE abre concurso público para Analista Ambiental",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamboril-ce-abre-concurso-publico-para-analista-ambiental",
+   "titulo": "Prefeitura de Tamboril - CE retifica edital de concurso público para Analista Ambiental",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamboril-ce-retifica-edital-de-concurso-publico-para-analista-ambiental",
    "uf": "CE",
    "uf_nome": "Ceará",
    "vagas": 7,
@@ -9505,8 +9834,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
   },
   {
    "id": "f91d9c113b18506d",
