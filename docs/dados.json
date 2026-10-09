@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-08T22:08:15+00:00",
+ "gerado_em": "2026-10-09T02:14:12+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 471,
- "novos": 48,
+ "total": 472,
+ "novos": 49,
  "encerrados": 0,
  "concursos": [
   {
@@ -2912,6 +2912,29 @@
    "prazo_texto": "08/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "f0df0f2e1cfea1cb",
+   "orgao": "HOB - Hospital Metropolitano Odilon Behrens",
+   "titulo": "HOB - MG abre seleções para Agente Executivo Governamental e Médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/hob-mg-abre-selecoes-para-agente-executivo-governamental-e-medicos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 18067.43,
+   "salario_por_hora": false,
+   "cargos": "Agente Executivo Governamental, Médico",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-17",
+   "prazo_texto": "17/10/2026",
+   "visto_em": "2026-10-09T02:14:12+00:00",
+   "novo": true
   },
   {
    "id": "3010c6bc98cd8a04",
