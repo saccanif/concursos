@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-09T20:57:49+00:00",
+ "gerado_em": "2026-10-10T00:56:29+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 471,
- "novos": 51,
- "encerrados": 1,
+ "total": 474,
+ "novos": 54,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1606,6 +1606,28 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
+   "novo": true
+  },
+  {
+   "id": "9153dbc5a62e7c6f",
+   "orgao": "Prefeitura de Pilar do Sul",
+   "titulo": "Prefeitura de Pilar do Sul - SP abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 6640.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "13 a28/10/2026",
+   "visto_em": "2026-10-10T00:56:29+00:00",
    "novo": true
   },
   {
@@ -8926,6 +8948,30 @@
    "novo": false
   },
   {
+   "id": "df5eac345b8bf239",
+   "orgao": "Prefeitura de Novo Mundo",
+   "titulo": "Prefeitura de Novo Mundo - MT abre processo seletivo com salários de até R$ 7.342,35",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-mundo-mt-abre-processo-seletivo-com-salarios-de-ate-7342",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 132,
+   "cadastro_reserva": false,
+   "salario": 7342.35,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "26/10 a19/11/2026",
+   "visto_em": "2026-10-10T00:56:29+00:00",
+   "novo": true
+  },
+  {
    "id": "e99b28381c350cdc",
    "orgao": "Prefeitura de Novo Santo Antônio",
    "titulo": "Prefeitura de Novo Santo Antônio - MT abre processo seletivo para Psicólogo e Nutricionista",
@@ -10603,6 +10649,28 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "6f78244e79f70446",
+   "orgao": "Prefeitura de Brasileira",
+   "titulo": "Prefeitura de Brasileira - PI abre processo seletivo com vagas para professores e psicopedagogos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasileira-pi-abre-processo-seletivo-com-vagas-para-professores-e-psicopedagogos",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 44,
+   "cadastro_reserva": false,
+   "salario": 2594.14,
+   "salario_por_hora": false,
+   "cargos": "Professor, Psicopedagogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-13",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "13 a23/10/2026",
+   "visto_em": "2026-10-10T00:56:29+00:00",
+   "novo": true
   },
   {
    "id": "a9d5310948319b45",
