@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-11T01:57:43+00:00",
+ "gerado_em": "2026-10-11T08:59:15+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 448,
- "novos": 32,
- "encerrados": 0,
+ "total": 444,
+ "novos": 3,
+ "encerrados": 4,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -115,7 +115,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "20 a30/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ddaad1763a73b3ea",
@@ -434,7 +434,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "14/10 a12/11/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "48964d9968387cad",
@@ -456,7 +456,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f169712e6b068d4b",
@@ -526,7 +526,7 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "13/10 a11/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ccf1f34bcbbe038d",
@@ -572,7 +572,7 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "16 a25/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2b8200e759894822",
@@ -708,7 +708,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d57e2f72ab675c5f",
@@ -842,7 +842,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bdf9817bf510d233",
@@ -1071,7 +1071,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "87d951f09b253383",
@@ -1191,7 +1191,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "28a20294a6b242aa",
@@ -1512,7 +1512,7 @@
    "inscricoes_ate": "2026-11-02",
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8727df7e53f60c91",
@@ -1584,7 +1584,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9153dbc5a62e7c6f",
@@ -1795,7 +1795,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bfed79a3d6bef5c2",
@@ -1963,31 +1963,6 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "7240a9787ac662e9",
-   "orgao": "SAAEB - Serviço Autônomo de Água e Esgoto de Brotas",
-   "titulo": "SAAEB de Brotas - SP abre concurso público com salários de até R$ 6.139,03",
-   "url": "https://www.pciconcursos.com.br/noticias/saaeb-de-brotas-sp-abre-concurso-publico-com-salarios-de-ate-6139",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 7,
-   "cadastro_reserva": false,
-   "salario": 6139.03,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-10",
-   "prazo_texto": "10/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -3321,7 +3296,7 @@
    "inscricoes_ate": "2026-10-15",
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "53f509d80a8d6f77",
@@ -4504,7 +4479,7 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "13 a14/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "47b4dead221e7573",
@@ -4733,7 +4708,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fc9dbe351e84f147",
@@ -5107,7 +5082,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "13 a23/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "95524a59d29046fa",
@@ -5717,7 +5692,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "15 a21/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a14348212752c2a3",
@@ -5878,7 +5853,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "13 a23/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "708e3515827ce820",
@@ -5925,30 +5900,6 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/10 a16/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
-  },
-  {
-   "id": "c0d251a86e831555",
-   "orgao": "Prefeitura de Torres",
-   "titulo": "Prefeitura de Torres - RS abre seleções para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-selecoes-para-formacao-de-cadastro-de-reserva",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 7602.21,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-10",
-   "prazo_texto": "10/10/2026",
-   "visto_em": "2026-10-01T13:25:31+00:00",
    "novo": false
   },
   {
@@ -6045,7 +5996,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "13 a19/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "01d01d2e990af42d",
@@ -6903,7 +6854,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c885eff3b2320e3e",
@@ -6928,7 +6879,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "83359782324037a4",
@@ -7289,7 +7240,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "139ce1ecf6e36ab9",
@@ -7313,28 +7264,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "d6bf41e53d4e1089",
-   "orgao": "Prefeitura de São Lourenço do Oeste",
-   "titulo": "Prefeitura de São Lourenço do Oeste - SC abre seleção para psicólogo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-selecao-para-psicologo",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 7264.88,
-   "salario_por_hora": false,
-   "cargos": "Psicólogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-10",
-   "prazo_texto": "10/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -7479,7 +7408,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1a01a24ffabd056b",
@@ -7619,7 +7548,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -8563,28 +8492,6 @@
    "novo": false
   },
   {
-   "id": "838a41d6efd74c63",
-   "orgao": "FUNDAPE - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre",
-   "titulo": "FUNDAPE - AC abre processo seletivo para cargo de apoio à gerência de projeto acadêmico",
-   "url": "https://www.pciconcursos.com.br/noticias/fundape-ac-abre-processo-seletivo-para-cargo-de-apoio-a-gerencia-de-projeto-academico",
-   "uf": "AC",
-   "uf_nome": "Acre",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-10",
-   "prazo_texto": "10/10/2026",
-   "visto_em": "2026-10-08T22:08:15+00:00",
-   "novo": false
-  },
-  {
    "id": "e60d32b77f0fef99",
    "orgao": "TCE - Tribunal de Contas do Estado do Acre",
    "titulo": "TCE - AC reabre concurso para Auditor - Conselheiro Substituto",
@@ -8957,7 +8864,7 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "13 a16/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7f3e0c3d946c38a3",
@@ -9394,7 +9301,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f2482edee5cbbcc6",
@@ -9562,7 +9469,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "Reaberto até19/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a70f29d12cb9a27b",
@@ -9584,7 +9491,7 @@
    "inscricoes_ate": "2026-10-12",
    "prazo_texto": "12/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f91d9c113b18506d",
