@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-11T23:44:34+00:00",
+ "gerado_em": "2026-10-12T06:05:29+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 444,
+ "total": 441,
  "novos": 0,
- "encerrados": 0,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -2830,9 +2830,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-12",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "12 a19/10/2026",
+   "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-01T23:55:52+00:00",
    "novo": false
   },
@@ -3924,9 +3924,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-12",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "12/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4573,51 +4573,6 @@
    "inscricoes_ate": "2026-10-14",
    "prazo_texto": "14/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
-   "novo": false
-  },
-  {
-   "id": "1d0e9b4e57b05dcf",
-   "orgao": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
-   "titulo": "SAMU 192 - ES abre processos seletivos para enfermeiros e técnicos em enfermagem socorrista",
-   "url": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processos-seletivos-para-enfermeiros-e-tecnicos-em-enfermagem-socorrista",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3707.42,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro Socorrista, Técnico em Enfermagem Socorrista",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-11",
-   "prazo_texto": "11/10/2026",
-   "visto_em": "2026-09-30T00:31:35+00:00",
-   "novo": false
-  },
-  {
-   "id": "a3d2cc5d2f4bed9c",
-   "orgao": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
-   "titulo": "SAMU 192 - ES abre processo seletivo para o cargo de telefonista auxiliar de regulação médica",
-   "url": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processo-seletivo-para-o-cargo-de-telefonista-auxiliar-de-regulacao-medica",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 1933.15,
-   "salario_por_hora": false,
-   "cargos": "Telefonista Auxiliar de Regulação Médica",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-11",
-   "prazo_texto": "11/10/2026",
-   "visto_em": "2026-10-01T23:55:52+00:00",
    "novo": false
   },
   {
@@ -6205,28 +6160,6 @@
    "novo": false
   },
   {
-   "id": "a26c015735f3db0f",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC abre processo seletivo para Fonoaudiólogo I no CEPON de Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-fonoaudiologo-i-no-cepon-de-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3409.85,
-   "salario_por_hora": false,
-   "cargos": "Fonoaudiólogo I",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-11",
-   "prazo_texto": "11/10/2026",
-   "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
-  },
-  {
    "id": "aadb3b9a71d4ca2a",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
    "titulo": "FAHECE - SC anuncia processo seletivo para o cargo de Médico II em Florianópolis",
@@ -6778,9 +6711,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-12",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-11",
-   "prazo_texto": "12/10 a11/11/2026",
+   "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
   },
