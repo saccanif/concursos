@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-13T19:19:47+00:00",
+ "gerado_em": "2026-10-13T23:18:37+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 448,
- "novos": 27,
- "encerrados": 4,
+ "total": 452,
+ "novos": 31,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -116,6 +116,30 @@
    "prazo_texto": "20 a30/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
+  },
+  {
+   "id": "b01acf25e8363198",
+   "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
+   "titulo": "INB abre concurso público para cadastro de reserva em diversas áreas de atuação",
+   "url": "https://www.pciconcursos.com.br/noticias/inb-abre-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 8374.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-13T23:18:37+00:00",
+   "novo": true
   },
   {
    "id": "ddaad1763a73b3ea",
@@ -5342,6 +5366,29 @@
    "novo": false
   },
   {
+   "id": "635c729f3aaaab13",
+   "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
+   "titulo": "Hospital de Clínicas de Porto Alegre - RS abre seleções para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-de-clinicas-de-porto-alegre-rs-abre-selecoes-para-diversos-cargos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 9763.8,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-13T23:18:37+00:00",
+   "novo": true
+  },
+  {
    "id": "68fb5c86a21f90a6",
    "orgao": "IPAM - Farmácia do IPAM S.A.",
    "titulo": "Farmácia do IPAM - RS publica edital de concurso público para formação de cadastro de reserva",
@@ -6384,6 +6431,52 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-08T22:08:15+00:00",
    "novo": false
+  },
+  {
+   "id": "1839f6304608d9f0",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processos seletivos para o SAMU em Chapecó e Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-o-samu-em-chapeco-e-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2600.22,
+   "salario_por_hora": false,
+   "cargos": "Técnico(a) Auxiliar de Regulação Médica - TARM, Auxiliar de Higienização",
+   "escolaridade": "Fundamental / Médio / Técnico",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-13T23:18:37+00:00",
+   "novo": true
+  },
+  {
+   "id": "375913a2130525ba",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre vaga para Assistente Administrativo I em Blumenau",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-administrativo-i-em-blumenau",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2873.93,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-15",
+   "prazo_texto": "15/10/2026",
+   "visto_em": "2026-10-13T23:18:37+00:00",
+   "novo": true
   },
   {
    "id": "3c71211c719e3db5",
