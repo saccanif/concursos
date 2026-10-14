@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-13T23:18:37+00:00",
+ "gerado_em": "2026-10-14T01:57:34+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 452,
- "novos": 31,
+ "total": 453,
+ "novos": 32,
  "encerrados": 0,
  "concursos": [
   {
@@ -6431,6 +6431,28 @@
    "prazo_texto": "13/10/2026",
    "visto_em": "2026-10-08T22:08:15+00:00",
    "novo": false
+  },
+  {
+   "id": "51f26d8831497c14",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre seleção para Assistente Administrativo I exclusivo para PcD",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-i-exclusivo-para-pcd",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2057.88,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-14T01:57:34+00:00",
+   "novo": true
   },
   {
    "id": "1839f6304608d9f0",
