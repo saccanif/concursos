@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-14T13:47:05+00:00",
+ "gerado_em": "2026-10-14T18:40:31+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 432,
- "novos": 42,
- "encerrados": 2,
+ "total": 440,
+ "novos": 50,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -689,6 +689,28 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": false
+  },
+  {
+   "id": "aa60b0ef9f714790",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre vaga para Técnico de Administração Hospitalar PCD",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-tecnico-de-administracao-hospitalar-pcd",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3254.51,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Administração Hospitalar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
   },
   {
    "id": "2e80f961f9f7043d",
@@ -2059,8 +2081,8 @@
    "url": "https://www.pciconcursos.com.br/noticias/cremerj-retifica-concurso-com-salarios-de-ate-18000-para-diversos-cargos",
    "uf": "RJ",
    "uf_nome": "Rio de Janeiro",
-   "vagas": 146,
-   "cadastro_reserva": true,
+   "vagas": 26,
+   "cadastro_reserva": false,
    "salario": 18000.0,
    "salario_por_hora": false,
    "cargos": "Vários Cargos",
@@ -2071,8 +2093,8 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "Prorrogado até29/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
   },
@@ -4297,6 +4319,53 @@
    "novo": false
   },
   {
+   "id": "03c5bd56cb2da91d",
+   "orgao": "Prefeitura de Irupi",
+   "titulo": "Prefeitura de Irupi - ES abre seleção para Cuidador Escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irupi-es-abre-selecao-para-cuidador-escolar",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1621.22,
+   "salario_por_hora": false,
+   "cargos": "Cuidador Escolar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "19/10 a03/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
+   "id": "a1ab6c6d27d25aba",
+   "orgao": "Prefeitura de Iúna e Santa Casa de Iúna",
+   "titulo": "Prefeitura de Iúna e Santa Casa - ES abrem processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iuna-e-santa-casa-es-abrem-processo-seletivo-para-diversos-cargos",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4784.73,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
    "id": "47b4dead221e7573",
    "orgao": "Prefeitura de Montanha",
    "titulo": "Prefeitura de Montanha - ES abre processo seletivo para profissionais de diversas áreas",
@@ -5303,6 +5372,29 @@
    "prazo_texto": "15/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
+  },
+  {
+   "id": "82a376d7bcafd3b1",
+   "orgao": "Prefeitura de Itapuca",
+   "titulo": "Prefeitura de Itapuca - RS abre concurso público com salários de até R$ 9.495,82",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-abre-concurso-publico-com-salarios-de-ate-9495",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 51,
+   "cadastro_reserva": false,
+   "salario": 9495.82,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
   },
   {
    "id": "3d1156daa8f097d5",
@@ -7011,6 +7103,29 @@
    "novo": false
   },
   {
+   "id": "412919817aa8af84",
+   "orgao": "Prefeitura de Rio do Campo",
+   "titulo": "Prefeitura de Rio do Campo - SC abre processo seletivo para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-para-profissionais-da-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5500.0,
+   "salario_por_hora": false,
+   "cargos": "Professor, Auxiliar de Turma",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
    "id": "726351e9aa6376d1",
    "orgao": "Prefeitura de Rio Negrinho",
    "titulo": "Prefeitura de Rio Negrinho - SC abre vaga para médico psiquiatra",
@@ -8210,6 +8325,29 @@
    "novo": false
   },
   {
+   "id": "934a69188168d756",
+   "orgao": "Prefeitura de Várzea Grande - Secretaria Municipal de Educação, Cultura, Esporte e Lazer (SMECEL)",
+   "titulo": "Prefeitura de Várzea Grande - MT abre processo seletivo com vagas para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varzea-grande-mt-abre-processo-seletivo-com-vagas-para-a-educacao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 5156,
+   "cadastro_reserva": false,
+   "salario": 4670.03,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "20/10 a09/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
    "id": "54e2787794e36141",
    "orgao": "Prefeitura e Câmara de Comodoro",
    "titulo": "Prefeitura e Câmara de Comodoro - MT lançam concursos públicos para procuradores jurídicos",
@@ -8884,6 +9022,56 @@
    "prazo_texto": "Prorrogado até12/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "82142f81ba0069ff",
+   "orgao": "Prefeitura de Firmino Alves",
+   "titulo": "Prefeitura de Firmino Alves - BA abre concurso público com salários de até R$ 4.867,77",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-abre-concurso-publico-com-salarios-de-ate-4867",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 210,
+   "cadastro_reserva": false,
+   "salario": 4867.77,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
+   "id": "5998a6e19bacb91c",
+   "orgao": "Prefeitura de Firmino Alves",
+   "titulo": "Prefeitura de Firmino Alves - BA abre seleção com salários de até R$ 8.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-abre-selecao-com-salarios-de-ate-8000",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 50,
+   "cadastro_reserva": true,
+   "salario": 8000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
   },
   {
    "id": "77ef545d520629af",
