@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-15T11:37:03+00:00",
+ "gerado_em": "2026-10-15T17:06:05+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 427,
- "novos": 30,
- "encerrados": 0,
+ "total": 438,
+ "novos": 41,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1426,6 +1426,30 @@
    "novo": false
   },
   {
+   "id": "692985076be9cfb8",
+   "orgao": "Prefeitura de Lençóis Paulista",
+   "titulo": "Prefeitura de Lençóis Paulista - SP abre concurso público com salários de até R$ 5.044,35",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-5044",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 5044.35,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "16/10 a15/11/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
    "id": "365c73cae449bcfe",
    "orgao": "Prefeitura de Lorena",
    "titulo": "Prefeitura de Lorena - SP abre concurso com salários de até R$ 8.890,46",
@@ -1799,6 +1823,28 @@
    "novo": false
   },
   {
+   "id": "7c6b159fcda4b6db",
+   "orgao": "Prefeitura de Sarapuí",
+   "titulo": "Prefeitura de Sarapuí - SP abre concurso público para o cargo de Procurador Jurídico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-concurso-publico-para-o-cargo-de-procurador-juridico",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5663.04,
+   "salario_por_hora": false,
+   "cargos": "Procurador Jurídico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
    "id": "bfed79a3d6bef5c2",
    "orgao": "Prefeitura de Taquaritinga",
    "titulo": "Prefeitura de Taquaritinga - SP abre concurso público para diversos cargos",
@@ -2011,6 +2057,28 @@
    "novo": true
   },
   {
+   "id": "a183ed0e3c91fa35",
+   "orgao": "SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
+   "titulo": "SEBRAE - SP abre seleção para analista de negócios sênior com salário de R$ 9.365,00",
+   "url": "https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-selecao-para-analista-de-negocios-senior-com-salario-de-9365",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 9365.0,
+   "salario_por_hora": false,
+   "cargos": "Analista de Negócios Sênior",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
    "id": "87a8aca832eceafa",
    "orgao": "SEFAZ - Secretaria da Fazenda e Planejamento",
    "titulo": "SEFAZ - SP abre concurso público para Analista em Planejamento, Orçamento e Finanças Públicas",
@@ -2143,28 +2211,6 @@
    "prazo_texto": "Prorrogado até29/10/2026",
    "visto_em": "2026-09-24T22:28:04+00:00",
    "novo": false
-  },
-  {
-   "id": "ff80f1c42072224f",
-   "orgao": "IFRJ - Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",
-   "titulo": "IFRJ: Instituto publica edital de processo seletivo para cursos técnicos de nível médio",
-   "url": "https://www.pciconcursos.com.br/noticias/ifrj-instituto-publica-edital-de-processo-seletivo-para-cursos-tecnicos-de-nivel-medio",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 1810,
-   "cadastro_reserva": false,
-   "salario": null,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-16",
-   "prazo_texto": "16/11/2026",
-   "visto_em": "2026-10-14T13:47:05+00:00",
-   "novo": true
   },
   {
    "id": "4ea0c5d6b0018fa2",
@@ -3955,6 +4001,30 @@
    "novo": false
   },
   {
+   "id": "b462d099b7e6ff39",
+   "orgao": "Prefeitura de Uberlândia",
+   "titulo": "Prefeitura de Uberlândia - MG abre seleção com salários de até R$ 4.499,97",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uberlandia-mg-abre-selecao-com-salarios-de-ate-4499",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 4499.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "19/10 a06/11/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
    "id": "6aa1310188f3652d",
    "orgao": "Prefeitura de Urucânia",
    "titulo": "Prefeitura de Urucânia - MG abre processo seletivo com salários de até R$ 13.696,00",
@@ -5399,6 +5469,52 @@
    "novo": false
   },
   {
+   "id": "603cd7dd22aebcf3",
+   "orgao": "Prefeitura de Nova Boa Vista",
+   "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 12039.12,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "73d98ffa5b3911bc",
+   "orgao": "Prefeitura de Nova Prata",
+   "titulo": "Prefeitura de Nova Prata - RS abre processo seletivo para serventes",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-processo-seletivo-para-serventes",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 1924.18,
+   "salario_por_hora": false,
+   "cargos": "Servente",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
    "id": "6dcc3429c5342fa6",
    "orgao": "Prefeitura de Panambi",
    "titulo": "Prefeitura de Panambi - RS abre concurso público com salários de até R$ 5.388,99",
@@ -5582,6 +5698,29 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
+   "novo": true
+  },
+  {
+   "id": "8d5b16b27ec26c10",
+   "orgao": "Prefeitura de Santa Cruz do Sul",
+   "titulo": "Prefeitura de Santa Cruz do Sul - RS abre seleções para instalador hidráulico e técnico de estradas e topografia",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-selecoes-para-instalador-hidraulico-e-tecnico-de-estradas-e-topografia",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 6200.2,
+   "salario_por_hora": false,
+   "cargos": "Instalador Hidráulico, Técnico de Estradas e Topografia",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": true
   },
   {
@@ -5999,7 +6138,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-14T01:57:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1839f6304608d9f0",
@@ -6090,6 +6229,29 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
+   "novo": true
+  },
+  {
+   "id": "2b0db63db714b096",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre seleções para técnico de enfermagem e enfermeiro no CEPON",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-tecnico-de-enfermagem-e-enfermeiro-no-cepon",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5001.11,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem I, Enfermeiro I",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-18",
+   "prazo_texto": "18/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": true
   },
   {
@@ -6918,6 +7080,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "6b34eb4b9247f76c",
+   "orgao": "Prefeitura de Rio das Antas",
+   "titulo": "Prefeitura de Rio das Antas - SC abre processo seletivo para o cargo de Nutricionista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-o-cargo-de-nutricionista",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2787.92,
+   "salario_por_hora": false,
+   "cargos": "Nutricionista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
   },
   {
    "id": "412919817aa8af84",
@@ -8047,6 +8231,55 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-01T13:25:31+00:00",
    "novo": false
+  },
+  {
+   "id": "c77e09f0156700d9",
+   "orgao": "Prefeitura de Colniza",
+   "titulo": "Prefeitura de Colniza - MT abre processo seletivo para cadastro de reserva em várias áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colniza-mt-abre-processo-seletivo-para-cadastro-de-reserva-em-varias-areas",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5357.12,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "a1e33eeb98002ee8",
+   "orgao": "Prefeitura de Conquista D'Oeste",
+   "titulo": "Prefeitura de Conquista D'Oeste - MT abre seleção para Farmacêutico e Técnico em Higiene Dental",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conquista-doeste-mt-abre-selecao-para-farmaceutico-e-tecnico-em-higiene-dental",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 8828.96,
+   "salario_por_hora": false,
+   "cargos": "Farmacêutico/Bioquímico, Técnico em Higiene Dental - THD",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "16 a23/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
   },
   {
    "id": "cc23558cacfa53f1",
@@ -9289,10 +9522,10 @@
    "novo": false
   },
   {
-   "id": "6b02fbd548dd42b3",
+   "id": "1b654a1f3024c3ff",
    "orgao": "Prefeitura de Água Branca",
-   "titulo": "Prefeitura de Água Branca - PB abre concursos públicos para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-abre-concursos-publicos-para-diversos-cargos",
+   "titulo": "Prefeitura de Água Branca - PB republica editais de concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
    "uf": "PB",
    "uf_nome": "Paraíba",
    "vagas": 24,
@@ -9306,10 +9539,32 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "06/11/2026",
-   "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "15/11/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "a7ff6e0dcc65f359",
+   "orgao": "Prefeitura de Pedra Lavrada",
+   "titulo": "Prefeitura de Pedra Lavrada - PB abre vagas para agentes de saúde e de endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedra-lavrada-pb-abre-vagas-para-agentes-de-saude-e-de-endemias",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "16 a23/10/2026",
+   "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
   },
   {
    "id": "b88152088811d2c5",
