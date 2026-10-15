@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-15T20:22:07+00:00",
+ "gerado_em": "2026-10-15T23:06:45+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 452,
- "novos": 57,
- "encerrados": 2,
+ "total": 456,
+ "novos": 61,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -754,6 +754,28 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-14T18:40:31+00:00",
+   "novo": true
+  },
+  {
+   "id": "18aa1ab8948878e2",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para telefonista PCD no AME Santa Bárbara d'Oeste",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-telefonista-pcd-no-ame-santa-barbara-doeste",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2260.93,
+   "salario_por_hora": false,
+   "cargos": "Telefonista",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-15T23:06:45+00:00",
    "novo": true
   },
   {
@@ -5651,6 +5673,31 @@
    "novo": true
   },
   {
+   "id": "e276dca51be99986",
+   "orgao": "Prefeitura de Montenegro",
+   "titulo": "Prefeitura de Montenegro - RS abre concurso público com salários de até R$ 9.848,34",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 84,
+   "cadastro_reserva": false,
+   "salario": 9848.34,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-10-15T23:06:45+00:00",
+   "novo": true
+  },
+  {
    "id": "603cd7dd22aebcf3",
    "orgao": "Prefeitura de Nova Boa Vista",
    "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
@@ -8017,6 +8064,30 @@
    "novo": false
   },
   {
+   "id": "25a4ba5ff92fbc37",
+   "orgao": "IDTECH - Instituto de Desenvolvimento Tecnológico e Humano",
+   "titulo": "IDTECH - GO abre processo seletivo para o HGG e HEMOGO",
+   "url": "https://www.pciconcursos.com.br/noticias/idtech-go-abre-processo-seletivo-para-o-hgg-e-hemogo",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 6841.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "16 a19/10/2026",
+   "visto_em": "2026-10-15T23:06:45+00:00",
+   "novo": true
+  },
+  {
    "id": "cca2a82a7a59f231",
    "orgao": "Prefeitura de Alto Paraíso de Goiás",
    "titulo": "Prefeitura de Alto Paraíso de Goiás - GO abre seleção para agentes de saúde e de endemias",
@@ -8899,6 +8970,30 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
    "novo": false
+  },
+  {
+   "id": "df4fbe22cdb69963",
+   "orgao": "SESA - Secretaria de Estado da Saúde do Amapá",
+   "titulo": "Governo do Estado do Amapá - AP retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-amapa-ap-retifica-edital-de-concurso-publico",
+   "uf": "AP",
+   "uf_nome": "Amapá",
+   "vagas": 4208,
+   "cadastro_reserva": false,
+   "salario": 11116.42,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "Prorrogado até16/10/2026",
+   "visto_em": "2026-10-15T23:06:45+00:00",
+   "novo": true
   },
   {
    "id": "cc0e965e25b8723a",
@@ -9938,7 +10033,7 @@
   },
   {
    "id": "a4d92db53b0b0927",
-   "orgao": "CBM - Corpo de Bombeiros Militar de Pernambuco",
+   "orgao": "CBM - Corpo de Bombeiros Militar",
    "titulo": "Secretaria de Defesa Social - PE retifica concurso com 570 vagas para Bombeiros",
    "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-pe-retifica-concurso-com-570-vagas-para-bombeiros",
    "uf": "PE",
@@ -9947,15 +10042,15 @@
    "cadastro_reserva": false,
    "salario": 12937.33,
    "salario_por_hora": false,
-   "cargos": "Soldado do Corpo de Bombeiros Militar, 2º Tenente do Corpo de Bombeiros Militar",
+   "cargos": "Soldado, 2º Tenente",
    "escolaridade": "Médio / Superior",
    "niveis": [
     "Médio",
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "Prorrogado até05/11/2026",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": true
   },
@@ -9977,8 +10072,8 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "Prorrogado até05/11/2026",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": true
   },
