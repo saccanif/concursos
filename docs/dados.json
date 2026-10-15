@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-15T17:06:05+00:00",
+ "gerado_em": "2026-10-15T20:22:07+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 438,
- "novos": 41,
+ "total": 452,
+ "novos": 57,
  "encerrados": 2,
  "concursos": [
   {
@@ -437,6 +437,28 @@
    "novo": false
   },
   {
+   "id": "5d4af030bdf29304",
+   "orgao": "Câmara de Torre de Pedra",
+   "titulo": "Câmara de Torre de Pedra - SP abre concurso público para Procurador Legislativo",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-torre-de-pedra-sp-abre-concurso-publico-para-procurador-legislativo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5015.07,
+   "salario_por_hora": false,
+   "cargos": "Procurador Legislativo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "22/10 a23/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "02e5c73c880d636c",
    "orgao": "Cemmil - Consórcio Intermunicipal Cemmil para o Desenvolvimento Sustentável",
    "titulo": "Consórcio Cemmil - SP abre processo seletivo com vagas em Carapicuíba",
@@ -778,6 +800,28 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "23a579b51f836127",
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos públicos com vagas para médicos em diversas especialidades",
+   "url": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-publicos-com-vagas-para-medicos-em-diversas-especialidades",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 5979.93,
+   "salario_por_hora": false,
+   "cargos": "Médico I, Médico do Trabalho",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "19/10 a06/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
    "id": "f3a3c26997ec8e2b",
@@ -1588,6 +1632,28 @@
    "novo": false
   },
   {
+   "id": "80f7f0cabc2b8a38",
+   "orgao": "Prefeitura de Mongaguá",
+   "titulo": "Prefeitura de Mongaguá - SP abre processo seletivo para Profissional de Apoio Escolar e Atendente de Educação I",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mongagua-sp-abre-processo-seletivo-para-profissional-de-apoio-escolar-e-atendente-de-educacao-i",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 90,
+   "cadastro_reserva": false,
+   "salario": 1968.83,
+   "salario_por_hora": false,
+   "cargos": "Profissional de Apoio Escolar, Atendente de Educação I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "10 a19/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "ceb2d9c3760f837e",
    "orgao": "Prefeitura de Morro Agudo",
    "titulo": "Prefeitura de Morro Agudo - SP abre concurso com salários de até R$ 5.815,68",
@@ -1610,6 +1676,30 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
+  },
+  {
+   "id": "d05c5d5ed8ceda1d",
+   "orgao": "Prefeitura de Murutinga do Sul",
+   "titulo": "Prefeitura de Murutinga do Sul - SP publica edital de concurso com 15 vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murutinga-do-sul-sp-publica-edital-de-concurso-com-15-vagas-imediatas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 5118.2,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "30/10 a16/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
    "id": "83ffd4777aa6130d",
@@ -4460,6 +4550,30 @@
    "novo": false
   },
   {
+   "id": "84e025ff6fba1f63",
+   "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Iconha",
+   "titulo": "SAAE de Iconha - ES abre concurso público com salários de até R$ 3.236,14",
+   "url": "https://www.pciconcursos.com.br/noticias/saae-de-iconha-es-abre-concurso-publico-com-salarios-de-ate-3236",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 3236.14,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "26/10 a10/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "efdf70b168df3040",
    "orgao": "SEMMA - Secretaria Municipal de Meio Ambiente de Vila Velha",
    "titulo": "Prefeitura de Vila Velha - ES republica edital de processo seletivo",
@@ -4694,6 +4808,29 @@
    "novo": true
   },
   {
+   "id": "809d2df7b762f76c",
+   "orgao": "Prefeitura de Boa Vista da Aparecida",
+   "titulo": "Prefeitura de Boa Vista da Aparecida - PR abre processo seletivo para Assistente Social e Mãe Social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-da-aparecida-pr-abre-processo-seletivo-para-assistente-social-e-mae-social",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 3549.63,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social Temporário, Mãe Social Temporária",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "27/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "a984f49c38dd210b",
    "orgao": "Prefeitura de Cascavel",
    "titulo": "Prefeitura de Cascavel - PR abre teste seletivo com salários de até R$ 7.477,16",
@@ -4856,6 +4993,29 @@
    "prazo_texto": "20 a23/10/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "a0c2e08b85975879",
+   "orgao": "Prefeitura de Tijucas do Sul",
+   "titulo": "Prefeitura de Tijucas do Sul - PR abre vagas para Psicólogo e Técnico em Segurança do Trabalho",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-do-sul-pr-abre-vagas-para-psicologo-e-tecnico-em-seguranca-do-trabalho",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4976.61,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo, Técnico em Segurança do Trabalho",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "19/10 a10/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
    "id": "113296f8e39323a3",
@@ -5469,6 +5629,28 @@
    "novo": false
   },
   {
+   "id": "890096a6923085e1",
+   "orgao": "Prefeitura de Monte Alegre dos Campos",
+   "titulo": "Prefeitura de Monte Alegre dos Campos - RS abre seleções para Médico e Nutricionista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecoes-para-medico-e-nutricionista",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 12451.2,
+   "salario_por_hora": false,
+   "cargos": "Médico Clínico Geral, Nutricionista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "603cd7dd22aebcf3",
    "orgao": "Prefeitura de Nova Boa Vista",
    "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
@@ -5721,6 +5903,28 @@
    "inscricoes_ate": "2026-10-16",
    "prazo_texto": "16/10/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "95711f32867873f0",
+   "orgao": "Prefeitura de São Pedro do Sul",
+   "titulo": "Prefeitura de São Pedro do Sul - RS abre seleção para Agente Comunitário de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecao-para-agente-comunitario-de-saude",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "19 a23/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": true
   },
   {
@@ -6255,6 +6459,50 @@
    "novo": true
   },
   {
+   "id": "6daca191033ace3f",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Oficial de Manutenção no HEMOSC de Chapecó",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-oficial-de-manutencao-no-hemosc-de-chapeco",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2980.18,
+   "salario_por_hora": false,
+   "cargos": "Oficial de Manutenção",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "22/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
+   "id": "c0df823f06245f17",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre seleção para o cargo de Motorista II em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-o-cargo-de-motorista-ii-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3373.61,
+   "salario_por_hora": false,
+   "cargos": "Motorista II",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "3c71211c719e3db5",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
    "titulo": "FAHECE - SC abre vaga para Médico Intervencionista em São Joaquim",
@@ -6742,6 +6990,31 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "c51da9b96fc9da33",
+   "orgao": "Prefeitura de Ilhota",
+   "titulo": "Prefeitura de Ilhota - SC publica edital de concurso público com salários de até R$ 21.113,16",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 36,
+   "cadastro_reserva": false,
+   "salario": 21113.16,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-16",
+   "inscricoes_ate": "2026-11-14",
+   "prazo_texto": "16/10 a14/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
    "id": "ddb7f9b6d66b8de6",
@@ -8116,6 +8389,28 @@
    "novo": false
   },
   {
+   "id": "0d779e3bf24c3caa",
+   "orgao": "Prefeitura de Guia Lopes da Laguna",
+   "titulo": "Prefeitura de Guia Lopes da Laguna - MS abre seleções para Motorista, Gari e Auxiliar de Serviços Diversos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guia-lopes-da-laguna-ms-abre-selecoes-para-motorista-gari-e-auxiliar-de-servicos-diversos",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1783.84,
+   "salario_por_hora": false,
+   "cargos": "Motorista Geral, Gari, Auxiliar de Serviços Diversos II",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "26 a29/10/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "426de0b96c1c825b",
    "orgao": "Prefeitura de Nova Alvorada do Sul",
    "titulo": "Prefeitura de Nova Alvorada do Sul - MS abre seleção para a Secretaria de Educação",
@@ -9454,6 +9749,31 @@
    "novo": false
   },
   {
+   "id": "8d50feddc0e30648",
+   "orgao": "Prefeitura de Ribeirãozinho do Maranhão",
+   "titulo": "Prefeitura de Ribeirãozinho do Maranhão - MA publica editais de concurso e processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeiraozinho-do-maranhao-ma-publica-editais-de-concurso-e-processo-seletivo",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": 211,
+   "cadastro_reserva": false,
+   "salario": 6500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-12-01",
+   "prazo_texto": "27/10 a01/12/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
    "id": "4df137044953f43e",
    "orgao": "SEAP - Secretaria de Estado de Administração Penitenciária",
    "titulo": "SEAP - MA abre seleção para Agente Penitenciário em Godofredo Viana",
@@ -9617,10 +9937,10 @@
    "novo": false
   },
   {
-   "id": "88c181e160f75a5b",
+   "id": "a4d92db53b0b0927",
    "orgao": "CBM - Corpo de Bombeiros Militar de Pernambuco",
-   "titulo": "Secretaria de Defesa Social - PE anuncia concurso com 570 vagas para Bombeiros",
-   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-pe-anuncia-concurso-com-570-vagas-para-bombeiros",
+   "titulo": "Secretaria de Defesa Social - PE retifica concurso com 570 vagas para Bombeiros",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-defesa-social-pe-retifica-concurso-com-570-vagas-para-bombeiros",
    "uf": "PE",
    "uf_nome": "Pernambuco",
    "vagas": 570,
@@ -9635,15 +9955,15 @@
    ],
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
+   "prazo_texto": "Prorrogado até05/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
-   "id": "2821a321b9c422b0",
+   "id": "4d9b2ba0d99f96da",
    "orgao": "PMPE - Polícia Militar de Pernambuco",
-   "titulo": "PMPE abre concurso público para soldados e oficiais",
-   "url": "https://www.pciconcursos.com.br/noticias/pmpe-abre-concurso-publico-para-soldados-e-oficiais",
+   "titulo": "PMPE altera período de inscrição para concurso público de soldados e oficiais",
+   "url": "https://www.pciconcursos.com.br/noticias/pmpe-altera-periodo-de-inscricao-para-concurso-publico-de-soldados-e-oficiais",
    "uf": "PE",
    "uf_nome": "Pernambuco",
    "vagas": 1320,
@@ -9658,9 +9978,9 @@
    ],
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
+   "prazo_texto": "Prorrogado até05/11/2026",
+   "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
   },
   {
    "id": "be76192613e44b36",
