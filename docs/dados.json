@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-16T21:16:34+00:00",
+ "gerado_em": "2026-10-16T23:38:51+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 443,
- "novos": 58,
- "encerrados": 3,
+ "total": 448,
+ "novos": 63,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -1768,6 +1768,28 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "4e22638dcc150f44",
+   "orgao": "Prefeitura de Orlândia",
+   "titulo": "Prefeitura de Orlândia - SP abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orlandia-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4221.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "21/10 a04/11/2026",
+   "visto_em": "2026-10-16T23:38:51+00:00",
+   "novo": true
   },
   {
    "id": "fb9c40f7b4eacc76",
@@ -5295,6 +5317,28 @@
    "novo": false
   },
   {
+   "id": "0ee3aedb305277cb",
+   "orgao": "Prefeitura de Campo Bom",
+   "titulo": "Prefeitura de Campo Bom - RS abre processo seletivo para serviços gerais de construção civil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-servicos-gerais-de-construcao-civil",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 1682.76,
+   "salario_por_hora": false,
+   "cargos": "Serviços Gerais de Construção Civil",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-16T23:38:51+00:00",
+   "novo": true
+  },
+  {
    "id": "ac0efe6632fdcc3c",
    "orgao": "Prefeitura de Capão do Leão",
    "titulo": "Prefeitura de Capão do Leão - RS abre processo seletivo para Fonoaudiólogo",
@@ -7427,6 +7471,31 @@
    "novo": false
   },
   {
+   "id": "5f00580ab2a11c94",
+   "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
+   "titulo": "Prefeitura de Rio Negrinho - SC e órgãos municipais abrem novos concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 27,
+   "cadastro_reserva": false,
+   "salario": 18538.78,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "15/11/2026",
+   "visto_em": "2026-10-16T23:38:51+00:00",
+   "novo": true
+  },
+  {
    "id": "098ca0e132950419",
    "orgao": "Prefeitura de Rodeio",
    "titulo": "Prefeitura de Rodeio - SC abre processos seletivos para diversos cargos",
@@ -7840,6 +7909,29 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "df6ae33494148f89",
+   "orgao": "SES - Secretaria de Estado da Saúde",
+   "titulo": "SES - SC abre seleção para Técnico em Laboratório e Agente Auxiliar de Saúde Pública",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-selecao-para-tecnico-em-laboratorio-e-agente-auxiliar-de-saude-publica",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4448.15,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Laboratório, Agente Auxiliar de Saúde Pública",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-10-16T23:38:51+00:00",
+   "novo": true
   },
   {
    "id": "81a74805c6aabf54",
@@ -8608,6 +8700,28 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "576b0aee83afd3db",
+   "orgao": "Prefeitura de Juara",
+   "titulo": "Prefeitura de Juara - MT abre seleção para apoio administrativo educacional na área de Infraestrutura e Nutrição",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juara-mt-abre-selecao-para-apoio-administrativo-educacional-na-area-de-infraestrutura-e-nutricao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Apoio Administrativo Educacional",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-20",
+   "prazo_texto": "20/10/2026",
+   "visto_em": "2026-10-16T23:38:51+00:00",
    "novo": true
   },
   {
