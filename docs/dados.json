@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-16T12:28:57+00:00",
+ "gerado_em": "2026-10-16T17:29:00+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 420,
- "novos": 32,
- "encerrados": 2,
+ "total": 428,
+ "novos": 40,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -1139,6 +1139,28 @@
    "novo": false
   },
   {
+   "id": "713b1e1fc4bff3d2",
+   "orgao": "Prefeitura de Conchal",
+   "titulo": "Prefeitura de Conchal - SP abre processo seletivo para Agentes de Saúde e de Endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conchal-sp-abre-processo-seletivo-para-agentes-de-saude-e-de-endemias",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2277.89,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
+  },
+  {
    "id": "bd5349e3ad9bfb62",
    "orgao": "Prefeitura de Cosmorama",
    "titulo": "Prefeitura de Cosmorama - SP abre concurso com salários de até R$ 4.980,82",
@@ -1559,6 +1581,31 @@
    "novo": false
   },
   {
+   "id": "37988a38883a9b9e",
+   "orgao": "Prefeitura de Matão",
+   "titulo": "Prefeitura de Matão - SP abre concurso público com salários de até R$ 9.717,96",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 28,
+   "cadastro_reserva": false,
+   "salario": 9717.96,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-17",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "17/10 a18/11/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
+  },
+  {
    "id": "6ada915fb9d7cfe2",
    "orgao": "Prefeitura de Mauá",
    "titulo": "Prefeitura de Mauá - SP abre processo seletivo para médicos de diversas especialidades",
@@ -1937,6 +1984,28 @@
    "novo": false
   },
   {
+   "id": "5aabe1d285568b9f",
+   "orgao": "Prefeitura de Urânia",
+   "titulo": "Prefeitura de Urânia - SP prorroga inscrições de concurso público para Coordenador e Orientador Social do CRAS",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urania-sp-prorroga-inscricoes-de-concurso-publico-para-coordenador-e-orientador-social-do-cras",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3562.8,
+   "salario_por_hora": false,
+   "cargos": "Coordenador do CRAS, Orientador Social do CRAS",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-17",
+   "prazo_texto": "Prorrogado até17/10/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
+  },
+  {
    "id": "0797693c3a872c5b",
    "orgao": "Prefeitura do Município de Carapicuíba",
    "titulo": "Prefeitura de Carapicuíba - SP abre novos concursos para cadastro de reserva em diversas áreas",
@@ -1959,6 +2028,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "7d25dfa68ae24230",
+   "orgao": "Prefeitura do Município de Cordeirópolis",
+   "titulo": "Prefeitura de Cordeirópolis - SP abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cordeiropolis-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4972.9,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Básica (PEB I), Professor de Educação Básica II, Psicólogo",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
   },
   {
    "id": "7e8c0a3ac20bf789",
@@ -6626,6 +6718,31 @@
    "novo": false
   },
   {
+   "id": "7e6d078b72546e06",
+   "orgao": "Prefeitura de Iporã do Oeste",
+   "titulo": "Prefeitura de Iporã do Oeste - SC abre concurso público e processos seletivos com salários de até R$ 19.265,80",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 19265.8,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
+  },
+  {
    "id": "c77daa63bf3e426c",
    "orgao": "Prefeitura de Ipumirim",
    "titulo": "Prefeitura de Ipumirim - SC divulga retificação de concurso público com salários de até R$ 6.990,04",
@@ -6671,6 +6788,31 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": false
+  },
+  {
+   "id": "918d50d778f56c2e",
+   "orgao": "Prefeitura de Itapema",
+   "titulo": "Prefeitura de Itapema - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapema-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 27,
+   "cadastro_reserva": false,
+   "salario": 9603.43,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "20/10 a04/11/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
   },
   {
    "id": "c885eff3b2320e3e",
@@ -6891,6 +7033,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "c392885fe81cfd3c",
+   "orgao": "Prefeitura de Presidente Castello Branco",
+   "titulo": "Prefeitura de Presidente Castello Branco - SC abre processo seletivo para Engenheiro Civil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-castello-branco-sc-abre-processo-seletivo-para-engenheiro-civil",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4865.72,
+   "salario_por_hora": false,
+   "cargos": "Engenheiro Civil",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
   },
   {
    "id": "6b34eb4b9247f76c",
@@ -7298,6 +7462,31 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
+  },
+  {
+   "id": "c8ef6a5a515cbfcc",
+   "orgao": "Prefeitura de Zortéa",
+   "titulo": "Prefeitura de Zortéa - SC abre processo seletivo com salários de até R$ 5.399,28",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-zortea-sc-abre-processo-seletivo-com-salarios-de-ate-5399",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5399.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "19/10 a03/11/2026",
+   "visto_em": "2026-10-16T17:29:00+00:00",
+   "novo": true
   },
   {
    "id": "398b29a69a79fbd8",
@@ -8440,8 +8629,8 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-20",
-   "prazo_texto": "Prorrogado até20/10/2026",
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "Prorrogado até30/10/2026",
    "visto_em": "2026-10-16T12:28:57+00:00",
    "novo": true
   },
@@ -8777,7 +8966,7 @@
    "uf": "BA",
    "uf_nome": "Bahia",
    "vagas": 148,
-   "cadastro_reserva": true,
+   "cadastro_reserva": false,
    "salario": 4430.06,
    "salario_por_hora": false,
    "cargos": "Vários Cargos",
@@ -8788,8 +8977,8 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-21",
-   "prazo_texto": "21/10/2026",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "Prorrogado até29/10/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
   },
