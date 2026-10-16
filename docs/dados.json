@@ -1,32 +1,10 @@
 {
- "gerado_em": "2026-10-16T17:29:00+00:00",
+ "gerado_em": "2026-10-16T21:16:34+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 428,
- "novos": 40,
- "encerrados": 0,
+ "total": 443,
+ "novos": 58,
+ "encerrados": 3,
  "concursos": [
-  {
-   "id": "b06730fe1ba20e37",
-   "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-   "titulo": "AgSUS retifica processo seletivo para psicólogos",
-   "url": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-psicologos",
-   "uf": "NACIONAL",
-   "uf_nome": "Nacional",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 8800.0,
-   "salario_por_hora": false,
-   "cargos": "Psicólogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-16",
-   "prazo_texto": "16/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
   {
    "id": "984f0ea184e13141",
    "orgao": "Câmara dos Deputados",
@@ -250,6 +228,30 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "480954f4b39a681b",
+   "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+   "titulo": "MGS abre processo seletivo com vagas imediatas e cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": 643,
+   "cadastro_reserva": false,
+   "salario": 3911.17,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "19/10 a09/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "1affa3337da24547",
@@ -1022,6 +1024,29 @@
    "novo": false
   },
   {
+   "id": "2b5efac05119c779",
+   "orgao": "Prefeitura de Boituva",
+   "titulo": "Prefeitura de Boituva - SP abre processo seletivo com salários de até R$ 3.169,02",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boituva-sp-abre-processo-seletivo-com-salarios-de-ate-3169",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 16,
+   "cadastro_reserva": false,
+   "salario": 3169.02,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-16",
+   "prazo_texto": "16/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "2608901cfcc4258a",
    "orgao": "Prefeitura de Buritizal",
    "titulo": "Prefeitura de Buritizal - SP abre processo seletivo para a área da educação",
@@ -1276,6 +1301,30 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "1ca4085912a28893",
+   "orgao": "Prefeitura de Guatapará",
+   "titulo": "Prefeitura de Guatapará - SP abre seleção para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guatapara-sp-abre-selecao-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Técnico Agrícola, PEB II",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-01",
+   "prazo_texto": "19/10 a01/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "fa40c431413708d7",
@@ -2733,6 +2782,29 @@
    "novo": false
   },
   {
+   "id": "250518eefc3df95a",
+   "orgao": "Câmara de Resende Costa",
+   "titulo": "Câmara de Resende Costa - MG abre concurso público para Contínuo e Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-resende-costa-mg-abre-concurso-publico-para-continuo-e-motorista",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2617.43,
+   "salario_por_hora": false,
+   "cargos": "Contínuo, Motorista",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-22",
+   "inscricoes_ate": "2027-01-21",
+   "prazo_texto": "22/12/2026 a21/01/2027",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "66c1f15a2c0d9b03",
    "orgao": "Câmara de Serranos",
    "titulo": "Câmara de Serranos - MG abre vagas para Agente Administrativo, Auxiliar Técnico Legislativo e Contador",
@@ -3450,6 +3522,28 @@
    "novo": false
   },
   {
+   "id": "d7f6a297d671df2b",
+   "orgao": "Prefeitura de Leopoldina",
+   "titulo": "Prefeitura de Leopoldina - MG abre processo seletivo para psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-processo-seletivo-para-psicologo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3422.89,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "19 a23/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "40310717d84e5c5e",
    "orgao": "Prefeitura de Luislândia",
    "titulo": "Prefeitura de Luislândia - MG abre concurso público com vagas em diversas áreas",
@@ -3594,6 +3688,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
+  },
+  {
+   "id": "bcf6cb3e0e568291",
+   "orgao": "Prefeitura de Perdigão",
+   "titulo": "Prefeitura de Perdigão - MG abre processo seletivo para o cargo de Psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-perdigao-mg-abre-processo-seletivo-para-o-cargo-de-psicologo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4827.16,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "19 a21/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "b1a2a250157bb3ba",
@@ -4202,6 +4318,29 @@
    "novo": false
   },
   {
+   "id": "8f1dfe5443f32e50",
+   "orgao": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
+   "titulo": "Banestes e Banestes Seguros - ES abrem concursos para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/banestes-e-banestes-seguros-es-abrem-concursos-para-cadastro-de-reserva",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5618.71,
+   "salario_por_hora": false,
+   "cargos": "Técnico Bancário, Técnico em Segurança do Trabalho, Assistente Securitário",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-10-19",
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "19/10 a17/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "5bf856b2993663c3",
    "orgao": "CRECI - Conselho Regional de Corretores de Imóveis da 13ª Região",
    "titulo": "CRECI - ES abre concurso público com salários de até R$ 8.250,00",
@@ -4382,6 +4521,28 @@
    "prazo_texto": "20 a26/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
+  },
+  {
+   "id": "1b3288b5b0b0b008",
+   "orgao": "Prefeitura de Nova Venécia",
+   "titulo": "Prefeitura de Nova Venécia - ES abre processo seletivo para cargos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-venecia-es-abre-processo-seletivo-para-cargos-de-nivel-superior",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3664.01,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-28",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "28 a29/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "a242b8026c22c908",
@@ -4737,6 +4898,30 @@
    "novo": false
   },
   {
+   "id": "f7a4672ecabb266f",
+   "orgao": "Prefeitura de Florestópolis",
+   "titulo": "Prefeitura de Florestópolis - PR abre concurso público com salários de até R$ 15.389,87",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 46,
+   "cadastro_reserva": false,
+   "salario": 15389.87,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "21/10 a10/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "3aca63a999018d58",
    "orgao": "Prefeitura de Lobato",
    "titulo": "Prefeitura de Lobato - PR abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -5041,6 +5226,28 @@
    "novo": false
   },
   {
+   "id": "fdca589fd52b05fb",
+   "orgao": "Prefeitura de André da Rocha",
+   "titulo": "Prefeitura de André da Rocha - RS abre processo seletivo para pedagogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-processo-seletivo-para-pedagogo",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4180.49,
+   "salario_por_hora": false,
+   "cargos": "Pedagogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "f6d6c9277072d814",
    "orgao": "Prefeitura de Arvorezinha",
    "titulo": "Prefeitura de Arvorezinha - RS retoma concurso público para Fiscal Ambiental e Fiscal Sanitário",
@@ -5231,6 +5438,31 @@
    "novo": false
   },
   {
+   "id": "d4b39c4c4526df7f",
+   "orgao": "Prefeitura de Ipê",
+   "titulo": "Prefeitura de Ipê - RS abre concurso público com salários de até R$ 20.745,08",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipe-rs-abre-concurso-publico-com-salarios-de-ate-20745",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 28,
+   "cadastro_reserva": false,
+   "salario": 20745.08,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/10 a23/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "82a376d7bcafd3b1",
    "orgao": "Prefeitura de Itapuca",
    "titulo": "Prefeitura de Itapuca - RS abre concurso público com salários de até R$ 9.495,82",
@@ -5394,6 +5626,30 @@
    "novo": true
   },
   {
+   "id": "4b8c533cbd40d8c2",
+   "orgao": "Prefeitura de Nova Bassano",
+   "titulo": "Prefeitura de Nova Bassano - RS abre concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-bassano-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 45,
+   "cadastro_reserva": false,
+   "salario": 5933.7,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "603cd7dd22aebcf3",
    "orgao": "Prefeitura de Nova Boa Vista",
    "titulo": "Prefeitura de Nova Boa Vista - RS abre concurso público com salários de até R$ 12.039,12",
@@ -5437,6 +5693,31 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
+   "novo": true
+  },
+  {
+   "id": "4f30539f02cba4fd",
+   "orgao": "Prefeitura de Novo Cabrais",
+   "titulo": "Prefeitura de Novo Cabrais - RS abre concurso público com salários de até R$ 19.089,94",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 19089.94,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/10 a23/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": true
   },
   {
@@ -6197,6 +6478,28 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
+   "novo": true
+  },
+  {
+   "id": "7fac4c947b2c05df",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia processos seletivos para técnicos em enfermagem e radiologia",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-tecnicos-em-enfermagem-e-radiologia",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3928.47,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem I, Técnico em Radiologia/Imagem I",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-19",
+   "prazo_texto": "19/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": true
   },
   {
@@ -7296,6 +7599,31 @@
    "novo": false
   },
   {
+   "id": "a37440d68905a555",
+   "orgao": "Prefeitura de São Pedro de Alcântara",
+   "titulo": "Prefeitura de São Pedro de Alcântara - SC abre seleção para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5545.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
+  },
+  {
    "id": "6f54ea9a89b64338",
    "orgao": "Prefeitura de Serra Alta",
    "titulo": "Prefeitura de Serra Alta - SC retifica concurso com salários de até R$ 9.903,40",
@@ -7651,10 +7979,10 @@
    "novo": false
   },
   {
-   "id": "378b7e1641cb4963",
+   "id": "828a9340ab999a47",
    "orgao": "Câmara de Pires do Rio",
-   "titulo": "Câmara de Pires do Rio - GO abre concurso público com salários de até R$ 6.523,44",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-pires-do-rio-go-abre-concurso-publico-com-salarios-de-ate-6523",
+   "titulo": "Câmara de Pires do Rio - GO retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico",
    "uf": "GO",
    "uf_nome": "Goiás",
    "vagas": 12,
@@ -7672,8 +8000,8 @@
    "inscricoes_de": "2026-10-19",
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "19/10 a18/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "1070ddd84c1bc7e2",
@@ -8399,6 +8727,29 @@
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "3adb15df9d7cb26f",
+   "orgao": "CRA - Conselho Regional de Administração do Amazonas",
+   "titulo": "CRA - AM prorroga inscrições de concurso público com salários de até R$ 3.683,95 em Manaus",
+   "url": "https://www.pciconcursos.com.br/noticias/cra-am-prorroga-inscricoes-de-concurso-publico-com-salarios-de-ate-3683-em-manaus",
+   "uf": "AM",
+   "uf_nome": "Amazonas",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 3683.95,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "Prorrogado até23/10/2026",
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "e60d32b77f0fef99",
@@ -9507,10 +9858,10 @@
    "novo": false
   },
   {
-   "id": "4daf1567fd59953c",
+   "id": "32cbd8f9019c9640",
    "orgao": "Prefeitura de Goiana",
-   "titulo": "Prefeitura de Goiana - PE abre seleção com salários de até R$ 8.926,43",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-abre-selecao-com-salarios-de-ate-8926",
+   "titulo": "Prefeitura de Goiana - PE retifica edital de seleção pública",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
    "uf": "PE",
    "uf_nome": "Pernambuco",
    "vagas": 166,
@@ -9527,8 +9878,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
+   "visto_em": "2026-10-16T21:16:34+00:00",
+   "novo": true
   },
   {
    "id": "51ddb8724a456034",
