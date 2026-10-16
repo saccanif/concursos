@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-16T07:15:31+00:00",
+ "gerado_em": "2026-10-16T12:28:57+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 421,
- "novos": 42,
- "encerrados": 35,
+ "total": 420,
+ "novos": 32,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "b06730fe1ba20e37",
@@ -751,29 +751,6 @@
    "novo": true
   },
   {
-   "id": "2e80f961f9f7043d",
-   "orgao": "Fundação Paulistana - Fundação Paulistana de Educação, Tecnologia e Cultura",
-   "titulo": "Fundação Paulistana - SP abre processo seletivo para cursos técnicos",
-   "url": "https://www.pciconcursos.com.br/noticias/fundacao-paulistana-sp-abre-processo-seletivo-para-cursos-tecnicos",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 680,
-   "cadastro_reserva": false,
-   "salario": null,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-19",
-   "prazo_texto": "19/11/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
    "id": "d57e2f72ab675c5f",
    "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
    "titulo": "HCFMRP-USP - SP abre concursos para médicos em duas especialidades cirúrgicas",
@@ -1207,7 +1184,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "17/10 a05/11/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7448279f80d549fd",
@@ -2072,7 +2049,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a183ed0e3c91fa35",
@@ -5038,7 +5015,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "19 a23/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "803ae24c2e23a095",
@@ -5554,7 +5531,7 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8d5b16b27ec26c10",
@@ -6061,7 +6038,7 @@
    "inscricoes_ate": "2026-10-18",
    "prazo_texto": "18/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2b0db63db714b096",
@@ -6430,7 +6407,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "00ba5e3b7ed34f6f",
@@ -7005,7 +6982,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "49318a03119161c7",
@@ -7391,7 +7368,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5efc3fecf7d2541b",
@@ -7413,7 +7390,7 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "777f80837830419f",
@@ -8138,7 +8115,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "22 a30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "df5eac345b8bf239",
@@ -8444,10 +8421,10 @@
    "novo": false
   },
   {
-   "id": "17b0f67a0ea4dbfb",
+   "id": "cee282f61b761194",
    "orgao": "Câmara de Candeias do Jamari",
-   "titulo": "Câmara de Candeias do Jamari - RO abre concurso com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-candeias-do-jamari-ro-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+   "titulo": "Câmara de Candeias do Jamari - RO prorroga inscrições para concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-candeias-do-jamari-ro-prorroga-inscricoes-para-concurso-publico",
    "uf": "RO",
    "uf_nome": "Rondônia",
    "vagas": 17,
@@ -8464,9 +8441,9 @@
    ],
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-20",
-   "prazo_texto": "20/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "prazo_texto": "Prorrogado até20/10/2026",
+   "visto_em": "2026-10-16T12:28:57+00:00",
+   "novo": true
   },
   {
    "id": "f20d3dfde9d4668c",
@@ -9761,7 +9738,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "19 a30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8cbab35f7b624069",
