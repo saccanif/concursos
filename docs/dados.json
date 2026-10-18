@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-18T01:07:47+00:00",
+ "gerado_em": "2026-10-18T05:59:00+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 424,
- "novos": 31,
- "encerrados": 0,
+ "total": 421,
+ "novos": 23,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -410,29 +410,6 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
-   "id": "727a22b0aa98077a",
-   "orgao": "Câmara de Paulistânia",
-   "titulo": "Câmara de Paulistânia - SP abre concurso público com vagas para Assistente Contábil e Consultor Jurídico",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 5700.14,
-   "salario_por_hora": false,
-   "cargos": "Assistente Contábil do Legislativo, Consultor Jurídico do Legislativo",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-17",
-   "prazo_texto": "17/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -1160,7 +1137,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bd5349e3ad9bfb62",
@@ -1629,7 +1606,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6ada915fb9d7cfe2",
@@ -2032,28 +2009,6 @@
    "novo": false
   },
   {
-   "id": "5aabe1d285568b9f",
-   "orgao": "Prefeitura de Urânia",
-   "titulo": "Prefeitura de Urânia - SP prorroga inscrições de concurso público para Coordenador e Orientador Social do CRAS",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urania-sp-prorroga-inscricoes-de-concurso-publico-para-coordenador-e-orientador-social-do-cras",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3562.8,
-   "salario_por_hora": false,
-   "cargos": "Coordenador do CRAS, Orientador Social do CRAS",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-17",
-   "prazo_texto": "Prorrogado até17/10/2026",
-   "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
-  },
-  {
    "id": "0797693c3a872c5b",
    "orgao": "Prefeitura do Município de Carapicuíba",
    "titulo": "Prefeitura de Carapicuíba - SP abre novos concursos para cadastro de reserva em diversas áreas",
@@ -2098,7 +2053,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7e8c0a3ac20bf789",
@@ -3011,29 +2966,6 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "19/10 a18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "f0df0f2e1cfea1cb",
-   "orgao": "HOB - Hospital Metropolitano Odilon Behrens",
-   "titulo": "HOB - MG abre seleções para Agente Executivo Governamental e Médicos",
-   "url": "https://www.pciconcursos.com.br/noticias/hob-mg-abre-selecoes-para-agente-executivo-governamental-e-medicos",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 18067.43,
-   "salario_por_hora": false,
-   "cargos": "Agente Executivo Governamental, Médico",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-17",
-   "prazo_texto": "17/10/2026",
-   "visto_em": "2026-10-09T02:14:12+00:00",
    "novo": false
   },
   {
@@ -6790,7 +6722,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c77daa63bf3e426c",
@@ -6862,7 +6794,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "20/10 a04/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c71f547c0ddb21a6",
@@ -7079,7 +7011,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b34eb4b9247f76c",
@@ -7493,7 +7425,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "19/10 a03/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "398b29a69a79fbd8",
