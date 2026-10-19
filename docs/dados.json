@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-19T06:18:22+00:00",
+ "gerado_em": "2026-10-19T13:28:23+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 406,
- "novos": 0,
- "encerrados": 15,
+ "total": 415,
+ "novos": 10,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -817,6 +817,29 @@
    "novo": false
   },
   {
+   "id": "616c3a552c424c6c",
+   "orgao": "Prefeitura da Estância Turística de Piraju",
+   "titulo": "Prefeitura de Piraju - SP abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piraju-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4193.9,
+   "salario_por_hora": false,
+   "cargos": "Professor I, Professor II, Monitor Escolar",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "18/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
    "id": "694073d4595c638c",
    "orgao": "Prefeitura da Estância Turística de São Roque",
    "titulo": "Prefeitura de São Roque - SP abre processo seletivo para profissionais da educação",
@@ -1306,6 +1329,28 @@
    "novo": false
   },
   {
+   "id": "66d6d35d9c8964bd",
+   "orgao": "Prefeitura de Lagoinha",
+   "titulo": "Prefeitura de Lagoinha - SP abre vagas para assistente social e psicólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoinha-sp-abre-vagas-para-assistente-social-e-psicologo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4362.76,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social, Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
    "id": "90274a2e1fe5041b",
    "orgao": "Prefeitura de Lençóis Paulista",
    "titulo": "Prefeitura de Lençóis Paulista - SP abre concurso público para cargos de nível superior na educação",
@@ -1373,6 +1418,30 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "86c553f080f67800",
+   "orgao": "Prefeitura de Louveira",
+   "titulo": "Prefeitura de Louveira - SP abre concursos com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-louveira-sp-abre-concursos-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 8738.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "ac03f18d41055913",
@@ -1823,10 +1892,10 @@
    "novo": false
   },
   {
-   "id": "a8376e9c5c6611ad",
+   "id": "3fce114dedd9ad44",
    "orgao": "Prefeitura de Tarumã",
-   "titulo": "Prefeitura de Tarumã - SP abre processo seletivo com salários de até R$ 23.539,17",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taruma-sp-abre-processo-seletivo-com-salarios-de-ate-23539",
+   "titulo": "Prefeitura de Tarumã - SP prorroga inscrições para processo seletivo com salários de até R$ 23.539,17",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taruma-sp-prorroga-inscricoes-para-processo-seletivo-com-salarios-de-ate-23539",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": null,
@@ -1842,10 +1911,34 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "Prorrogado até22/10/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
+   "id": "b880605e52e21ce0",
+   "orgao": "Prefeitura de Votorantim",
+   "titulo": "Prefeitura de Votorantim - SP abre concursos públicos com salários de até R$ 8.377,33",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-votorantim-sp-abre-concursos-publicos-com-salarios-de-ate-8377",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 37,
+   "cadastro_reserva": false,
+   "salario": 8377.33,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "0797693c3a872c5b",
@@ -2072,6 +2165,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "f9a32d917a2c5b2f",
+   "orgao": "USCS - Universidade Municipal de São Caetano do Sul, HFASP e Barueri",
+   "titulo": "FAUSCS - SP abre seleção para residência médica em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/fauscs-sp-abre-selecao-para-residencia-medica-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 58,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Médico Residente",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-06",
+   "prazo_texto": "06/12/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "06067ba42c50aa00",
@@ -2970,6 +3085,31 @@
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "62016b6373374ba0",
+   "orgao": "Prefeitura de Braúnas",
+   "titulo": "Prefeitura de Braúnas - MG abre processo seletivo com salários de até R$ 22.090,10",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braunas-mg-abre-processo-seletivo-com-salarios-de-ate-22090",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 59,
+   "cadastro_reserva": false,
+   "salario": 22090.1,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "fa813f456681f2a5",
@@ -4698,6 +4838,28 @@
    "novo": false
   },
   {
+   "id": "bfe16cce069feec6",
+   "orgao": "Câmara de Toropi",
+   "titulo": "Câmara de Toropi - RS abre concurso público para Agente de Serviços Complementares",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-toropi-rs-abre-concurso-publico-para-agente-de-servicos-complementares",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1654.47,
+   "salario_por_hora": false,
+   "cargos": "Agente de Serviços Complementares",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
    "id": "a84695c56f5ce03a",
    "orgao": "Câmara de Vereadores de Bagé",
    "titulo": "Câmara de Bagé - RS abre concurso com vagas para diversas áreas",
@@ -5950,6 +6112,28 @@
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
+  },
+  {
+   "id": "694267ed9ce2b934",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processo seletivo para Enfermeiro I no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-enfermeiro-i-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5001.11,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "7696c53cce198b35",
@@ -8902,6 +9086,31 @@
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
+  },
+  {
+   "id": "2f5a63bfbdc07616",
+   "orgao": "Prefeitura de Itapororoca",
+   "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 175,
+   "cadastro_reserva": false,
+   "salario": 10000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-20",
+   "prazo_texto": "20/11/2026",
+   "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
   },
   {
    "id": "a7ff6e0dcc65f359",
