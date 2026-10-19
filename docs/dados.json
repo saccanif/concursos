@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-19T01:20:13+00:00",
+ "gerado_em": "2026-10-19T06:18:22+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 421,
+ "total": 406,
  "novos": 0,
- "encerrados": 0,
+ "encerrados": 15,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -247,9 +247,9 @@
     "Médio",
     "Técnico"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "19/10 a09/11/2026",
+   "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -364,29 +364,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "e2fb93f17742b4e7",
-   "orgao": "Câmara de Estrela do Norte",
-   "titulo": "Câmara de Estrela do Norte - SP abre concurso público para Contínuo e Encarregado Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-norte-sp-abre-concurso-publico-para-continuo-e-encarregado-administrativo",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3627.34,
-   "salario_por_hora": false,
-   "cargos": "Encarregado Administrativo, Contínuo",
-   "escolaridade": "Fundamental / Superior",
-   "niveis": [
-    "Fundamental",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -767,9 +744,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "19/10 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
   },
@@ -840,52 +817,6 @@
    "novo": false
   },
   {
-   "id": "16cfc57102f10886",
-   "orgao": "Prefeitura da Estância Climática de Nuporanga",
-   "titulo": "Prefeitura de Nuporanga - SP abre concurso com salários de até R$ 6.209,98",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nuporanga-sp-abre-concurso-com-salarios-de-ate-6209",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 6209.98,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Superior",
-   "niveis": [
-    "Fundamental",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
-  {
-   "id": "bdf9817bf510d233",
-   "orgao": "Prefeitura da Estância Turística de Ibitinga",
-   "titulo": "Prefeitura de Ibitinga - SP abre concurso público com vagas em diversas áreas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 2755.3,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-30T23:54:38+00:00",
-   "novo": false
-  },
-  {
    "id": "694073d4595c638c",
    "orgao": "Prefeitura da Estância Turística de São Roque",
    "titulo": "Prefeitura de São Roque - SP abre processo seletivo para profissionais da educação",
@@ -928,28 +859,6 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "ffaf59ad48c8871f",
-   "orgao": "Prefeitura de Álvares Machado",
-   "titulo": "Prefeitura de Álvares Machado - SP abre processo seletivo para enfermeiros e psicólogos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvares-machado-sp-abre-processo-seletivo-para-enfermeiros-e-psicologos",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5729.45,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro, Enfermeiro ESF, Psicólogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-07T22:02:14+00:00",
    "novo": false
   },
   {
@@ -1067,31 +976,6 @@
    "inscricoes_ate": "2026-10-19",
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
-   "id": "4726acbb82833627",
-   "orgao": "Prefeitura de Caiabu",
-   "titulo": "Prefeitura de Caiabu - SP abre concurso público com salários de até R$ 5.825,26",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caiabu-sp-abre-concurso-publico-com-salarios-de-ate-5825",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5825.26,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -1274,9 +1158,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-01",
-   "prazo_texto": "19/10 a01/11/2026",
+   "prazo_texto": "01/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -1817,51 +1701,6 @@
    "novo": false
   },
   {
-   "id": "638661db1e471e41",
-   "orgao": "Prefeitura de Santa Adélia",
-   "titulo": "Prefeitura de Santa Adélia - SP abre seleção para profissionais da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-adelia-sp-abre-selecao-para-profissionais-da-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 11,
-   "cadastro_reserva": false,
-   "salario": 1728.76,
-   "salario_por_hora": false,
-   "cargos": "Apoio Escolar, Professor de Educação Básica I, Professor de Educação Básica II",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-02T18:28:29+00:00",
-   "novo": false
-  },
-  {
-   "id": "cd8142431c6a0331",
-   "orgao": "Prefeitura de Santa Adélia",
-   "titulo": "Prefeitura de Santa Adélia - SP abre concurso para Assistente Social",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-adelia-sp-abre-concurso-para-assistente-social",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1728.76,
-   "salario_por_hora": false,
-   "cargos": "Assistente Social",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
    "id": "27ec3ede9f251714",
    "orgao": "Prefeitura de São Carlos",
    "titulo": "Prefeitura de São Carlos - SP abre concurso com salários de até R$ 9.833,00",
@@ -2250,9 +2089,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "19/10 a09/11/2026",
+   "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
@@ -2962,9 +2801,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "19/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3262,9 +3101,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
-   "prazo_texto": "19 a23/10/2026",
+   "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
   },
@@ -3356,9 +3195,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
-   "prazo_texto": "19 a23/10/2026",
+   "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -3427,9 +3266,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "19/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3524,9 +3363,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-21",
-   "prazo_texto": "19 a21/10/2026",
+   "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -3946,9 +3785,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "19/10 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
   },
@@ -4108,9 +3947,9 @@
     "Médio",
     "Técnico"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-17",
-   "prazo_texto": "19/10 a17/11/2026",
+   "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -4241,9 +4080,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "19/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-14T18:40:31+00:00",
    "novo": false
   },
@@ -4647,31 +4486,6 @@
    "novo": false
   },
   {
-   "id": "02f75efd190475cc",
-   "orgao": "Prefeitura de Colombo",
-   "titulo": "Prefeitura de Colombo - PR abre processo seletivo com salários de até R$ 8.040,50",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colombo-pr-abre-processo-seletivo-com-salarios-de-ate-8040",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 470,
-   "cadastro_reserva": false,
-   "salario": 8040.5,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "f7a4672ecabb266f",
    "orgao": "Prefeitura de Florestópolis",
    "titulo": "Prefeitura de Florestópolis - PR abre concurso público com salários de até R$ 15.389,87",
@@ -4757,9 +4571,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "19/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
   },
@@ -4853,9 +4667,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "19 a28/10/2026",
+   "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
@@ -5106,9 +4920,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
-   "prazo_texto": "19 a23/10/2026",
+   "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
   },
@@ -5185,28 +4999,6 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
-   "id": "b4a6e94d9fa96234",
-   "orgao": "Prefeitura de Feliz",
-   "titulo": "Prefeitura de Feliz - RS abre processo seletivo para o cargo de Motorista",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-para-o-cargo-de-motorista",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2315.99,
-   "salario_por_hora": false,
-   "cargos": "Motorista",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": false
   },
   {
@@ -5558,9 +5350,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "19 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
@@ -5694,9 +5486,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
-   "prazo_texto": "19 a23/10/2026",
+   "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
   },
@@ -6091,52 +5883,6 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
-   "novo": false
-  },
-  {
-   "id": "544b188768615b2f",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC abre processos seletivos para Farmacêutico e Técnico em Laboratório",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-farmaceutico-e-tecnico-em-laboratorio",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 4646.13,
-   "salario_por_hora": false,
-   "cargos": "Farmacêutico, Técnico em Laboratório I - Patologia",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "2b0db63db714b096",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre seleções para técnico de enfermagem e enfermeiro no CEPON",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-tecnico-de-enfermagem-e-enfermeiro-no-cepon",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 5001.11,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Enfermagem I, Enfermeiro I",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
   },
   {
@@ -6944,31 +6690,6 @@
    "novo": false
   },
   {
-   "id": "f32f552ff7e52074",
-   "orgao": "Prefeitura de Ponte Alta",
-   "titulo": "Prefeitura de Ponte Alta - SC abre processo seletivo com salários de até R$ 17.248,32",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponte-alta-sc-abre-processo-seletivo-com-salarios-de-ate-17248",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 17248.32,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": false
-  },
-  {
    "id": "30c681ccd41b529c",
    "orgao": "Prefeitura de Porto União",
    "titulo": "Prefeitura de Porto União - SC abre processo seletivo na área da educação",
@@ -7208,31 +6929,6 @@
    "novo": false
   },
   {
-   "id": "139ce1ecf6e36ab9",
-   "orgao": "Prefeitura de São Joaquim",
-   "titulo": "Prefeitura de São Joaquim - SC abre concurso público com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 5681.54,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "a4a7f3538fbc131c",
    "orgao": "Prefeitura de São Lourenço do Oeste",
    "titulo": "Município de São Lourenço do Oeste - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -7421,9 +7117,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "19/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
    "novo": false
   },
@@ -7535,9 +7231,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "19/10 a26/11/2026",
+   "prazo_texto": "26/11/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
    "novo": false
   },
@@ -7607,9 +7303,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "19/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -7796,9 +7492,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "19/10 a09/11/2026",
+   "prazo_texto": "09/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8853,29 +8549,6 @@
    "novo": false
   },
   {
-   "id": "4a1f54971f900d20",
-   "orgao": "SENAR-AR/BA - Serviço Nacional de Aprendizagem Rural",
-   "titulo": "SENAR-AR/BA abre processo seletivo com salários de até R$ 6.948,00",
-   "url": "https://www.pciconcursos.com.br/noticias/senar-ar-ba-abre-processo-seletivo-com-salarios-de-ate-6948",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 6948.0,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Química, Analista de RH, Pedagogo",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-27T01:32:08+00:00",
-   "novo": false
-  },
-  {
    "id": "59ef1dd5926658ef",
    "orgao": "SRH - Superintendência de Recursos Humanos e SAEB - Secretaria de Administração",
    "titulo": "SAEB - BA abre concurso público para Especialista em Políticas Públicas e Gestão Governamental",
@@ -9321,9 +8994,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-19",
-   "prazo_texto": "19/10 a19/11/2026",
+   "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
   },
@@ -9441,30 +9114,6 @@
    "inscricoes_ate": "2026-11-02",
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
-   "id": "547c02a98f4c5235",
-   "orgao": "Câmara de Dom Expedito Lopes",
-   "titulo": "Câmara de Dom Expedito Lopes - PI abre concurso público com cinco vagas imediatas",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-dom-expedito-lopes-pi-abre-concurso-publico-com-cinco-vagas-imediatas",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 1850.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-18",
-   "prazo_texto": "18/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -9769,9 +9418,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-19",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "19 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
   },
