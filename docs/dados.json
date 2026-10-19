@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-19T13:28:23+00:00",
+ "gerado_em": "2026-10-19T19:58:43+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 415,
- "novos": 10,
+ "total": 435,
+ "novos": 31,
  "encerrados": 1,
  "concursos": [
   {
@@ -276,6 +276,29 @@
    "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "61e0a9e966505fb9",
+   "orgao": "Câmara da Estância Turística de Ibiúna",
+   "titulo": "Câmara de Ibiúna - SP abre concurso público para Assistente Administrativo e Controlador Interno",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ibiuna-sp-abre-concurso-publico-para-assistente-administrativo-e-controlador-interno",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5570.09,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo, Controlador Interno",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "93f231926d963461",
@@ -705,6 +728,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-15T23:06:45+00:00",
    "novo": false
+  },
+  {
+   "id": "f44931de8549cc47",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre seleções para o Hospital de Clínicas e Hospital Estadual Sumaré",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-o-hospital-de-clinicas-e-hospital-estadual-sumare",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4830.0,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social, Jardineiro",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "04/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "d57e2f72ab675c5f",
@@ -1302,6 +1348,29 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "071cba9a62cf6337",
+   "orgao": "Prefeitura de Itatinga",
+   "titulo": "Prefeitura de Itatinga - SP abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatinga-sp-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 2558.75,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Desenvolvimento Infantil, Professor de Educação Básica, Professor de Educação Especial",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "65f3144b85f18a80",
@@ -2123,6 +2192,29 @@
    "novo": false
   },
   {
+   "id": "22cc48c3014d93d9",
+   "orgao": "TJSP - Tribunal de Justiça do Estado de São Paulo",
+   "titulo": "TJSP abre concursos para Oficial de Justiça e Escrevente Técnico Judiciário",
+   "url": "https://www.pciconcursos.com.br/noticias/tjsp-abre-concursos-para-oficial-de-justica-e-escrevente-tecnico-judiciario",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 132,
+   "cadastro_reserva": false,
+   "salario": 9856.95,
+   "salario_por_hora": false,
+   "cargos": "Oficial de Justiça, Escrevente Técnico Judiciário",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-28",
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "28/10 a10/12/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "d903b78d574e2f69",
    "orgao": "UNESP - Universidade Estadual Paulista",
    "titulo": "UNESP abre concurso para Pesquisador IV na área de Produção Sustentável em Aquicultura",
@@ -2189,10 +2281,10 @@
    "novo": true
   },
   {
-   "id": "06067ba42c50aa00",
+   "id": "54a0893161f8e272",
    "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
-   "titulo": "CBMERJ - RJ abre processo seletivo para 1º tenente temporário",
-   "url": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-abre-processo-seletivo-para-1-tenente-temporario",
+   "titulo": "CBMERJ - RJ retifica edital de processo seletivo para 1º tenente temporário",
+   "url": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-retifica-edital-de-processo-seletivo-para-1-tenente-temporario",
    "uf": "RJ",
    "uf_nome": "Rio de Janeiro",
    "vagas": 192,
@@ -2207,8 +2299,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
-   "visto_em": "2026-10-02T18:28:29+00:00",
-   "novo": false
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "cb74cdabb3bbbe13",
@@ -2257,6 +2349,28 @@
    "novo": false
   },
   {
+   "id": "90a73d5dd0fbc2a5",
+   "orgao": "MOBI-Rio - Companhia Municipal de Transportes Coletivos",
+   "titulo": "MOBI-Rio - RJ abre processo seletivo com 30 vagas para motoristas de articulado",
+   "url": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-processo-seletivo-com-30-vagas-para-motoristas-de-articulado",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 4310.48,
+   "salario_por_hora": false,
+   "cargos": "Motorista de Articulado",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "22/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "c85b2ed5ef8dd268",
    "orgao": "Prefeitura de Arraial do Cabo",
    "titulo": "Prefeitura de Arraial do Cabo - RJ retifica processo seletivo para agentes de saúde e de endemias",
@@ -2299,6 +2413,28 @@
    "prazo_texto": "Reaberto até19/10/2026",
    "visto_em": "2026-10-17T04:35:22+00:00",
    "novo": false
+  },
+  {
+   "id": "2b6426b5e6816d4b",
+   "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
+   "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/uerj-abre-processo-seletivo-para-medicos-com-salarios-de-ate-8000",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 8000.0,
+   "salario_por_hora": false,
+   "cargos": "Médico, Técnico de nível superior",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "e4b635f413718493",
@@ -3202,6 +3338,54 @@
    "novo": false
   },
   {
+   "id": "528c3c1724278776",
+   "orgao": "Prefeitura de Confins",
+   "titulo": "Prefeitura de Confins - MG abre processo seletivo com salários de até R$ 23.298,67",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-confins-mg-abre-processo-seletivo-com-salarios-de-ate-23298",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 153,
+   "cadastro_reserva": false,
+   "salario": 23298.67,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "21/10 a05/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "ef74c3523be0b393",
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre seleção para professores de educação física e guarda-vidas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-selecao-para-professores-de-educacao-fisica-e-guarda-vidas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 3818.62,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Física, Guarda-Vidas (Salva-Vidas)",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "21 a26/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "6b0cad351e21cbba",
    "orgao": "Prefeitura de Indaiabira",
    "titulo": "Prefeitura de Indaiabira - MG retifica o edital do processo seletivo para agentes de saúde e de endemias",
@@ -3246,6 +3430,28 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
+  },
+  {
+   "id": "cf714383b5da2d19",
+   "orgao": "Prefeitura de Itaguara",
+   "titulo": "Prefeitura de Itaguara - MG abre processo seletivo para Agentes de Saúde e de Endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaguara-mg-abre-processo-seletivo-para-agentes-de-saude-e-de-endemias",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "4de1722cfb555995",
@@ -3719,6 +3925,28 @@
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "537f1ca532664c46",
+   "orgao": "Prefeitura de São João del-Rei",
+   "titulo": "Prefeitura de São João del-Rei - MG abre seleção para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-del-rei-mg-abre-selecao-para-agentes-comunitarios-de-saude",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 66,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "d69a3c88566c04b9",
@@ -4650,6 +4878,30 @@
    "novo": false
   },
   {
+   "id": "581a28fa609a6a24",
+   "orgao": "Prefeitura de Ivaí",
+   "titulo": "Prefeitura de Ivaí - PR abre processo seletivo com salários de até R$ 4.464,64",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-com-salarios-de-ate-4464",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 4464.64,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/10 a23/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "3aca63a999018d58",
    "orgao": "Prefeitura de Lobato",
    "titulo": "Prefeitura de Lobato - PR abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -5043,6 +5295,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6d364f130532e187",
+   "orgao": "Prefeitura de Caibaté",
+   "titulo": "Prefeitura de Caibaté - RS abre processo seletivo para psicólogo da família",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-psicologo-da-familia",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 6434.15,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo da família",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "0ee3aedb305277cb",
@@ -5775,6 +6049,28 @@
    "novo": false
   },
   {
+   "id": "5bbb2b806f704651",
+   "orgao": "UFSM - Universidade Federal de Santa Maria",
+   "titulo": "FAURGS e UFSM - RS abrem processo seletivo para o cargo de Químico",
+   "url": "https://www.pciconcursos.com.br/noticias/faurgs-e-ufsm-rs-abrem-processo-seletivo-para-o-cargo-de-quimico",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 13778.5,
+   "salario_por_hora": false,
+   "cargos": "Químico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "f86b1a6755cc105e",
    "orgao": "Câmara de Capinzal",
    "titulo": "Câmara de Capinzal - SC anuncia concurso público para cargos de nível superior",
@@ -5932,6 +6228,28 @@
    "prazo_texto": "26/10 a11/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "cf6f05af1b757d3a",
+   "orgao": "CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente",
+   "titulo": "CIDEMA - SC abre processo seletivo para Analista Técnico em Gestão Ambiental",
+   "url": "https://www.pciconcursos.com.br/noticias/cidema-sc-abre-processo-seletivo-para-analista-tecnico-em-gestao-ambiental",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 6000.0,
+   "salario_por_hora": false,
+   "cargos": "Analista Técnico em Gestão Ambiental",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "21/10 a04/11/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "e2d38b0e74cc9a47",
@@ -6133,6 +6451,72 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
+   "id": "c51908c4ac9b9714",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre seleção para rádio operador no SAMU em Balneário Camboriú",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-radio-operador-no-samu-em-balneario-camboriu",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2808.42,
+   "salario_por_hora": false,
+   "cargos": "Rádio Operador(a)",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "127d1127827548de",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre seleção para Técnico Auxiliar de Regulação Médica no SAMU de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-no-samu-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2499.35,
+   "salario_por_hora": false,
+   "cargos": "Técnico Auxiliar de Regulação Médica",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "efa39d849d290fa7",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia processo seletivo para Analista Administrativo I em Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-analista-administrativo-i-em-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4752.55,
+   "salario_por_hora": false,
+   "cargos": "Analista Administrativo I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-21",
+   "prazo_texto": "21/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": true
   },
   {
@@ -6851,6 +7235,30 @@
    "novo": false
   },
   {
+   "id": "a5a7090ee4bda231",
+   "orgao": "Prefeitura de Novo Horizonte",
+   "titulo": "Prefeitura de Novo Horizonte - SC abre processo seletivo com salários de até R$ 6.201,33",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-processo-seletivo-com-salarios-de-ate-6201",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 6201.33,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
    "id": "197c2a6aa61e69a2",
    "orgao": "Prefeitura de Pinhalzinho",
    "titulo": "Prefeitura de Pinhalzinho - SC abre processo seletivo para profissionais da educação",
@@ -7442,6 +7850,52 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": false
+  },
+  {
+   "id": "126d0aaadbb1e92a",
+   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
+   "titulo": "IGESDF - DF abre processos seletivos com salários de até R$ 4.894,57",
+   "url": "https://www.pciconcursos.com.br/noticias/igesdf-df-abre-processos-seletivos-com-salarios-de-ate-4894",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4894.57,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "28/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "f27510719da731f9",
+   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
+   "titulo": "IGESDF abre seleções para médicos e tecnólogos em radiologia",
+   "url": "https://www.pciconcursos.com.br/noticias/igesdf-abre-selecoes-para-medicos-e-tecnologos-em-radiologia",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 13359.56,
+   "salario_por_hora": false,
+   "cargos": "Médico Paliativista, Tecnólogo em Radiologia, Médico Reumatologista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "22/10/2026",
+   "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
   },
   {
    "id": "e2b077a609e5dd2a",
