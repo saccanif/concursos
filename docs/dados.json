@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-19T19:58:43+00:00",
+ "gerado_em": "2026-10-19T23:45:27+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 435,
- "novos": 31,
- "encerrados": 1,
+ "total": 441,
+ "novos": 37,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -3131,6 +3131,30 @@
    "novo": false
   },
   {
+   "id": "8ea5f71d5fe156d0",
+   "orgao": "Prefeitura de Araçuaí",
+   "titulo": "Prefeitura de Araçuaí - MG abre processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracuai-mg-abre-processo-seletivo-para-diversos-cargos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5122.14,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "09 a12/11/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
+  },
+  {
    "id": "7cef90725f294e15",
    "orgao": "Prefeitura de Baldim",
    "titulo": "Prefeitura de Baldim - MG abre concurso público para profissionais de saúde",
@@ -4433,6 +4457,30 @@
    "novo": false
   },
   {
+   "id": "9d3bb6b33a74fe82",
+   "orgao": "Prefeitura da Serra",
+   "titulo": "Prefeitura da Serra - ES abre seleção para cadastro de reserva na saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-da-serra-es-abre-selecao-para-cadastro-de-reserva-na-saude",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 8237.84,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "22/10/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
+  },
+  {
    "id": "03c5bd56cb2da91d",
    "orgao": "Prefeitura de Irupi",
    "titulo": "Prefeitura de Irupi - ES abre seleção para Cuidador Escolar",
@@ -4923,6 +4971,31 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": false
+  },
+  {
+   "id": "b1dd5e7ac27f6efd",
+   "orgao": "Prefeitura de Mallet",
+   "titulo": "Prefeitura de Mallet - PR abre processo seletivo com salários de até R$ 10.440,05",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-com-salarios-de-ate-10440",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 10440.05,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "20 a26/10/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
   },
   {
    "id": "704a15e871be4628",
@@ -5436,6 +5509,29 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "118bbc0ac1536973",
+   "orgao": "Prefeitura de Coronel Bicaco",
+   "titulo": "Prefeitura de Coronel Bicaco - RS abre processos seletivos para diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-bicaco-rs-abre-processos-seletivos-para-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
   },
   {
    "id": "acd213a92197d688",
@@ -6589,6 +6685,28 @@
    "novo": false
   },
   {
+   "id": "2cf3b57a9d11c192",
+   "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
+   "titulo": "IPREARROIO - SC abre concurso público para o cargo de Agente Previdenciário",
+   "url": "https://www.pciconcursos.com.br/noticias/iprearroio-sc-abre-concurso-publico-para-o-cargo-de-agente-previdenciario",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": true,
+   "salario": 5025.59,
+   "salario_por_hora": false,
+   "cargos": "Agente Previdenciário",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-20",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "20/10 a18/11/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
+  },
+  {
    "id": "3d0264c15d30c210",
    "orgao": "PGM - Procuradoria-Geral do Município de Blumenau",
    "titulo": "Prefeitura de Blumenau - SC abre seleção para o Programa de Residência Jurídica",
@@ -6634,6 +6752,28 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
+  },
+  {
+   "id": "d413367b9f61a7ed",
+   "orgao": "PMSC - Polícia Militar de Santa Catarina",
+   "titulo": "PMSC abre concurso com 500 vagas para Soldados do Quadro de Praças Policial Militar",
+   "url": "https://www.pciconcursos.com.br/noticias/pmsc-abre-concurso-com-500-vagas-para-soldados-do-quadro-de-pracas-policial-militar",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 500,
+   "cadastro_reserva": false,
+   "salario": 8505.0,
+   "salario_por_hora": false,
+   "cargos": "Soldado do Quadro de Praças Policial Militar",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "26/10 a16/11/2026",
+   "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
   },
   {
    "id": "f51a630a18ec3f19",
