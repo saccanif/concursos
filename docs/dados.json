@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-20T10:07:53+00:00",
+ "gerado_em": "2026-10-20T15:08:46+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 418,
- "novos": 37,
+ "total": 430,
+ "novos": 49,
  "encerrados": 0,
  "concursos": [
   {
@@ -274,6 +274,30 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "2ed675025297d026",
+   "orgao": "Câmara da Estância Turística de Paraguaçu Paulista",
+   "titulo": "Câmara de Paraguaçu Paulista - SP abre concurso público com salários de até R$ 11.065,27",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-paraguacu-paulista-sp-abre-concurso-publico-com-salarios-de-ate-11065",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 11065.27,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "21/10 a15/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
    "novo": true
   },
   {
@@ -773,6 +797,50 @@
    "novo": false
   },
   {
+   "id": "33275861faad165f",
+   "orgao": "IAMSPE - Instituto de Assistência Médica ao Servidor Público Estadual",
+   "titulo": "IAMSPE - SP abre seleção para residência médica em diversas especialidades",
+   "url": "https://www.pciconcursos.com.br/noticias/iamspe-sp-abre-selecao-para-residencia-medica-em-diversas-especialidades",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 253,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Residente Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
+  },
+  {
+   "id": "7dddd3cdd72c45f7",
+   "orgao": "IPA - Instituto de Pesquisas Ambientais",
+   "titulo": "IPA - SP abre concurso público para pesquisadores científicos",
+   "url": "https://www.pciconcursos.com.br/noticias/ipa-sp-abre-concurso-publico-para-pesquisadores-cientificos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 98,
+   "cadastro_reserva": false,
+   "salario": 9052.47,
+   "salario_por_hora": false,
+   "cargos": "Pesquisador Científico I A",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-18",
+   "inscricoes_ate": "2026-12-22",
+   "prazo_texto": "18/11 a22/12/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
+  },
+  {
    "id": "f3a3c26997ec8e2b",
    "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
    "titulo": "IPSM de São José dos Campos - SP abre concurso para diversos cargos de nível superior",
@@ -905,6 +973,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
+  },
+  {
+   "id": "4b087065d5394405",
+   "orgao": "Prefeitura da Estância Turística de São Roque",
+   "titulo": "Prefeitura de São Roque - SP abre concurso público para Guarda Civil Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-roque-sp-abre-concurso-publico-para-guarda-civil-municipal",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 2220.94,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal de 3ª Classe",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "19/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
   },
   {
    "id": "9716590d17604605",
@@ -1489,6 +1579,31 @@
    "novo": false
   },
   {
+   "id": "d78517746aa90b57",
+   "orgao": "Prefeitura de Macedônia",
+   "titulo": "Prefeitura de Macedônia - SP abre concurso público com salários de até R$ 8.189,58",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macedonia-sp-abre-concurso-publico-com-salarios-de-ate-8189",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 8189.58,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
+  },
+  {
    "id": "9aa70bdb5bc7e8ef",
    "orgao": "Prefeitura de Marabá Paulista",
    "titulo": "Prefeitura de Marabá Paulista - SP abre concurso público para Psicólogo",
@@ -1912,6 +2027,31 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "Prorrogado até22/10/2026",
    "visto_em": "2026-10-19T13:28:23+00:00",
+   "novo": true
+  },
+  {
+   "id": "bd7228b6909e779d",
+   "orgao": "Prefeitura de Tuiuti",
+   "titulo": "Prefeitura de Tuiuti - SP abre concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 5209.01,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-21",
+   "prazo_texto": "21/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
    "novo": true
   },
   {
@@ -2341,6 +2481,31 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
+   "novo": true
+  },
+  {
+   "id": "178a9c1863f25b2a",
+   "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
+   "titulo": "UERJ abre processo seletivo para cadastro de reserva em projetos da saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/uerj-abre-processo-seletivo-para-cadastro-de-reserva-em-projetos-da-saude",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 8550.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
    "novo": true
   },
   {
@@ -3928,6 +4093,28 @@
    "novo": false
   },
   {
+   "id": "77a8eb590bb65003",
+   "orgao": "Prefeitura de São Pedro da União",
+   "titulo": "Prefeitura de São Pedro da União - MG abre processo seletivo para técnico em enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-uniao-mg-abre-processo-seletivo-para-tecnico-em-enfermagem",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2504.98,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
+  },
+  {
    "id": "f58b7150eb11dece",
    "orgao": "Prefeitura de São Romão",
    "titulo": "Prefeitura de São Romão - MG abre seleção para agentes de saúde e agentes de combate às endemias",
@@ -5045,6 +5232,28 @@
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-13T23:18:37+00:00",
    "novo": false
+  },
+  {
+   "id": "b4a3964ff5b0a712",
+   "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
+   "titulo": "HCPA - RS abre processo seletivo para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/hcpa-rs-abre-processo-seletivo-para-medicos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 80.08,
+   "salario_por_hora": true,
+   "cargos": "Médico I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "05/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
   },
   {
    "id": "68fb5c86a21f90a6",
@@ -8123,6 +8332,29 @@
    "novo": false
   },
   {
+   "id": "f702113fa01bec2e",
+   "orgao": "Prefeitura de Brasnorte",
+   "titulo": "Prefeitura de Brasnorte - MT abre concurso público para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasnorte-mt-abre-concurso-publico-para-profissionais-da-educacao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 28,
+   "cadastro_reserva": false,
+   "salario": 5771.72,
+   "salario_por_hora": false,
+   "cargos": "Professor Classe B, Técnico Administrativo Educacional",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "27/10 a26/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
+  },
+  {
    "id": "c77e09f0156700d9",
    "orgao": "Prefeitura de Colniza",
    "titulo": "Prefeitura de Colniza - MT abre processo seletivo para cadastro de reserva em várias áreas",
@@ -8216,6 +8448,31 @@
    "prazo_texto": "22 a30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
+  },
+  {
+   "id": "c64d617fc8004e65",
+   "orgao": "Prefeitura de Novo Horizonte do Norte",
+   "titulo": "Prefeitura de Novo Horizonte do Norte - MT abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-do-norte-mt-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 5709.69,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
   },
   {
    "id": "df5eac345b8bf239",
@@ -9252,6 +9509,28 @@
    "prazo_texto": "07/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "fa60fe40c044d237",
+   "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
+   "titulo": "TJPB abre concurso público para analistas judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 50,
+   "cadastro_reserva": false,
+   "salario": 7526.14,
+   "salario_por_hora": false,
+   "cargos": "Analista Judiciário, Contabilidade",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "18/11/2026",
+   "visto_em": "2026-10-20T15:08:46+00:00",
+   "novo": true
   },
   {
    "id": "be76192613e44b36",
