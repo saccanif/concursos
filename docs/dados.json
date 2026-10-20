@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-19T23:45:27+00:00",
+ "gerado_em": "2026-10-20T04:57:16+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 441,
+ "total": 418,
  "novos": 37,
- "encerrados": 0,
+ "encerrados": 23,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -133,9 +133,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "20 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
   },
@@ -251,30 +251,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
-   "novo": false
-  },
-  {
-   "id": "1affa3337da24547",
-   "orgao": "Câmara da Estância Balneária de Itanhaém",
-   "titulo": "Câmara de Itanhaém - SP abre concurso público com salários de até R$ 7.097,00",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-itanhaem-sp-abre-concurso-publico-com-salarios-de-ate-7097",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 27,
-   "cadastro_reserva": false,
-   "salario": 7097.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -1024,30 +1000,6 @@
    "novo": false
   },
   {
-   "id": "87d951f09b253383",
-   "orgao": "Prefeitura de Cachoeira Paulista",
-   "titulo": "Prefeitura de Cachoeira Paulista - SP abre processo seletivo com salários de até R$ 10.073,41",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cachoeira-paulista-sp-abre-processo-seletivo-com-salarios-de-ate-10073",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 36,
-   "cadastro_reserva": false,
-   "salario": 10073.41,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
    "id": "b76473008e215c04",
    "orgao": "Prefeitura de Cerquilho",
    "titulo": "Prefeitura de Cerquilho - SP abre seleção com vagas imediatas e cadastro de reserva",
@@ -1534,29 +1486,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": false
-  },
-  {
-   "id": "094bcac254f4e1f5",
-   "orgao": "Prefeitura de Mairinque",
-   "titulo": "Prefeitura de Mairinque - SP abre processo seletivo para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mairinque-sp-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4400.77,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -2393,28 +2322,6 @@
    "novo": false
   },
   {
-   "id": "e6b22f67929dc889",
-   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
-   "titulo": "RioSaúde - RJ reabre inscrições de processo seletivo para cargos específicos de médicos",
-   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-reabre-inscricoes-de-processo-seletivo-para-cargos-especificos-de-medicos",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 23,
-   "cadastro_reserva": false,
-   "salario": 17151.28,
-   "salario_por_hora": false,
-   "cargos": "Médico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "Reaberto até19/10/2026",
-   "visto_em": "2026-10-17T04:35:22+00:00",
-   "novo": false
-  },
-  {
    "id": "2b6426b5e6816d4b",
    "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
    "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
@@ -2476,9 +2383,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "20/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2706,9 +2613,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "20/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2960,30 +2867,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "24/10 a23/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "ff26e4b2da08db7d",
-   "orgao": "CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço",
-   "titulo": "CIMME - MG abre processo seletivo com salários de até R$ 3.749,00",
-   "url": "https://www.pciconcursos.com.br/noticias/cimme-mg-abre-processo-seletivo-com-salarios-de-ate-3749",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 11,
-   "cadastro_reserva": false,
-   "salario": 3749.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-01T23:55:52+00:00",
    "novo": false
   },
   {
@@ -3758,9 +3641,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "20/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4067,30 +3950,6 @@
    "novo": false
   },
   {
-   "id": "ca74b75cc32dd5c1",
-   "orgao": "Prefeitura de São Sebastião do Rio Verde",
-   "titulo": "Prefeitura de São Sebastião do Rio Verde - MG abre concurso público com salários de até R$ 12.642,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-sebastiao-do-rio-verde-mg-abre-concurso-publico-com-salarios-de-ate-12642",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 15,
-   "cadastro_reserva": false,
-   "salario": 12642.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "0c3cac96d715ae8c",
    "orgao": "Prefeitura de São Tomás de Aquino",
    "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo na área da educação",
@@ -4250,9 +4109,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "20/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4297,28 +4156,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "cfbe9e66323aa77b",
-   "orgao": "UNIFAL - Universidade Federal de Alfenas",
-   "titulo": "UNIFAL - MG abre concurso público para médico ginecologista e obstetra",
-   "url": "https://www.pciconcursos.com.br/noticias/unifal-mg-abre-concurso-publico-para-medico-ginecologista-e-obstetra",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 4967.04,
-   "salario_por_hora": false,
-   "cargos": "Médico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4391,28 +4228,6 @@
    "novo": false
   },
   {
-   "id": "96812274e10182c4",
-   "orgao": "HECI - Hospital Evangélico de Cachoeiro de Itapemirim",
-   "titulo": "Hospital Evangélico de Cachoeiro de Itapemirim - ES abre seleção para residência em saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-cachoeiro-de-itapemirim-es-abre-selecao-para-residencia-em-saude",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": 16,
-   "cadastro_reserva": false,
-   "salario": 4106.09,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": false
-  },
-  {
    "id": "094c6af4de18320c",
    "orgao": "HEVV - Hospital Evangélico de Vila Velha",
    "titulo": "Hospital Evangélico de Vila Velha - ES abre seleção para residência e especialização médica",
@@ -4432,28 +4247,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-01T19:35:23+00:00",
-   "novo": false
-  },
-  {
-   "id": "c2c0ef1566c3afe0",
-   "orgao": "HIFA - Hospital Materno Infantil Francisco de Assis",
-   "titulo": "HIFA - ES anuncia processo seletivo para residência médica com 30 vagas",
-   "url": "https://www.pciconcursos.com.br/noticias/hifa-es-anuncia-processo-seletivo-para-residencia-medica-com-30-vagas",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": 30,
-   "cadastro_reserva": false,
-   "salario": 4106.09,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
   },
   {
@@ -4545,9 +4338,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "20 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
   },
@@ -4991,9 +4784,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-26",
-   "prazo_texto": "20 a26/10/2026",
+   "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
    "novo": true
   },
@@ -5013,9 +4806,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-23",
-   "prazo_texto": "20 a23/10/2026",
+   "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
   },
@@ -5298,28 +5091,6 @@
    "inscricoes_ate": "2026-10-20",
    "prazo_texto": "20/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "fdca589fd52b05fb",
-   "orgao": "Prefeitura de André da Rocha",
-   "titulo": "Prefeitura de André da Rocha - RS abre processo seletivo para pedagogo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-processo-seletivo-para-pedagogo",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 4180.49,
-   "salario_por_hora": false,
-   "cargos": "Pedagogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
   {
@@ -5606,50 +5377,6 @@
    "novo": false
   },
   {
-   "id": "b2c30bcc93636c64",
-   "orgao": "Prefeitura de Jacutinga",
-   "titulo": "Prefeitura de Jacutinga - RS abre concurso público para Operador de Máquinas e Equipamentos Rodoviários",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacutinga-rs-abre-concurso-publico-para-operador-de-maquinas-e-equipamentos-rodoviarios",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2584.94,
-   "salario_por_hora": false,
-   "cargos": "Operador de Máquinas e Equipamentos Rodoviários",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "6e8e27cebeb7ae8b",
-   "orgao": "Prefeitura de Jacutinga",
-   "titulo": "Prefeitura de Jacutinga - RS abre concurso para agentes comunitários de saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacutinga-rs-abre-concurso-para-agentes-comunitarios-de-saude",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-29T20:51:54+00:00",
-   "novo": false
-  },
-  {
    "id": "6a9660aedcd36ba8",
    "orgao": "Prefeitura de Maratá",
    "titulo": "Prefeitura de Maratá - RS abre concurso público com salários de até R$ 10.165,00",
@@ -5696,28 +5423,6 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": false
-  },
-  {
-   "id": "890096a6923085e1",
-   "orgao": "Prefeitura de Monte Alegre dos Campos",
-   "titulo": "Prefeitura de Monte Alegre dos Campos - RS abre seleções para Médico e Nutricionista",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecoes-para-medico-e-nutricionista",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 12451.2,
-   "salario_por_hora": false,
-   "cargos": "Médico Clínico Geral, Nutricionista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
   },
   {
@@ -6123,28 +5828,6 @@
    "novo": false
   },
   {
-   "id": "a22a62a2c7000987",
-   "orgao": "Prefeitura de Vila Nova do Sul",
-   "titulo": "Prefeitura de Vila Nova do Sul - RS abre seleção para Fiscal de Tributos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-selecao-para-fiscal-de-tributos",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2390.02,
-   "salario_por_hora": false,
-   "cargos": "Fiscal de Tributos",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": false
-  },
-  {
    "id": "5bbb2b806f704651",
    "orgao": "UFSM - Universidade Federal de Santa Maria",
    "titulo": "FAURGS e UFSM - RS abrem processo seletivo para o cargo de Químico",
@@ -6506,28 +6189,6 @@
    "novo": false
   },
   {
-   "id": "7fac4c947b2c05df",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC anuncia processos seletivos para técnicos em enfermagem e radiologia",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-tecnicos-em-enfermagem-e-radiologia",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 3928.47,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Enfermagem I, Técnico em Radiologia/Imagem I",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-16T21:16:34+00:00",
-   "novo": false
-  },
-  {
    "id": "694267ed9ce2b934",
    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
    "titulo": "FAHECE - SC abre processo seletivo para Enfermeiro I no CEPON de Florianópolis",
@@ -6663,28 +6324,6 @@
    "novo": false
   },
   {
-   "id": "443a83eb0ff2ac25",
-   "orgao": "IMAS - Hospital Nossa Senhora da Conceição (HNSC)",
-   "titulo": "Hospital Nossa Senhora da Conceição - SC abre seleção para residência médica em diversas especialidades",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-nossa-senhora-da-conceicao-sc-abre-selecao-para-residencia-medica-em-diversas-especialidades",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 24,
-   "cadastro_reserva": false,
-   "salario": 4106.09,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "2cf3b57a9d11c192",
    "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
    "titulo": "IPREARROIO - SC abre concurso público para o cargo de Agente Previdenciário",
@@ -6700,9 +6339,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "20/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
    "novo": true
   },
@@ -7179,30 +6818,6 @@
    "novo": false
   },
   {
-   "id": "c77daa63bf3e426c",
-   "orgao": "Prefeitura de Ipumirim",
-   "titulo": "Prefeitura de Ipumirim - SC divulga retificação de concurso público com salários de até R$ 6.990,04",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-6990",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 6990.04,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": false
-  },
-  {
    "id": "73cde9255f1f6d77",
    "orgao": "Prefeitura de Itajaí",
    "titulo": "Prefeitura de Itajaí - SC abre processo seletivo para cadastro de reserva na educação",
@@ -7244,9 +6859,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "20/10 a04/11/2026",
+   "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
    "novo": false
   },
@@ -7273,30 +6888,6 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
-   "novo": false
-  },
-  {
-   "id": "d7546d6577984017",
-   "orgao": "Prefeitura de Major Vieira",
-   "titulo": "Prefeitura de Major Vieira - SC abre concurso público com salários de até R$ 8.442,71",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-concurso-publico-com-salarios-de-ate-8442",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 12,
-   "cadastro_reserva": false,
-   "salario": 8442.71,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
   },
   {
@@ -7926,28 +7517,6 @@
    "novo": false
   },
   {
-   "id": "5efc3fecf7d2541b",
-   "orgao": "SMS - Secretaria Municipal de Saúde de Florianópolis",
-   "titulo": "Prefeitura de Florianópolis - SC abre seleção para Médico de Família e Comunidade",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florianopolis-sc-abre-selecao-para-medico-de-familia-e-comunidade",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 21515.22,
-   "salario_por_hora": false,
-   "cargos": "Médico de Família e Comunidade",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": false
-  },
-  {
    "id": "777f80837830419f",
    "orgao": "TJSC - Tribunal de Justiça do Estado de Santa Catarina",
    "titulo": "TJSC abre concurso público para o cargo de Juiz Substituto",
@@ -8134,30 +7703,6 @@
    "novo": false
   },
   {
-   "id": "25a4ba5ff92fbc37",
-   "orgao": "IDTECH - Instituto de Desenvolvimento Tecnológico e Humano",
-   "titulo": "IDTECH - GO abre processo seletivo para o HGG e HEMOGO",
-   "url": "https://www.pciconcursos.com.br/noticias/idtech-go-abre-processo-seletivo-para-o-hgg-e-hemogo",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 6841.28,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-15T23:06:45+00:00",
-   "novo": false
-  },
-  {
    "id": "cca2a82a7a59f231",
    "orgao": "Prefeitura de Alto Paraíso de Goiás",
    "titulo": "Prefeitura de Alto Paraíso de Goiás - GO abre seleção para agentes de saúde e de endemias",
@@ -8296,29 +7841,6 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "09 a30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
-   "id": "5b97300537cbe833",
-   "orgao": "Prefeitura de Rio Verde",
-   "titulo": "Prefeitura de Rio Verde - GO abre concurso para Agente de Trânsito e Vistoriador de Veículos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-verde-go-abre-concurso-para-agente-de-transito-e-vistoriador-de-veiculos",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 8,
-   "cadastro_reserva": false,
-   "salario": 3588.55,
-   "salario_por_hora": false,
-   "cargos": "Agente Municipal de Trânsito, Vistoriador de Veículos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8736,9 +8258,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-20",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "20/10 a09/11/2026",
+   "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-14T18:40:31+00:00",
    "novo": false
   },
@@ -9422,28 +8944,6 @@
    "novo": false
   },
   {
-   "id": "2b74b489c36fc6bc",
-   "orgao": "Prefeitura de Alto Santo",
-   "titulo": "Prefeitura de Alto Santo - CE retifica concurso para cargos de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-retifica-concurso-para-cargos-de-nivel-superior",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 4,
-   "cadastro_reserva": true,
-   "salario": 3000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "19/10/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
-  {
    "id": "f2482edee5cbbcc6",
    "orgao": "Prefeitura de Aracati",
    "titulo": "Prefeitura de Aracati - CE abre concurso público com salários de até R$ 5.431,00",
@@ -9538,31 +9038,6 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "Prorrogado até26/10/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
-   "novo": false
-  },
-  {
-   "id": "4febb19b3fca687a",
-   "orgao": "Prefeitura de Poranga",
-   "titulo": "Prefeitura de Poranga - CE reabre inscrições para concursos públicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 98,
-   "cadastro_reserva": false,
-   "salario": 4750.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-19",
-   "prazo_texto": "Reaberto até19/10/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
   },
   {
