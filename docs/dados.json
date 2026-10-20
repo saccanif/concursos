@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-20T15:08:46+00:00",
+ "gerado_em": "2026-10-20T19:19:49+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 430,
- "novos": 49,
+ "total": 436,
+ "novos": 55,
  "encerrados": 0,
  "concursos": [
   {
@@ -3667,6 +3667,28 @@
    "novo": false
   },
   {
+   "id": "89efdbc2831f6098",
+   "orgao": "Prefeitura de Olímpio Noronha",
+   "titulo": "Prefeitura de Olímpio Noronha - MG abre processo seletivo para profissionais de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-olimpio-noronha-mg-abre-processo-seletivo-para-profissionais-de-nivel-superior",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 5396.57,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "21/10 a03/11/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
+  },
+  {
    "id": "fb499e4c352c1df6",
    "orgao": "Prefeitura de Paiva",
    "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
@@ -4435,6 +4457,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-01T19:35:23+00:00",
    "novo": false
+  },
+  {
+   "id": "c971ddfd4ccc78ef",
+   "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+   "titulo": "MGS - ES abre processo seletivo com salários de até R$ 4.508,11",
+   "url": "https://www.pciconcursos.com.br/noticias/mgs-es-abre-processo-seletivo-com-salarios-de-ate-4508",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 4508.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-21",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "21/10 a09/11/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
   },
   {
    "id": "9d3bb6b33a74fe82",
@@ -7748,6 +7793,28 @@
    "novo": false
   },
   {
+   "id": "c737dc5358399002",
+   "orgao": "ABDI - Agência Brasileira de Desenvolvimento Industrial",
+   "titulo": "ABDI - DF: Processo seletivo abre vagas para analistas de produtividade e inovação",
+   "url": "https://www.pciconcursos.com.br/noticias/abdi-df-processo-seletivo-abre-vagas-para-analistas-de-produtividade-e-inovacao",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 16034.7,
+   "salario_por_hora": false,
+   "cargos": "Analista de Produtividade e Inovação",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
+  },
+  {
    "id": "2c10eda3f2d0ea3e",
    "orgao": "HSL - Hospital Santa Lúcia",
    "titulo": "Hospital Santa Lúcia abre vagas para residência médica em diversas especialidades",
@@ -8941,6 +9008,28 @@
    "novo": false
   },
   {
+   "id": "3e1bc2d6770e1701",
+   "orgao": "CISUDOESTE - Consórcio Intermunicipal do Sudoeste da Bahia",
+   "titulo": "CISUDOESTE - BA abre seleção para técnicos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/cisudoeste-ba-abre-selecao-para-tecnicos-de-nivel-superior",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4500.0,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Nível Superior",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
+  },
+  {
    "id": "05f4487d053a036c",
    "orgao": "Comando do 2º Distrito Naval da Marinha do Brasil",
    "titulo": "Marinha do Brasil - 2º Distrito Naval abre seleção para oficiais temporários RM2 na Bahia",
@@ -9414,6 +9503,31 @@
    "novo": false
   },
   {
+   "id": "9464277f9cdf3f98",
+   "orgao": "Prefeitura de Conceição",
+   "titulo": "Prefeitura de Conceição - PB reabre inscrições para concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 129,
+   "cadastro_reserva": false,
+   "salario": 7000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "Reaberto até08/11/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
+  },
+  {
    "id": "2f5a63bfbdc07616",
    "orgao": "Prefeitura de Itapororoca",
    "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
@@ -9744,6 +9858,31 @@
    "prazo_texto": "14/11/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
    "novo": false
+  },
+  {
+   "id": "eae105e346bb0428",
+   "orgao": "Prefeitura de Monsenhor Gil",
+   "titulo": "Prefeitura de Monsenhor Gil - PI abre concurso público com salários de até R$ 8.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monsenhor-gil-pi-abre-concurso-publico-com-salarios-de-ate-8000",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 101,
+   "cadastro_reserva": false,
+   "salario": 8000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-20T19:19:49+00:00",
+   "novo": true
   },
   {
    "id": "a9d5310948319b45",
