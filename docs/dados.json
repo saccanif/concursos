@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-20T19:19:49+00:00",
+ "gerado_em": "2026-10-20T22:23:00+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 436,
- "novos": 55,
+ "total": 445,
+ "novos": 64,
  "encerrados": 0,
  "concursos": [
   {
@@ -1695,6 +1695,28 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "6a12f19acb7e8ac0",
+   "orgao": "Prefeitura de Mirassol",
+   "titulo": "Prefeitura de Mirassol - SP abre processo seletivo para Agente de Suporte ao Atendimento da Criança",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirassol-sp-abre-processo-seletivo-para-agente-de-suporte-ao-atendimento-da-crianca",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 2073.62,
+   "salario_por_hora": false,
+   "cargos": "Agente de Suporte ao Atendimento da Criança",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "03 a06/11/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
   },
   {
    "id": "80f7f0cabc2b8a38",
@@ -3997,6 +4019,31 @@
    "novo": false
   },
   {
+   "id": "01fbd099e8f46e22",
+   "orgao": "Prefeitura de Santana dos Montes",
+   "titulo": "Prefeitura de Santana dos Montes - MG abre concurso público com salários de até R$ 20.418,44",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-dos-montes-mg-abre-concurso-publico-com-salarios-de-ate-20418",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 43,
+   "cadastro_reserva": false,
+   "salario": 20418.44,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-23",
+   "inscricoes_ate": "2027-01-21",
+   "prazo_texto": "23/12/2026 a21/01/2027",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
+  },
+  {
    "id": "ffa5f5c59728fccc",
    "orgao": "Prefeitura de São João del-Rei",
    "titulo": "Prefeitura de São João del-Rei - MG abre concurso público com salários de até R$ 15.164,56",
@@ -4369,6 +4416,28 @@
    "novo": false
   },
   {
+   "id": "169699792af7e362",
+   "orgao": "SEMASA - Serviço Municipal de Saneamento Básico e Infraestrutura de Carangola",
+   "titulo": "SEMASA de Carangola - MG abre processo seletivo para o cargo de Pedreiro",
+   "url": "https://www.pciconcursos.com.br/noticias/semasa-de-carangola-mg-abre-processo-seletivo-para-o-cargo-de-pedreiro",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1684.8,
+   "salario_por_hora": false,
+   "cargos": "Pedreiro",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "26 a28/10/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
+  },
+  {
    "id": "8f1dfe5443f32e50",
    "orgao": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
    "titulo": "Banestes e Banestes Seguros - ES abrem concursos para cadastro de reserva",
@@ -4503,6 +4572,31 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
+   "novo": true
+  },
+  {
+   "id": "26c34266c7ba5f39",
+   "orgao": "Prefeitura de Dores do Rio Preto",
+   "titulo": "Prefeitura de Dores do Rio Preto - ES abre seleção com salários de até R$ 17.087,37",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dores-do-rio-preto-es-abre-selecao-com-salarios-de-ate-17087",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 176,
+   "cadastro_reserva": false,
+   "salario": 17087.37,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "03 a10/11/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
    "novo": true
   },
   {
@@ -5581,6 +5675,29 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": false
+  },
+  {
+   "id": "5f9e2a29cbe9cf3a",
+   "orgao": "Prefeitura de Guaporé",
+   "titulo": "Prefeitura de Guaporé - RS abre concurso público para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guapore-rs-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3404.76,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "19/11/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
   },
   {
    "id": "d4b39c4c4526df7f",
@@ -7979,6 +8096,30 @@
    "novo": false
   },
   {
+   "id": "8caa75adf9b94022",
+   "orgao": "Fundo Municipal de Educação de Piracanjuba",
+   "titulo": "Prefeitura de Piracanjuba - GO abre processo seletivo para o Fundo Municipal de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piracanjuba-go-abre-processo-seletivo-para-o-fundo-municipal-de-educacao",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 35,
+   "cadastro_reserva": false,
+   "salario": 2431.5,
+   "salario_por_hora": false,
+   "cargos": "Motorista de Veículos Pesados, Profissional de Apoio Escolar, Nutricionista",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
+  },
+  {
    "id": "cca2a82a7a59f231",
    "orgao": "Prefeitura de Alto Paraíso de Goiás",
    "titulo": "Prefeitura de Alto Paraíso de Goiás - GO abre seleção para agentes de saúde e de endemias",
@@ -8280,6 +8421,28 @@
    "prazo_texto": "26 a29/10/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
+  },
+  {
+   "id": "41063f6ba9c652fb",
+   "orgao": "Prefeitura de Naviraí",
+   "titulo": "Prefeitura de Naviraí - MS abre processo seletivo para pedreiros",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-navirai-ms-abre-processo-seletivo-para-pedreiros",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 1961.68,
+   "salario_por_hora": false,
+   "cargos": "Pedreiro",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
   },
   {
    "id": "426de0b96c1c825b",
@@ -8771,6 +8934,28 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-02T12:43:55+00:00",
    "novo": false
+  },
+  {
+   "id": "b4fdfcca9fb59929",
+   "orgao": "SEAD/AP - Secretaria de Estado da Administração",
+   "titulo": "SEAD - AP prorroga inscrições de concurso para Delegado e Oficial Investigador de Polícia Civil",
+   "url": "https://www.pciconcursos.com.br/noticias/sead-ap-prorroga-inscricoes-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
+   "uf": "AP",
+   "uf_nome": "Amapá",
+   "vagas": 396,
+   "cadastro_reserva": false,
+   "salario": 31439.06,
+   "salario_por_hora": false,
+   "cargos": "Delegado de Polícia Civil, Oficial Investigador de Polícia Civil",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "Prorrogado até23/10/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
   },
   {
    "id": "cc0e965e25b8723a",
@@ -9833,6 +10018,31 @@
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-10T00:56:29+00:00",
    "novo": false
+  },
+  {
+   "id": "24c10dae49a0dfe3",
+   "orgao": "Prefeitura de Canto do Buriti",
+   "titulo": "Prefeitura de Canto do Buriti - PI abre concurso público com salários de até R$ 16.210,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-abre-concurso-publico-com-salarios-de-ate-16210",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 257,
+   "cadastro_reserva": false,
+   "salario": 16210.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "27/10 a26/11/2026",
+   "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
   },
   {
    "id": "3662eb09c81f3e9a",
