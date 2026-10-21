@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-21T11:57:45+00:00",
+ "gerado_em": "2026-10-21T17:17:27+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 417,
- "novos": 31,
- "encerrados": 1,
+ "total": 422,
+ "novos": 36,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -729,6 +729,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": false
+  },
+  {
+   "id": "b525309c277605d7",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Analista de Pesquisa Clínica Júnior no Hemocentro",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-analista-de-pesquisa-clinica-junior-no-hemocentro",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4526.93,
+   "salario_por_hora": false,
+   "cargos": "Analista de Pesquisa Clínica Júnior",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
   },
   {
    "id": "d57e2f72ab675c5f",
@@ -6245,6 +6267,28 @@
    "novo": false
   },
   {
+   "id": "49687fa2c151346d",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC anuncia vaga para Médico Infectologista no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-medico-infectologista-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5076.6,
+   "salario_por_hora": false,
+   "cargos": "Médico II",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
+  },
+  {
    "id": "7696c53cce198b35",
    "orgao": "FCC - Fundação Catarinense de Cultura",
    "titulo": "Fundação Catarinense de Cultura - SC abre processo seletivo para Analista Contador",
@@ -6832,6 +6876,31 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
    "novo": false
+  },
+  {
+   "id": "b258cdb8fcb636a5",
+   "orgao": "Prefeitura de Lages - Secretaria da Saúde",
+   "titulo": "Prefeitura de Lages - SC abre seleção para diversos cargos na Secretaria da Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 5883.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
   },
   {
    "id": "c71f547c0ddb21a6",
@@ -8255,6 +8324,31 @@
    "novo": false
   },
   {
+   "id": "6cd8652585920ca9",
+   "orgao": "Prefeitura de Manaquiri",
+   "titulo": "Prefeitura de Manaquiri - AM abre processo seletivo com vagas para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-manaquiri-am-abre-processo-seletivo-com-vagas-para-a-educacao",
+   "uf": "AM",
+   "uf_nome": "Amazonas",
+   "vagas": 168,
+   "cadastro_reserva": false,
+   "salario": 4040.6,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "30/10 a04/11/2026",
+   "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
+  },
+  {
    "id": "e60d32b77f0fef99",
    "orgao": "TCE - Tribunal de Contas do Estado do Acre",
    "titulo": "TCE - AC reabre concurso para Auditor - Conselheiro Substituto",
@@ -9379,6 +9473,30 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "27/10 a26/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
+   "novo": true
+  },
+  {
+   "id": "924236bc510edd97",
+   "orgao": "Prefeitura de Cristalândia do Piauí",
+   "titulo": "Prefeitura de Cristalândia do Piauí - PI abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cristalandia-do-piaui-pi-abre-concurso-publico-para-diversos-cargos",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 50,
+   "cadastro_reserva": false,
+   "salario": 4750.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "26/10 a23/11/2026",
+   "visto_em": "2026-10-21T17:17:27+00:00",
    "novo": true
   },
   {
