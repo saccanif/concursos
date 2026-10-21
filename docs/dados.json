@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-21T06:05:45+00:00",
+ "gerado_em": "2026-10-21T11:57:45+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 415,
- "novos": 54,
- "encerrados": 31,
+ "total": 417,
+ "novos": 31,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -274,7 +274,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2ed675025297d026",
@@ -728,7 +728,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d57e2f72ab675c5f",
@@ -1390,7 +1390,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "65f3144b85f18a80",
@@ -1761,6 +1761,31 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-16T23:38:51+00:00",
    "novo": false
+  },
+  {
+   "id": "4394b654ab3042a3",
+   "orgao": "Prefeitura de Paulo de Faria",
+   "titulo": "Prefeitura de Paulo de Faria - SP abre concurso público com salários de até R$ 8.632,29",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulo-de-faria-sp-abre-concurso-publico-com-salarios-de-ate-8632",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 34,
+   "cadastro_reserva": false,
+   "salario": 8632.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "22/10 a05/11/2026",
+   "visto_em": "2026-10-21T11:57:45+00:00",
+   "novo": true
   },
   {
    "id": "fb9c40f7b4eacc76",
@@ -2203,7 +2228,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4ea0c5d6b0018fa2",
@@ -2247,7 +2272,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c85b2ed5ef8dd268",
@@ -2291,7 +2316,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "178a9c1863f25b2a",
@@ -2479,6 +2504,29 @@
    "prazo_texto": "14/12/2026 a14/01/2027",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "54a159c85b22e8e6",
+   "orgao": "Câmara de Curral de Dentro",
+   "titulo": "Câmara de Curral de Dentro - MG abre concurso público com cinco vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-curral-de-dentro-mg-abre-concurso-publico-com-cinco-vagas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 2500.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Administrativo, Motorista, Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-31",
+   "inscricoes_ate": "2027-01-30",
+   "prazo_texto": "31/12/2026 a30/01/2027",
+   "visto_em": "2026-10-21T11:57:45+00:00",
+   "novo": true
   },
   {
    "id": "b76d3021ec912165",
@@ -3007,7 +3055,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "09 a12/11/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7cef90725f294e15",
@@ -3239,7 +3287,7 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ef74c3523be0b393",
@@ -3262,7 +3310,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b0cad351e21cbba",
@@ -3330,7 +3378,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9141208427a32a2d",
@@ -3800,7 +3848,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d69a3c88566c04b9",
@@ -4263,7 +4311,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "26c34266c7ba5f39",
@@ -4732,7 +4780,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/10 a23/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3aca63a999018d58",
@@ -4780,7 +4828,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "704a15e871be4628",
@@ -5127,7 +5175,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0ee3aedb305277cb",
@@ -5269,7 +5317,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "acd213a92197d688",
@@ -5789,7 +5837,7 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f86b1a6755cc105e",
@@ -5970,7 +6018,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e2d38b0e74cc9a47",
@@ -6150,7 +6198,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "127d1127827548de",
@@ -6172,7 +6220,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "efa39d849d290fa7",
@@ -6194,7 +6242,7 @@
    "inscricoes_ate": "2026-10-21",
    "prazo_texto": "21/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7696c53cce198b35",
@@ -6263,7 +6311,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3d0264c15d30c210",
@@ -6332,7 +6380,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "26/10 a16/11/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f51a630a18ec3f19",
@@ -6907,7 +6955,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "197c2a6aa61e69a2",
@@ -7524,7 +7572,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f27510719da731f9",
@@ -7546,7 +7594,7 @@
    "inscricoes_ate": "2026-10-22",
    "prazo_texto": "22/10/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e2b077a609e5dd2a",
@@ -8114,10 +8162,10 @@
    "novo": false
   },
   {
-   "id": "934a69188168d756",
+   "id": "ef7408a6c4d84352",
    "orgao": "Prefeitura de Várzea Grande - Secretaria Municipal de Educação, Cultura, Esporte e Lazer (SMECEL)",
-   "titulo": "Prefeitura de Várzea Grande - MT abre processo seletivo com vagas para a educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varzea-grande-mt-abre-processo-seletivo-com-vagas-para-a-educacao",
+   "titulo": "Prefeitura de Várzea Grande - MT retifica processo seletivo com vagas para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varzea-grande-mt-retifica-processo-seletivo-com-vagas-para-a-educacao",
    "uf": "MT",
    "uf_nome": "Mato Grosso",
    "vagas": 5156,
@@ -8133,8 +8181,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
-   "visto_em": "2026-10-14T18:40:31+00:00",
-   "novo": false
+   "visto_em": "2026-10-21T11:57:45+00:00",
+   "novo": true
   },
   {
    "id": "54e2787794e36141",
