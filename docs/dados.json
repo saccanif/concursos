@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-21T17:17:27+00:00",
+ "gerado_em": "2026-10-21T20:40:06+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 422,
- "novos": 36,
+ "total": 432,
+ "novos": 46,
  "encerrados": 0,
  "concursos": [
   {
@@ -550,6 +550,29 @@
    "novo": false
   },
   {
+   "id": "100d6a7c1a1f037c",
+   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+   "titulo": "FAMESP divulga 10 processos seletivos em Marília - SP",
+   "url": "https://www.pciconcursos.com.br/noticias/famesp-divulga-10-processos-seletivos-em-marilia-sp",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 6077.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "27/10 a05/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
+  },
+  {
    "id": "2b8200e759894822",
    "orgao": "FJPO - Fundação José Pedro de Oliveira",
    "titulo": "Fundação José Pedro de Oliveira - SP abre concurso público com salários de até R$ 8.991,96",
@@ -750,6 +773,28 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
+  },
+  {
+   "id": "3940e96856ee5d62",
+   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "FUNCAMP - SP abre processo seletivo para Instalador Hidráulico no Hospital Estadual Sumaré",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-instalador-hidraulico-no-hospital-estadual-sumare",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2543.79,
+   "salario_por_hora": false,
+   "cargos": "Instalador hidráulico",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": true
   },
   {
@@ -1043,6 +1088,31 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-25T13:53:01+00:00",
    "novo": false
+  },
+  {
+   "id": "a435aacc5c636888",
+   "orgao": "Prefeitura de Birigui",
+   "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-birigui-sp-abre-concurso-publico-com-salarios-de-ate-13881",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 171,
+   "cadastro_reserva": false,
+   "salario": 13881.85,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "22/10 a10/12/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "2608901cfcc4258a",
@@ -2526,6 +2596,29 @@
    "prazo_texto": "14/12/2026 a14/01/2027",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "f751c8fa8ae7f181",
+   "orgao": "Câmara de Caxambu",
+   "titulo": "Câmara de Caxambu - MG abre concurso público para cinco vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-caxambu-mg-abre-concurso-publico-para-cinco-vagas-imediatas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 3457.85,
+   "salario_por_hora": false,
+   "cargos": "Agente Legislativo, Analista de Comunicação, Analista Contábil",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-28",
+   "inscricoes_ate": "2027-01-28",
+   "prazo_texto": "28/12/2026 a28/01/2027",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "54a159c85b22e8e6",
@@ -4851,6 +4944,30 @@
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b0b030fe2708151f",
+   "orgao": "Prefeitura de Quedas do Iguaçu",
+   "titulo": "Prefeitura de Quedas do Iguaçu - PR abre concurso público com salários de até R$ 11.998,88",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-11998",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 140,
+   "cadastro_reserva": false,
+   "salario": 11998.88,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-24",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "24/10 a25/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "704a15e871be4628",
@@ -7971,6 +8088,31 @@
    "novo": false
   },
   {
+   "id": "66d7754c1677c534",
+   "orgao": "Prefeitura de Aral Moreira",
+   "titulo": "Prefeitura de Aral Moreira - MS abre concurso público para diversos níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aral-moreira-ms-abre-concurso-publico-para-diversos-niveis-de-escolaridade",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 174,
+   "cadastro_reserva": false,
+   "salario": 4318.18,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "22/10 a04/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
+  },
+  {
    "id": "0d779e3bf24c3caa",
    "orgao": "Prefeitura de Guia Lopes da Laguna",
    "titulo": "Prefeitura de Guia Lopes da Laguna - MS abre seleções para Motorista, Gari e Auxiliar de Serviços Diversos",
@@ -8180,6 +8322,30 @@
    "prazo_texto": "22 a30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
+  },
+  {
+   "id": "3c07704ac9d33b89",
+   "orgao": "Prefeitura de Nobres",
+   "titulo": "Prefeitura de Nobres - MT abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nobres-mt-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 6397.65,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "c64d617fc8004e65",
@@ -8530,6 +8696,28 @@
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "79def3be1281b151",
+   "orgao": "Prefeitura de Novo Repartimento",
+   "titulo": "Prefeitura de Novo Repartimento - PA abre seleção para técnico em enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-repartimento-pa-abre-selecao-para-tecnico-em-enfermagem",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2494.94,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "22 a26/10/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "8200e5a66ac0819b",
@@ -9241,6 +9429,31 @@
    "novo": false
   },
   {
+   "id": "d5200d64c397079c",
+   "orgao": "Prefeitura de Serra Grande",
+   "titulo": "Prefeitura de Serra Grande - PB abre concurso público com vagas para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-abre-concurso-publico-com-vagas-para-diversos-cargos",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 41,
+   "cadastro_reserva": false,
+   "salario": 3651.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/10 a29/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
+  },
+  {
    "id": "fa60fe40c044d237",
    "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
    "titulo": "TJPB abre concurso público para analistas judiciários",
@@ -9402,6 +9615,29 @@
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
    "novo": false
+  },
+  {
+   "id": "3fd34de5a1a5da9d",
+   "orgao": "Câmara de Dom Inocêncio",
+   "titulo": "Câmara de Dom Inocêncio - PI abre concurso público com salários de até R$ 6.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 6000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-22",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "22/10 a13/11/2026",
+   "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
   },
   {
    "id": "79a2f907cfed0d49",
