@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-22T04:56:47+00:00",
+ "gerado_em": "2026-10-22T10:16:11+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 422,
- "novos": 45,
- "encerrados": 20,
+ "novos": 39,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -3565,7 +3565,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fb499e4c352c1df6",
@@ -4286,7 +4286,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9d3bb6b33a74fe82",
@@ -7416,7 +7416,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -8609,7 +8609,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "05f4487d053a036c",
@@ -9081,7 +9081,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "Reaberto até08/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2f5a63bfbdc07616",
@@ -9534,7 +9534,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a9d5310948319b45",
