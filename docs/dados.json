@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-22T10:16:11+00:00",
+ "gerado_em": "2026-10-22T15:19:58+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 422,
- "novos": 39,
+ "total": 433,
+ "novos": 41,
  "encerrados": 0,
  "concursos": [
   {
@@ -795,6 +795,30 @@
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
+  },
+  {
+   "id": "15a23d992a1a7ceb",
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos públicos para Técnico de Enfermagem e Biologista",
+   "url": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-publicos-para-tecnico-de-enfermagem-e-biologista",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2978.36,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem, Agente Técnico de Assistência à Saúde",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "26/10 a13/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
   },
   {
    "id": "33275861faad165f",
@@ -1715,7 +1739,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "03 a06/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "80f7f0cabc2b8a38",
@@ -3055,6 +3079,29 @@
    "novo": false
   },
   {
+   "id": "46fcafd381818b3c",
+   "orgao": "Prefeitura de Andradas",
+   "titulo": "Prefeitura de Andradas - MG abre processo seletivo para Motorista e Trabalhador Braçal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradas-mg-abre-processo-seletivo-para-motorista-e-trabalhador-bracal",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2654.92,
+   "salario_por_hora": false,
+   "cargos": "Motorista, Trabalhador Braçal",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "23/10 a05/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
    "id": "52fc2af5949d5698",
    "orgao": "Prefeitura de Antônio Prado de Minas",
    "titulo": "Prefeitura de Antônio Prado de Minas - MG abre concurso público para diversos cargos",
@@ -3568,6 +3615,30 @@
    "novo": false
   },
   {
+   "id": "a7ea80b36f20c08c",
+   "orgao": "Prefeitura de Onça de Pitangui",
+   "titulo": "Prefeitura de Onça de Pitangui - MG abre processo seletivo com salários de até R$ 14.829,31",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onca-de-pitangui-mg-abre-processo-seletivo-com-salarios-de-ate-14829",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 14829.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "23/10 a10/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
    "id": "fb499e4c352c1df6",
    "orgao": "Prefeitura de Paiva",
    "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
@@ -3826,7 +3897,7 @@
    "inscricoes_ate": "2027-01-21",
    "prazo_texto": "23/12/2026 a21/01/2027",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ffa5f5c59728fccc",
@@ -4195,7 +4266,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "26 a28/10/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8f1dfe5443f32e50",
@@ -4335,7 +4406,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "03 a10/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "03c5bd56cb2da91d",
@@ -5200,6 +5271,28 @@
    "novo": false
   },
   {
+   "id": "ce34f897e3d02e76",
+   "orgao": "Prefeitura de Canela",
+   "titulo": "Prefeitura de Canela - RS abre seleção para assistentes sociais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-selecao-para-assistentes-sociais",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 7988.6,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "28/10/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
    "id": "ac0efe6632fdcc3c",
    "orgao": "Prefeitura de Capão do Leão",
    "titulo": "Prefeitura de Capão do Leão - RS abre processo seletivo para Fonoaudiólogo",
@@ -5364,7 +5457,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bee96f2f482fffc7",
@@ -5818,6 +5911,28 @@
    "novo": false
   },
   {
+   "id": "7d4440a4571305be",
+   "orgao": "TRT4 - Tribunal Regional do Trabalho da 4ª Região",
+   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 16040.88,
+   "salario_por_hora": false,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "26/10 a25/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
    "id": "5bbb2b806f704651",
    "orgao": "UFSM - Universidade Federal de Santa Maria",
    "titulo": "FAURGS e UFSM - RS abrem processo seletivo para o cargo de Químico",
@@ -6174,6 +6289,72 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
+   "novo": true
+  },
+  {
+   "id": "b431dbfd8de3bf12",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre processo seletivo para médicos reguladores das urgências no SAMU",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medicos-reguladores-das-urgencias-no-samu",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 138.9,
+   "salario_por_hora": false,
+   "cargos": "Médico Regulador das Urgências",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-22",
+   "prazo_texto": "22/10/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "d96f3be68c497309",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC anuncia vaga para Médico do Trabalho em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-medico-do-trabalho-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 10516.15,
+   "salario_por_hora": false,
+   "cargos": "Médico do Trabalho",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
+   "id": "42fcc7d12addf18b",
+   "orgao": "FAHECE - HEMOSC",
+   "titulo": "FAHECE - SC anuncia processo seletivo para Coordenador de Suprimentos I no HEMOSC de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-coordenador-de-suprimentos-i-no-hemosc-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 8895.51,
+   "salario_por_hora": false,
+   "cargos": "Coordenador de Suprimentos I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-23",
+   "prazo_texto": "23/10/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": true
   },
   {
@@ -6792,6 +6973,31 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": false
+  },
+  {
+   "id": "0d0b1c6292206be2",
+   "orgao": "Prefeitura de Luiz Alves",
+   "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luiz-alves-sc-abre-concurso-publico-com-salarios-de-ate-8889",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 63,
+   "cadastro_reserva": false,
+   "salario": 8889.3,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "27/10 a23/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
   },
   {
    "id": "c03c921e83fa96ad",
@@ -7582,7 +7788,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca2a82a7a59f231",
@@ -7858,7 +8064,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "426de0b96c1c825b",
@@ -7955,6 +8161,28 @@
    "novo": false
   },
   {
+   "id": "2c3acebad8bbcad4",
+   "orgao": "Prefeitura de Carlinda",
+   "titulo": "Prefeitura de Carlinda - MT abre processo seletivo para professores",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlinda-mt-abre-processo-seletivo-para-professores",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 26,
+   "cadastro_reserva": false,
+   "salario": 4413.91,
+   "salario_por_hora": false,
+   "cargos": "Professor Substituto, Pedagogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-01",
+   "prazo_texto": "23/11 a01/12/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
+   "novo": true
+  },
+  {
    "id": "c77e09f0156700d9",
    "orgao": "Prefeitura de Colniza",
    "titulo": "Prefeitura de Colniza - MT abre processo seletivo para cadastro de reserva em várias áreas",
@@ -8049,6 +8277,30 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
+   "novo": true
+  },
+  {
+   "id": "6003af8430e45f34",
+   "orgao": "Prefeitura de Nova Xavantina",
+   "titulo": "Prefeitura de Nova Xavantina - MT abre processo seletivo com vagas na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-abre-processo-seletivo-com-vagas-na-educacao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 137,
+   "cadastro_reserva": false,
+   "salario": 5786.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-28",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "28/10 a13/11/2026",
+   "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": true
   },
   {
@@ -8352,7 +8604,7 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "Prorrogado até23/10/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cc0e965e25b8723a",
@@ -9460,7 +9712,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "27/10 a26/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "924236bc510edd97",
