@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-22T15:19:58+00:00",
+ "gerado_em": "2026-10-22T19:16:17+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 433,
- "novos": 41,
+ "total": 440,
+ "novos": 47,
  "encerrados": 0,
  "concursos": [
   {
@@ -3029,7 +3029,7 @@
    "inscricoes_ate": "2026-10-27",
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-21T06:05:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ec9470c0431aaf0a",
@@ -3850,6 +3850,31 @@
    "novo": false
   },
   {
+   "id": "8a509ecefdcdbae8",
+   "orgao": "Prefeitura de Santa Rita de Jacutinga",
+   "titulo": "Prefeitura de Santa Rita de Jacutinga - MG abre concurso público com salários de até R$ 10.207,61",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-de-jacutinga-mg-abre-concurso-publico-com-salarios-de-ate-10207",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 73,
+   "cadastro_reserva": false,
+   "salario": 10207.61,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-22",
+   "inscricoes_ate": "2027-01-20",
+   "prazo_texto": "22/12/2026 a20/01/2027",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
+  },
+  {
    "id": "0f78959eec777ee6",
    "orgao": "Prefeitura de Santana de Pirapama",
    "titulo": "Prefeitura de Santana de Pirapama - MG abre concurso com salários de até R$ 6.221,41",
@@ -4502,6 +4527,28 @@
    "novo": false
   },
   {
+   "id": "886016a7591ac972",
+   "orgao": "Prefeitura de Santa Maria de Jetibá",
+   "titulo": "Prefeitura de Santa Maria de Jetibá - ES prorroga inscrições de concurso público com vagas para guardas municipais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-prorroga-inscricoes-de-concurso-publico-com-vagas-para-guardas-municipais",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 30,
+   "cadastro_reserva": true,
+   "salario": 3763.26,
+   "salario_por_hora": false,
+   "cargos": "Guarda Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "Prorrogado até29/10/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
+  },
+  {
    "id": "40d8889358525f8d",
    "orgao": "Prefeitura de Santa Maria de Jetibá",
    "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre processo seletivo para formação de cadastro de reserva",
@@ -4571,6 +4618,29 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "706117d50072aa5d",
+   "orgao": "Câmara de Iporã",
+   "titulo": "Câmara de Iporã - PR abre concurso público para Assistente Administrativo e Zelador",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ipora-pr-abre-concurso-publico-para-assistente-administrativo-e-zelador",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3252.03,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo, Zelador",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-10-23",
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "23/10 a08/11/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
   },
   {
    "id": "aecd01f678969995",
@@ -5458,6 +5528,28 @@
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
    "novo": false
+  },
+  {
+   "id": "5ecabd5784c23c24",
+   "orgao": "Prefeitura de Igrejinha",
+   "titulo": "Prefeitura de Igrejinha - RS abre processo seletivo para Educador Multimeios",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-educador-multimeios",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5366.76,
+   "salario_por_hora": false,
+   "cargos": "Educador Multimeios",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
   },
   {
    "id": "bee96f2f482fffc7",
@@ -6545,6 +6637,31 @@
    "novo": false
   },
   {
+   "id": "c127a91977056a1d",
+   "orgao": "Prefeitura de Bom Jesus",
+   "titulo": "Prefeitura de Bom Jesus - SC abre processo seletivo com salários de até R$ 4.695,35",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-sc-abre-processo-seletivo-com-salarios-de-ate-4695",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4695.35,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "03/11/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
+  },
+  {
    "id": "a82e54387aa54405",
    "orgao": "Prefeitura de Caçador",
    "titulo": "Prefeitura de Caçador - SC abre seleção para cadastro de reserva na educação",
@@ -7534,6 +7651,29 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "95665f2e7f5f78ef",
+   "orgao": "SAMASA - Serviço Autônomo Municipal de Água e Saneamento Ambiental",
+   "titulo": "SAMASA de Três Barras - SC abre concurso público com salários de até R$ 9.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/samasa-de-tres-barras-sc-abre-concurso-publico-com-salarios-de-ate-9500",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 9500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-28",
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "28/10 a26/11/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
   },
   {
    "id": "df6ae33494148f89",
@@ -8652,6 +8792,28 @@
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "97af49bfcf4e0be4",
+   "orgao": "Prefeitura de Marituba",
+   "titulo": "Prefeitura de Marituba - PA reabre inscrições de concurso público para Guarda Civil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marituba-pa-reabre-inscricoes-de-concurso-publico-para-guarda-civil",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 1800.0,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "Reaberto até08/12/2026",
+   "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
   },
   {
    "id": "79def3be1281b151",
