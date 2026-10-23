@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-23T18:24:51+00:00",
+ "gerado_em": "2026-10-23T22:15:36+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 441,
- "novos": 39,
- "encerrados": 2,
+ "total": 467,
+ "novos": 65,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -411,6 +411,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-09T20:57:49+00:00",
    "novo": false
+  },
+  {
+   "id": "df4ab87b9bdf8127",
+   "orgao": "CEMMIL - Consórcio Intermunicipal CEMMIL para o Desenvolvimento Sustentável",
+   "titulo": "Consórcio CEMMIL abre processo seletivo para o cargo de Serviços Gerais em Amparo - SP",
+   "url": "https://www.pciconcursos.com.br/noticias/consorcio-cemmil-abre-processo-seletivo-para-o-cargo-de-servicos-gerais-em-amparo-sp",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1880.28,
+   "salario_por_hora": false,
+   "cargos": "Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "26/10 a18/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "f169712e6b068d4b",
@@ -1229,6 +1251,29 @@
    "novo": false
   },
   {
+   "id": "8abf9e5828a5bccc",
+   "orgao": "Prefeitura de Elisiário",
+   "titulo": "Prefeitura de Elisiário - SP abre processo seletivo para profissionais de diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-elisiario-sp-abre-processo-seletivo-para-profissionais-de-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2317.18,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "26/10 a09/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "f59cba11600869f3",
    "orgao": "Prefeitura de Embaúba",
    "titulo": "Prefeitura de Embaúba - SP abre concurso público com salários de até R$ 5.600,00",
@@ -1766,6 +1811,31 @@
    "novo": false
   },
   {
+   "id": "19e5c657c776e547",
+   "orgao": "Prefeitura de Monteiro Lobato",
+   "titulo": "Prefeitura de Monteiro Lobato - SP abre concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monteiro-lobato-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 64,
+   "cadastro_reserva": false,
+   "salario": 7408.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "ceb2d9c3760f837e",
    "orgao": "Prefeitura de Morro Agudo",
    "titulo": "Prefeitura de Morro Agudo - SP abre concurso com salários de até R$ 5.815,68",
@@ -1857,6 +1927,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-16T23:38:51+00:00",
    "novo": false
+  },
+  {
+   "id": "1d43d489893952fb",
+   "orgao": "Prefeitura de Palmital",
+   "titulo": "Prefeitura de Palmital - SP abre processo seletivo para monitores",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmital-sp-abre-processo-seletivo-para-monitores",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 25,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Monitor de Creche, Monitor Escolar, Monitor de Transporte",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "04/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "4394b654ab3042a3",
@@ -2370,6 +2462,28 @@
    "novo": false
   },
   {
+   "id": "35285770131fa8e5",
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre processo seletivo para vagas de enfermeiros na área de oncologia",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-vagas-de-enfermeiros-na-area-de-oncologia",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5239.4,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "2b6426b5e6816d4b",
    "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
    "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
@@ -2828,6 +2942,30 @@
    "novo": false
   },
   {
+   "id": "c3429db22a1896cd",
+   "orgao": "Câmara de Santa Rita do Sapucaí",
+   "titulo": "Câmara de Santa Rita do Sapucaí - MG abre concurso público para diversos níveis",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-rita-do-sapucai-mg-abre-concurso-publico-para-diversos-niveis",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 4842.55,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-28",
+   "inscricoes_ate": "2027-01-26",
+   "prazo_texto": "28/12/2026 a26/01/2027",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "66c1f15a2c0d9b03",
    "orgao": "Câmara de Serranos",
    "titulo": "Câmara de Serranos - MG abre vagas para Agente Administrativo, Auxiliar Técnico Legislativo e Contador",
@@ -2962,6 +3100,29 @@
    "prazo_texto": "24/10 a23/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "026e4f75153e9867",
+   "orgao": "CIMMESF - Consórcio Intermunicipal Multifinalitário do Médio São Francisco",
+   "titulo": "CIMMESF - MG abre processo seletivo com salários de até R$ 4.236,00",
+   "url": "https://www.pciconcursos.com.br/noticias/cimmesf-mg-abre-processo-seletivo-com-salarios-de-ate-4236",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4236.0,
+   "salario_por_hora": false,
+   "cargos": "Inspetor de Produtos de Origem Animal, Assistente Administrativo de Inspeção Sanitária",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "40727087927fac34",
@@ -3618,6 +3779,29 @@
    "novo": true
   },
   {
+   "id": "966cfac7c177a9c3",
+   "orgao": "Prefeitura de Pains",
+   "titulo": "Prefeitura de Pains - MG divulga editais de concurso público e processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pains-mg-divulga-editais-de-concurso-publico-e-processo-seletivo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 3847.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2027-01-06",
+   "inscricoes_ate": "2027-02-04",
+   "prazo_texto": "06/01 a04/02/2027",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "fb499e4c352c1df6",
    "orgao": "Prefeitura de Paiva",
    "titulo": "Prefeitura de Paiva - MG abre concurso público com salários de até R$ 11.715,84",
@@ -4066,6 +4250,28 @@
    "novo": false
   },
   {
+   "id": "727489b65dfeef25",
+   "orgao": "Prefeitura de São Tiago",
+   "titulo": "Prefeitura de São Tiago - MG abre seleção para Educador Físico e Fonoaudiólogo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tiago-mg-abre-selecao-para-educador-fisico-e-fonoaudiologo",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3850.22,
+   "salario_por_hora": false,
+   "cargos": "Educador Físico, Fonoaudiólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-04",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "04 a06/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "0c3cac96d715ae8c",
    "orgao": "Prefeitura de São Tomás de Aquino",
    "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo na área da educação",
@@ -4086,6 +4292,30 @@
    "prazo_texto": "09 a19/11/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
    "novo": false
+  },
+  {
+   "id": "3ef2e9e6a886360a",
+   "orgao": "Prefeitura de São Tomás de Aquino",
+   "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo com salários de até R$ 4.978,60",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tomas-de-aquino-mg-abre-processo-seletivo-com-salarios-de-ate-4978",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 4978.6,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2026-12-11",
+   "prazo_texto": "24/11 a11/12/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "22062f86e59ecf36",
@@ -4832,6 +5062,31 @@
    "novo": true
   },
   {
+   "id": "31e07c169d9e4fdf",
+   "orgao": "Prefeitura de Guamiranga",
+   "titulo": "Prefeitura de Guamiranga - PR abre dois novos concursos públicos para diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guamiranga-pr-abre-dois-novos-concursos-publicos-para-diversas-areas",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "30/10 a22/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "581a28fa609a6a24",
    "orgao": "Prefeitura de Ivaí",
    "titulo": "Prefeitura de Ivaí - PR abre processo seletivo com salários de até R$ 4.464,64",
@@ -4926,6 +5181,28 @@
    "prazo_texto": "24/10 a25/11/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": false
+  },
+  {
+   "id": "c499a0a896243126",
+   "orgao": "Prefeitura de Santa Amélia",
+   "titulo": "Prefeitura de Santa Amélia - PR abre processo seletivo para o cargo de Farmacêutico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-amelia-pr-abre-processo-seletivo-para-o-cargo-de-farmaceutico",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5310.43,
+   "salario_por_hora": false,
+   "cargos": "Farmacêutico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "704a15e871be4628",
@@ -5093,6 +5370,28 @@
    "novo": false
   },
   {
+   "id": "0bbda2fee222200a",
+   "orgao": "Câmara de Ijuí",
+   "titulo": "Câmara de Ijuí - RS abre concurso público para auxiliar legislativo",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ijui-rs-abre-concurso-publico-para-auxiliar-legislativo",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3162.91,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar Legislativo",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "19/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "bfe16cce069feec6",
    "orgao": "Câmara de Toropi",
    "titulo": "Câmara de Toropi - RS abre concurso público para Agente de Serviços Complementares",
@@ -5226,6 +5525,30 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "26/10 a10/11/2026",
    "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
+  },
+  {
+   "id": "9031b87f0376f689",
+   "orgao": "Prefeitura de Arroio do Padre",
+   "titulo": "Prefeitura de Arroio do Padre - RS abre seleções para Professor e Técnico de Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-do-padre-rs-abre-selecoes-para-professor-e-tecnico-de-enfermagem",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2565.32,
+   "salario_por_hora": false,
+   "cargos": "Professor I Anos Iniciais, Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "26/10 a03/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
@@ -5574,6 +5897,31 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
+   "novo": true
+  },
+  {
+   "id": "46d08eb926a7629d",
+   "orgao": "Prefeitura de Ijuí",
+   "titulo": "Prefeitura de Ijuí - RS abre concurso público com salários de até R$ 21.312,22",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-abre-concurso-publico-com-salarios-de-ate-21312",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 157,
+   "cadastro_reserva": false,
+   "salario": 21312.22,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "19/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
@@ -6435,6 +6783,50 @@
    "novo": true
   },
   {
+   "id": "9f437cb184daaf67",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para técnico de enfermagem no CEPON em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-no-cepon-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3373.61,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem I",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
+   "id": "92359e5e13bdcb57",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia processo seletivo para rádio operador no SAMU de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-radio-operador-no-samu-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2749.29,
+   "salario_por_hora": false,
+   "cargos": "Rádio Operador(a)",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-25",
+   "prazo_texto": "25/10/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "42fcc7d12addf18b",
    "orgao": "FAHECE - HEMOSC",
    "titulo": "FAHECE - SC anuncia processo seletivo para Coordenador de Suprimentos I no HEMOSC de Florianópolis",
@@ -6477,6 +6869,29 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "7398260483bb0b0c",
+   "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+   "titulo": "FAHECE - SC abre processos seletivos para atuação no HEMOSC em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-atuacao-no-hemosc-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 3066.93,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-26",
+   "prazo_texto": "26/10/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "2cf3b57a9d11c192",
@@ -6641,6 +7056,31 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
+  },
+  {
+   "id": "ec2353dd10a76eec",
+   "orgao": "Prefeitura de Bom Retiro",
+   "titulo": "Prefeitura de Bom Retiro - RS abre concurso público com salários de até R$ 20.138,46",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-rs-abre-concurso-publico-com-salarios-de-ate-20138",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 66,
+   "cadastro_reserva": false,
+   "salario": 20138.46,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
@@ -6998,6 +7438,30 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
+   "novo": true
+  },
+  {
+   "id": "38c1b6c2ff14749a",
+   "orgao": "Prefeitura de Jaraguá do Sul",
+   "titulo": "Prefeitura de Jaraguá do Sul - SC abre processos seletivos com salários de até R$ 15.606,92",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-processos-seletivos-com-salarios-de-ate-15606",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 15606.92,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
@@ -7632,6 +8096,31 @@
    "novo": false
   },
   {
+   "id": "7507c56d60b891d2",
+   "orgao": "Prefeitura e Fundação Cultural de Navegantes",
+   "titulo": "Prefeitura e Fundação Cultural de Navegantes - SC abrem seleções com salários de até R$ 19.199,16",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-navegantes-sc-abrem-selecoes-com-salarios-de-ate-19199",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 19199.16,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "27/10 a25/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "95665f2e7f5f78ef",
    "orgao": "SAMASA - Serviço Autônomo Municipal de Água e Saneamento Ambiental",
    "titulo": "SAMASA de Três Barras - SC abre concurso público com salários de até R$ 9.500,00",
@@ -7652,6 +8141,29 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "28/10 a26/11/2026",
    "visto_em": "2026-10-22T19:16:17+00:00",
+   "novo": true
+  },
+  {
+   "id": "e2f5329939284fd3",
+   "orgao": "SEMSA - Secretaria Municipal de Saúde de Schroeder",
+   "titulo": "Prefeitura de Schroeder - SC abre seleção para auxiliar de consultório dentário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-selecao-para-auxiliar-de-consultorio-dentario",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2412.97,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de consultório dentário",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "09 a13/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
@@ -7698,6 +8210,28 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
+  },
+  {
+   "id": "7f47f25ec0d357e0",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo para médicos em Florianópolis e São José",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-medicos-em-florianopolis-e-sao-jose",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 10581.16,
+   "salario_por_hora": false,
+   "cargos": "Médico especialista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "04/11/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
   },
   {
    "id": "777f80837830419f",
@@ -8123,6 +8657,28 @@
    "novo": false
   },
   {
+   "id": "e9c778dc033e3571",
+   "orgao": "Prefeitura de Camapuã",
+   "titulo": "Prefeitura de Camapuã - MS abre vagas para Auxiliar de Serviços Gerais e Coletor de Resíduos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camapua-ms-abre-vagas-para-auxiliar-de-servicos-gerais-e-coletor-de-residuos",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 1693.36,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais, Coletor de Resíduos",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "26 a29/10/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "0d779e3bf24c3caa",
    "orgao": "Prefeitura de Guia Lopes da Laguna",
    "titulo": "Prefeitura de Guia Lopes da Laguna - MS abre seleções para Motorista, Gari e Auxiliar de Serviços Diversos",
@@ -8453,6 +9009,31 @@
    "novo": false
   },
   {
+   "id": "913147bce90f41e1",
+   "orgao": "Prefeitura de Novo São Joaquim",
+   "titulo": "Prefeitura de Novo São Joaquim - MT abre concurso com salários de até R$ 11.979,03",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-sao-joaquim-mt-abre-concurso-com-salarios-de-ate-11979",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 266,
+   "cadastro_reserva": false,
+   "salario": 11979.03,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-02",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "02/12/2026 a04/01/2027",
+   "visto_em": "2026-10-23T22:15:36+00:00",
+   "novo": true
+  },
+  {
    "id": "ef7408a6c4d84352",
    "orgao": "Prefeitura de Várzea Grande - Secretaria Municipal de Educação, Cultura, Esporte e Lazer (SMECEL)",
    "titulo": "Prefeitura de Várzea Grande - MT retifica processo seletivo com vagas para a educação",
@@ -8704,6 +9285,30 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-23T13:30:55+00:00",
+   "novo": true
+  },
+  {
+   "id": "9b404261c53a0fd5",
+   "orgao": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
+   "titulo": "SEPLAD e FHCGV - PA prorrogam inscrições para concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/seplad-e-fhcgv-pa-prorrogam-inscricoes-para-concurso-publico",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 215,
+   "cadastro_reserva": false,
+   "salario": 3918.15,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-27",
+   "prazo_texto": "Prorrogado até27/10/2026",
+   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": true
   },
   {
