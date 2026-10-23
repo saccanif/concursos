@@ -1,15 +1,15 @@
 {
- "gerado_em": "2026-10-23T13:30:55+00:00",
+ "gerado_em": "2026-10-23T18:24:51+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 433,
- "novos": 29,
- "encerrados": 0,
+ "total": 441,
+ "novos": 39,
+ "encerrados": 2,
  "concursos": [
   {
-   "id": "984f0ea184e13141",
+   "id": "4b4fbb1e12c6a3ca",
    "orgao": "Câmara dos Deputados",
-   "titulo": "Câmara dos Deputados - DF abre concurso público para analistas legislativos",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
+   "titulo": "Câmara dos Deputados - DF retifica concurso público para analistas legislativos",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-retifica-concurso-publico-para-analistas-legislativos",
    "uf": "NACIONAL",
    "uf_nome": "Nacional",
    "vagas": 184,
@@ -24,8 +24,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": false
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "086084c62ce8d650",
@@ -798,6 +798,28 @@
    "novo": true
   },
   {
+   "id": "040b5df2b8d206b5",
+   "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP-USP - SP abre concursos públicos para Fisioterapeuta e Terapeuta Ocupacional",
+   "url": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-sp-abre-concursos-publicos-para-fisioterapeuta-e-terapeuta-ocupacional",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2978.36,
+   "salario_por_hora": false,
+   "cargos": "Agente Técnico de Assistência à Saúde",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "26/10 a13/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
+  },
+  {
    "id": "33275861faad165f",
    "orgao": "IAMSPE - Instituto de Assistência Médica ao Servidor Público Estadual",
    "titulo": "IAMSPE - SP abre seleção para residência médica em diversas especialidades",
@@ -1255,6 +1277,31 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
+  },
+  {
+   "id": "bbd9d4dbf9aea969",
+   "orgao": "Prefeitura de Guaiçara",
+   "titulo": "Prefeitura de Guaiçara - SP abre concurso público com salários de até R$ 17.716,50",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaicara-sp-abre-concurso-publico-com-salarios-de-ate-17716",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 33,
+   "cadastro_reserva": false,
+   "salario": 17716.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-27",
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "27/10 a11/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "4ac66bf9061e9725",
@@ -2256,6 +2303,29 @@
    "novo": false
   },
   {
+   "id": "f0978eb4f81f210e",
+   "orgao": "USP - Universidade de São Paulo",
+   "titulo": "USP - SP abre 10 novos concursos públicos para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 11778.84,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-01",
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "01/12/2026 a07/01/2027",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
+  },
+  {
    "id": "54a0893161f8e272",
    "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
    "titulo": "CBMERJ - RJ retifica edital de processo seletivo para 1º tenente temporário",
@@ -3126,28 +3196,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "673a41ae72c729ec",
-   "orgao": "Prefeitura de Berizal",
-   "titulo": "Prefeitura de Berizal - MG retifica processo seletivo para agentes comunitários de saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-berizal-mg-retifica-processo-seletivo-para-agentes-comunitarios-de-saude",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 11,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "13/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -5158,6 +5206,29 @@
    "novo": false
   },
   {
+   "id": "676f4387ed3bf50a",
+   "orgao": "Hospital Beneficente Dr. César Santos",
+   "titulo": "Hospital Beneficente Dr. César Santos - RS abre seleção com remunerações de até R$ 6.050,19",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-beneficente-dr-cesar-santos-rs-abre-selecao-com-remuneracoes-de-ate-6050",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 6050.19,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "26/10 a10/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
+  },
+  {
    "id": "f6d6c9277072d814",
    "orgao": "Prefeitura de Arvorezinha",
    "titulo": "Prefeitura de Arvorezinha - RS retoma concurso público para Fiscal Ambiental e Fiscal Sanitário",
@@ -5699,6 +5770,31 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
+  },
+  {
+   "id": "36cb07f5f7848120",
+   "orgao": "Prefeitura de Novo Xingu",
+   "titulo": "Prefeitura de Novo Xingu - RS abre concurso público com salários de até R$ 8.797,52",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 8797.52,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/10 a30/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "6dcc3429c5342fa6",
@@ -7263,6 +7359,31 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "5840e70e5f08d7c9",
+   "orgao": "Prefeitura de Santa Terezinha do Progresso",
+   "titulo": "Prefeitura de Santa Terezinha do Progresso - SC abre concurso com salários de até R$ 10.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 10000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-26",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "26/10 a25/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "3230e0b0e1f4c02a",
@@ -9173,6 +9294,31 @@
    "novo": false
   },
   {
+   "id": "7e08916053cd2cf5",
+   "orgao": "Prefeitura de Jaguaribe",
+   "titulo": "Prefeitura de Jaguaribe - CE reabre inscrições para concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaribe-ce-reabre-inscricoes-para-concursos-publicos",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 183,
+   "cadastro_reserva": false,
+   "salario": 12948.01,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "Reaberto até11/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
+  },
+  {
    "id": "548ad4466036fc60",
    "orgao": "Prefeitura de Piquet Carneiro",
    "titulo": "Prefeitura de Piquet Carneiro - CE prorroga inscrições para concurso público",
@@ -9196,6 +9342,31 @@
    "prazo_texto": "Prorrogado até26/10/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
    "novo": false
+  },
+  {
+   "id": "4febb19b3fca687a",
+   "orgao": "Prefeitura de Poranga",
+   "titulo": "Prefeitura de Poranga - CE reabre inscrições para concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 98,
+   "cadastro_reserva": false,
+   "salario": 4750.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "Reaberto até10/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "8d50feddc0e30648",
@@ -9978,6 +10149,28 @@
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
    "novo": false
+  },
+  {
+   "id": "3650820e4e0e1dbb",
+   "orgao": "CREF16/RN - Conselho Regional de Educação Física da 16ª Região",
+   "titulo": "CREF16 - RN abre concurso público para profissionais de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/cref16-rn-abre-concurso-publico-para-profissionais-de-nivel-superior",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 4169.55,
+   "salario_por_hora": false,
+   "cargos": "Advogado, Contador, Agente de Licitações e Contratos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "30/10 a15/11/2026",
+   "visto_em": "2026-10-23T18:24:51+00:00",
+   "novo": true
   },
   {
    "id": "6f3c5918d479bfc6",
