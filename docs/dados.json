@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-23T01:34:20+00:00",
+ "gerado_em": "2026-10-23T07:37:13+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 450,
- "novos": 55,
- "encerrados": 0,
+ "total": 432,
+ "novos": 49,
+ "encerrados": 18,
  "concursos": [
   {
    "id": "984f0ea184e13141",
@@ -320,29 +320,6 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-09-25T13:53:01+00:00",
-   "novo": false
-  },
-  {
-   "id": "3f7bbc3ed2c7021d",
-   "orgao": "Câmara de Dois Córregos",
-   "titulo": "Câmara de Dois Córregos - SP abre concurso público com salários de até R$ 7.114,33",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-dois-corregos-sp-abre-concurso-publico-com-salarios-de-ate-7114",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 4,
-   "cadastro_reserva": true,
-   "salario": 7114.33,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -728,7 +705,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3940e96856ee5d62",
@@ -1155,9 +1132,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "23/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": true
   },
@@ -1277,28 +1254,6 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
-  {
-   "id": "28a20294a6b242aa",
-   "orgao": "Prefeitura de General Salgado",
-   "titulo": "Prefeitura de General Salgado - SP abre concurso para cargos na educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-general-salgado-sp-abre-concurso-para-cargos-na-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 6319.48,
-   "salario_por_hora": false,
-   "cargos": "Diretor de Escola, Professor Coordenador, Professor Auxiliar I",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-07T22:02:14+00:00",
    "novo": false
   },
   {
@@ -1969,9 +1924,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "23/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": true
   },
@@ -2045,31 +2000,6 @@
    "inscricoes_ate": "2026-10-23",
    "prazo_texto": "23/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "3fce114dedd9ad44",
-   "orgao": "Prefeitura de Tarumã",
-   "titulo": "Prefeitura de Tarumã - SP prorroga inscrições para processo seletivo com salários de até R$ 23.539,17",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taruma-sp-prorroga-inscricoes-para-processo-seletivo-com-salarios-de-ate-23539",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 23539.17,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "Prorrogado até22/10/2026",
-   "visto_em": "2026-10-19T13:28:23+00:00",
    "novo": false
   },
   {
@@ -2367,28 +2297,6 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "90a73d5dd0fbc2a5",
-   "orgao": "MOBI-Rio - Companhia Municipal de Transportes Coletivos",
-   "titulo": "MOBI-Rio - RJ abre processo seletivo com 30 vagas para motoristas de articulado",
-   "url": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-processo-seletivo-com-30-vagas-para-motoristas-de-articulado",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 30,
-   "cadastro_reserva": false,
-   "salario": 4310.48,
-   "salario_por_hora": false,
-   "cargos": "Motorista de Articulado",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": false
   },
   {
@@ -3118,9 +3026,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "23/10 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": true
   },
@@ -3655,9 +3563,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "23/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": true
   },
@@ -4408,30 +4316,6 @@
    "novo": false
   },
   {
-   "id": "9d3bb6b33a74fe82",
-   "orgao": "Prefeitura da Serra",
-   "titulo": "Prefeitura da Serra - ES abre seleção para cadastro de reserva na saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-da-serra-es-abre-selecao-para-cadastro-de-reserva-na-saude",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 8237.84,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-19T23:45:27+00:00",
-   "novo": false
-  },
-  {
    "id": "26c34266c7ba5f39",
    "orgao": "Prefeitura de Dores do Rio Preto",
    "titulo": "Prefeitura de Dores do Rio Preto - ES abre seleção com salários de até R$ 17.087,37",
@@ -4659,9 +4543,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "23/10 a08/11/2026",
+   "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-22T19:16:17+00:00",
    "novo": true
   },
@@ -4917,9 +4801,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "23/10 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": false
   },
@@ -5639,9 +5523,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "23 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": true
   },
@@ -5664,9 +5548,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "23/10 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -5810,9 +5694,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "23/10 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -6022,29 +5906,6 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
-  {
-   "id": "db740548a78ba899",
-   "orgao": "Prefeitura de Torres",
-   "titulo": "Prefeitura de Torres - RS anuncia seleções para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-anuncia-selecoes-para-cadastro-de-reserva",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4318.61,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
   },
   {
@@ -6412,28 +6273,6 @@
    "novo": false
   },
   {
-   "id": "6daca191033ace3f",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC abre processo seletivo para Oficial de Manutenção no HEMOSC de Chapecó",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-oficial-de-manutencao-no-hemosc-de-chapeco",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2980.18,
-   "salario_por_hora": false,
-   "cargos": "Oficial de Manutenção",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-15T20:22:07+00:00",
-   "novo": false
-  },
-  {
    "id": "c0df823f06245f17",
    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
    "titulo": "FAHECE - SC abre seleção para o cargo de Motorista II em Florianópolis",
@@ -6475,29 +6314,7 @@
    "inscricoes_ate": "2026-10-25",
    "prazo_texto": "25/10/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": true
-  },
-  {
-   "id": "b431dbfd8de3bf12",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre processo seletivo para médicos reguladores das urgências no SAMU",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medicos-reguladores-das-urgencias-no-samu",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 138.9,
-   "salario_por_hora": false,
-   "cargos": "Médico Regulador das Urgências",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-22T15:19:58+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d96f3be68c497309",
@@ -6563,31 +6380,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
-   "id": "d090a9e6925980c0",
-   "orgao": "Hospital São Lucas da Prefeitura de Major Vieira",
-   "titulo": "Prefeitura de Major Vieira - SC abre processo seletivo para formação de cadastro de reserva no Hospital São Lucas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-hospital-sao-lucas",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5536.87,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
   {
@@ -6756,29 +6548,6 @@
    "novo": true
   },
   {
-   "id": "a82e54387aa54405",
-   "orgao": "Prefeitura de Caçador",
-   "titulo": "Prefeitura de Caçador - SC abre seleção para cadastro de reserva na educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cacador-sc-abre-selecao-para-cadastro-de-reserva-na-educacao",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5390.13,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "4ff1b8501daddf8a",
    "orgao": "Prefeitura de Campos Novos",
    "titulo": "Prefeitura de Campos Novos - SC publica editais de concurso público e processo seletivo",
@@ -6940,29 +6709,6 @@
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
-   "novo": false
-  },
-  {
-   "id": "785cc5d12cb9eda4",
-   "orgao": "Prefeitura de Gaspar",
-   "titulo": "Prefeitura de Gaspar - SC abre concurso com vagas para a área da Educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-concurso-com-vagas-para-a-area-da-educacao",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 38,
-   "cadastro_reserva": false,
-   "salario": 5480.28,
-   "salario_por_hora": false,
-   "cargos": "Professor, Auxiliar de Professor da Educação Especial, Assistente Educacional",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -7152,9 +6898,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "23/10 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": true
   },
@@ -7181,7 +6927,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c71f547c0ddb21a6",
@@ -7232,31 +6978,6 @@
    "prazo_texto": "27/10 a23/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": true
-  },
-  {
-   "id": "c03c921e83fa96ad",
-   "orgao": "Prefeitura de Major Vieira",
-   "titulo": "Prefeitura de Major Vieira - SC abre processo seletivo para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-processo-seletivo-para-diversos-cargos",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5531.34,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
   },
   {
    "id": "b1a81c60231d2c7b",
@@ -7416,9 +7137,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "23 a27/10/2026",
+   "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": true
   },
@@ -7690,31 +7411,6 @@
    "novo": false
   },
   {
-   "id": "deaa7ea092305c97",
-   "orgao": "Prefeitura de Trombudo Central",
-   "titulo": "Prefeitura de Trombudo Central - SC retifica edital de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trombudo-central-sc-retifica-edital-de-concurso-publico",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 10,
-   "cadastro_reserva": false,
-   "salario": 23143.62,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
    "id": "e31b1a47ec1ea407",
    "orgao": "Prefeitura de Urussanga",
    "titulo": "Prefeitura de Urussanga - SC abre processo seletivo com salários de até R$ 23.930,19",
@@ -7973,28 +7669,6 @@
    "novo": false
   },
   {
-   "id": "f27510719da731f9",
-   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
-   "titulo": "IGESDF abre seleções para médicos e tecnólogos em radiologia",
-   "url": "https://www.pciconcursos.com.br/noticias/igesdf-abre-selecoes-para-medicos-e-tecnologos-em-radiologia",
-   "uf": "DF",
-   "uf_nome": "Distrito Federal",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 13359.56,
-   "salario_por_hora": false,
-   "cargos": "Médico Paliativista, Tecnólogo em Radiologia, Médico Reumatologista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": false
-  },
-  {
    "id": "e2b077a609e5dd2a",
    "orgao": "Câmara de Cristalina",
    "titulo": "Câmara de Cristalina - GO abre concurso público com salários de até R$ 8.383,20",
@@ -8157,28 +7831,6 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "09 a30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
-   "id": "e82e0e8b322671c5",
-   "orgao": "Prefeitura de Rio Verde",
-   "titulo": "Prefeitura de Rio Verde - GO abre concurso público para Auditor Fiscal da Receita Municipal",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-verde-go-abre-concurso-publico-para-auditor-fiscal-da-receita-municipal",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 4809.0,
-   "salario_por_hora": false,
-   "cargos": "Auditor Fiscal da Receita Municipal",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8703,53 +8355,6 @@
    "novo": false
   },
   {
-   "id": "54e2787794e36141",
-   "orgao": "Prefeitura e Câmara de Comodoro",
-   "titulo": "Prefeitura e Câmara de Comodoro - MT lançam concursos públicos para procuradores jurídicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-comodoro-mt-lancam-concursos-publicos-para-procuradores-juridicos",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 14470.4,
-   "salario_por_hora": false,
-   "cargos": "Procurador Jurídico, Procurador Jurídico Legislativo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "380aeab051c2f2e1",
-   "orgao": "Prefeitura, Câmara e Comodoro-Previ de Comodoro",
-   "titulo": "Prefeitura de Comodoro - MT abre novos editais de concurso e processo seletivo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-comodoro-mt-abre-novos-editais-de-concurso-e-processo-seletivo",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 219,
-   "cadastro_reserva": false,
-   "salario": 23686.47,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "22/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "3adb15df9d7cb26f",
    "orgao": "CRA - Conselho Regional de Administração do Amazonas",
    "titulo": "CRA - AM prorroga inscrições de concurso público com salários de até R$ 3.683,95 em Manaus",
@@ -8795,7 +8400,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "30/10 a04/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e60d32b77f0fef99",
@@ -9185,9 +8790,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-23",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "23 a30/10/2026",
+   "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": true
   },
@@ -9876,31 +9481,6 @@
    "novo": false
   },
   {
-   "id": "10dd8361e6d28e6f",
-   "orgao": "Prefeitura de Floresta",
-   "titulo": "Prefeitura de Floresta - PE publica edital retificado de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floresta-pe-publica-edital-retificado-de-concurso-publico",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 431,
-   "cadastro_reserva": false,
-   "salario": 8000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-22",
-   "prazo_texto": "Prorrogado até22/10/2026",
-   "visto_em": "2026-10-06T17:14:59+00:00",
-   "novo": false
-  },
-  {
    "id": "32cbd8f9019c9640",
    "orgao": "Prefeitura de Goiana",
    "titulo": "Prefeitura de Goiana - PE retifica edital de seleção pública",
@@ -10132,7 +9712,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "26/10 a23/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3662eb09c81f3e9a",
