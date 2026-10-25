@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-25T19:42:22+00:00",
+ "gerado_em": "2026-10-25T22:36:39+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 439,
+ "total": 438,
  "novos": 0,
- "encerrados": 0,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -8804,30 +8804,6 @@
    "inscricoes_ate": "2026-10-26",
    "prazo_texto": "26/10/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
-   "novo": false
-  },
-  {
-   "id": "8200e5a66ac0819b",
-   "orgao": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
-   "titulo": "TRT 8 - PA/AP publica edital de concurso para técnicos e analistas judiciários",
-   "url": "https://www.pciconcursos.com.br/noticias/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
-   "uf": "PA",
-   "uf_nome": "Pará",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 16040.88,
-   "salario_por_hora": false,
-   "cargos": "Analista Judiciário, Técnico Judiciário",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
   },
   {
