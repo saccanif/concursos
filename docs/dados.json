@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-26T06:20:00+00:00",
+ "gerado_em": "2026-10-26T13:17:15+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 426,
- "novos": 0,
- "encerrados": 12,
+ "total": 430,
+ "novos": 6,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -1159,6 +1159,31 @@
    "novo": false
   },
   {
+   "id": "3853c9601f8f7de2",
+   "orgao": "Prefeitura de Cunha",
+   "titulo": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 9147.62,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-21",
+   "prazo_texto": "21/11/2026",
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
+  },
+  {
    "id": "8abf9e5828a5bccc",
    "orgao": "Prefeitura de Elisiário",
    "titulo": "Prefeitura de Elisiário - SP abre processo seletivo para profissionais de diversas áreas",
@@ -1978,10 +2003,10 @@
    "novo": false
   },
   {
-   "id": "bd7228b6909e779d",
+   "id": "67519b3f370ac706",
    "orgao": "Prefeitura de Tuiuti",
-   "titulo": "Prefeitura de Tuiuti - SP abre concurso público com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "titulo": "Prefeitura de Tuiuti - SP retifica edital de concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-retifica-edital-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": 11,
@@ -1997,10 +2022,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-21",
-   "prazo_texto": "21/11/2026",
-   "visto_em": "2026-10-20T15:08:46+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "Prorrogado até23/11/2026",
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
   },
   {
    "id": "b880605e52e21ce0",
@@ -2662,6 +2687,29 @@
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6fba535127adcbb0",
+   "orgao": "Câmara de Laranjal",
+   "titulo": "Câmara de Laranjal - MG abre concurso com salários de até R$ 5.296,39",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-laranjal-mg-abre-concurso-com-salarios-de-ate-5296",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 5296.39,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2027-01-06",
+   "inscricoes_ate": "2027-02-04",
+   "prazo_texto": "06/01 a04/02/2027",
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
   },
   {
    "id": "335ffca10f2dc594",
@@ -5847,6 +5895,30 @@
    "novo": false
   },
   {
+   "id": "2ef9ef8555ef4602",
+   "orgao": "Prefeitura de Sertão",
+   "titulo": "Prefeitura de Sertão - RS abre processo seletivo para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sertao-rs-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5072.01,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
+  },
+  {
    "id": "fe2b1c37dfffed0f",
    "orgao": "Prefeitura de Taquari",
    "titulo": "Prefeitura de Taquari - RS abre seleção para motoristas",
@@ -6146,6 +6218,30 @@
    "novo": false
   },
   {
+   "id": "2a71f93a8169685c",
+   "orgao": "Câmara de Vereadores de Matos Costa",
+   "titulo": "Câmara de Matos Costa - SC abre concurso público com salários de até R$ 4.209,63",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-matos-costa-sc-abre-concurso-publico-com-salarios-de-ate-4209",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 4209.63,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais, Auxiliar Administrativo, Contador",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
+  },
+  {
    "id": "b8df0ba8179b3e78",
    "orgao": "Câmara de Vereadores de Santiago do Sul",
    "titulo": "Câmara de Santiago do Sul - SC abre processo seletivo para auxiliar administrativo",
@@ -6424,10 +6520,10 @@
    "novo": false
   },
   {
-   "id": "ec2353dd10a76eec",
+   "id": "bd8935a1679a3fbe",
    "orgao": "Prefeitura de Bom Retiro",
-   "titulo": "Prefeitura de Bom Retiro - RS abre concurso público com salários de até R$ 20.138,46",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-rs-abre-concurso-publico-com-salarios-de-ate-20138",
+   "titulo": "Prefeitura de Bom Retiro - SC abre concurso público com salários de até R$ 20.138,46",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-sc-abre-concurso-publico-com-salarios-de-ate-20138",
    "uf": "SC",
    "uf_nome": "Santa Catarina",
    "vagas": 66,
@@ -6445,8 +6541,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
-   "visto_em": "2026-10-23T22:15:36+00:00",
-   "novo": false
+   "visto_em": "2026-10-26T13:17:15+00:00",
+   "novo": true
   },
   {
    "id": "4ff1b8501daddf8a",
