@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-26T13:17:15+00:00",
+ "gerado_em": "2026-10-26T19:22:11+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 430,
- "novos": 6,
- "encerrados": 2,
+ "total": 439,
+ "novos": 18,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -229,6 +229,29 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
+  },
+  {
+   "id": "94f9b29c55e347a9",
+   "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
+   "titulo": "TRF3 - SP/MS abre concurso público para analistas e técnicos judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 20013.11,
+   "salario_por_hora": false,
+   "cargos": "Analista Judiciário, Técnico Judiciário",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-04",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "04 a23/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "61e0a9e966505fb9",
@@ -1445,6 +1468,29 @@
    "novo": false
   },
   {
+   "id": "7f4a3fa31828a200",
+   "orgao": "Prefeitura de Jacareí",
+   "titulo": "Prefeitura de Jacareí - SP abre processo seletivo para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-processo-seletivo-para-profissionais-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4619.95,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-02",
+   "prazo_texto": "02/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
+  },
+  {
    "id": "66d6d35d9c8964bd",
    "orgao": "Prefeitura de Lagoinha",
    "titulo": "Prefeitura de Lagoinha - SP abre vagas para assistente social e psicólogo",
@@ -1933,6 +1979,28 @@
    "novo": false
   },
   {
+   "id": "4634fc23eea67774",
+   "orgao": "Prefeitura de Sabino",
+   "titulo": "Prefeitura de Sabino - SP abre concurso público para monitor de transporte escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sabino-sp-abre-concurso-publico-para-monitor-de-transporte-escolar",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1572.65,
+   "salario_por_hora": false,
+   "cargos": "Monitor de Transporte Escolar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
+  },
+  {
    "id": "cbee0fc65abb95ed",
    "orgao": "Prefeitura de São José da Bela Vista",
    "titulo": "Prefeitura de São José da Bela Vista - SP abre concurso público para cadastro de reserva",
@@ -1976,6 +2044,30 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
+  },
+  {
+   "id": "9728358cfbd16f01",
+   "orgao": "Prefeitura de Suzano",
+   "titulo": "Prefeitura de Suzano - SP abre concurso público com salários de até R$ 12.062,91",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 73,
+   "cadastro_reserva": false,
+   "salario": 12062.91,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "29/10 a25/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "bfed79a3d6bef5c2",
@@ -2984,6 +3076,28 @@
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
+  },
+  {
+   "id": "172497a87af9a821",
+   "orgao": "CISAB Zona da Mata - Consórcio Intermunicipal de Saneamento Básico da Zona da Mata de Minas Gerais",
+   "titulo": "CISAB Zona da Mata - MG abre processo seletivo para Auxiliar de Laboratório",
+   "url": "https://www.pciconcursos.com.br/noticias/cisab-zona-da-mata-mg-abre-processo-seletivo-para-auxiliar-de-laboratorio",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2770.3,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Laboratório",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-04",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "04 a18/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "40727087927fac34",
@@ -4274,10 +4388,10 @@
    "novo": false
   },
   {
-   "id": "8f1dfe5443f32e50",
+   "id": "416737e770af51be",
    "orgao": "Banestes - Banco do Estado do Espírito Santo e Banestes Seguros",
-   "titulo": "Banestes e Banestes Seguros - ES abrem concursos para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/banestes-e-banestes-seguros-es-abrem-concursos-para-cadastro-de-reserva",
+   "titulo": "Banestes e Banestes Seguros - ES retificam concursos para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/banestes-e-banestes-seguros-es-retificam-concursos-para-cadastro-de-reserva",
    "uf": "ES",
    "uf_nome": "Espírito Santo",
    "vagas": null,
@@ -4291,10 +4405,10 @@
     "Técnico"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-17",
-   "prazo_texto": "17/11/2026",
-   "visto_em": "2026-10-16T21:16:34+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "Prorrogado até23/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "5bf856b2993663c3",
@@ -5559,10 +5673,10 @@
    "novo": false
   },
   {
-   "id": "bee96f2f482fffc7",
+   "id": "db677bf7a872bf45",
    "orgao": "Prefeitura de Imbé",
-   "titulo": "Prefeitura de Imbé - RS abre processo seletivo para formação de cadastro reserva em diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversos-cargos",
+   "titulo": "Prefeitura de Imbé - RS retifica processo seletivo para formação de cadastro reserva em diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-retifica-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversos-cargos",
    "uf": "RS",
    "uf_nome": "Rio Grande do Sul",
    "vagas": null,
@@ -5579,8 +5693,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
-   "visto_em": "2026-10-22T00:01:30+00:00",
-   "novo": false
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "d4b39c4c4526df7f",
@@ -5629,6 +5743,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-14T18:40:31+00:00",
    "novo": false
+  },
+  {
+   "id": "097200d65244bdad",
+   "orgao": "Prefeitura de Maquiné",
+   "titulo": "Prefeitura de Maquiné - RS abre seleção para Auxiliar de Serviços Gerais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecao-para-auxiliar-de-servicos-gerais",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1327.78,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-30",
+   "prazo_texto": "30/10/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "6a9660aedcd36ba8",
@@ -5801,29 +5937,6 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-01T23:55:52+00:00",
-   "novo": false
-  },
-  {
-   "id": "9e93e15128b1b541",
-   "orgao": "Prefeitura de Passo Fundo",
-   "titulo": "Prefeitura de Passo Fundo - RS abre seleção para agente de combate às endemias",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-fundo-rs-abre-selecao-para-agente-de-combate-as-endemias",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente de Combate às Endemias",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "30/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
   {
@@ -6310,6 +6423,28 @@
    "novo": false
   },
   {
+   "id": "996dfcc13f54a557",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC anuncia vaga de Assistente Administrativo para o CEPON em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-administrativo-para-o-cepon-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1889.41,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-28",
+   "prazo_texto": "28/10/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
+  },
+  {
    "id": "7696c53cce198b35",
    "orgao": "FCC - Fundação Catarinense de Cultura",
    "titulo": "Fundação Catarinense de Cultura - SC abre processo seletivo para Analista Contador",
@@ -6660,6 +6795,30 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
    "novo": false
+  },
+  {
+   "id": "345574e3f517be07",
+   "orgao": "Prefeitura de Garuva",
+   "titulo": "Prefeitura de Garuva - SC abre processo seletivo para cadastro de reserva em diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 7162.96,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "53540ffb26eea9ba",
@@ -7690,6 +7849,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
    "novo": false
+  },
+  {
+   "id": "623defef8ecfc345",
+   "orgao": "DPDF - Defensoria Pública do Distrito Federal",
+   "titulo": "DPDF abre concurso público para Analista de Apoio à Assistência Judiciária",
+   "url": "https://www.pciconcursos.com.br/noticias/dpdf-abre-concurso-publico-para-analista-de-apoio-a-assistencia-judiciaria",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 11514.95,
+   "salario_por_hora": false,
+   "cargos": "Analista de Apoio à Assistência Judiciária",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-03",
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "03/12/2026 a07/01/2027",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -9223,6 +9404,31 @@
    "prazo_texto": "Reaberto até10/11/2026",
    "visto_em": "2026-10-23T18:24:51+00:00",
    "novo": false
+  },
+  {
+   "id": "d32c6a7926e6d49c",
+   "orgao": "Prefeitura de Quixadá",
+   "titulo": "Prefeitura de Quixadá - CE abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quixada-ce-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 411,
+   "cadastro_reserva": false,
+   "salario": 3138.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
   },
   {
    "id": "8d50feddc0e30648",
