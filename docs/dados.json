@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-27T20:07:10+00:00",
+ "gerado_em": "2026-10-27T23:48:45+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 442,
- "novos": 49,
- "encerrados": 0,
+ "total": 444,
+ "novos": 52,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -1372,6 +1372,31 @@
    "inscricoes_ate": "2026-11-02",
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
+  },
+  {
+   "id": "bf827f8c743c6800",
+   "orgao": "Prefeitura de Juquiá",
+   "titulo": "Prefeitura de Juquiá - SP abre concurso público com salários de até R$ 8.653,17",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juquia-sp-abre-concurso-publico-com-salarios-de-ate-8653",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 8653.17,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-27T23:48:45+00:00",
    "novo": true
   },
   {
@@ -4435,26 +4460,26 @@
    "novo": false
   },
   {
-   "id": "094c6af4de18320c",
+   "id": "c69ca1932ea3d89b",
    "orgao": "HEVV - Hospital Evangélico de Vila Velha",
-   "titulo": "Hospital Evangélico de Vila Velha - ES abre seleção para residência e especialização médica",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-vila-velha-es-abre-selecao-para-residencia-e-especializacao-medica",
+   "titulo": "Hospital Evangélico de Vila Velha - ES prorroga inscrições de processo seletivo para residência e especialização médica",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-vila-velha-es-prorroga-inscricoes-de-processo-seletivo-para-residencia-e-especializacao-medica",
    "uf": "ES",
    "uf_nome": "Espírito Santo",
    "vagas": 40,
    "cadastro_reserva": false,
    "salario": 4106.09,
    "salario_por_hora": false,
-   "cargos": "Vários Cargos",
+   "cargos": "Médico Residente, Médico Especializando",
    "escolaridade": "Superior",
    "niveis": [
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-30",
-   "prazo_texto": "30/10/2026",
-   "visto_em": "2026-10-01T19:35:23+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Prorrogado até06/11/2026",
+   "visto_em": "2026-10-27T23:48:45+00:00",
+   "novo": true
   },
   {
    "id": "c971ddfd4ccc78ef",
@@ -5041,6 +5066,28 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
+  },
+  {
+   "id": "00d970f9198a8866",
+   "orgao": "UEL - Universidade Estadual de Londrina",
+   "titulo": "UEL - PR abre processo seletivo para técnicos em higiene dental e em laboratório/planetário",
+   "url": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-processo-seletivo-para-tecnicos-em-higiene-dental-e-em-laboratorio-planetario",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 4443.18,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Higiene Dental, Técnico em Laboratório/Planetário",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "29/10 a19/11/2026",
+   "visto_em": "2026-10-27T23:48:45+00:00",
+   "novo": true
   },
   {
    "id": "bf089f184a1cdf6f",
