@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-27T14:35:16+00:00",
+ "gerado_em": "2026-10-27T20:07:10+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 431,
- "novos": 38,
- "encerrados": 2,
+ "total": 442,
+ "novos": 49,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -251,6 +251,28 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "04 a23/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
+   "novo": true
+  },
+  {
+   "id": "f6b62fd0eddf113e",
+   "orgao": "AME - Ambulatório Médico de Especialidades de Santa Bárbara d'Oeste",
+   "titulo": "FUNCAMP - SP abre processo seletivo para técnico de enfermagem em Santa Bárbara d'Oeste",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-tecnico-de-enfermagem-em-santa-barbara-doeste",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3590.25,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": true
   },
   {
@@ -2598,6 +2620,31 @@
    "novo": false
   },
   {
+   "id": "c254a77858bea5f4",
+   "orgao": "Câmara de Jacutinga",
+   "titulo": "Câmara de Jacutinga - MG abre concurso público com salários de até R$ 8.054,31",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jacutinga-mg-abre-concurso-publico-com-salarios-de-ate-8054",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 8054.31,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais, Auxiliar de Secretaria, Contador Geral",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-28",
+   "inscricoes_ate": "2027-02-04",
+   "prazo_texto": "28/12/2026 a04/02/2027",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
+  },
+  {
    "id": "ee13e4996fbf8c83",
    "orgao": "Câmara de Lajinha",
    "titulo": "Câmara de Lajinha - MG abre concurso público para o cargo de Controlador Interno",
@@ -3290,6 +3337,30 @@
    "novo": false
   },
   {
+   "id": "21d66a49cb6158bd",
+   "orgao": "Prefeitura de Cláudio - Secretaria Municipal de Educação",
+   "titulo": "Prefeitura de Cláudio - MG abre processo seletivo para cadastro de reserva na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-claudio-mg-abre-processo-seletivo-para-cadastro-de-reserva-na-educacao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4748.99,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
+  },
+  {
    "id": "0c626608c7d70ebe",
    "orgao": "Prefeitura de Conceição do Mato Dentro",
    "titulo": "Prefeitura de Conceição do Mato Dentro - MG retifica edital de concurso público",
@@ -3337,6 +3408,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": false
+  },
+  {
+   "id": "01665661b92d6d99",
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre processo seletivo para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-processo-seletivo-para-agentes-comunitarios-de-saude",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "03 a08/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   },
   {
    "id": "6b0cad351e21cbba",
@@ -3431,6 +3524,28 @@
    "prazo_texto": "16/12/2026 a18/01/2027",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
+  },
+  {
+   "id": "252f9bbef648fb51",
+   "orgao": "Prefeitura de Leopoldina",
+   "titulo": "Município de Leopoldina - MG abre seleção para agentes de saúde e de endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-leopoldina-mg-abre-selecao-para-agentes-de-saude-e-de-endemias",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "25/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   },
   {
    "id": "40310717d84e5c5e",
@@ -4227,6 +4342,29 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "c3811abf6d3feb4a",
+   "orgao": "Secretaria Municipal de Saúde de Buritis",
+   "titulo": "Secretaria Municipal de Saúde de Buritis - MG abre seleção para auxiliar de serviços gerais e bioquímico",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-saude-de-buritis-mg-abre-selecao-para-auxiliar-de-servicos-gerais-e-bioquimico",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 6142.05,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de serviços gerais, Bioquímico",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "29/10/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   },
   {
    "id": "169699792af7e362",
@@ -5871,6 +6009,29 @@
    "novo": false
   },
   {
+   "id": "1aa9fc313072d53b",
+   "orgao": "Prefeitura de Santo Antônio da Patrulha",
+   "titulo": "Prefeitura de Santo Antônio da Patrulha - RS divulga processo seletivo para instrutores educacionais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2367.2,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
+  },
+  {
    "id": "1442590e00aff173",
    "orgao": "Prefeitura de São Francisco de Assis",
    "titulo": "Prefeitura de São Francisco de Assis - RS abre vaga para Médico Veterinário",
@@ -7071,6 +7232,31 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "eb2ae79a18b30b26",
+   "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
+   "titulo": "Prefeitura de Praia Grande - SC abre seleções com salários de até R$ 7.921,65",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 79,
+   "cadastro_reserva": false,
+   "salario": 7921.65,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   },
   {
    "id": "c392885fe81cfd3c",
@@ -8774,6 +8960,31 @@
    "novo": false
   },
   {
+   "id": "77a329df4e3ff6fc",
+   "orgao": "Prefeitura de Santa Luzia d'Oeste",
+   "titulo": "Prefeitura de Santa Luzia d'Oeste - RO abre seleção com salários de até R$ 5.130,63",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 34,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
+  },
+  {
    "id": "7f3e0c3d946c38a3",
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Tocantins",
    "titulo": "CAU - TO abre concurso público com salários de até R$ 9.726,00",
@@ -9056,6 +9267,28 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": false
+  },
+  {
+   "id": "72d5a6587aad199f",
+   "orgao": "CRO - Conselho Regional de Odontologia do Ceará",
+   "titulo": "CRO - CE abre processo seletivo para o cargo de fiscal cirurgião-dentista",
+   "url": "https://www.pciconcursos.com.br/noticias/cro-ce-abre-processo-seletivo-para-o-cargo-de-fiscal-cirurgiao-dentista",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 7272.0,
+   "salario_por_hora": false,
+   "cargos": "Fiscal Cirurgião-Dentista",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-28",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "28/10 a06/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   },
   {
    "id": "2b74b489c36fc6bc",
@@ -10083,6 +10316,29 @@
    "prazo_texto": "27/10/2026",
    "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
+  },
+  {
+   "id": "9048289eb4425e2c",
+   "orgao": "CRO - Conselho Regional de Odontologia de Sergipe",
+   "titulo": "CRO - SE prorroga inscrições para concurso público com salários de até R$ 4.504,61",
+   "url": "https://www.pciconcursos.com.br/noticias/cro-se-prorroga-inscricoes-para-concurso-publico-com-salarios-de-ate-4504",
+   "uf": "SE",
+   "uf_nome": "Sergipe",
+   "vagas": 83,
+   "cadastro_reserva": false,
+   "salario": 4504.61,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Prorrogado até06/11/2026",
+   "visto_em": "2026-10-27T20:07:10+00:00",
+   "novo": true
   }
  ]
 }
