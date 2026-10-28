@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-10-28T18:53:38+00:00",
+ "gerado_em": "2026-10-28T23:15:44+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 442,
- "novos": 40,
+ "total": 454,
+ "novos": 52,
  "encerrados": 0,
  "concursos": [
   {
@@ -547,6 +547,30 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": false
+  },
+  {
+   "id": "2a334262973a78d8",
+   "orgao": "FEG - Fundação Educacional Guaçuana",
+   "titulo": "Fundação Educacional Guaçuana - SP abre concurso público para Bibliotecário e Técnico em Informática",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-educacional-guacuana-sp-abre-concurso-publico-para-bibliotecario-e-tecnico-em-informatica",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2969.41,
+   "salario_por_hora": false,
+   "cargos": "Bibliotecário, Técnico em Informática",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "19/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "2b8200e759894822",
@@ -2373,6 +2397,50 @@
    "novo": false
   },
   {
+   "id": "e45eedd9e954f771",
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre processo seletivo para os cargos de enfermeiro e terapeuta ocupacional",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-os-cargos-de-enfermeiro-e-terapeuta-ocupacional",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 6969.53,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Terapeuta Ocupacional",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
+  },
+  {
+   "id": "65f2d00e717bd005",
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre vagas para maqueiro, auxiliar de suprimentos e instrumentador cirúrgico",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-vagas-para-maqueiro-auxiliar-de-suprimentos-e-instrumentador-cirurgico",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2513.73,
+   "salario_por_hora": false,
+   "cargos": "Maqueiro, Auxiliar de suprimentos, Instrumentador cirúrgico",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
+  },
+  {
    "id": "2b6426b5e6816d4b",
    "orgao": "UERJ - Universidade do Estado do Rio de Janeiro",
    "titulo": "UERJ abre processo seletivo para médicos com salários de até R$ 8.000,00",
@@ -3321,6 +3389,29 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-19T13:28:23+00:00",
    "novo": false
+  },
+  {
+   "id": "e239f3fdb53bce78",
+   "orgao": "Prefeitura de Campo Florido",
+   "titulo": "Prefeitura de Campo Florido - MG abre processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-florido-mg-abre-processo-seletivo-para-diversos-cargos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 4580.26,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "03 a06/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "fa813f456681f2a5",
@@ -4349,6 +4440,28 @@
    "novo": false
   },
   {
+   "id": "ae8e0768d448dad4",
+   "orgao": "Prefeitura de Varginha - Secretaria Municipal de Habitação e Desenvolvimento Social (SEHAD)",
+   "titulo": "Prefeitura de Varginha - MG abre seleção para Auxiliar de Educador/Cuidador Residente",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-varginha-mg-abre-selecao-para-auxiliar-de-educador-cuidador-residente",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 1701.3,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Educador/Cuidador Residente",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
+  },
+  {
    "id": "a4018ff5b6ff24e2",
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Itambacuri",
    "titulo": "SAAE Itambacuri - MG publica edital de concurso público com seis vagas imediatas",
@@ -5046,6 +5159,28 @@
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": false
+  },
+  {
+   "id": "7b4aaddd7aae8bdd",
+   "orgao": "Prefeitura de Realeza",
+   "titulo": "Prefeitura de Realeza - PR abre concurso público para Controlador Interno e Procurador Jurídico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-realeza-pr-abre-concurso-publico-para-controlador-interno-e-procurador-juridico",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 8800.0,
+   "salario_por_hora": false,
+   "cargos": "Controlador Interno, Procurador Jurídico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/11 a03/12/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "c499a0a896243126",
@@ -6149,6 +6284,30 @@
    "novo": false
   },
   {
+   "id": "0c069dc237a6f7f3",
+   "orgao": "Prefeitura de Torres",
+   "titulo": "Prefeitura de Torres - RS abre seleções para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-selecoes-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2562.23,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "29/10 a10/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
+  },
+  {
    "id": "23e7930965eebc21",
    "orgao": "Prefeitura de Vicente Dutra",
    "titulo": "Prefeitura de Vicente Dutra - RS abre concurso público com salários de até R$ 9.089,82",
@@ -6172,6 +6331,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": false
+  },
+  {
+   "id": "e485930b08a8244d",
+   "orgao": "Prefeitura de Victor Graeff",
+   "titulo": "Prefeitura de Victor Graeff - RS divulga edital de processo seletivo para Auxiliar de Serviços Gerais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-victor-graeff-rs-divulga-edital-de-processo-seletivo-para-auxiliar-de-servicos-gerais",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1781.92,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "0bc77cb53c67ecfe",
@@ -6331,6 +6512,30 @@
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
+  },
+  {
+   "id": "0e10c15caa934840",
+   "orgao": "Câmara de São Francisco do Sul",
+   "titulo": "Câmara de São Francisco do Sul - SC abre concurso público com salários de até R$ 10.924,72",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-abre-concurso-publico-com-salarios-de-ate-10924",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 10924.72,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "06/11 a07/12/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "fc2591a549b6c6d4",
@@ -7736,6 +7941,30 @@
    "novo": false
   },
   {
+   "id": "462f5199d9767629",
+   "orgao": "Prefeitura de Vitor Meireles",
+   "titulo": "Prefeitura de Vitor Meireles - SC abre concurso público e processo seletivo com salários de até R$ 11.050,85",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitor-meireles-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-11050",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 11050.85,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "15/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
+  },
+  {
    "id": "1a01a24ffabd056b",
    "orgao": "Prefeitura de Witmarsum",
    "titulo": "Prefeitura de Witmarsum - SC abre concurso público e processo seletivo para diversos cargos",
@@ -7900,6 +8129,29 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
+  },
+  {
+   "id": "859db3ccc5ced1af",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo para a Maternidade Dona Catarina Kuss em Mafra",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-a-maternidade-dona-catarina-kuss-em-mafra",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 10581.16,
+   "salario_por_hora": false,
+   "cargos": "Eletricista, Médico especialista em Anestesiologia, Médico especialista em Infectologia",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "777f80837830419f",
@@ -8271,6 +8523,31 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "633d48c849b7ff9d",
+   "orgao": "Prefeitura e Câmara de Faina",
+   "titulo": "Prefeitura e Câmara de Faina - GO reabrem concurso público com diversas vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-faina-go-reabrem-concurso-publico-com-diversas-vagas",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 70,
+   "cadastro_reserva": false,
+   "salario": 13530.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "Reabertura de03/11 a03/12/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
+   "novo": true
   },
   {
    "id": "dd2e7a8e38952dc4",
