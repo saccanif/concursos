@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-28T13:03:26+00:00",
+ "gerado_em": "2026-10-28T18:53:38+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 429,
- "novos": 27,
- "encerrados": 1,
+ "total": 442,
+ "novos": 40,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -571,6 +571,28 @@
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "c571a1f41fe3a7db",
+   "orgao": "FSA - Fundação Santo André",
+   "titulo": "Fundação Santo André - SP abre concurso público para o cargo de Secretário Executivo",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-publico-para-o-cargo-de-secretario-executivo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3399.13,
+   "salario_por_hora": false,
+   "cargos": "Secretário Executivo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "27/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "61bb548932a0b56f",
@@ -2558,6 +2580,29 @@
    "novo": false
   },
   {
+   "id": "4ce9fa6b50de8b87",
+   "orgao": "Câmara de Coronel Xavier Chaves",
+   "titulo": "Câmara de Coronel Xavier Chaves - MG abre concurso público para Analista Administrativo e Contador",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-coronel-xavier-chaves-mg-abre-concurso-publico-para-analista-administrativo-e-contador",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 3569.14,
+   "salario_por_hora": false,
+   "cargos": "Analista Administrativo, Contador",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2027-01-06",
+   "inscricoes_ate": "2027-02-04",
+   "prazo_texto": "06/01 a04/02/2027",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "54a159c85b22e8e6",
    "orgao": "Câmara de Curral de Dentro",
    "titulo": "Câmara de Curral de Dentro - MG abre concurso público com cinco vagas",
@@ -3439,6 +3484,28 @@
    "novo": true
   },
   {
+   "id": "2c303eee15fa4acd",
+   "orgao": "Prefeitura de Curvelo",
+   "titulo": "Prefeitura de Curvelo - MG abre processo seletivo para o cargo de Rondante no Tiro de Guerra",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-processo-seletivo-para-o-cargo-de-rondante-no-tiro-de-guerra",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 1634.36,
+   "salario_por_hora": false,
+   "cargos": "Rondante",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-10-29",
+   "inscricoes_ate": "2026-11-03",
+   "prazo_texto": "29/10 a03/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "6b0cad351e21cbba",
    "orgao": "Prefeitura de Indaiabira",
    "titulo": "Prefeitura de Indaiabira - MG retifica o edital do processo seletivo para agentes de saúde e de endemias",
@@ -3814,6 +3881,29 @@
    "prazo_texto": "17/11 a17/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "5f9e69d8371b1523",
+   "orgao": "Prefeitura de Presidente Olegário",
+   "titulo": "Prefeitura de Presidente Olegário - MG abre processo seletivo para técnicos de enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-olegario-mg-abre-processo-seletivo-para-tecnicos-de-enfermagem",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1837.91,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-29",
+   "prazo_texto": "Apenas dia29/10/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "2f11053a16566872",
@@ -4461,6 +4551,29 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
+   "novo": true
+  },
+  {
+   "id": "ccb7c8c705b4dbcf",
+   "orgao": "IDAF - Instituto de Defesa Agropecuária e Florestal do Espírito Santo",
+   "titulo": "IDAF - ES abre concurso público com salários de até R$ 8.477,66",
+   "url": "https://www.pciconcursos.com.br/noticias/idaf-es-abre-concurso-publico-com-salarios-de-ate-8477",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 8477.66,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Fiscalização e Desenvolvimento Agropecuário, Fiscal Estadual Agropecuário",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-12-06",
+   "prazo_texto": "06/11 a06/12/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": true
   },
   {
@@ -6358,6 +6471,28 @@
    "novo": false
   },
   {
+   "id": "650121f0d34e9275",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e ao CEPON",
+   "titulo": "FAHECE - SC abre seleção para o cargo de Fonoaudiólogo no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-o-cargo-de-fonoaudiologo-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3409.85,
+   "salario_por_hora": false,
+   "cargos": "Fonoaudiólogo I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "996dfcc13f54a557",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
    "titulo": "FAHECE - SC anuncia vaga de Assistente Administrativo para o CEPON em Florianópolis",
@@ -6378,6 +6513,28 @@
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
    "novo": false
+  },
+  {
+   "id": "6c5edfff292a489e",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para o cargo de Assistente Administrativo no CEPON",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-assistente-administrativo-no-cepon",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-10-31",
+   "prazo_texto": "31/10/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "7696c53cce198b35",
@@ -7070,6 +7227,30 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": false
+  },
+  {
+   "id": "fc7cc0188093e684",
+   "orgao": "Prefeitura de Major Vieira",
+   "titulo": "Prefeitura de Major Vieira - SC retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-retifica-edital-de-concurso-publico",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 8442.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "Reaberto até11/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "b1a81c60231d2c7b",
@@ -8946,6 +9127,30 @@
    "novo": false
   },
   {
+   "id": "45f4870021815405",
+   "orgao": "Prefeitura de Aracatu",
+   "titulo": "Prefeitura de Aracatu - BA abre processo seletivo para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 245,
+   "cadastro_reserva": false,
+   "salario": 2565.32,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "626edb489509bbb9",
    "orgao": "Prefeitura de Catu",
    "titulo": "Prefeitura de Catu - BA prorroga inscrições do concurso público para diversos cargos",
@@ -9269,6 +9474,31 @@
    "prazo_texto": "Reaberto até15/11/2026",
    "visto_em": "2026-10-24T05:57:32+00:00",
    "novo": false
+  },
+  {
+   "id": "28658f7b9be54ca0",
+   "orgao": "Prefeitura de Horizonte",
+   "titulo": "Prefeitura de Horizonte - CE retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-horizonte-ce-retifica-edital-de-concurso-publico",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 5620.27,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "Reaberto até08/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "8dc41b420714c73c",
@@ -9751,6 +9981,31 @@
    "novo": false
   },
   {
+   "id": "70c0cc15368b21dc",
+   "orgao": "Prefeitura de Belém do Piauí",
+   "titulo": "Prefeitura de Belém do Piauí - PI abre concurso com remunerações de até R$ 12.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belem-do-piaui-pi-abre-concurso-com-remuneracoes-de-ate-12000",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 49,
+   "cadastro_reserva": false,
+   "salario": 12000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "30/10 a25/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "68e9ae44e8ccd06c",
    "orgao": "Prefeitura de Campo Grande do Piauí",
    "titulo": "Prefeitura de Campo Grande do Piauí - PI abre concurso público para diversos cargos e cadastro de reserva",
@@ -9875,6 +10130,29 @@
    "novo": false
   },
   {
+   "id": "330191dc53f11fbc",
+   "orgao": "Prefeitura de Murici dos Portelas",
+   "titulo": "Prefeitura de Murici dos Portelas - PI abre vagas para técnicos e enfermeiros socorristas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murici-dos-portelas-pi-abre-vagas-para-tecnicos-e-enfermeiros-socorristas",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4518.16,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro Socorrista, Técnico de Enfermagem Socorrista",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
+  },
+  {
    "id": "a9d5310948319b45",
    "orgao": "Prefeitura de São João da Varjota",
    "titulo": "Prefeitura de São João da Varjota - PI abre concurso público para diversos cargos",
@@ -9923,6 +10201,31 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
+  },
+  {
+   "id": "978667498eead0f5",
+   "orgao": "Prefeitura de São Julião",
+   "titulo": "Prefeitura de São Julião - PI abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-juliao-pi-abre-concurso-publico-para-diversos-cargos",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 112,
+   "cadastro_reserva": false,
+   "salario": 6000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-05",
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "05/11 a07/12/2026",
+   "visto_em": "2026-10-28T18:53:38+00:00",
+   "novo": true
   },
   {
    "id": "6d2c879b9aaba52d",
