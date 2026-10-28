@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-28T05:49:55+00:00",
+ "gerado_em": "2026-10-28T13:03:26+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 423,
- "novos": 46,
- "encerrados": 21,
+ "total": 429,
+ "novos": 27,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -251,7 +251,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "04 a23/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f6b62fd0eddf113e",
@@ -323,6 +323,30 @@
    "novo": false
   },
   {
+   "id": "1d38a5448ad23f69",
+   "orgao": "Câmara de Altair",
+   "titulo": "Câmara de Altair - SP abre concurso público com salários de até R$ 5.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-altair-sp-abre-concurso-publico-com-salarios-de-ate-5500",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
+  },
+  {
    "id": "ff04ed092e67d6c9",
    "orgao": "Câmara de Cesário Lange",
    "titulo": "Câmara de Cesário Lange - SP abre concurso público com salários de até R$ 3.774,00",
@@ -387,7 +411,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5d4af030bdf29304",
@@ -569,7 +593,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "aa60b0ef9f714790",
@@ -949,6 +973,30 @@
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-20T15:08:46+00:00",
    "novo": false
+  },
+  {
+   "id": "4b0a8ddd63344424",
+   "orgao": "Prefeitura de Alumínio",
+   "titulo": "Prefeitura de Alumínio - SP abre processo seletivo na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aluminio-sp-abre-processo-seletivo-na-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 7285.25,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
   },
   {
    "id": "a435aacc5c636888",
@@ -1350,7 +1398,7 @@
    "inscricoes_ate": "2026-11-02",
    "prazo_texto": "02/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bf827f8c743c6800",
@@ -1840,7 +1888,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cbee0fc65abb95ed",
@@ -1887,7 +1935,7 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7c6b159fcda4b6db",
@@ -1912,6 +1960,29 @@
    "novo": false
   },
   {
+   "id": "0ea1e8787a399206",
+   "orgao": "Prefeitura de Sarapuí",
+   "titulo": "Prefeitura de Sarapuí - SP abre concurso público e processo seletivo com salários de até R$ 5.906,38",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-5906",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5906.38,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
+  },
+  {
    "id": "9728358cfbd16f01",
    "orgao": "Prefeitura de Suzano",
    "titulo": "Prefeitura de Suzano - SP abre concurso público com salários de até R$ 12.062,91",
@@ -1933,7 +2004,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "29/10 a25/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bfed79a3d6bef5c2",
@@ -2965,7 +3036,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "04 a18/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "40727087927fac34",
@@ -4345,7 +4416,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5bf856b2993663c3",
@@ -5088,7 +5159,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "635c729f3aaaab13",
@@ -5437,7 +5508,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "46d08eb926a7629d",
@@ -5486,7 +5557,7 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d4b39c4c4526df7f",
@@ -5556,7 +5627,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6a9660aedcd36ba8",
@@ -5703,7 +5774,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4f30539f02cba4fd",
@@ -6010,7 +6081,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7d4440a4571305be",
@@ -6306,7 +6377,7 @@
    "inscricoes_ate": "2026-10-28",
    "prazo_texto": "28/10/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7696c53cce198b35",
@@ -6419,7 +6490,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f51a630a18ec3f19",
@@ -6491,6 +6562,31 @@
    "inscricoes_ate": "2026-11-01",
    "prazo_texto": "01/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
+   "novo": false
+  },
+  {
+   "id": "f4bdef142d907553",
+   "orgao": "Prefeitura de Atalanta",
+   "titulo": "Prefeitura de Atalanta - SC abre processo seletivo com salários de até R$ 9.751,15",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-atalanta-sc-abre-processo-seletivo-com-salarios-de-ate-9751",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 9751.15,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
    "novo": true
   },
   {
@@ -6612,6 +6708,30 @@
    "novo": false
   },
   {
+   "id": "5f4be3059556f950",
+   "orgao": "Prefeitura de Concórdia",
+   "titulo": "Prefeitura de Concórdia - SC abre concurso público com salários de até R$ 6.057,51",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-concordia-sc-abre-concurso-publico-com-salarios-de-ate-6057",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 6057.51,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/11 a03/12/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
+  },
+  {
    "id": "00ba5e3b7ed34f6f",
    "orgao": "Prefeitura de Descanso",
    "titulo": "Prefeitura de Descanso - SC abre processos seletivos com salários de até R$ 21.965,25",
@@ -6682,7 +6802,7 @@
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "53540ffb26eea9ba",
@@ -7115,7 +7235,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "412919817aa8af84",
@@ -7664,7 +7784,7 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "03/12/2026 a07/01/2027",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2c10eda3f2d0ea3e",
@@ -7733,7 +7853,7 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5f94191eeb0ebd0f",
@@ -8133,7 +8253,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "29/10 a30/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d96855a41965c4d0",
@@ -8253,10 +8373,10 @@
    "novo": false
   },
   {
-   "id": "6003af8430e45f34",
+   "id": "c0a70b128bd493b5",
    "orgao": "Prefeitura de Nova Xavantina",
-   "titulo": "Prefeitura de Nova Xavantina - MT abre processo seletivo com vagas na educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-abre-processo-seletivo-com-vagas-na-educacao",
+   "titulo": "Prefeitura de Nova Xavantina - MT divulga edital retificado de processo seletivo para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao",
    "uf": "MT",
    "uf_nome": "Mato Grosso",
    "vagas": 137,
@@ -8273,8 +8393,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
-   "visto_em": "2026-10-22T15:19:58+00:00",
-   "novo": false
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
   },
   {
    "id": "c64d617fc8004e65",
@@ -8372,7 +8492,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "09 a22/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ef7408a6c4d84352",
@@ -8559,7 +8679,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "29/10 a15/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9661820ba3830e86",
@@ -8899,6 +9019,28 @@
    "novo": false
   },
   {
+   "id": "a9a5a986bf880999",
+   "orgao": "Prefeitura de Maraú",
+   "titulo": "Prefeitura de Maraú - BA abre processo seletivo para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-ba-abre-processo-seletivo-para-agentes-comunitarios-de-saude",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 8,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Agente comunitário de saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "09/11/2026",
+   "visto_em": "2026-10-28T13:03:26+00:00",
+   "novo": true
+  },
+  {
    "id": "77ef545d520629af",
    "orgao": "Prefeitura de Palmas de Monte Alto",
    "titulo": "Prefeitura de Palmas de Monte Alto - BA abre concurso para agentes comunitários de saúde",
@@ -9226,7 +9368,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8d50feddc0e30648",
