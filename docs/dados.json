@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-27T23:48:45+00:00",
+ "gerado_em": "2026-10-28T05:49:55+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 444,
- "novos": 52,
- "encerrados": 1,
+ "total": 423,
+ "novos": 46,
+ "encerrados": 21,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -572,28 +572,6 @@
    "novo": true
   },
   {
-   "id": "918222181400479b",
-   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-   "titulo": "FUNCAMP - SP abre processo seletivo para Garçom",
-   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-garcom",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2100.0,
-   "salario_por_hora": false,
-   "cargos": "Garçom",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": false
-  },
-  {
    "id": "aa60b0ef9f714790",
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
    "titulo": "FUNCAMP - SP abre vaga para Técnico de Administração Hospitalar PCD",
@@ -1110,7 +1088,7 @@
    "inscricoes_ate": "2026-11-21",
    "prazo_texto": "21/11/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8abf9e5828a5bccc",
@@ -1586,28 +1564,6 @@
    "novo": false
   },
   {
-   "id": "6ada915fb9d7cfe2",
-   "orgao": "Prefeitura de Mauá",
-   "titulo": "Prefeitura de Mauá - SP abre processo seletivo para médicos de diversas especialidades",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-processo-seletivo-para-medicos-de-diversas-especialidades",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 3,
-   "cadastro_reserva": true,
-   "salario": 130.0,
-   "salario_por_hora": true,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
    "id": "6a12f19acb7e8ac0",
    "orgao": "Prefeitura de Mirassol",
    "titulo": "Prefeitura de Mirassol - SP abre processo seletivo para Agente de Suporte ao Atendimento da Criança",
@@ -1722,29 +1678,6 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "30/10 a16/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
-   "novo": false
-  },
-  {
-   "id": "83ffd4777aa6130d",
-   "orgao": "Prefeitura de Nova Campina",
-   "titulo": "Prefeitura de Nova Campina - SP abre concurso para Auxiliar de Enfermagem e Técnico em Enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-campina-sp-abre-concurso-para-auxiliar-de-enfermagem-e-tecnico-em-enfermagem",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 10,
-   "cadastro_reserva": false,
-   "salario": 2154.21,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Enfermagem, Técnico em Enfermagem",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
    "novo": false
   },
   {
@@ -2050,7 +1983,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b880605e52e21ce0",
@@ -2410,9 +2343,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "28/10 a26/11/2026",
+   "prazo_texto": "26/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -2736,7 +2669,7 @@
    "inscricoes_ate": "2027-02-04",
    "prazo_texto": "06/01 a04/02/2027",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "335ffca10f2dc594",
@@ -3079,28 +3012,6 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "f9aab69751224fa5",
-   "orgao": "HOB - Hospital Metropolitano Odilon Behrens",
-   "titulo": "Hospital Metropolitano Odilon Behrens - MG abre vagas para Fonoaudiólogo e Analista de Sistemas",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-metropolitano-odilon-behrens-mg-abre-vagas-para-fonoaudiologo-e-analista-de-sistemas",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 6091.61,
-   "salario_por_hora": false,
-   "cargos": "Analista de Planejamento e Gestão Governamental, Técnico Superior de Saúde",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-21T06:05:45+00:00",
    "novo": false
   },
   {
@@ -4293,9 +4204,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "28/10 a26/11/2026",
+   "prazo_texto": "26/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4592,9 +4503,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-10-29",
-   "prazo_texto": "28 a29/10/2026",
+   "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
@@ -4715,28 +4626,6 @@
    "novo": false
   },
   {
-   "id": "aecd01f678969995",
-   "orgao": "Câmara de Jundiaí do Sul",
-   "titulo": "Câmara de Jundiaí do Sul - PR abre processo seletivo para Auxiliar de Serviços Gerais",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jundiai-do-sul-pr-abre-processo-seletivo-para-auxiliar-de-servicos-gerais",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Serviços Gerais",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-07T16:35:10+00:00",
-   "novo": false
-  },
-  {
    "id": "eb35a06d92a08092",
    "orgao": "Câmara de Quatro Barras",
    "titulo": "Câmara de Quatro Barras - PR abre concurso público com salários de até R$ 5.403,69",
@@ -4827,29 +4716,6 @@
    "inscricoes_ate": "2026-11-04",
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
-   "novo": false
-  },
-  {
-   "id": "809d2df7b762f76c",
-   "orgao": "Prefeitura de Boa Vista da Aparecida",
-   "titulo": "Prefeitura de Boa Vista da Aparecida - PR abre processo seletivo para Assistente Social e Mãe Social",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-da-aparecida-pr-abre-processo-seletivo-para-assistente-social-e-mae-social",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 4,
-   "cadastro_reserva": false,
-   "salario": 3549.63,
-   "salario_por_hora": false,
-   "cargos": "Assistente Social Temporário, Mãe Social Temporária",
-   "escolaridade": "Fundamental / Superior",
-   "niveis": [
-    "Fundamental",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-15T20:22:07+00:00",
    "novo": false
   },
   {
@@ -5043,31 +4909,6 @@
    "novo": false
   },
   {
-   "id": "113296f8e39323a3",
-   "orgao": "Prefeitura e Câmara de Siqueira Campos",
-   "titulo": "Câmara e Município de Siqueira Campos - PR retificam concursos públicos",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-retificam-concursos-publicos",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 51,
-   "cadastro_reserva": false,
-   "salario": 16681.6,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
    "id": "00d970f9198a8866",
    "orgao": "UEL - Universidade Estadual de Londrina",
    "titulo": "UEL - PR abre processo seletivo para técnicos em higiene dental e em laboratório/planetário",
@@ -5088,54 +4929,6 @@
    "prazo_texto": "29/10 a19/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
    "novo": true
-  },
-  {
-   "id": "bf089f184a1cdf6f",
-   "orgao": "UEM - Universidade Estadual de Maringá",
-   "titulo": "UEM - PR abre testes seletivos com salários de até R$ 7.997,72",
-   "url": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-testes-seletivos-com-salarios-de-ate-7997",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 7997.72,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "e87bbf0ebc134992",
-   "orgao": "UEM - Universidade Estadual de Maringá",
-   "titulo": "UEM - PR abre seleção para cargos técnicos e médicos com salários de até R$ 7.997,72",
-   "url": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-selecao-para-cargos-tecnicos-e-medicos-com-salarios-de-ate-7997",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 7997.72,
-   "salario_por_hora": false,
-   "cargos": "Técnico Administrativo, Técnico em Informática, Técnico em Segurança do Trabalho",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": false
   },
   {
    "id": "267a544c87444ca6",
@@ -6122,7 +5915,7 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fe2b1c37dfffed0f",
@@ -6423,7 +6216,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b8df0ba8179b3e78",
@@ -6748,7 +6541,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4ff1b8501daddf8a",
@@ -7134,31 +6927,6 @@
    "novo": false
   },
   {
-   "id": "c71f547c0ddb21a6",
-   "orgao": "Prefeitura de Lontras",
-   "titulo": "Prefeitura de Lontras - SC abre processo seletivo com salários de até R$ 8.105,36",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-abre-processo-seletivo-com-salarios-de-ate-8105",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 8105.36,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-06T17:14:59+00:00",
-   "novo": false
-  },
-  {
    "id": "0d0b1c6292206be2",
    "orgao": "Prefeitura de Luiz Alves",
    "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
@@ -7325,28 +7093,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": false
-  },
-  {
-   "id": "317e19454b1c4ba7",
-   "orgao": "Prefeitura de Rancho Queimado",
-   "titulo": "Prefeitura de Rancho Queimado - SC abre processo seletivo para Assistente Administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-assistente-administrativo",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3924.78,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": false
   },
   {
@@ -7739,31 +7485,6 @@
    "novo": false
   },
   {
-   "id": "398b29a69a79fbd8",
-   "orgao": "Prefeitura e Câmara de Benedito Novo",
-   "titulo": "Prefeitura e Câmara de Benedito Novo - SC abrem concursos e processos seletivos com diversas vagas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-benedito-novo-sc-abrem-concursos-e-processos-seletivos-com-diversas-vagas",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 55,
-   "cadastro_reserva": false,
-   "salario": 20171.87,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
    "id": "7507c56d60b891d2",
    "orgao": "Prefeitura e Fundação Cultural de Navegantes",
    "titulo": "Prefeitura e Fundação Cultural de Navegantes - SC abrem seleções com salários de até R$ 19.199,16",
@@ -7805,9 +7526,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "28/10 a26/11/2026",
+   "prazo_texto": "26/11/2026",
    "visto_em": "2026-10-22T19:16:17+00:00",
    "novo": false
   },
@@ -7855,28 +7576,6 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-16T23:38:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "f3c2d51d90d07404",
-   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-   "titulo": "SES - SC abre processo seletivo para técnico em enfermagem em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnico-em-enfermagem-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 4448.15,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem Necropsia",
-   "escolaridade": "Ensino Técnico",
-   "niveis": [
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-14T22:19:51+00:00",
    "novo": false
   },
   {
@@ -8104,9 +7803,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "28/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8571,9 +8270,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "28/10 a13/11/2026",
+   "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": false
   },
@@ -8885,30 +8584,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-23T13:30:55+00:00",
-   "novo": false
-  },
-  {
-   "id": "9b404261c53a0fd5",
-   "orgao": "FHCGV - Fundação Pública Estadual Hospital de Clínicas Gaspar Vianna",
-   "titulo": "SEPLAD e FHCGV - PA prorrogam inscrições para concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/seplad-e-fhcgv-pa-prorrogam-inscricoes-para-concurso-publico",
-   "uf": "PA",
-   "uf_nome": "Pará",
-   "vagas": 215,
-   "cadastro_reserva": false,
-   "salario": 3918.15,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "Prorrogado até27/10/2026",
-   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
   },
   {
@@ -9331,9 +9006,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-10-28",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "28/10 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": true
   },
@@ -10108,50 +9783,6 @@
    "novo": false
   },
   {
-   "id": "ae94e04f5c3a1352",
-   "orgao": "Câmara de Acari",
-   "titulo": "Câmara de Acari - RN abre concurso público para Assessor Jurídico e Auditor de Controle Interno",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-acari-rn-abre-concurso-publico-para-assessor-juridico-e-auditor-de-controle-interno",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2750.0,
-   "salario_por_hora": false,
-   "cargos": "Assessor Jurídico, Auditor de Controle Interno",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
-   "id": "e152857c7221f460",
-   "orgao": "Câmara de Cerro Corá",
-   "titulo": "Câmara de Cerro Corá - RN abre concurso público para o cargo de Controlador Interno",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cerro-cora-rn-abre-concurso-publico-para-o-cargo-de-controlador-interno",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2283.9,
-   "salario_por_hora": false,
-   "cargos": "Controlador Interno",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
    "id": "6d2c879b9aaba52d",
    "orgao": "Câmara de Mossoró",
    "titulo": "Câmara de Mossoró - RN abre concurso público com salários de até R$ 8.810,69",
@@ -10173,54 +9804,6 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-07T16:35:10+00:00",
-   "novo": false
-  },
-  {
-   "id": "cccf26ff2f35bef4",
-   "orgao": "Câmara de Santana do Seridó",
-   "titulo": "Câmara de Santana do Seridó - RN abre concurso público com quatro vagas imediatas",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santana-do-serido-rn-abre-concurso-publico-com-quatro-vagas-imediatas",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 4,
-   "cadastro_reserva": false,
-   "salario": 2000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Superior",
-   "niveis": [
-    "Fundamental",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
-   "id": "690d18a130118a85",
-   "orgao": "Câmara de São João do Sabugi",
-   "titulo": "Câmara de São João do Sabugi - RN abre concurso público para cargos efetivos",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joao-do-sabugi-rn-abre-concurso-publico-para-cargos-efetivos",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 2160.53,
-   "salario_por_hora": false,
-   "cargos": "Controlador Interno, Técnico em Informática, Auxiliar de Serviços Gerais",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
    "novo": false
   },
   {
@@ -10270,53 +9853,6 @@
    "novo": false
   },
   {
-   "id": "6f3c5918d479bfc6",
-   "orgao": "Prefeitura de Acari",
-   "titulo": "Prefeitura de Acari - RN abre concurso público com salários de até R$ 3.847,97",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acari-rn-abre-concurso-publico-com-salarios-de-ate-3847",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 3847.97,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
-   "id": "10b2b493674408be",
-   "orgao": "Prefeitura de Jucurutu",
-   "titulo": "Prefeitura de Jucurutu - RN publica edital de concurso com salários de até R$ 4.867,69",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jucurutu-rn-publica-edital-de-concurso-com-salarios-de-ate-4867",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 144,
-   "cadastro_reserva": false,
-   "salario": 4867.69,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-09-25T18:41:06+00:00",
-   "novo": false
-  },
-  {
    "id": "0f48e7b8b2645847",
    "orgao": "Prefeitura de Marcelino Vieira",
    "titulo": "Prefeitura de Marcelino Vieira - RN abre processo seletivo com salários de até R$ 13.266,00",
@@ -10338,30 +9874,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-14T22:19:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "8cbab35f7b624069",
-   "orgao": "Prefeitura de São Fernando",
-   "titulo": "Prefeitura de São Fernando - RN retifica edital de concurso público com salários de até R$ 4.101,05",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-fernando-rn-retifica-edital-de-concurso-publico-com-salarios-de-ate-4101",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 22,
-   "cadastro_reserva": false,
-   "salario": 4101.05,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-27",
-   "prazo_texto": "27/10/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
    "novo": false
   },
   {
