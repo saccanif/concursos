@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-29T02:28:43+00:00",
+ "gerado_em": "2026-10-29T10:05:09+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 454,
- "novos": 52,
- "encerrados": 0,
+ "total": 436,
+ "novos": 35,
+ "encerrados": 18,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -273,7 +273,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "61e0a9e966505fb9",
@@ -1868,28 +1868,6 @@
    "novo": false
   },
   {
-   "id": "9153dbc5a62e7c6f",
-   "orgao": "Prefeitura de Pilar do Sul",
-   "titulo": "Prefeitura de Pilar do Sul - SP abre processo seletivo para a área da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-processo-seletivo-para-a-area-da-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 6,
-   "cadastro_reserva": false,
-   "salario": 6640.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-10T00:56:29+00:00",
-   "novo": false
-  },
-  {
    "id": "3f550751b1f029f0",
    "orgao": "Prefeitura de Porto Feliz",
    "titulo": "Prefeitura de Porto Feliz - SP publica editais de concursos para cadastro de reserva em diversas áreas",
@@ -2046,9 +2024,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-25",
-   "prazo_texto": "29/10 a25/11/2026",
+   "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
    "novo": false
   },
@@ -2740,28 +2718,6 @@
    "novo": false
   },
   {
-   "id": "a705ec441f1cded1",
-   "orgao": "Câmara de Jacuí",
-   "titulo": "Câmara de Jacuí - MG abre vagas para auxiliares administrativos",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-jacui-mg-abre-vagas-para-auxiliares-administrativos",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 2046.87,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar Administrativo",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "c254a77858bea5f4",
    "orgao": "Câmara de Jacutinga",
    "titulo": "Câmara de Jacutinga - MG abre concurso público com salários de até R$ 8.054,31",
@@ -2784,7 +2740,7 @@
    "inscricoes_ate": "2027-02-04",
    "prazo_texto": "28/12/2026 a04/02/2027",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ee13e4996fbf8c83",
@@ -3243,7 +3199,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "16/11 a15/12/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "46fcafd381818b3c",
@@ -3501,7 +3457,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0c626608c7d70ebe",
@@ -3572,7 +3528,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "03 a08/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2c303eee15fa4acd",
@@ -3590,9 +3546,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "29/10 a03/11/2026",
+   "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": true
   },
@@ -3710,7 +3666,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "40310717d84e5c5e",
@@ -4039,7 +3995,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "04 a06/11/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "02b699512be03d5a",
@@ -4574,28 +4530,6 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
-  },
-  {
-   "id": "169699792af7e362",
-   "orgao": "SEMASA - Serviço Municipal de Saneamento Básico e Infraestrutura de Carangola",
-   "titulo": "SEMASA de Carangola - MG abre processo seletivo para o cargo de Pedreiro",
-   "url": "https://www.pciconcursos.com.br/noticias/semasa-de-carangola-mg-abre-processo-seletivo-para-o-cargo-de-pedreiro",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1684.8,
-   "salario_por_hora": false,
-   "cargos": "Pedreiro",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-20T22:23:00+00:00",
    "novo": false
   },
   {
@@ -4829,31 +4763,6 @@
    "novo": false
   },
   {
-   "id": "40d8889358525f8d",
-   "orgao": "Prefeitura de Santa Maria de Jetibá",
-   "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre processo seletivo para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 17375.97,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
    "id": "84e025ff6fba1f63",
    "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Iconha",
    "titulo": "SAAE de Iconha - ES abre concurso público com salários de até R$ 3.236,14",
@@ -4875,28 +4784,6 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-15T20:22:07+00:00",
-   "novo": false
-  },
-  {
-   "id": "36316fbef1ecbd6d",
-   "orgao": "Câmara de Cantagalo",
-   "titulo": "Câmara de Cantagalo - PR abre concurso público para o cargo de Assessor Jurídico",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cantagalo-pr-abre-concurso-publico-para-o-cargo-de-assessor-juridico",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 9278.5,
-   "salario_por_hora": false,
-   "cargos": "Assessor Jurídico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
   {
@@ -5243,34 +5130,11 @@
    "niveis": [
     "Técnico"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-19",
-   "prazo_texto": "29/10 a19/11/2026",
+   "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
    "novo": true
-  },
-  {
-   "id": "267a544c87444ca6",
-   "orgao": "UEPG - Universidade Estadual de Ponta Grossa",
-   "titulo": "UEPG - PR abre seleção para agentes universitários",
-   "url": "https://www.pciconcursos.com.br/noticias/uepg-pr-abre-selecao-para-agentes-universitarios",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 7997.72,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
   },
   {
    "id": "77bf79639de2495b",
@@ -5573,28 +5437,6 @@
    "novo": false
   },
   {
-   "id": "ce34f897e3d02e76",
-   "orgao": "Prefeitura de Canela",
-   "titulo": "Prefeitura de Canela - RS abre seleção para assistentes sociais",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-selecao-para-assistentes-sociais",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 4,
-   "cadastro_reserva": false,
-   "salario": 7988.6,
-   "salario_por_hora": false,
-   "cargos": "Assistente Social I",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-22T15:19:58+00:00",
-   "novo": false
-  },
-  {
    "id": "1a6d211fc21b4989",
    "orgao": "Prefeitura de Colinas",
    "titulo": "Prefeitura de Colinas - RS abre concurso público com salários de até R$ 15.103,34",
@@ -5642,30 +5484,6 @@
    "inscricoes_ate": "2026-10-29",
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
-   "id": "acd213a92197d688",
-   "orgao": "Prefeitura de Garibaldi",
-   "titulo": "Prefeitura de Garibaldi - RS abre processo seletivo para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garibaldi-rs-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 7823.79,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-08T16:33:33+00:00",
    "novo": false
   },
   {
@@ -5950,7 +5768,7 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4b8c533cbd40d8c2",
@@ -6075,31 +5893,6 @@
    "novo": false
   },
   {
-   "id": "6dcc3429c5342fa6",
-   "orgao": "Prefeitura de Panambi",
-   "titulo": "Prefeitura de Panambi - RS abre concurso público com salários de até R$ 5.388,99",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panambi-rs-abre-concurso-publico-com-salarios-de-ate-5388",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 31,
-   "cadastro_reserva": false,
-   "salario": 5388.99,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-01T23:55:52+00:00",
-   "novo": false
-  },
-  {
    "id": "dae1b7e59b8c7530",
    "orgao": "Prefeitura de Porto Alegre",
    "titulo": "Prefeitura de Porto Alegre - RS abre concurso para cargos de nível superior",
@@ -6188,7 +5981,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1442590e00aff173",
@@ -6210,7 +6003,7 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2ef9ef8555ef4602",
@@ -6234,28 +6027,6 @@
    "inscricoes_ate": "2026-10-30",
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
-   "novo": false
-  },
-  {
-   "id": "fe2b1c37dfffed0f",
-   "orgao": "Prefeitura de Taquari",
-   "titulo": "Prefeitura de Taquari - RS abre seleção para motoristas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquari-rs-abre-selecao-para-motoristas",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 2657.14,
-   "salario_por_hora": false,
-   "cargos": "Motorista",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
   },
   {
@@ -6301,9 +6072,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "29/10 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": true
   },
@@ -6397,28 +6168,6 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
-   "novo": false
-  },
-  {
-   "id": "f86b1a6755cc105e",
-   "orgao": "Câmara de Capinzal",
-   "titulo": "Câmara de Capinzal - SC anuncia concurso público para cargos de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-capinzal-sc-anuncia-concurso-publico-para-cargos-de-nivel-superior",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 5,
-   "cadastro_reserva": false,
-   "salario": 4534.82,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -6652,30 +6401,6 @@
    "novo": false
   },
   {
-   "id": "e2d38b0e74cc9a47",
-   "orgao": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
-   "titulo": "CISAMAVI - SC abre concurso público com salários de até R$ 10.520,99",
-   "url": "https://www.pciconcursos.com.br/noticias/cisamavi-sc-abre-concurso-publico-com-salarios-de-ate-10520",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 7,
-   "cadastro_reserva": false,
-   "salario": 10520.99,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "650121f0d34e9275",
    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e ao CEPON",
    "titulo": "FAHECE - SC abre seleção para o cargo de Fonoaudiólogo no CEPON de Florianópolis",
@@ -6696,28 +6421,6 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": true
-  },
-  {
-   "id": "996dfcc13f54a557",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-   "titulo": "FAHECE - SC anuncia vaga de Assistente Administrativo para o CEPON em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-administrativo-para-o-cepon-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1889.41,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": false
   },
   {
    "id": "6c5edfff292a489e",
@@ -7577,7 +7280,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c392885fe81cfd3c",
@@ -7767,31 +7470,6 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-23T18:24:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "3230e0b0e1f4c02a",
-   "orgao": "Prefeitura de São Domingos",
-   "titulo": "Prefeitura de São Domingos - SC abre concurso público com salários de até R$ 7.949,24",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 36,
-   "cadastro_reserva": false,
-   "salario": 7949.24,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
   {
@@ -8242,30 +7920,6 @@
    "novo": false
   },
   {
-   "id": "126d0aaadbb1e92a",
-   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
-   "titulo": "IGESDF - DF abre processos seletivos com salários de até R$ 4.894,57",
-   "url": "https://www.pciconcursos.com.br/noticias/igesdf-df-abre-processos-seletivos-com-salarios-de-ate-4894",
-   "uf": "DF",
-   "uf_nome": "Distrito Federal",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4894.57,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": false
-  },
-  {
    "id": "e0c87c453f4c6248",
    "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
    "titulo": "IGESDF - DF abre seleções para formação de cadastro de reserva",
@@ -8307,11 +7961,11 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "29/10 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "828a9340ab999a47",
@@ -8503,28 +8157,6 @@
    "novo": false
   },
   {
-   "id": "95f6761419570234",
-   "orgao": "Prefeitura de Uruana",
-   "titulo": "Prefeitura de Uruana - GO abre concurso público para analista ambiental",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uruana-go-abre-concurso-publico-para-analista-ambiental",
-   "uf": "GO",
-   "uf_nome": "Goiás",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2500.0,
-   "salario_por_hora": false,
-   "cargos": "Analista Ambiental",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
    "id": "633d48c849b7ff9d",
    "orgao": "Prefeitura e Câmara de Faina",
    "titulo": "Prefeitura e Câmara de Faina - GO reabrem concurso público com diversas vagas",
@@ -8707,9 +8339,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "29/10 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
@@ -9133,9 +8765,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "29/10 a15/11/2026",
+   "prazo_texto": "15/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
@@ -9282,7 +8914,7 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7f3e0c3d946c38a3",
@@ -9634,7 +9266,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2b74b489c36fc6bc",
@@ -9778,31 +9410,6 @@
    "novo": true
   },
   {
-   "id": "8dc41b420714c73c",
-   "orgao": "Prefeitura de Itarema",
-   "titulo": "Prefeitura de Itarema - CE abre concurso público com salários de até R$ 5.622,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itarema-ce-abre-concurso-publico-com-salarios-de-ate-5622",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 203,
-   "cadastro_reserva": false,
-   "salario": 5622.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
-   "novo": false
-  },
-  {
    "id": "7e08916053cd2cf5",
    "orgao": "Prefeitura de Jaguaribe",
    "titulo": "Prefeitura de Jaguaribe - CE reabre inscrições para concursos públicos",
@@ -9919,9 +9526,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-29",
-   "prazo_texto": "29/10 a29/11/2026",
+   "prazo_texto": "29/11/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
   },
@@ -10066,9 +9673,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-10-29",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-29",
-   "prazo_texto": "29/10 a29/11/2026",
+   "prazo_texto": "29/11/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": false
   },
@@ -10141,29 +9748,6 @@
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
-   "novo": false
-  },
-  {
-   "id": "51ddb8724a456034",
-   "orgao": "Prefeitura do Recife",
-   "titulo": "Prefeitura do Recife - PE abre concurso público com vagas para músicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-do-recife-pe-abre-concurso-publico-com-vagas-para-musicos",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 45,
-   "cadastro_reserva": false,
-   "salario": 5587.46,
-   "salario_por_hora": false,
-   "cargos": "Músico",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-10-28",
-   "prazo_texto": "28/10/2026",
-   "visto_em": "2026-09-28T22:05:56+00:00",
    "novo": false
   },
   {
@@ -10305,7 +9889,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "30/10 a25/11/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "24c10dae49a0dfe3",
@@ -10619,7 +10203,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": true
+   "novo": false
   }
  ]
 }
