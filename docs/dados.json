@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-29T10:05:09+00:00",
+ "gerado_em": "2026-10-29T16:57:28+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 436,
- "novos": 35,
- "encerrados": 18,
+ "total": 443,
+ "novos": 40,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "4b4fbb1e12c6a3ca",
@@ -1045,6 +1045,28 @@
    "novo": true
   },
   {
+   "id": "38997ef0c9830b66",
+   "orgao": "Prefeitura de Araçoiaba da Serra",
+   "titulo": "Prefeitura de Araçoiaba da Serra - SP abre vaga para motorista de transporte coletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vaga-para-motorista-de-transporte-coletivo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2133.3,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-04",
+   "prazo_texto": "04/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
+  },
+  {
    "id": "a435aacc5c636888",
    "orgao": "Prefeitura de Birigui",
    "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
@@ -1469,7 +1491,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "66d6d35d9c8964bd",
@@ -1492,6 +1514,31 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-19T13:28:23+00:00",
    "novo": false
+  },
+  {
+   "id": "62268ea6e593f307",
+   "orgao": "Prefeitura de Leme",
+   "titulo": "Prefeitura de Leme - SP abre concurso público com salários de até R$ 13.359,44",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 29,
+   "cadastro_reserva": false,
+   "salario": 13359.44,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/10 a30/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
   },
   {
    "id": "90274a2e1fe5041b",
@@ -1868,10 +1915,33 @@
    "novo": false
   },
   {
-   "id": "3f550751b1f029f0",
+   "id": "c2511577f7d19ea3",
+   "orgao": "Prefeitura de Pirapora do Bom Jesus",
+   "titulo": "Prefeitura de Pirapora do Bom Jesus - SP abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pirapora-do-bom-jesus-sp-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
+  },
+  {
+   "id": "9b3488f876187ced",
    "orgao": "Prefeitura de Porto Feliz",
-   "titulo": "Prefeitura de Porto Feliz - SP publica editais de concursos para cadastro de reserva em diversas áreas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-publica-editais-de-concursos-para-cadastro-de-reserva-em-diversas-areas",
+   "titulo": "Prefeitura de Porto Feliz - SP retifica editais de concursos para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-feliz-sp-retifica-editais-de-concursos-para-cadastro-de-reserva",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": null,
@@ -1889,8 +1959,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
    "prazo_texto": "05/11/2026",
-   "visto_em": "2026-10-05T16:06:33+00:00",
-   "novo": false
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
   },
   {
    "id": "4634fc23eea67774",
@@ -4188,6 +4258,30 @@
    "novo": false
   },
   {
+   "id": "2fb928b22d70c459",
+   "orgao": "Prefeitura de São José da Lapa",
+   "titulo": "Prefeitura de São José da Lapa - MG abre seleção para cadastro de reserva na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lapa-mg-abre-selecao-para-cadastro-de-reserva-na-educacao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3689.99,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "16 a18/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
+  },
+  {
    "id": "4c131c8f60c69db6",
    "orgao": "Prefeitura de São Pedro da União",
    "titulo": "Prefeitura de São Pedro da União - MG abre concurso público com salários de até R$ 17.612,87",
@@ -4598,7 +4692,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ccb7c8c705b4dbcf",
@@ -5134,7 +5228,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-27T23:48:45+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77bf79639de2495b",
@@ -5435,6 +5529,28 @@
    "prazo_texto": "29/10/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
+  },
+  {
+   "id": "cf878a2d58aef7fa",
+   "orgao": "Prefeitura de Capão Bonito do Sul",
+   "titulo": "Prefeitura de Capão Bonito do Sul - RS abre vaga para engenheiro civil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-bonito-do-sul-rs-abre-vaga-para-engenheiro-civil",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4673.49,
+   "salario_por_hora": false,
+   "cargos": "Engenheiro Civil",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "03 a10/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
   },
   {
    "id": "1a6d211fc21b4989",
@@ -6726,6 +6842,30 @@
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "c84ec4286df878a7",
+   "orgao": "Prefeitura de Cerro Negro",
+   "titulo": "Prefeitura de Cerro Negro - SC abre concurso público com salários de até R$ 7.660,98",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-negro-sc-abre-concurso-publico-com-salarios-de-ate-7660",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 7660.98,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-30",
+   "inscricoes_ate": "2026-11-19",
+   "prazo_texto": "30/10 a19/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
   },
   {
    "id": "53e6a9e4759863b4",
@@ -8917,6 +9057,28 @@
    "novo": false
   },
   {
+   "id": "2da832e586fb3461",
+   "orgao": "SESDEC - Secretaria de Estado da Segurança, Defesa e Cidadania",
+   "titulo": "SESDEC - RO abre seleção para prestadores voluntários na Polícia Militar e no Corpo de Bombeiros",
+   "url": "https://www.pciconcursos.com.br/noticias/sesdec-ro-abre-selecao-para-prestadores-voluntarios-na-policia-militar-e-no-corpo-de-bombeiros",
+   "uf": "RO",
+   "uf_nome": "Rondônia",
+   "vagas": 332,
+   "cadastro_reserva": false,
+   "salario": 1350.0,
+   "salario_por_hora": false,
+   "cargos": "Prestador Voluntário de Serviços Administrativos",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
+  },
+  {
    "id": "7f3e0c3d946c38a3",
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Tocantins",
    "titulo": "CAU - TO abre concurso público com salários de até R$ 9.726,00",
@@ -9034,6 +9196,30 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "6292873712b2bad9",
+   "orgao": "CONSAN - Consórcio Público Interfederativo de Saúde de Piemonte da Chapada Norte",
+   "titulo": "CONSAN - BA reabre inscrições da seleção para Assistente Administrativo, Técnico em Enfermagem e Assessor Técnico",
+   "url": "https://www.pciconcursos.com.br/noticias/consan-ba-reabre-inscricoes-da-selecao-para-assistente-administrativo-tecnico-em-enfermagem-e-assessor-tecnico",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4730.85,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo, Técnico em Enfermagem, Assessor Técnico",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Reaberto até06/11/2026",
+   "visto_em": "2026-10-29T16:57:28+00:00",
+   "novo": true
   },
   {
    "id": "45f4870021815405",
@@ -10062,31 +10248,6 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
-  },
-  {
-   "id": "978667498eead0f5",
-   "orgao": "Prefeitura de São Julião",
-   "titulo": "Prefeitura de São Julião - PI abre concurso público para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-juliao-pi-abre-concurso-publico-para-diversos-cargos",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 112,
-   "cadastro_reserva": false,
-   "salario": 6000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": "2026-11-05",
-   "inscricoes_ate": "2026-12-07",
-   "prazo_texto": "05/11 a07/12/2026",
-   "visto_em": "2026-10-28T18:53:38+00:00",
-   "novo": true
   },
   {
    "id": "6d2c879b9aaba52d",
