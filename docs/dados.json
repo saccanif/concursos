@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-30T15:58:23+00:00",
+ "gerado_em": "2026-10-30T20:50:42+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 452,
- "novos": 47,
- "encerrados": 1,
+ "total": 463,
+ "novos": 60,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -1137,6 +1137,30 @@
    "novo": false
   },
   {
+   "id": "f49cc19be7b51e31",
+   "orgao": "Prefeitura de Cubatão",
+   "titulo": "Prefeitura de Cubatão - SP abre concurso público com salários de até R$ 5.565,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concurso-publico-com-salarios-de-ate-5565",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 5565.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/12/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
+  },
+  {
    "id": "3853c9601f8f7de2",
    "orgao": "Prefeitura de Cunha",
    "titulo": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
@@ -1709,10 +1733,10 @@
    "novo": false
   },
   {
-   "id": "d05c5d5ed8ceda1d",
+   "id": "a31879eb7b7ce591",
    "orgao": "Prefeitura de Murutinga do Sul",
-   "titulo": "Prefeitura de Murutinga do Sul - SP publica edital de concurso com 15 vagas imediatas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murutinga-do-sul-sp-publica-edital-de-concurso-com-15-vagas-imediatas",
+   "titulo": "Prefeitura de Murutinga do Sul - SP publica retificações de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-murutinga-do-sul-sp-publica-retificacoes-de-concurso-publico",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": 15,
@@ -1729,8 +1753,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
-   "visto_em": "2026-10-15T20:22:07+00:00",
-   "novo": false
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "4e22638dcc150f44",
@@ -1849,6 +1873,31 @@
    "novo": true
   },
   {
+   "id": "8578e6dc3d047d4c",
+   "orgao": "Prefeitura de Pirapozinho",
+   "titulo": "Prefeitura de Pirapozinho - SP abre concurso público para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pirapozinho-sp-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 6464.59,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "09 a23/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
+  },
+  {
    "id": "9b3488f876187ced",
    "orgao": "Prefeitura de Porto Feliz",
    "titulo": "Prefeitura de Porto Feliz - SP retifica editais de concursos para cadastro de reserva",
@@ -1922,6 +1971,30 @@
    "novo": true
   },
   {
+   "id": "e9db488b19ef475a",
+   "orgao": "Prefeitura de Roseira",
+   "titulo": "Prefeitura de Roseira - SP abre processo seletivo com salários de até R$ 5.130,63",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-roseira-sp-abre-processo-seletivo-com-salarios-de-ate-5130",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
+  },
+  {
    "id": "4634fc23eea67774",
    "orgao": "Prefeitura de Sabino",
    "titulo": "Prefeitura de Sabino - SP abre concurso público para monitor de transporte escolar",
@@ -1942,6 +2015,30 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-26T19:22:11+00:00",
    "novo": false
+  },
+  {
+   "id": "cfb48b42c58fbaf2",
+   "orgao": "Prefeitura de São João da Boa Vista",
+   "titulo": "Prefeitura de São João da Boa Vista - SP abre seleção para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-boa-vista-sp-abre-selecao-para-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2866.86,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-05",
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "05 a24/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "cbee0fc65abb95ed",
@@ -4449,6 +4546,29 @@
    "novo": false
   },
   {
+   "id": "1214e1dc864b7cfb",
+   "orgao": "Prefeitura de São Tomás de Aquino",
+   "titulo": "Prefeitura de São Tomás de Aquino - MG abre processo seletivo para diversos níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-tomas-de-aquino-mg-abre-processo-seletivo-para-diversos-niveis-de-escolaridade",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 3074.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-21",
+   "inscricoes_ate": "2027-01-08",
+   "prazo_texto": "21/12/2026 a08/01/2027",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
+  },
+  {
    "id": "22062f86e59ecf36",
    "orgao": "Prefeitura de São Vicente de Minas",
    "titulo": "Prefeitura de São Vicente de Minas - MG retifica edital de concurso público",
@@ -5081,6 +5201,31 @@
    "novo": false
   },
   {
+   "id": "9bb5eb97779250c8",
+   "orgao": "Prefeitura de Mariluz",
+   "titulo": "Prefeitura de Mariluz - PR abre concurso público com salários de até R$ 5.358,58",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mariluz-pr-abre-concurso-publico-com-salarios-de-ate-5358",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5358.58,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-10-31",
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "31/10 a22/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
+  },
+  {
    "id": "b0b030fe2708151f",
    "orgao": "Prefeitura de Quedas do Iguaçu",
    "titulo": "Prefeitura de Quedas do Iguaçu - PR abre concurso público com salários de até R$ 11.998,88",
@@ -5263,6 +5408,30 @@
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
+  },
+  {
+   "id": "723c0ee23bdf9d90",
+   "orgao": "Câmara de Soledade",
+   "titulo": "Câmara de Soledade - RS abre concurso público com salários de até R$ 4.381,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-soledade-rs-abre-concurso-publico-com-salarios-de-ate-4381",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 4381.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/11 a09/12/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "bfe16cce069feec6",
@@ -5493,6 +5662,29 @@
    "prazo_texto": "30/10/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "43442cb62df066a9",
+   "orgao": "Prefeitura de Canoas",
+   "titulo": "Prefeitura de Canoas - RS abre concurso público para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canoas-rs-abre-concurso-publico-para-a-area-da-educacao",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 76,
+   "cadastro_reserva": false,
+   "salario": 3206.27,
+   "salario_por_hora": false,
+   "cargos": "Professor de Educação Básica, Técnico de Educação Básica",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "cf878a2d58aef7fa",
@@ -6129,6 +6321,29 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
+   "novo": true
+  },
+  {
+   "id": "fcadcb2affe5ca71",
+   "orgao": "Prefeitura de Teutônia",
+   "titulo": "Prefeitura de Teutônia - RS abre processo seletivo com três vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teutonia-rs-abre-processo-seletivo-com-tres-vagas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 3917.88,
+   "salario_por_hora": false,
+   "cargos": "Agente de Combate às Endemias, Monitor do PIM, Visitador do PIM",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "18/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": true
   },
   {
@@ -7451,6 +7666,31 @@
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-08T22:08:15+00:00",
    "novo": false
+  },
+  {
+   "id": "265006d405c139a8",
+   "orgao": "Prefeitura de Nova Trento",
+   "titulo": "Município de Nova Trento - SC abre três novos processos seletivos com salários de até R$ 14.189,97",
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 14189.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-28",
+   "prazo_texto": "28/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "a5a7090ee4bda231",
@@ -10109,10 +10349,10 @@
    "novo": false
   },
   {
-   "id": "fa60fe40c044d237",
+   "id": "398ff68c296f025c",
    "orgao": "TJPB - Tribunal de Justiça do Estado da Paraíba",
-   "titulo": "TJPB abre concurso público para analistas judiciários",
-   "url": "https://www.pciconcursos.com.br/noticias/tjpb-abre-concurso-publico-para-analistas-judiciarios",
+   "titulo": "TJPB retifica concurso público para analistas judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/tjpb-retifica-concurso-publico-para-analistas-judiciarios",
    "uf": "PB",
    "uf_nome": "Paraíba",
    "vagas": 50,
@@ -10127,8 +10367,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
-   "visto_em": "2026-10-20T15:08:46+00:00",
-   "novo": false
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   },
   {
    "id": "be76192613e44b36",
@@ -10585,6 +10825,30 @@
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": false
+  },
+  {
+   "id": "cc73bb42b437c472",
+   "orgao": "Secretaria Municipal de Educação de Itabaiana",
+   "titulo": "Secretaria Municipal de Educação de Itabaiana - SE abre processo seletivo com salários de até R$ 4.514,95",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-educacao-de-itabaiana-se-abre-processo-seletivo-com-salarios-de-ate-4514",
+   "uf": "SE",
+   "uf_nome": "Sergipe",
+   "vagas": 38,
+   "cadastro_reserva": false,
+   "salario": 4514.95,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-03",
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "03 a06/11/2026",
+   "visto_em": "2026-10-30T20:50:42+00:00",
+   "novo": true
   }
  ]
 }
