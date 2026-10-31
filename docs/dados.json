@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-31T13:41:20+00:00",
+ "gerado_em": "2026-10-31T18:36:43+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 440,
- "novos": 34,
- "encerrados": 0,
+ "total": 439,
+ "novos": 35,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -5885,30 +5885,6 @@
    "novo": false
   },
   {
-   "id": "fd938108e7d34cab",
-   "orgao": "Prefeitura de Porto Alegre",
-   "titulo": "Prefeitura de Porto Alegre - RS publica concurso público com salários de até R$ 9.135,44",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 19,
-   "cadastro_reserva": false,
-   "salario": 9135.44,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
    "id": "1aa9fc313072d53b",
    "orgao": "Prefeitura de Santo Antônio da Patrulha",
    "titulo": "Prefeitura de Santo Antônio da Patrulha - RS divulga processo seletivo para instrutores educacionais",
@@ -6190,28 +6166,6 @@
    "novo": false
   },
   {
-   "id": "7d4440a4571305be",
-   "orgao": "TRT4 - Tribunal Regional do Trabalho da 4ª Região",
-   "titulo": "TRT4 - RS abre concurso público para analistas e técnicos judiciários",
-   "url": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 16040.88,
-   "salario_por_hora": false,
-   "cargos": "Analista Judiciário, Técnico Judiciário",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-25",
-   "prazo_texto": "25/11/2026",
-   "visto_em": "2026-10-22T15:19:58+00:00",
-   "novo": false
-  },
-  {
    "id": "6f38e4db8eaeee11",
    "orgao": "Câmara de Fraiburgo",
    "titulo": "Câmara de Fraiburgo - SC abre concurso público com remunerações de até R$ 6.747,11",
@@ -6485,6 +6439,28 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": false
+  },
+  {
+   "id": "b3616ffcff65c471",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para Assistente Administrativo I exclusivo para PCD",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-i-exclusivo-para-pcd",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1371.62,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-10-31T18:36:43+00:00",
+   "novo": true
   },
   {
    "id": "6c5edfff292a489e",
