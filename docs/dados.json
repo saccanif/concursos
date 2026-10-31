@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-10-30T20:50:42+00:00",
+ "gerado_em": "2026-10-31T00:50:52+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 463,
- "novos": 60,
- "encerrados": 2,
+ "total": 467,
+ "novos": 64,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -6874,6 +6874,30 @@
    "novo": false
   },
   {
+   "id": "117cd7b4bdb689e1",
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo com salários de até R$ 5.906,88",
+   "url": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5906.88,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-14",
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "14/11 a02/12/2026",
+   "visto_em": "2026-10-31T00:50:52+00:00",
+   "novo": true
+  },
+  {
    "id": "8c5961ca5c48c78f",
    "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
    "titulo": "Hospital Regional Deputado Affonso Ghizzo de Araranguá - SC abre processo seletivo para aprendiz",
@@ -7060,6 +7084,28 @@
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-28T13:03:26+00:00",
    "novo": false
+  },
+  {
+   "id": "278dbb3716663487",
+   "orgao": "Prefeitura de Blumenau",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso público para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Coordenador Pedagógico, Professor de Computação, Professor I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-07",
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "07/11 a09/12/2026",
+   "visto_em": "2026-10-31T00:50:52+00:00",
+   "novo": true
   },
   {
    "id": "c127a91977056a1d",
@@ -9139,6 +9185,31 @@
    "novo": false
   },
   {
+   "id": "b3db9e4cc9be7fb6",
+   "orgao": "Prefeitura de Santa Rita do Trivelato",
+   "titulo": "Prefeitura de Santa Rita do Trivelato - MT abre seleção com salários de até R$ 21.825,31",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-do-trivelato-mt-abre-selecao-com-salarios-de-ate-21825",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 21825.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-10-31T00:50:52+00:00",
+   "novo": true
+  },
+  {
    "id": "ef7408a6c4d84352",
    "orgao": "Prefeitura de Várzea Grande - Secretaria Municipal de Educação, Cultura, Esporte e Lazer (SMECEL)",
    "titulo": "Prefeitura de Várzea Grande - MT retifica processo seletivo com vagas para a educação",
@@ -9844,6 +9915,30 @@
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-02T18:28:29+00:00",
    "novo": false
+  },
+  {
+   "id": "16c23610d5cf8151",
+   "orgao": "Câmara de Camocim",
+   "titulo": "Câmara de Camocim - CE abre concurso público com 11 vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-camocim-ce-abre-concurso-publico-com-11-vagas",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 11,
+   "cadastro_reserva": false,
+   "salario": 3800.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-10-31T00:50:52+00:00",
+   "novo": true
   },
   {
    "id": "126c369d70c49d84",
