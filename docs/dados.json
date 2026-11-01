@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-01T09:20:27+00:00",
+ "gerado_em": "2026-11-01T16:07:19+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 437,
- "novos": 5,
- "encerrados": 2,
+ "novos": 1,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -6528,7 +6528,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "14/11 a02/12/2026",
    "visto_em": "2026-10-31T00:50:52+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8c5961ca5c48c78f",
@@ -6713,7 +6713,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "07/11 a09/12/2026",
    "visto_em": "2026-10-31T00:50:52+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c127a91977056a1d",
@@ -8649,7 +8649,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-10-31T00:50:52+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ef7408a6c4d84352",
@@ -9284,7 +9284,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-31T00:50:52+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "72d5a6587aad199f",
