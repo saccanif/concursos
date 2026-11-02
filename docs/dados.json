@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-02T00:48:14+00:00",
+ "gerado_em": "2026-11-02T07:43:05+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 437,
- "novos": 1,
- "encerrados": 0,
+ "total": 434,
+ "novos": 0,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -1214,30 +1214,6 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-23T18:24:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "1ca4085912a28893",
-   "orgao": "Prefeitura de Guatapará",
-   "titulo": "Prefeitura de Guatapará - SP abre seleção para cadastro de reserva em diversas áreas",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guatapara-sp-abre-selecao-para-cadastro-de-reserva-em-diversas-areas",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde, Técnico Agrícola, PEB II",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-01",
-   "prazo_texto": "01/11/2026",
-   "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
   },
   {
@@ -6460,7 +6436,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-31T18:36:43+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "259790d8bf375f7f",
@@ -6643,29 +6619,6 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "03/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
-   "id": "d04c1ae7b9c65829",
-   "orgao": "Prefeitura de Apiúna",
-   "titulo": "Prefeitura de Apiúna - SC abre processo seletivo para o cargo de Técnico em Enfermagem",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-processo-seletivo-para-o-cargo-de-tecnico-em-enfermagem",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 2611.53,
-   "salario_por_hora": false,
-   "cargos": "Técnico em Enfermagem",
-   "escolaridade": "Médio / Técnico",
-   "niveis": [
-    "Médio",
-    "Técnico"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-01",
-   "prazo_texto": "01/11/2026",
-   "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
   {
@@ -9024,31 +8977,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
-   "novo": false
-  },
-  {
-   "id": "0a86b772f98ed9ba",
-   "orgao": "Prefeitura de Chã Preta",
-   "titulo": "Prefeitura de Chã Preta - AL abre concursos com salários de até R$ 7.256,60",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cha-preta-al-abre-concursos-com-salarios-de-ate-7256",
-   "uf": "AL",
-   "uf_nome": "Alagoas",
-   "vagas": 76,
-   "cadastro_reserva": false,
-   "salario": 7256.6,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-01",
-   "prazo_texto": "01/11/2026",
-   "visto_em": "2026-09-29T20:51:54+00:00",
    "novo": false
   },
   {
