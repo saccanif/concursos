@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-03T01:37:50+00:00",
+ "gerado_em": "2026-11-03T09:38:30+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 434,
+ "total": 425,
  "novos": 0,
- "encerrados": 0,
+ "encerrados": 9,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -275,29 +275,6 @@
    "inscricoes_ate": "2026-11-11",
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-28T13:03:26+00:00",
-   "novo": false
-  },
-  {
-   "id": "ff04ed092e67d6c9",
-   "orgao": "Câmara de Cesário Lange",
-   "titulo": "Câmara de Cesário Lange - SP abre concurso público com salários de até R$ 3.774,00",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cesario-lange-sp-abre-concurso-publico-com-salarios-de-ate-3774",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 3774.0,
-   "salario_por_hora": false,
-   "cargos": "Apoio Administrativo, Apoio Operacional, Auxiliar de Serviços Gerais",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-07T16:35:10+00:00",
    "novo": false
   },
   {
@@ -1312,29 +1289,6 @@
    "novo": false
   },
   {
-   "id": "7f4a3fa31828a200",
-   "orgao": "Prefeitura de Jacareí",
-   "titulo": "Prefeitura de Jacareí - SP abre processo seletivo para profissionais da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacarei-sp-abre-processo-seletivo-para-profissionais-da-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4619.95,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": false
-  },
-  {
    "id": "bf827f8c743c6800",
    "orgao": "Prefeitura de Juquiá",
    "titulo": "Prefeitura de Juquiá - SP abre concurso público com salários de até R$ 8.653,17",
@@ -1503,28 +1457,6 @@
    "novo": false
   },
   {
-   "id": "9aa70bdb5bc7e8ef",
-   "orgao": "Prefeitura de Marabá Paulista",
-   "titulo": "Prefeitura de Marabá Paulista - SP abre concurso público para Psicólogo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maraba-paulista-sp-abre-concurso-publico-para-psicologo",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3857.19,
-   "salario_por_hora": false,
-   "cargos": "Psicólogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-09T20:57:49+00:00",
-   "novo": false
-  },
-  {
    "id": "6a12f19acb7e8ac0",
    "orgao": "Prefeitura de Mirassol",
    "titulo": "Prefeitura de Mirassol - SP abre processo seletivo para Agente de Suporte ao Atendimento da Criança",
@@ -1540,9 +1472,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "03 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
    "novo": false
   },
@@ -1826,9 +1758,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-12",
-   "prazo_texto": "03 a12/11/2026",
+   "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -1849,9 +1781,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-16",
-   "prazo_texto": "03 a16/11/2026",
+   "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
   },
@@ -2094,28 +2026,6 @@
    "novo": false
   },
   {
-   "id": "7e8c0a3ac20bf789",
-   "orgao": "PRUDENCO - Companhia Prudentina de Desenvolvimento",
-   "titulo": "PRUDENCO - SP abre concurso público para Coletor e Motorista",
-   "url": "https://www.pciconcursos.com.br/noticias/prudenco-sp-abre-concurso-publico-para-coletor-e-motorista",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 2636.72,
-   "salario_por_hora": false,
-   "cargos": "Coletor, Motorista",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-07T22:02:14+00:00",
-   "novo": false
-  },
-  {
    "id": "078b8e88745d1496",
    "orgao": "PRUDENPREV - Sistema de Previdência do Município de Presidente Prudente",
    "titulo": "PRUDENPREV - SP abre concurso público com salários de até R$ 11.102,06",
@@ -2295,28 +2205,6 @@
    "inscricoes_ate": "2026-11-03",
    "prazo_texto": "Prorrogado até03/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
-   "novo": false
-  },
-  {
-   "id": "35285770131fa8e5",
-   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
-   "titulo": "RioSaúde - RJ abre processo seletivo para vagas de enfermeiros na área de oncologia",
-   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-vagas-de-enfermeiros-na-area-de-oncologia",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 5239.4,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
   },
   {
@@ -3210,9 +3098,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-02",
-   "prazo_texto": "03/11 a02/12/2026",
+   "prazo_texto": "02/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -3330,9 +3218,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "03 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
   },
@@ -3491,9 +3379,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "03 a08/11/2026",
+   "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": false
   },
@@ -4587,9 +4475,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "03 a04/11/2026",
+   "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -4612,9 +4500,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "03 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-20T22:23:00+00:00",
    "novo": false
   },
@@ -5013,9 +4901,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-03",
-   "prazo_texto": "03/11 a03/12/2026",
+   "prazo_texto": "03/12/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
   },
@@ -5060,9 +4948,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "03 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -5425,9 +5313,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "03 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-29T16:57:28+00:00",
    "novo": false
   },
@@ -6112,9 +6000,9 @@
     "Médio",
     "Técnico"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "03 a09/11/2026",
+   "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -6507,28 +6395,6 @@
    "novo": false
   },
   {
-   "id": "8c5961ca5c48c78f",
-   "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
-   "titulo": "Hospital Regional Deputado Affonso Ghizzo de Araranguá - SC abre processo seletivo para aprendiz",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-regional-deputado-affonso-ghizzo-de-ararangua-sc-abre-processo-seletivo-para-aprendiz",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": null,
-   "salario_por_hora": false,
-   "cargos": "Aprendiz",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-29T21:50:03+00:00",
-   "novo": false
-  },
-  {
    "id": "2cf3b57a9d11c192",
    "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
    "titulo": "IPREARROIO - SC abre concurso público para o cargo de Agente Previdenciário",
@@ -6831,9 +6697,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-03",
-   "prazo_texto": "03/11 a03/12/2026",
+   "prazo_texto": "03/12/2026",
    "visto_em": "2026-10-28T13:03:26+00:00",
    "novo": false
   },
@@ -8169,33 +8035,10 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
-   "inscricoes_ate": "2026-12-03",
-   "prazo_texto": "Reabertura de03/11 a03/12/2026",
-   "visto_em": "2026-10-28T23:15:44+00:00",
-   "novo": false
-  },
-  {
-   "id": "dd2e7a8e38952dc4",
-   "orgao": "Câmara de Paraíso das Águas",
-   "titulo": "Câmara de Paraíso das Águas - MS abre concurso público para Contador e Assistente Legislativo",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-das-aguas-ms-abre-concurso-publico-para-contador-e-assistente-legislativo",
-   "uf": "MS",
-   "uf_nome": "Mato Grosso do Sul",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 8160.14,
-   "salario_por_hora": false,
-   "cargos": "Contador, Assistente Legislativo",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-13T19:19:47+00:00",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "Reaberto até03/12/2026",
+   "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
   },
   {
@@ -8264,9 +8107,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "03 a04/11/2026",
+   "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -8645,9 +8488,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "03 a26/11/2026",
+   "prazo_texto": "26/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -8856,9 +8699,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-10",
-   "prazo_texto": "03 a10/11/2026",
+   "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -8880,9 +8723,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-07",
-   "prazo_texto": "03/11 a07/12/2026",
+   "prazo_texto": "07/12/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -9495,9 +9338,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-17",
-   "prazo_texto": "03 a17/11/2026",
+   "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -9517,9 +9360,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "03 a05/11/2026",
+   "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
   },
@@ -9788,28 +9631,6 @@
    "novo": false
   },
   {
-   "id": "d01edb83a6e711ee",
-   "orgao": "UPE - Universidade de Pernambuco",
-   "titulo": "Universidade de Pernambuco abre concurso público para o cargo de Advogado",
-   "url": "https://www.pciconcursos.com.br/noticias/universidade-de-pernambuco-abre-concurso-publico-para-o-cargo-de-advogado",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 4165.25,
-   "salario_por_hora": false,
-   "cargos": "Advogado",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-09-30T19:25:57+00:00",
-   "novo": false
-  },
-  {
    "id": "3fd34de5a1a5da9d",
    "orgao": "Câmara de Dom Inocêncio",
    "titulo": "Câmara de Dom Inocêncio - PI abre concurso público com salários de até R$ 6.000,00",
@@ -10029,31 +9850,6 @@
    "novo": false
   },
   {
-   "id": "a9d5310948319b45",
-   "orgao": "Prefeitura de São João da Varjota",
-   "titulo": "Prefeitura de São João da Varjota - PI abre concurso público para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-da-varjota-pi-abre-concurso-publico-para-diversos-cargos",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 64,
-   "cadastro_reserva": false,
-   "salario": 7200.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-02",
-   "prazo_texto": "02/11/2026",
-   "visto_em": "2026-10-02T18:28:29+00:00",
-   "novo": false
-  },
-  {
    "id": "f818cc1da8532827",
    "orgao": "Prefeitura de São João do Piauí",
    "titulo": "Prefeitura de São João do Piauí - PI abre processos seletivos com salários de até R$ 16.800,00",
@@ -10165,9 +9961,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-03",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "03 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
   }
