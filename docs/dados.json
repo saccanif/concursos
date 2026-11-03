@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-03T17:52:35+00:00",
+ "gerado_em": "2026-11-03T23:28:00+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 446,
- "novos": 21,
- "encerrados": 0,
+ "total": 460,
+ "novos": 38,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -797,6 +797,28 @@
    "novo": true
   },
   {
+   "id": "37a1dc23420ef1b3",
+   "orgao": "IPSM - Instituto de Previdência do Servidor Municipal",
+   "titulo": "IPSM de São José dos Campos - SP divulga retificações de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-divulga-retificacoes-de-concurso-publico",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 5860.31,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Prorrogado até06/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "03d4989e5ebee11c",
    "orgao": "Marinha do Brasil - Comando do 8º Distrito Naval",
    "titulo": "Marinha do Brasil - 8º Distrito Naval abre vagas para Oficiais RM2 em SP",
@@ -1399,6 +1421,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-06T21:40:17+00:00",
    "novo": false
+  },
+  {
+   "id": "dc37e05c512dd6de",
+   "orgao": "Prefeitura de Jumirim",
+   "titulo": "Prefeitura de Jumirim - SP abre concurso público para Motorista Plantonista",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jumirim-sp-abre-concurso-publico-para-motorista-plantonista",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2523.65,
+   "salario_por_hora": false,
+   "cargos": "Motorista Plantonista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "bf827f8c743c6800",
@@ -4204,6 +4248,31 @@
    "novo": false
   },
   {
+   "id": "db678a6373d20c3b",
+   "orgao": "Prefeitura de São José do Divino",
+   "titulo": "Prefeitura de São José do Divino - MG abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-divino-mg-abre-concurso-publico-para-diversos-cargos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 64,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2027-01-11",
+   "inscricoes_ate": "2027-02-10",
+   "prazo_texto": "11/01 a10/02/2027",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "4c131c8f60c69db6",
    "orgao": "Prefeitura de São Pedro da União",
    "titulo": "Prefeitura de São Pedro da União - MG abre concurso público com salários de até R$ 17.612,87",
@@ -4483,13 +4552,13 @@
    "novo": false
   },
   {
-   "id": "6ceced4a9caaffed",
+   "id": "0e396cbb720048be",
    "orgao": "Santa Casa BH - Santa Casa de Misericórdia de Belo Horizonte",
-   "titulo": "Santa Casa de Misericórdia de Belo Horizonte - MG abre vagas para médicos em Especialização e Fellowship",
-   "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-misericordia-de-belo-horizonte-mg-abre-vagas-para-medicos-em-especializacao-e-fellowship",
+   "titulo": "Santa Casa de Misericórdia de Belo Horizonte - MG retifica seleções para médicos em Especialização e Fellowship",
+   "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-misericordia-de-belo-horizonte-mg-retifica-selecoes-para-medicos-em-especializacao-e-fellowship",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
-   "vagas": 40,
+   "vagas": 42,
    "cadastro_reserva": false,
    "salario": null,
    "salario_por_hora": false,
@@ -4499,16 +4568,16 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-03",
-   "prazo_texto": "03/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Prorrogado até06/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
-   "id": "f537caa4d972cd02",
+   "id": "0d0284dbaf4edd2f",
    "orgao": "Santa Casa BH - Santa Casa de Misericórdia de Belo Horizonte",
-   "titulo": "Santa Casa de Misericórdia de Belo Horizonte - MG abre seleções para residência médica e multiprofissional",
-   "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-misericordia-de-belo-horizonte-mg-abre-selecoes-para-residencia-medica-e-multiprofissional",
+   "titulo": "Santa Casa de Misericórdia de Belo Horizonte - MG retifica seleções para residência médica e multiprofissional",
+   "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-misericordia-de-belo-horizonte-mg-retifica-selecoes-para-residencia-medica-e-multiprofissional",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
    "vagas": 203,
@@ -4521,10 +4590,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "Prorrogado até06/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "baa25cc1418aabf7",
@@ -4737,6 +4806,30 @@
    "prazo_texto": "04 a06/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "8504d069a74665be",
+   "orgao": "Prefeitura de Santa Maria de Jetibá",
+   "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre processos seletivos para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-abre-processos-seletivos-para-cadastro-de-reserva",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 4727.46,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "10 a15/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "84e025ff6fba1f63",
@@ -5528,6 +5621,28 @@
    "novo": false
   },
   {
+   "id": "12be10a9324d78a5",
+   "orgao": "Prefeitura de Ibirubá",
+   "titulo": "Prefeitura de Ibirubá - RS abre processo seletivo para o cargo de Operário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiruba-rs-abre-processo-seletivo-para-o-cargo-de-operario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2228.14,
+   "salario_por_hora": false,
+   "cargos": "Operário(a)",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "5ecabd5784c23c24",
    "orgao": "Prefeitura de Igrejinha",
    "titulo": "Prefeitura de Igrejinha - RS abre processo seletivo para Educador Multimeios",
@@ -5645,10 +5760,10 @@
    "novo": false
   },
   {
-   "id": "82a376d7bcafd3b1",
+   "id": "fa6a72fe6d813326",
    "orgao": "Prefeitura de Itapuca",
-   "titulo": "Prefeitura de Itapuca - RS abre concurso público com salários de até R$ 9.495,82",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-abre-concurso-publico-com-salarios-de-ate-9495",
+   "titulo": "Prefeitura de Itapuca - RS retifica concurso público com salários de até R$ 9.495,82",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495",
    "uf": "RS",
    "uf_nome": "Rio Grande do Sul",
    "vagas": 51,
@@ -5656,16 +5771,17 @@
    "salario": 9495.82,
    "salario_por_hora": false,
    "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
+   "escolaridade": "Médio / Técnico / Superior",
    "niveis": [
     "Médio",
+    "Técnico",
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-10-14T18:40:31+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "Prorrogado até12/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "6a9660aedcd36ba8",
@@ -5976,6 +6092,29 @@
    "novo": false
   },
   {
+   "id": "863f407367145646",
+   "orgao": "Prefeitura de São José do Hortêncio",
+   "titulo": "Prefeitura de São José do Hortêncio - RS abre processo seletivo para Técnico em Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-hortencio-rs-abre-processo-seletivo-para-tecnico-em-enfermagem",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "c78a9e117c60169f",
    "orgao": "Prefeitura de São José do Inhacorá",
    "titulo": "Prefeitura de São José do Inhacorá - RS abre concurso público com salários de até R$ 9.885,71",
@@ -6117,6 +6256,50 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
+  },
+  {
+   "id": "13dec98e95d689a4",
+   "orgao": "Prefeitura de Três Coroas",
+   "titulo": "Prefeitura de Três Coroas - RS abre seleção para Técnico de Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecao-para-tecnico-de-enfermagem",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3909.29,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
+   "id": "387910a25f794ad8",
+   "orgao": "Prefeitura de Trindade do Sul",
+   "titulo": "Prefeitura de Trindade do Sul - RS abre seleção para Motorista de Ambulância do SAMU",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-selecao-para-motorista-de-ambulancia-do-samu",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2020.9,
+   "salario_por_hora": false,
+   "cargos": "Motorista-Ambulância/SAMU",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-04",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "04 a09/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "23e7930965eebc21",
@@ -6958,6 +7141,31 @@
    "novo": false
   },
   {
+   "id": "77c5fa2341e8c1db",
+   "orgao": "Prefeitura de Fraiburgo",
+   "titulo": "Prefeitura de Fraiburgo - SC abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 25103.42,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "345574e3f517be07",
    "orgao": "Prefeitura de Garuva",
    "titulo": "Prefeitura de Garuva - SC abre processo seletivo para cadastro de reserva em diversos cargos",
@@ -7175,6 +7383,26 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-22T22:23:11+00:00",
    "novo": false
+  },
+  {
+   "id": "49a58773034fa360",
+   "orgao": "Prefeitura de Itapoá",
+   "titulo": "Prefeitura de Itapoá - SC abre seleção para instrutores escolares",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-selecao-para-instrutores-escolares",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 3841.41,
+   "salario_por_hora": false,
+   "cargos": "Instrutor Escolar",
+   "escolaridade": "Não informada",
+   "niveis": [],
+   "inscricoes_de": "2026-11-05",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "05 a23/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "38c1b6c2ff14749a",
@@ -8296,6 +8524,31 @@
    "novo": false
   },
   {
+   "id": "0c4cbdcf09f641f3",
+   "orgao": "Prefeitura de São Francisco de Goiás",
+   "titulo": "Prefeitura de São Francisco de Goiás - GO abre concurso público com salários de até R$ 10.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-de-goias-go-abre-concurso-publico-com-salarios-de-ate-10500",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 86,
+   "cadastro_reserva": false,
+   "salario": 10500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-07",
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "07/12/2026 a07/01/2027",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
+  },
+  {
    "id": "4208bd40f3e27e20",
    "orgao": "Prefeitura de São Luís de Montes Belos",
    "titulo": "Prefeitura de São Luís de Montes Belos - GO abre concurso público com salários de até R$ 5.559,33",
@@ -8510,6 +8763,30 @@
    "prazo_texto": "04/11 a04/12/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "7595a654d63ece72",
+   "orgao": "Câmara de Colíder",
+   "titulo": "Câmara de Colíder - MT abre concurso público com salários de até R$ 4.778,09",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-colider-mt-abre-concurso-publico-com-salarios-de-ate-4778",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 1,
+   "cadastro_reserva": true,
+   "salario": 4778.09,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "10/11 a03/12/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "03ac81c33f57aaf0",
@@ -8870,6 +9147,28 @@
    "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
    "novo": false
+  },
+  {
+   "id": "3247504b47b0a07d",
+   "orgao": "ECOPS - Empresa Cruzeirense de Obras Públicas, Serviços e Urbanização",
+   "titulo": "ECOPS - AC abre vagas para o cargo de servente de limpeza",
+   "url": "https://www.pciconcursos.com.br/noticias/ecops-ac-abre-vagas-para-o-cargo-de-servente-de-limpeza",
+   "uf": "AC",
+   "uf_nome": "Acre",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Servente de Limpeza Zona Rural",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-04",
+   "inscricoes_ate": "2026-11-09",
+   "prazo_texto": "04 a09/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "959fe2e43eca18bc",
@@ -9667,6 +9966,30 @@
    "prazo_texto": "Reaberto até11/11/2026",
    "visto_em": "2026-10-23T18:24:51+00:00",
    "novo": false
+  },
+  {
+   "id": "20bf2cd33106be6b",
+   "orgao": "Prefeitura de Orós",
+   "titulo": "Prefeitura de Orós - CE abre concurso público com vagas para diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oros-ce-abre-concurso-publico-com-vagas-para-diversas-areas",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 95,
+   "cadastro_reserva": false,
+   "salario": 3606.93,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "06 a22/11/2026",
+   "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": true
   },
   {
    "id": "4febb19b3fca687a",
