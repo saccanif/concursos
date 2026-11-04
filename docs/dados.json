@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-04T06:34:06+00:00",
+ "gerado_em": "2026-11-04T15:29:12+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 431,
- "novos": 37,
- "encerrados": 29,
+ "total": 440,
+ "novos": 49,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -162,10 +162,10 @@
    "novo": false
   },
   {
-   "id": "94f9b29c55e347a9",
+   "id": "71f6783d1e1acdf5",
    "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
-   "titulo": "TRF3 - SP/MS abre concurso público para analistas e técnicos judiciários",
-   "url": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+   "titulo": "TRF3 - SP/MS retifica concurso público para analistas e técnicos judiciários",
+   "url": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
    "uf": "NACIONAL",
    "uf_nome": "Nacional",
    "vagas": 11,
@@ -181,8 +181,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
-   "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": false
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "f6b62fd0eddf113e",
@@ -841,6 +841,31 @@
    "novo": false
   },
   {
+   "id": "8b462a3d79e93021",
+   "orgao": "Prefeitura da Estância Turística de Guaratinguetá",
+   "titulo": "Prefeitura de Guaratinguetá - SP abre concurso público com salários de até R$ 18.540,71",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaratingueta-sp-abre-concurso-publico-com-salarios-de-ate-18540",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 107,
+   "cadastro_reserva": false,
+   "salario": 18540.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-12-15",
+   "prazo_texto": "16/11 a15/12/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
+  },
+  {
    "id": "616c3a552c424c6c",
    "orgao": "Prefeitura da Estância Turística de Piraju",
    "titulo": "Prefeitura de Piraju - SP abre processo seletivo para a área da educação",
@@ -1092,6 +1117,31 @@
    "novo": false
   },
   {
+   "id": "988d6b1bdbd7b665",
+   "orgao": "Prefeitura de Canitar",
+   "titulo": "Prefeitura de Canitar - SP abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canitar-sp-abre-concurso-publico-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 3077.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "10/11 a04/12/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
+  },
+  {
    "id": "713b1e1fc4bff3d2",
    "orgao": "Prefeitura de Conchal",
    "titulo": "Prefeitura de Conchal - SP abre processo seletivo para Agentes de Saúde e de Endemias",
@@ -1112,6 +1162,28 @@
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
    "novo": false
+  },
+  {
+   "id": "aea0e1e69518f949",
+   "orgao": "Prefeitura de Cosmópolis",
+   "titulo": "Prefeitura de Cosmópolis - SP abre concurso público para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cosmopolis-sp-abre-concurso-publico-para-profissionais-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": true,
+   "salario": 37.05,
+   "salario_por_hora": true,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "10/12/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "f49cc19be7b51e31",
@@ -1306,6 +1378,31 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
+  },
+  {
+   "id": "8dc74eaf85fe3581",
+   "orgao": "Prefeitura de Iaras",
+   "titulo": "Prefeitura de Iaras - SP abre concurso público e processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iaras-sp-abre-concurso-publico-e-processo-seletivo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 6142.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "261408c3a8512bd4",
@@ -1640,6 +1737,31 @@
    "novo": false
   },
   {
+   "id": "636317cade8127ec",
+   "orgao": "Prefeitura de Óleo",
+   "titulo": "Prefeitura de Óleo - SP abre processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-oleo-sp-abre-processo-seletivo-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3951.25,
+   "salario_por_hora": false,
+   "cargos": "Merendeira, Professor de Educação Básica, Técnico em Informática",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
+  },
+  {
    "id": "4e22638dcc150f44",
    "orgao": "Prefeitura de Orlândia",
    "titulo": "Prefeitura de Orlândia - SP abre processo seletivo para a área da educação",
@@ -1924,10 +2046,10 @@
    "novo": false
   },
   {
-   "id": "cbee0fc65abb95ed",
+   "id": "d36775db98aa066a",
    "orgao": "Prefeitura de São José da Bela Vista",
-   "titulo": "Prefeitura de São José da Bela Vista - SP abre concurso público para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-abre-concurso-publico-para-cadastro-de-reserva",
+   "titulo": "Prefeitura de São José da Bela Vista - SP prorroga inscrições de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-bela-vista-sp-prorroga-inscricoes-de-concurso-publico",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": null,
@@ -1941,10 +2063,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-05",
-   "prazo_texto": "05/11/2026",
-   "visto_em": "2026-10-22T22:23:11+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "Prorrogado até03/12/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "73976f2681e82350",
@@ -2115,6 +2237,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-28T15:33:58+00:00",
    "novo": false
+  },
+  {
+   "id": "9bfd8e0a1181e015",
+   "orgao": "SEFAZ - Secretaria da Fazenda e Planejamento",
+   "titulo": "SEFAZ - SP retifica concurso público para Analista em Planejamento, Orçamento e Finanças Públicas",
+   "url": "https://www.pciconcursos.com.br/noticias/sefaz-sp-retifica-concurso-publico-para-analista-em-planejamento-orcamento-e-financas-publicas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 60,
+   "cadastro_reserva": false,
+   "salario": 11359.5,
+   "salario_por_hora": false,
+   "cargos": "Analista em Planejamento, Orçamento e Finanças Públicas",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-05",
+   "prazo_texto": "Prorrogado até05/11/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "93b937f6da445ac4",
@@ -5128,6 +5272,30 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-29T16:57:28+00:00",
    "novo": false
+  },
+  {
+   "id": "f12ed2fb68cc221c",
+   "orgao": "Prefeitura de Caxias do Sul",
+   "titulo": "Prefeitura de Caxias do Sul - RS divulga editais de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-do-sul-rs-divulga-editais-de-concurso-publico",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 24,
+   "cadastro_reserva": false,
+   "salario": 19787.77,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "1a6d211fc21b4989",
@@ -8610,6 +8778,28 @@
    "novo": false
   },
   {
+   "id": "8629cd29a5498e35",
+   "orgao": "HOL - Hospital Ophir Loyola",
+   "titulo": "Hospital Ophir Loyola - PA anuncia processos seletivos com vagas para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/hospital-ophir-loyola-pa-anuncia-processos-seletivos-com-vagas-para-medicos",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 54,
+   "cadastro_reserva": false,
+   "salario": 2176.75,
+   "salario_por_hora": false,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-05",
+   "inscricoes_ate": "2026-11-07",
+   "prazo_texto": "05 a07/11/2026",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
+  },
+  {
    "id": "0f4e118a859c8206",
    "orgao": "Prefeitura de Bujaru",
    "titulo": "Prefeitura de Bujaru - PA abre concurso público com salários de até R$ 4.543,83",
@@ -9723,6 +9913,28 @@
    "novo": true
   },
   {
+   "id": "34c5901a0525eec4",
+   "orgao": "SEAP - Secretaria de Administração Penitenciária e Ressocialização",
+   "titulo": "SEAP - PE abre concurso público com 700 vagas para policial penal",
+   "url": "https://www.pciconcursos.com.br/noticias/seap-pe-abre-concurso-publico-com-700-vagas-para-policial-penal",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 700,
+   "cadastro_reserva": false,
+   "salario": 5667.92,
+   "salario_por_hora": false,
+   "cargos": "Policial Penal",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "12/11/2026 a04/01/2027",
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
+  },
+  {
    "id": "3fd34de5a1a5da9d",
    "orgao": "Câmara de Dom Inocêncio",
    "titulo": "Câmara de Dom Inocêncio - PI abre concurso público com salários de até R$ 6.000,00",
@@ -9842,10 +10054,10 @@
    "novo": false
   },
   {
-   "id": "24c10dae49a0dfe3",
+   "id": "45f1e6aafd071f78",
    "orgao": "Prefeitura de Canto do Buriti",
-   "titulo": "Prefeitura de Canto do Buriti - PI abre concurso público com salários de até R$ 16.210,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-abre-concurso-publico-com-salarios-de-ate-16210",
+   "titulo": "Prefeitura de Canto do Buriti - PI retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
    "uf": "PI",
    "uf_nome": "Piauí",
    "vagas": 257,
@@ -9863,8 +10075,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
-   "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": false
+   "visto_em": "2026-11-04T15:29:12+00:00",
+   "novo": true
   },
   {
    "id": "924236bc510edd97",
