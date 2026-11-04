@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-04T15:29:12+00:00",
+ "gerado_em": "2026-11-04T21:56:09+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 440,
- "novos": 49,
- "encerrados": 3,
+ "total": 454,
+ "novos": 64,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -300,6 +300,29 @@
    "novo": false
   },
   {
+   "id": "da09d6267673bc5c",
+   "orgao": "Câmara de Sete Barras",
+   "titulo": "Câmara de Sete Barras - SP abre concurso público com salários de até R$ 7.434,85",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sete-barras-sp-abre-concurso-publico-com-salarios-de-ate-7434",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 7434.85,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "56fac1f634a6da4a",
    "orgao": "Câmara de Tambaú",
    "titulo": "Câmara de Tambaú - SP abre concurso público com salários de até R$ 6.423,46",
@@ -526,6 +549,28 @@
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": false
+  },
+  {
+   "id": "5756dd9cc457ef6a",
+   "orgao": "FSA - Fundação Santo André",
+   "titulo": "Fundação Santo André - SP abre concurso para Analista Administrativo Acadêmico",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-santo-andre-sp-abre-concurso-para-analista-administrativo-academico",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2215.41,
+   "salario_por_hora": false,
+   "cargos": "Analista Administrativo Acadêmico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/12/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "61bb548932a0b56f",
@@ -1618,6 +1663,30 @@
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-20T15:08:46+00:00",
    "novo": false
+  },
+  {
+   "id": "446314f68a296f2f",
+   "orgao": "Prefeitura de Marapoama",
+   "titulo": "Prefeitura de Marapoama - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marapoama-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 34,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "6a12f19acb7e8ac0",
@@ -3268,6 +3337,28 @@
    "novo": false
   },
   {
+   "id": "ad3d1252c9ba3b19",
+   "orgao": "Prefeitura de Capitólio",
+   "titulo": "Prefeitura de Capitólio - MG abre processos seletivos para os cargos de Guarda e Operário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capitolio-mg-abre-processos-seletivos-para-os-cargos-de-guarda-e-operario",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 2163.56,
+   "salario_por_hora": false,
+   "cargos": "Guarda, Operário",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "fa813f456681f2a5",
    "orgao": "Prefeitura de Carmo da Cachoeira",
    "titulo": "Prefeitura de Carmo da Cachoeira - MG abre seleção para agentes de saúde e de endemias",
@@ -3660,6 +3751,28 @@
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "a19c7e9fc6e39f93",
+   "orgao": "Prefeitura de Paracatu",
+   "titulo": "Prefeitura de Paracatu - MG abre seleção para diretor e vice-diretor de unidade escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paracatu-mg-abre-selecao-para-diretor-e-vice-diretor-de-unidade-escolar",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 7210.64,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "b1d84953332cd133",
@@ -5323,6 +5436,29 @@
    "novo": false
   },
   {
+   "id": "13250eb382ba58d9",
+   "orgao": "Prefeitura de Fontoura Xavier",
+   "titulo": "Prefeitura de Fontoura Xavier - RS anuncia editais de concurso público e processo seletivo",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fontoura-xavier-rs-anuncia-editais-de-concurso-publico-e-processo-seletivo",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Administrativo Auxiliar, Agente Comunitário de Saúde",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-05",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "05/11 a03/12/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "5f9e2a29cbe9cf3a",
    "orgao": "Prefeitura de Guaporé",
    "titulo": "Prefeitura de Guaporé - RS abre concurso público para formação de cadastro de reserva",
@@ -5818,6 +5954,28 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
+  },
+  {
+   "id": "95456db7c80af2f6",
+   "orgao": "Prefeitura de São Pedro do Sul",
+   "titulo": "Prefeitura de São Pedro do Sul - RS abre seleção para visitadores dos programas Criança Feliz e Primeira Infância Melhor",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecao-para-visitadores-dos-programas-crianca-feliz-e-primeira-infancia-melhor",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Visitador dos programas Criança Feliz e Primeira Infância Melhor",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "e3f613dbf9c0c52b",
@@ -6373,6 +6531,50 @@
    "novo": false
   },
   {
+   "id": "3bb061b150355249",
+   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+   "titulo": "FAHECE - SC abre processo seletivo para técnico de laboratório em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-laboratorio-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3066.92,
+   "salario_por_hora": false,
+   "cargos": "Técnico de Laboratório I",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-06",
+   "prazo_texto": "06/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
+   "id": "e561ae9ba79cddd3",
+   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+   "titulo": "FAHECE - SC abre vaga para Assistente de Almoxarifado PCD no SAMU de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-almoxarifado-pcd-no-samu-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente de Almoxarifado I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "7696c53cce198b35",
    "orgao": "FCC - Fundação Catarinense de Cultura",
    "titulo": "Fundação Catarinense de Cultura - SC abre processo seletivo para Analista Contador",
@@ -6417,6 +6619,29 @@
    "prazo_texto": "14/11 a02/12/2026",
    "visto_em": "2026-10-31T00:50:52+00:00",
    "novo": false
+  },
+  {
+   "id": "f751ebf3f1fdca78",
+   "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
+   "titulo": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
+   "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 12300.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-13",
+   "inscricoes_ate": "2026-12-14",
+   "prazo_texto": "13/11 a14/12/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "2cf3b57a9d11c192",
@@ -7849,6 +8074,28 @@
    "novo": false
   },
   {
+   "id": "21c4451a0f61faad",
+   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
+   "titulo": "IGESDF - DF anuncia seleções para terapeuta ocupacional e médico cirurgião geral",
+   "url": "https://www.pciconcursos.com.br/noticias/igesdf-df-anuncia-selecoes-para-terapeuta-ocupacional-e-medico-cirurgiao-geral",
+   "uf": "DF",
+   "uf_nome": "Distrito Federal",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 13359.56,
+   "salario_por_hora": false,
+   "cargos": "Terapeuta Ocupacional, Médico Cirurgião Geral",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "5f94191eeb0ebd0f",
    "orgao": "Câmara de Cristalina",
    "titulo": "Câmara de Cristalina - GO retifica concurso público com salários de até R$ 8.383,20",
@@ -8348,6 +8595,30 @@
    "prazo_texto": "12 a26/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
+  },
+  {
+   "id": "34e38f2551781a86",
+   "orgao": "Prefeitura de Cáceres",
+   "titulo": "Prefeitura de Cáceres - MT abre processo seletivo com salários de até R$ 7.226,74",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caceres-mt-abre-processo-seletivo-com-salarios-de-ate-7226",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 7226.74,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-20",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "20 a30/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "2c3acebad8bbcad4",
@@ -9292,6 +9563,28 @@
    "novo": true
   },
   {
+   "id": "fc881a69a62cf2d7",
+   "orgao": "CONSCENSUL - Consórcio Público da Região Sertão Centro Sul",
+   "titulo": "CONSCENSUL - CE abre concurso público com vagas de nível superior em Lavras da Mangabeira",
+   "url": "https://www.pciconcursos.com.br/noticias/conscensul-ce-abre-concurso-publico-com-vagas-de-nivel-superior-em-lavras-da-mangabeira",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 5500.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "06 a29/11/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
+  },
+  {
    "id": "72d5a6587aad199f",
    "orgao": "CRO - Conselho Regional de Odontologia do Ceará",
    "titulo": "CRO - CE abre processo seletivo para o cargo de fiscal cirurgião-dentista",
@@ -9770,10 +10063,10 @@
    "novo": false
   },
   {
-   "id": "d5200d64c397079c",
+   "id": "41401994f03510d0",
    "orgao": "Prefeitura de Serra Grande",
-   "titulo": "Prefeitura de Serra Grande - PB abre concurso público com vagas para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-abre-concurso-publico-com-vagas-para-diversos-cargos",
+   "titulo": "Prefeitura de Serra Grande - PB retifica concurso público com vagas para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos",
    "uf": "PB",
    "uf_nome": "Paraíba",
    "vagas": 41,
@@ -9791,8 +10084,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
-   "visto_em": "2026-10-21T20:40:06+00:00",
-   "novo": false
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "398ff68c296f025c",
@@ -9864,6 +10157,30 @@
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
    "novo": false
+  },
+  {
+   "id": "923b9c165f0db59a",
+   "orgao": "Prefeitura de Moreilândia",
+   "titulo": "Prefeitura de Moreilândia - PE retifica dois concursos públicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 381,
+   "cadastro_reserva": false,
+   "salario": 10000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "Reaberto até03/12/2026",
+   "visto_em": "2026-11-04T21:56:09+00:00",
+   "novo": true
   },
   {
    "id": "5a97116219f5c845",
