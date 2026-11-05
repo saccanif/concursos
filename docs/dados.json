@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-05T11:03:10+00:00",
+ "gerado_em": "2026-11-05T18:47:57+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 438,
- "novos": 45,
- "encerrados": 17,
+ "total": 452,
+ "novos": 42,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -48,6 +48,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "5ef994895b3f8f3e",
+   "orgao": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+   "titulo": "IBGE: Processo Seletivo oferece 27.279 vagas para Recenseador",
+   "url": "https://www.pciconcursos.com.br/noticias/ibge-processo-seletivo-oferece-27279-vagas-para-recenseador",
+   "uf": "NACIONAL",
+   "uf_nome": "Nacional",
+   "vagas": 279,
+   "cadastro_reserva": false,
+   "salario": 4370.0,
+   "salario_por_hora": false,
+   "cargos": "Recenseador",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "06 a25/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "ddaad1763a73b3ea",
@@ -640,6 +662,28 @@
    "novo": false
   },
   {
+   "id": "ba824311bda5dd21",
+   "orgao": "HCFMRP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
+   "titulo": "HCFMRP - USP abre concurso público para médico na área de alergia e imunologia",
+   "url": "https://www.pciconcursos.com.br/noticias/hcfmrp-usp-abre-concurso-publico-para-medico-na-area-de-alergia-e-imunologia",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5979.93,
+   "salario_por_hora": false,
+   "cargos": "Médico I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "09 a27/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "23a579b51f836127",
    "orgao": "HCFMRP-USP - Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo",
    "titulo": "HCFMRP-USP - SP abre concursos públicos com vagas para médicos em diversas especialidades",
@@ -794,7 +838,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "03d4989e5ebee11c",
@@ -839,6 +883,28 @@
    "prazo_texto": "05/11/2026",
    "visto_em": "2026-10-01T13:25:31+00:00",
    "novo": false
+  },
+  {
+   "id": "46972a7f2bf7bc16",
+   "orgao": "PM - Polícia Militar do Estado de São Paulo",
+   "titulo": "Polícia Militar - SP abre 2.000 vagas para Aluno-Soldado",
+   "url": "https://www.pciconcursos.com.br/noticias/policia-militar-sp-abre-2000-vagas-para-aluno-soldado",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 0,
+   "cadastro_reserva": false,
+   "salario": 5482.21,
+   "salario_por_hora": false,
+   "cargos": "Aluno-Soldado PM",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-12-22",
+   "prazo_texto": "09/11 a22/12/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "8b462a3d79e93021",
@@ -1472,7 +1538,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bf827f8c743c6800",
@@ -1859,6 +1925,28 @@
    "prazo_texto": "09 a23/11/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
+  },
+  {
+   "id": "f30d994ccdc0cade",
+   "orgao": "Prefeitura de Pontal",
+   "titulo": "Prefeitura de Pontal - SP abre processo seletivo para professores e psicopedagogos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pontal-sp-abre-processo-seletivo-para-professores-e-psicopedagogos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 21.59,
+   "salario_por_hora": true,
+   "cargos": "Professor de Educação Básica I, Professor de Educação Básica II, Psicopedagogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "9b3488f876187ced",
@@ -4064,7 +4152,7 @@
    "inscricoes_ate": "2027-02-10",
    "prazo_texto": "11/01 a10/02/2027",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4c131c8f60c69db6",
@@ -4365,7 +4453,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0d0284dbaf4edd2f",
@@ -4387,6 +4475,28 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
+   "novo": false
+  },
+  {
+   "id": "f24294b1c36b665e",
+   "orgao": "Câmara de Cachoeiro de Itapemirim",
+   "titulo": "Câmara de Cachoeiro de Itapemirim - ES abre concurso público com salários de até R$ 7.046,62",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cachoeiro-de-itapemirim-es-abre-concurso-publico-com-salarios-de-ate-7046",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 7046.62,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-12-17",
+   "prazo_texto": "10/11 a17/12/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
    "novo": true
   },
   {
@@ -4577,7 +4687,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "10 a15/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "84e025ff6fba1f63",
@@ -4649,6 +4759,29 @@
    "novo": false
   },
   {
+   "id": "26d3cf51bcbcdbf0",
+   "orgao": "Câmara de Quatro Barras",
+   "titulo": "Câmara de Quatro Barras - PR reabre inscrições para concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-quatro-barras-pr-reabre-inscricoes-para-concurso-publico",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 5403.69,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "Reaberto até24/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "f1540fbf8a2a781e",
    "orgao": "Prefeitura de Apucarana",
    "titulo": "Prefeitura de Apucarana - PR abre concurso público com salários de até R$ 16.381,41",
@@ -4670,6 +4803,28 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
    "novo": false
+  },
+  {
+   "id": "a173bf33f71f674d",
+   "orgao": "Prefeitura de Entre Rios do Oeste",
+   "titulo": "Prefeitura de Entre Rios do Oeste - PR abre processo seletivo para cargos de nível superior",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-entre-rios-do-oeste-pr-abre-processo-seletivo-para-cargos-de-nivel-superior",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 14045.9,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "06 a17/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "f7a4672ecabb266f",
@@ -5071,6 +5226,30 @@
    "novo": false
   },
   {
+   "id": "dd0cc5474677c0d2",
+   "orgao": "GHC - Grupo Hospitalar Conceição",
+   "titulo": "Grupo Hospitalar Conceição - RS abre concurso para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 12974.4,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "bb86749c49ff4531",
    "orgao": "HBCS - Hospital Beneficente Dr. César Santos",
    "titulo": "Hospital Beneficente Dr. César Santos - RS abre processo seletivo com quatro vagas",
@@ -5343,7 +5522,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5ecabd5784c23c24",
@@ -5484,7 +5663,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "Prorrogado até12/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6a9660aedcd36ba8",
@@ -5749,7 +5928,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c78a9e117c60169f",
@@ -5936,7 +6115,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "387910a25f794ad8",
@@ -5958,7 +6137,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "23e7930965eebc21",
@@ -6628,6 +6807,30 @@
    "novo": false
   },
   {
+   "id": "bd17a3c6afc0d02e",
+   "orgao": "Prefeitura de Braço do Trombudo",
+   "titulo": "Prefeitura de Braço do Trombudo - SC abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-trombudo-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5615.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "c84ec4286df878a7",
    "orgao": "Prefeitura de Cerro Negro",
    "titulo": "Prefeitura de Cerro Negro - SC abre concurso público com salários de até R$ 7.660,98",
@@ -6770,7 +6973,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "345574e3f517be07",
@@ -6984,7 +7187,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "38c1b6c2ff14749a",
@@ -7546,6 +7749,28 @@
    "novo": false
   },
   {
+   "id": "fe93bf177705f609",
+   "orgao": "Prefeitura de Videira",
+   "titulo": "Prefeitura de Videira - SC abre processo seletivo para agente social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-videira-sc-abre-processo-seletivo-para-agente-social",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2486.38,
+   "salario_por_hora": false,
+   "cargos": "Agente Social",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-06",
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "06 a12/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "462f5199d9767629",
    "orgao": "Prefeitura de Vitor Meireles",
    "titulo": "Prefeitura de Vitor Meireles - SC abre concurso público e processo seletivo com salários de até R$ 11.050,85",
@@ -7873,6 +8098,30 @@
    "novo": false
   },
   {
+   "id": "a8e43e9920503737",
+   "orgao": "Câmara de Santa Helena de Goiás",
+   "titulo": "Câmara de Santa Helena de Goiás - GO abre concurso público com salários de até R$ 3.386,33",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-helena-de-goias-go-abre-concurso-publico-com-salarios-de-ate-3386",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 25,
+   "cadastro_reserva": false,
+   "salario": 3386.33,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-13",
+   "inscricoes_ate": "2027-01-13",
+   "prazo_texto": "13/12/2026 a13/01/2027",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "1070ddd84c1bc7e2",
    "orgao": "Câmara de Vila Boa",
    "titulo": "Câmara de Vila Boa - GO abre concurso público com vagas imediatas e cadastro de reserva",
@@ -8010,7 +8259,7 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "07/12/2026 a07/01/2027",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4208bd40f3e27e20",
@@ -8085,6 +8334,29 @@
    "prazo_texto": "Reaberto até03/12/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
+  },
+  {
+   "id": "a05521e82115acf5",
+   "orgao": "SANEAGO - Saneamento de Goiás S.A.",
+   "titulo": "SANEAGO - GO abre processo seletivo para o Programa Jovem Aprendiz",
+   "url": "https://www.pciconcursos.com.br/noticias/saneago-go-abre-processo-seletivo-para-o-programa-jovem-aprendiz",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Jovem Aprendiz",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-13",
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "13 a24/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "f82598f2f6be2df3",
@@ -8203,7 +8475,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "10/11 a03/12/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "03ac81c33f57aaf0",
@@ -8584,7 +8856,7 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "959fe2e43eca18bc",
@@ -8889,6 +9161,29 @@
    "novo": false
   },
   {
+   "id": "30b8ca3b65c4e62d",
+   "orgao": "Câmara de Oliveira de Fátima",
+   "titulo": "Câmara de Oliveira de Fátima - TO abre concurso público com cinco vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-oliveira-de-fatima-to-abre-concurso-publico-com-cinco-vagas-imediatas",
+   "uf": "TO",
+   "uf_nome": "Tocantins",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 1800.0,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Serviços Gerais, Vigia, Assistente Administrativo",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "09 a30/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
+  },
+  {
    "id": "7f3e0c3d946c38a3",
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Tocantins",
    "titulo": "CAU - TO abre concurso público com salários de até R$ 9.726,00",
@@ -8910,6 +9205,29 @@
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
    "novo": false
+  },
+  {
+   "id": "976cb226e7732110",
+   "orgao": "Câmara de Santa Rita de Cássia",
+   "titulo": "Câmara de Santa Rita de Cássia - BA abre concurso público com 12 vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-rita-de-cassia-ba-abre-concurso-publico-com-12-vagas",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 1728.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-05T18:47:57+00:00",
+   "novo": true
   },
   {
    "id": "05f4487d053a036c",
@@ -9449,7 +9767,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "06 a22/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4febb19b3fca687a",
