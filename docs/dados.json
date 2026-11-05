@@ -1,32 +1,10 @@
 {
- "gerado_em": "2026-11-05T02:31:11+00:00",
+ "gerado_em": "2026-11-05T11:03:10+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 455,
- "novos": 65,
- "encerrados": 0,
+ "total": 438,
+ "novos": 45,
+ "encerrados": 17,
  "concursos": [
-  {
-   "id": "086084c62ce8d650",
-   "orgao": "CGU - Controladoria-Geral da União",
-   "titulo": "CGU abre concurso público com vagas para auditores federais de finanças e controle",
-   "url": "https://www.pciconcursos.com.br/noticias/cgu-abre-concurso-publico-com-vagas-para-auditores-federais-de-financas-e-controle",
-   "uf": "NACIONAL",
-   "uf_nome": "Nacional",
-   "vagas": 60,
-   "cadastro_reserva": false,
-   "salario": 20000.0,
-   "salario_por_hora": false,
-   "cargos": "Auditor Federal de Finanças e Controle",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
   {
    "id": "a2373ab7ac0c2dea",
    "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
@@ -343,7 +321,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5d4af030bdf29304",
@@ -596,29 +574,6 @@
    "novo": false
   },
   {
-   "id": "f44931de8549cc47",
-   "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
-   "titulo": "FUNCAMP - SP abre seleções para o Hospital de Clínicas e Hospital Estadual Sumaré",
-   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-o-hospital-de-clinicas-e-hospital-estadual-sumare",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 4830.0,
-   "salario_por_hora": false,
-   "cargos": "Assistente Social, Jardineiro",
-   "escolaridade": "Fundamental / Superior",
-   "niveis": [
-    "Fundamental",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": false
-  },
-  {
    "id": "b525309c277605d7",
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
    "titulo": "FUNCAMP - SP abre processo seletivo para Analista de Pesquisa Clínica Júnior no Hemocentro",
@@ -682,7 +637,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "23a579b51f836127",
@@ -772,7 +727,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "09 a27/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7dddd3cdd72c45f7",
@@ -817,7 +772,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "16/11 a15/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "37a1dc23420ef1b3",
@@ -1048,28 +1003,6 @@
    "novo": false
   },
   {
-   "id": "38997ef0c9830b66",
-   "orgao": "Prefeitura de Araçoiaba da Serra",
-   "titulo": "Prefeitura de Araçoiaba da Serra - SP abre vaga para motorista de transporte coletivo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-vaga-para-motorista-de-transporte-coletivo",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2133.3,
-   "salario_por_hora": false,
-   "cargos": "Motorista",
-   "escolaridade": "Fundamental",
-   "niveis": [
-    "Fundamental"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-29T16:57:28+00:00",
-   "novo": false
-  },
-  {
    "id": "a435aacc5c636888",
    "orgao": "Prefeitura de Birigui",
    "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
@@ -1274,7 +1207,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3853c9601f8f7de2",
@@ -1831,50 +1764,6 @@
    "novo": true
   },
   {
-   "id": "4e22638dcc150f44",
-   "orgao": "Prefeitura de Orlândia",
-   "titulo": "Prefeitura de Orlândia - SP abre processo seletivo para a área da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orlandia-sp-abre-processo-seletivo-para-a-area-da-educacao",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4221.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-16T23:38:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "1d43d489893952fb",
-   "orgao": "Prefeitura de Palmital",
-   "titulo": "Prefeitura de Palmital - SP abre processo seletivo para monitores",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmital-sp-abre-processo-seletivo-para-monitores",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 25,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Monitor de Creche, Monitor Escolar, Monitor de Transporte",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-23T22:15:36+00:00",
-   "novo": false
-  },
-  {
    "id": "4394b654ab3042a3",
    "orgao": "Prefeitura de Paulo de Faria",
    "titulo": "Prefeitura de Paulo de Faria - SP abre concurso público com salários de até R$ 8.632,29",
@@ -2108,9 +1997,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-24",
-   "prazo_texto": "05 a24/11/2026",
+   "prazo_texto": "24/11/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
   },
@@ -2893,29 +2782,6 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "Reaberto até26/11/2026",
-   "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "f62a08de6f026015",
-   "orgao": "Câmara de Pedras de Maria da Cruz",
-   "titulo": "Câmara de Pedras de Maria da Cruz - MG abre concurso público para níveis fundamental e médio",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-pedras-de-maria-da-cruz-mg-abre-concurso-publico-para-niveis-fundamental-e-medio",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 4,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar de Serviços Gerais, Motorista, Oficial Administrativo",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -4544,7 +4410,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "06 a19/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c69ca1932ea3d89b",
@@ -4612,30 +4478,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-20T19:19:49+00:00",
-   "novo": false
-  },
-  {
-   "id": "b322306f72080c12",
-   "orgao": "Prefeitura de Alfredo Chaves",
-   "titulo": "Prefeitura de Alfredo Chaves - ES abre seleção para diversas áreas da saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alfredo-chaves-es-abre-selecao-para-diversas-areas-da-saude",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3466.49,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
   {
@@ -4827,28 +4669,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-14T13:47:05+00:00",
-   "novo": false
-  },
-  {
-   "id": "04ffd1b4b25336ef",
-   "orgao": "Prefeitura de Balsa Nova",
-   "titulo": "Prefeitura de Balsa Nova - PR abre processo seletivo para o cargo de Pedagogo",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-pedagogo",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 5677.08,
-   "salario_por_hora": false,
-   "cargos": "Trabalhador da Educação - Pedagogo",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-22T00:01:30+00:00",
    "novo": false
   },
   {
@@ -5474,9 +5294,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-11-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-03",
-   "prazo_texto": "05/11 a03/12/2026",
+   "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
    "novo": true
   },
@@ -5883,7 +5703,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "09 a19/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1aa9fc313072d53b",
@@ -6443,28 +6263,6 @@
    "novo": false
   },
   {
-   "id": "cf6f05af1b757d3a",
-   "orgao": "CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente",
-   "titulo": "CIDEMA - SC abre processo seletivo para Analista Técnico em Gestão Ambiental",
-   "url": "https://www.pciconcursos.com.br/noticias/cidema-sc-abre-processo-seletivo-para-analista-tecnico-em-gestao-ambiental",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 6000.0,
-   "salario_por_hora": false,
-   "cargos": "Analista Técnico em Gestão Ambiental",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": false
-  },
-  {
    "id": "8cd68db560a9938a",
    "orgao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Arabutã",
    "titulo": "CMDCA de Arabutã - SC abre processo para escolha suplementar de conselheiro tutelar",
@@ -6732,7 +6530,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e38dd8892545a213",
@@ -6755,7 +6553,7 @@
    "inscricoes_ate": "2026-11-28",
    "prazo_texto": "28/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f4bdef142d907553",
@@ -7045,7 +6843,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c51da9b96fc9da33",
@@ -7146,31 +6944,6 @@
    "novo": false
   },
   {
-   "id": "918d50d778f56c2e",
-   "orgao": "Prefeitura de Itapema",
-   "titulo": "Prefeitura de Itapema - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapema-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 27,
-   "cadastro_reserva": false,
-   "salario": 9603.43,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-16T17:29:00+00:00",
-   "novo": false
-  },
-  {
    "id": "10d0d9fcb1edc903",
    "orgao": "Prefeitura de Itapiranga",
    "titulo": "Prefeitura de Itapiranga - SC divulga editais de concursos públicos e processo seletivo",
@@ -7207,9 +6980,9 @@
    "cargos": "Instrutor Escolar",
    "escolaridade": "Não informada",
    "niveis": [],
-   "inscricoes_de": "2026-11-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "05 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
    "novo": true
   },
@@ -7333,7 +7106,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fc7cc0188093e684",
@@ -7431,29 +7204,6 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
-  },
-  {
-   "id": "30c681ccd41b529c",
-   "orgao": "Prefeitura de Porto União",
-   "titulo": "Prefeitura de Porto União - SC abre processo seletivo na área da educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-uniao-sc-abre-processo-seletivo-na-area-da-educacao",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 5130.63,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
   {
@@ -7914,7 +7664,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e2f5329939284fd3",
@@ -7936,28 +7686,6 @@
    "inscricoes_de": "2026-11-09",
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "09 a13/11/2026",
-   "visto_em": "2026-10-23T22:15:36+00:00",
-   "novo": false
-  },
-  {
-   "id": "7f47f25ec0d357e0",
-   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-   "titulo": "SES - SC abre processo seletivo para médicos em Florianópolis e São José",
-   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-medicos-em-florianopolis-e-sao-jose",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 7,
-   "cadastro_reserva": false,
-   "salario": 10581.16,
-   "salario_por_hora": false,
-   "cargos": "Médico especialista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
   },
@@ -8070,29 +7798,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-06T17:14:59+00:00",
-   "novo": false
-  },
-  {
-   "id": "e0c87c453f4c6248",
-   "orgao": "IGESDF - Instituto de Gestão Estratégica de Saúde do Distrito Federal",
-   "titulo": "IGESDF - DF abre seleções para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/igesdf-df-abre-selecoes-para-formacao-de-cadastro-de-reserva",
-   "uf": "DF",
-   "uf_nome": "Distrito Federal",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 13359.56,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Técnico / Superior",
-   "niveis": [
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
   {
@@ -8407,53 +8112,6 @@
    "novo": false
   },
   {
-   "id": "66d7754c1677c534",
-   "orgao": "Prefeitura de Aral Moreira",
-   "titulo": "Prefeitura de Aral Moreira - MS abre concurso público para diversos níveis de escolaridade",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aral-moreira-ms-abre-concurso-publico-para-diversos-niveis-de-escolaridade",
-   "uf": "MS",
-   "uf_nome": "Mato Grosso do Sul",
-   "vagas": 174,
-   "cadastro_reserva": false,
-   "salario": 4318.18,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-21T20:40:06+00:00",
-   "novo": false
-  },
-  {
-   "id": "d12848dc90241a04",
-   "orgao": "Prefeitura de Laguna Carapã",
-   "titulo": "Prefeitura de Laguna Carapã - MS abre processo seletivo para Assistente Social e Nutricionista",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-laguna-carapa-ms-abre-processo-seletivo-para-assistente-social-e-nutricionista",
-   "uf": "MS",
-   "uf_nome": "Mato Grosso do Sul",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 6403.48,
-   "salario_por_hora": false,
-   "cargos": "Assistente Social, Nutricionista",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-29T21:50:03+00:00",
-   "novo": false
-  },
-  {
    "id": "426de0b96c1c825b",
    "orgao": "Prefeitura de Nova Alvorada do Sul",
    "titulo": "Prefeitura de Nova Alvorada do Sul - MS abre seleção para a Secretaria de Educação",
@@ -8493,9 +8151,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-11-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-06",
-   "prazo_texto": "05 a06/11/2026",
+   "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
@@ -8904,31 +8562,6 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "30/11/2026 a04/01/2027",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
-  },
-  {
-   "id": "6cd8652585920ca9",
-   "orgao": "Prefeitura de Manaquiri",
-   "titulo": "Prefeitura de Manaquiri - AM abre processo seletivo com vagas para a educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-manaquiri-am-abre-processo-seletivo-com-vagas-para-a-educacao",
-   "uf": "AM",
-   "uf_nome": "Amazonas",
-   "vagas": 168,
-   "cadastro_reserva": false,
-   "salario": 4040.6,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "04/11/2026",
-   "visto_em": "2026-10-21T17:17:27+00:00",
    "novo": false
   },
   {
@@ -9086,9 +8719,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-05",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-07",
-   "prazo_texto": "05 a07/11/2026",
+   "prazo_texto": "07/11/2026",
    "visto_em": "2026-11-04T15:29:12+00:00",
    "novo": true
   },
@@ -9444,7 +9077,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ffebc48a27174354",
@@ -9536,7 +9169,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "Prorrogado até06/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "16c23610d5cf8151",
@@ -9582,7 +9215,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fc881a69a62cf2d7",
@@ -10228,30 +9861,6 @@
    "novo": false
   },
   {
-   "id": "f860791d3fafde06",
-   "orgao": "Prefeitura do Município de Trindade",
-   "titulo": "Prefeitura de Trindade - PE divulga edital retificado de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-pe-divulga-edital-retificado-de-concurso-publico",
-   "uf": "PE",
-   "uf_nome": "Pernambuco",
-   "vagas": 353,
-   "cadastro_reserva": false,
-   "salario": 6600.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-04",
-   "prazo_texto": "Prorrogado até04/11/2026",
-   "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
-  },
-  {
    "id": "34c5901a0525eec4",
    "orgao": "SEAP - Secretaria de Administração Penitenciária e Ressocialização",
    "titulo": "SEAP - PE abre concurso público com 700 vagas para policial penal",
@@ -10340,7 +9949,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "70c0cc15368b21dc",
@@ -10559,7 +10168,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1b25b04942be4be9",
