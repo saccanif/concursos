@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-04T21:56:09+00:00",
+ "gerado_em": "2026-11-05T02:31:11+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 454,
- "novos": 64,
- "encerrados": 1,
+ "total": 455,
+ "novos": 65,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "086084c62ce8d650",
@@ -3101,6 +3101,28 @@
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
+  },
+  {
+   "id": "4ca3b897b3960c9f",
+   "orgao": "CIS-VERDE - Consórcio Intermunicipal Multifinalitário",
+   "titulo": "CIS-VERDE - MG abre processo seletivo para o cargo de Motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/cis-verde-mg-abre-processo-seletivo-para-o-cargo-de-motorista",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 1980.0,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-11-05T02:31:11+00:00",
+   "novo": true
   },
   {
    "id": "172497a87af9a821",
