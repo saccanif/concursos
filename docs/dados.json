@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-06T06:59:47+00:00",
+ "gerado_em": "2026-11-06T15:07:18+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 438,
- "novos": 49,
- "encerrados": 31,
+ "total": 448,
+ "novos": 45,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -342,7 +342,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "56fac1f634a6da4a",
@@ -507,6 +507,29 @@
    "novo": false
   },
   {
+   "id": "917eee5d2408d477",
+   "orgao": "FHSL - Fundação Hospital Santa Lydia",
+   "titulo": "Fundação Hospital Santa Lydia - SP abre seleção com salários de até R$ 7.310,37",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-hospital-santa-lydia-sp-abre-selecao-com-salarios-de-ate-7310",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 7310.37,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
+  },
+  {
    "id": "2b8200e759894822",
    "orgao": "FJPO - Fundação José Pedro de Oliveira",
    "titulo": "Fundação José Pedro de Oliveira - SP abre concurso público com salários de até R$ 8.991,96",
@@ -572,7 +595,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "61bb548932a0b56f",
@@ -774,6 +797,28 @@
    "prazo_texto": "09 a27/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "4b4ebdf33fd85199",
+   "orgao": "HES - Hospital Estadual Sumaré",
+   "titulo": "Funcamp - SP abre processo seletivo para Enfermeiro C.C.I.H. no Hospital Estadual Sumaré",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-processo-seletivo-para-enfermeiro-ccih-no-hospital-estadual-sumare",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5973.89,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "7dddd3cdd72c45f7",
@@ -1521,7 +1566,7 @@
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6a12f19acb7e8ac0",
@@ -2769,7 +2814,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-11-05T02:31:11+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "172497a87af9a821",
@@ -2817,6 +2862,31 @@
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "b4070f0d424261f6",
+   "orgao": "Prefeitura de Água Boa",
+   "titulo": "Prefeitura de Água Boa - MG abre concurso público com salários de até R$ 13.945,21",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-boa-mg-abre-concurso-publico-com-salarios-de-ate-13945",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 91,
+   "cadastro_reserva": false,
+   "salario": 13945.21,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2027-01-11",
+   "inscricoes_ate": "2027-02-11",
+   "prazo_texto": "11/01 a11/02/2027",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "be213cc159d2a8ad",
@@ -2958,7 +3028,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fa813f456681f2a5",
@@ -3399,7 +3469,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b1d84953332cd133",
@@ -4129,6 +4199,29 @@
    "novo": false
   },
   {
+   "id": "cca489f02cf1afb4",
+   "orgao": "Câmara de Aracruz",
+   "titulo": "Câmara de Aracruz - ES abre concurso público com salários de até R$ 6.614,93",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-aracruz-es-abre-concurso-publico-com-salarios-de-ate-6614",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 6614.93,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "16 a30/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
+  },
+  {
    "id": "f24294b1c36b665e",
    "orgao": "Câmara de Cachoeiro de Itapemirim",
    "titulo": "Câmara de Cachoeiro de Itapemirim - ES abre concurso público com salários de até R$ 7.046,62",
@@ -4691,6 +4784,28 @@
    "novo": false
   },
   {
+   "id": "262ad17af8225130",
+   "orgao": "Prefeitura de Mercedes",
+   "titulo": "Prefeitura de Mercedes - PR abre processo seletivo para Vigilante Sanitário",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-abre-processo-seletivo-para-vigilante-sanitario",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 2555.58,
+   "salario_por_hora": false,
+   "cargos": "Vigilante Sanitário",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
+  },
+  {
    "id": "b0b030fe2708151f",
    "orgao": "Prefeitura de Quedas do Iguaçu",
    "titulo": "Prefeitura de Quedas do Iguaçu - PR abre concurso público com salários de até R$ 11.998,88",
@@ -4967,6 +5082,28 @@
    "novo": false
   },
   {
+   "id": "1156630b619cf704",
+   "orgao": "FHGV - Fundação Hospitalar Getúlio Vargas",
+   "titulo": "Fundação Hospitalar Getúlio Vargas - RS abre processo seletivo para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/fundacao-hospitalar-getulio-vargas-rs-abre-processo-seletivo-para-medicos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 16937.78,
+   "salario_por_hora": false,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
+  },
+  {
    "id": "dd0cc5474677c0d2",
    "orgao": "GHC - Grupo Hospitalar Conceição",
    "titulo": "Grupo Hospitalar Conceição - RS abre concurso para cadastro de reserva em diversas áreas",
@@ -5171,7 +5308,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5f9e2a29cbe9cf3a",
@@ -5690,7 +5827,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e3f613dbf9c0c52b",
@@ -5834,6 +5971,28 @@
    "novo": false
   },
   {
+   "id": "0b6f23db633fac62",
+   "orgao": "Prefeitura de Trindade do Sul",
+   "titulo": "Prefeitura de Trindade do Sul - RS abre processo seletivo para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-processo-seletivo-para-medicos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 16500.0,
+   "salario_por_hora": false,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-09",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "09 a13/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
+  },
+  {
    "id": "e485930b08a8244d",
    "orgao": "Prefeitura de Victor Graeff",
    "titulo": "Prefeitura de Victor Graeff - RS divulga edital de processo seletivo para Auxiliar de Serviços Gerais",
@@ -5947,10 +6106,10 @@
    "novo": false
   },
   {
-   "id": "0e10c15caa934840",
+   "id": "347cacf39c7cf63d",
    "orgao": "Câmara de São Francisco do Sul",
-   "titulo": "Câmara de São Francisco do Sul - SC abre concurso público com salários de até R$ 10.924,72",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-abre-concurso-publico-com-salarios-de-ate-10924",
+   "titulo": "Câmara de São Francisco do Sul - SC retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico",
    "uf": "SC",
    "uf_nome": "Santa Catarina",
    "vagas": 17,
@@ -5967,8 +6126,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
-   "visto_em": "2026-10-28T23:15:44+00:00",
-   "novo": false
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "fc2591a549b6c6d4",
@@ -6171,7 +6330,7 @@
    "inscricoes_ate": "2026-11-06",
    "prazo_texto": "06/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e561ae9ba79cddd3",
@@ -6193,7 +6352,7 @@
    "inscricoes_ate": "2026-11-08",
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e72358ffe8d35bab",
@@ -6284,7 +6443,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "13/11 a14/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2cf3b57a9d11c192",
@@ -6402,6 +6561,28 @@
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-10-28T13:03:26+00:00",
    "novo": false
+  },
+  {
+   "id": "0577692d5e579e8a",
+   "orgao": "Prefeitura de Barra Bonita",
+   "titulo": "Prefeitura de Barra Bonita - SC abre processo seletivo com vaga para Farmacêutico",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-processo-seletivo-com-vaga-para-farmaceutico",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 6240.38,
+   "salario_por_hora": false,
+   "cargos": "Farmacêutico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "18/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "278dbb3716663487",
@@ -6742,6 +6923,30 @@
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-16T17:29:00+00:00",
    "novo": false
+  },
+  {
+   "id": "ee21b375ef7ccb49",
+   "orgao": "Prefeitura de Iraceminha",
+   "titulo": "Prefeitura de Iraceminha - SC abre processo seletivo para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iraceminha-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2923.12,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "10d0d9fcb1edc903",
@@ -7615,7 +7820,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5f94191eeb0ebd0f",
@@ -8139,7 +8344,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "20 a30/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a4353cb64957633c",
@@ -8185,6 +8390,31 @@
    "prazo_texto": "23/11 a01/12/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": false
+  },
+  {
+   "id": "82d21ec9ee745492",
+   "orgao": "Prefeitura de Mirassol d'Oeste",
+   "titulo": "Prefeitura de Mirassol d'Oeste - MT abre processo seletivo com salários de até R$ 27.645,05",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirassol-doeste-mt-abre-processo-seletivo-com-salarios-de-ate-27645",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 205,
+   "cadastro_reserva": false,
+   "salario": 27645.05,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "3c07704ac9d33b89",
@@ -9169,7 +9399,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "72d5a6587aad199f",
@@ -9675,7 +9905,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8262e16aadfccb5a",
@@ -9818,7 +10048,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "Reaberto até03/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5a97116219f5c845",
@@ -10132,10 +10362,10 @@
    "novo": false
   },
   {
-   "id": "d3bc2a70dc638cd5",
+   "id": "1d4d7bf0899e6451",
    "orgao": "Prefeitura de São João do Piauí",
-   "titulo": "Prefeitura de São João do Piauí - PI abre processo seletivo para Agente de Endemias e de Saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-abre-processo-seletivo-para-agente-de-endemias-e-de-saude",
+   "titulo": "Prefeitura de São João do Piauí - PI revoga suspensão de processo seletivo para Agente de Endemias e de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-revoga-suspensao-de-processo-seletivo-para-agente-de-endemias-e-de-saude",
    "uf": "PI",
    "uf_nome": "Piauí",
    "vagas": 80,
@@ -10150,8 +10380,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-03T17:52:35+00:00",
-   "novo": false
+   "visto_em": "2026-11-06T15:07:18+00:00",
+   "novo": true
   },
   {
    "id": "1b25b04942be4be9",
