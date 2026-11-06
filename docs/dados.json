@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-06T15:07:18+00:00",
+ "gerado_em": "2026-11-06T20:55:42+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 448,
- "novos": 45,
- "encerrados": 2,
+ "total": 457,
+ "novos": 54,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -1049,6 +1049,28 @@
    "novo": false
   },
   {
+   "id": "523107d2f619bc18",
+   "orgao": "Prefeitura de Araçoiaba da Serra",
+   "titulo": "Prefeitura de Araçoiaba da Serra - SP abre processo seletivo para cuidador",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracoiaba-da-serra-sp-abre-processo-seletivo-para-cuidador",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2220.76,
+   "salario_por_hora": false,
+   "cargos": "Cuidador",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
    "id": "a435aacc5c636888",
    "orgao": "Prefeitura de Birigui",
    "titulo": "Prefeitura de Birigui - SP abre concurso público com salários de até R$ 13.881,85",
@@ -1398,6 +1420,55 @@
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-19T19:58:43+00:00",
    "novo": false
+  },
+  {
+   "id": "92b552d846dd74f6",
+   "orgao": "Prefeitura de Jandira",
+   "titulo": "Prefeitura de Jandira - SP abre concurso público com salários de até R$ 6.812,14",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jandira-sp-abre-concurso-publico-com-salarios-de-ate-6812",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 308,
+   "cadastro_reserva": false,
+   "salario": 6812.14,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "16/11/2026 a04/01/2027",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
+   "id": "7e32cfc0384654a4",
+   "orgao": "Prefeitura de Jandira",
+   "titulo": "Prefeitura de Jandira - SP abre três concursos públicos para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jandira-sp-abre-tres-concursos-publicos-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1072,
+   "cadastro_reserva": false,
+   "salario": 12213.03,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2027-01-04",
+   "prazo_texto": "16/11/2026 a04/01/2027",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
   },
   {
    "id": "dc37e05c512dd6de",
@@ -2040,6 +2111,29 @@
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-19T13:28:23+00:00",
    "novo": false
+  },
+  {
+   "id": "4d6d7014bc5d9d7e",
+   "orgao": "Prefeitura do Município de Osasco",
+   "titulo": "Prefeitura de Osasco - SP abre seleção com salários de até R$ 6.781,42",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osasco-sp-abre-selecao-com-salarios-de-ate-6781",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 23,
+   "cadastro_reserva": false,
+   "salario": 6781.42,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar em Saúde Bucal, Cirurgião Dentista",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "10/11 a10/12/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
   },
   {
    "id": "078b8e88745d1496",
@@ -4359,6 +4453,30 @@
    "novo": true
   },
   {
+   "id": "487998dde486edae",
+   "orgao": "Prefeitura de Anchieta",
+   "titulo": "Prefeitura de Anchieta - ES abre concurso público com salários de até R$ 7.362,50",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 33,
+   "cadastro_reserva": false,
+   "salario": 7362.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-18",
+   "inscricoes_ate": "2026-12-14",
+   "prazo_texto": "18/11 a14/12/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
    "id": "88d7c4f412178520",
    "orgao": "Prefeitura de Apiacá",
    "titulo": "Prefeitura de Apiacá - ES abre seleção para cadastro de reserva de professores e pedagogos",
@@ -6423,6 +6541,28 @@
    "novo": false
   },
   {
+   "id": "b191d3684ced6a0d",
+   "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+   "titulo": "FAHECE - SC abre processo seletivo para o HEMOSC em Chapecó",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-hemosc-em-chapeco",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4946.9,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-10",
+   "prazo_texto": "10/11/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
    "id": "f751ebf3f1fdca78",
    "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
    "titulo": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
@@ -6825,6 +6965,31 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "a1a4f870385bdd81",
+   "orgao": "Prefeitura de Ibirama",
+   "titulo": "Prefeitura de Ibirama - SC abre concurso público com salários de até R$ 20.364,15",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibirama-sc-abre-concurso-publico-com-salarios-de-ate-20364",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 20364.15,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
   },
   {
    "id": "c51da9b96fc9da33",
@@ -8681,6 +8846,28 @@
    "novo": false
   },
   {
+   "id": "c8e4466046c21c8e",
+   "orgao": "PCAC - Polícia Civil do Estado do Acre",
+   "titulo": "Polícia Civil do Estado do Acre (PCAC) e SEAD - AC abrem concurso público com salários de até R$ 19.505,66",
+   "url": "https://www.pciconcursos.com.br/noticias/policia-civil-do-estado-do-acre-pcac-e-sead-ac-abrem-concurso-publico-com-salarios-de-ate-19505",
+   "uf": "AC",
+   "uf_nome": "Acre",
+   "vagas": 139,
+   "cadastro_reserva": false,
+   "salario": 19505.66,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-11",
+   "inscricoes_ate": "2026-12-14",
+   "prazo_texto": "11/11 a14/12/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
    "id": "959fe2e43eca18bc",
    "orgao": "CAU - Conselho de Arquitetura e Urbanismo do Amapá",
    "titulo": "Conselho de Arquitetura e Urbanismo do Amapá abre concurso público em Macapá",
@@ -9951,6 +10138,29 @@
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
+  },
+  {
+   "id": "0a3b28ab1e23b10b",
+   "orgao": "Câmara de Petrolina",
+   "titulo": "Câmara de Petrolina - PE abre concurso público com salários de até R$ 8.561,42",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-petrolina-pe-abre-concurso-publico-com-salarios-de-ate-8561",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 17,
+   "cadastro_reserva": false,
+   "salario": 8561.42,
+   "salario_por_hora": false,
+   "cargos": "Analista Legislativo, Procurador, Técnico Legislativo",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-05",
+   "prazo_texto": "05/12/2026",
+   "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
   },
   {
    "id": "be76192613e44b36",
