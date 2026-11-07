@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-11-06T20:55:42+00:00",
+ "gerado_em": "2026-11-07T00:57:29+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 457,
- "novos": 54,
+ "total": 470,
+ "novos": 67,
  "encerrados": 0,
  "concursos": [
   {
@@ -298,6 +298,28 @@
    "prazo_texto": "11/11/2026",
    "visto_em": "2026-10-28T13:03:26+00:00",
    "novo": false
+  },
+  {
+   "id": "eab6d31894f2fdca",
+   "orgao": "Câmara de Dobrada",
+   "titulo": "Câmara de Dobrada - SP abre concurso público para o cargo de servente geral legislativo",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-dobrada-sp-abre-concurso-publico-para-o-cargo-de-servente-geral-legislativo",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2576.74,
+   "salario_por_hora": false,
+   "cargos": "Servente Geral Legislativo",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "12 a25/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "daa94ef976404d33",
@@ -1068,6 +1090,28 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
+   "novo": true
+  },
+  {
+   "id": "1372268a3c73e798",
+   "orgao": "Prefeitura de Barra do Turvo",
+   "titulo": "Prefeitura de Barra do Turvo - SP abre vaga para Assistente da Procuradoria-Geral",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-turvo-sp-abre-vaga-para-assistente-da-procuradoria-geral",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3610.85,
+   "salario_por_hora": false,
+   "cargos": "Assistente da Procuradoria-Geral do Município",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-11",
+   "prazo_texto": "11/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
    "novo": true
   },
   {
@@ -2250,6 +2294,53 @@
    "novo": false
   },
   {
+   "id": "8b66a190cf5b6021",
+   "orgao": "Instituto IMS - Instituto de Pós-Graduação em Ciências da Saúde Izamar Milidiu da Silva",
+   "titulo": "Instituto IMS - RJ prorroga inscrições de processo seletivo para o Programa de Residência Médica em Dermatologia",
+   "url": "https://www.pciconcursos.com.br/noticias/instituto-ims-rj-prorroga-inscricoes-de-processo-seletivo-para-o-programa-de-residencia-medica-em-dermatologia",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 4106.09,
+   "salario_por_hora": false,
+   "cargos": "Residente",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "Prorrogado até12/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
+  },
+  {
+   "id": "7972687051bbc3a7",
+   "orgao": "Prefeitura de Iguaba Grande",
+   "titulo": "Prefeitura de Iguaba Grande - RJ abre processo seletivo com salários de até R$ 6.596,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iguaba-grande-rj-abre-processo-seletivo-com-salarios-de-ate-6596",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6596.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
+  },
+  {
    "id": "e45eedd9e954f771",
    "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
    "titulo": "RioSaúde - RJ abre processo seletivo para os cargos de enfermeiro e terapeuta ocupacional",
@@ -2292,6 +2383,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
+  },
+  {
+   "id": "98bb89bca5556142",
+   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
+   "titulo": "RioSaúde - RJ abre processo seletivo para enfermeiros",
+   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-enfermeiros",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 5239.4,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "15/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "d8c68dbd88223dee",
@@ -2958,6 +3071,28 @@
    "novo": false
   },
   {
+   "id": "840c9d0cffbbd779",
+   "orgao": "IPSEMG - Instituto de Previdência dos Servidores do Estado de Minas Gerais",
+   "titulo": "IPSEMG retifica processo seletivo com vagas para residência médica",
+   "url": "https://www.pciconcursos.com.br/noticias/ipsemg-retifica-processo-seletivo-com-vagas-para-residencia-medica",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 99,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "Prorrogado até12/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
+  },
+  {
    "id": "b4070f0d424261f6",
    "orgao": "Prefeitura de Água Boa",
    "titulo": "Prefeitura de Água Boa - MG abre concurso público com salários de até R$ 13.945,21",
@@ -3402,6 +3537,31 @@
    "novo": false
   },
   {
+   "id": "0ce3871dd3aced06",
+   "orgao": "Prefeitura de Leopoldina",
+   "titulo": "Prefeitura de Leopoldina - MG abre seleção com salários de até R$ 4.462,11",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-com-salarios-de-ate-4462",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 4462.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-11-20",
+   "prazo_texto": "10 a20/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
+  },
+  {
    "id": "e3bce3569d0468fb",
    "orgao": "Prefeitura de Lima Duarte",
    "titulo": "Prefeitura de Lima Duarte - MG abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -3495,6 +3655,28 @@
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-10-22T15:19:58+00:00",
    "novo": false
+  },
+  {
+   "id": "53f21e753847a88a",
+   "orgao": "Prefeitura de Ouro Fino",
+   "titulo": "Prefeitura de Ouro Fino - MG abre processo seletivo para Assistente Social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouro-fino-mg-abre-processo-seletivo-para-assistente-social",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2779.28,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "966cfac7c177a9c3",
@@ -4518,6 +4700,31 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-11-06T00:21:19+00:00",
+   "novo": true
+  },
+  {
+   "id": "e5a58355548765d7",
+   "orgao": "Prefeitura de Colatina",
+   "titulo": "Prefeitura de Colatina - ES abre processo seletivo com salários de até R$ 6.217,20",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colatina-es-abre-processo-seletivo-com-salarios-de-ate-6217",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 72,
+   "cadastro_reserva": false,
+   "salario": 6217.2,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-12",
+   "prazo_texto": "12/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
    "novo": true
   },
   {
@@ -5832,6 +6039,28 @@
    "prazo_texto": "09 a19/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "1febc98979068b25",
+   "orgao": "Prefeitura de Pelotas",
+   "titulo": "Prefeitura de Pelotas - RS abre processos seletivos para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-processos-seletivos-para-medicos",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 80.0,
+   "salario_por_hora": true,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-07",
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "07 a13/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "1aa9fc313072d53b",
@@ -7523,6 +7752,28 @@
    "novo": false
   },
   {
+   "id": "446c9521b9b9906d",
+   "orgao": "Prefeitura de São Bonifácio",
+   "titulo": "Prefeitura de São Bonifácio - SC abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bonifacio-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5159.83,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-15",
+   "prazo_texto": "15/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
+  },
+  {
    "id": "cb577b97e16e67b5",
    "orgao": "Prefeitura de São Domingos",
    "titulo": "Prefeitura de São Domingos - SC abre processo seletivo para cadastro de reserva",
@@ -7758,6 +8009,31 @@
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-10-28T23:15:44+00:00",
    "novo": false
+  },
+  {
+   "id": "34587235371955e5",
+   "orgao": "Prefeitura do Município de Rio Rufino",
+   "titulo": "Prefeitura de Rio Rufino - SC abre seleções para cadastro de reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-rufino-sc-abre-selecoes-para-cadastro-de-reserva-em-diversas-areas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5339.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-05",
+   "prazo_texto": "05/12/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "7507c56d60b891d2",
@@ -9775,6 +10051,29 @@
    "prazo_texto": "Reaberto até08/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": false
+  },
+  {
+   "id": "47f9bc804fdabbca",
+   "orgao": "Prefeitura de Itapipoca",
+   "titulo": "Prefeitura de Itapipoca - CE abre processo seletivo para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapipoca-ce-abre-processo-seletivo-para-a-educacao",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 688,
+   "cadastro_reserva": false,
+   "salario": 2565.32,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "12 a25/11/2026",
+   "visto_em": "2026-11-07T00:57:29+00:00",
+   "novo": true
   },
   {
    "id": "7e08916053cd2cf5",
