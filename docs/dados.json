@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-08T02:31:58+00:00",
+ "gerado_em": "2026-11-08T10:29:21+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 429,
- "novos": 34,
- "encerrados": 0,
+ "total": 426,
+ "novos": 15,
+ "encerrados": 5,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -549,7 +549,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2b8200e759894822",
@@ -774,7 +774,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7dddd3cdd72c45f7",
@@ -1002,7 +1002,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1372268a3c73e798",
@@ -1399,7 +1399,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "16/11/2026 a04/01/2027",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7e32cfc0384654a4",
@@ -1424,7 +1424,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "16/11/2026 a04/01/2027",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "dc37e05c512dd6de",
@@ -1974,30 +1974,6 @@
    "novo": false
   },
   {
-   "id": "9728358cfbd16f01",
-   "orgao": "Prefeitura de Suzano",
-   "titulo": "Prefeitura de Suzano - SP abre concurso público com salários de até R$ 12.062,91",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 73,
-   "cadastro_reserva": false,
-   "salario": 12062.91,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-25",
-   "prazo_texto": "25/11/2026",
-   "visto_em": "2026-10-26T19:22:11+00:00",
-   "novo": false
-  },
-  {
    "id": "67519b3f370ac706",
    "orgao": "Prefeitura de Tuiuti",
    "titulo": "Prefeitura de Tuiuti - SP retifica edital de concurso público com vagas imediatas e cadastro de reserva",
@@ -2067,7 +2043,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/11 a10/12/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "078b8e88745d1496",
@@ -2982,7 +2958,7 @@
    "inscricoes_ate": "2027-02-11",
    "prazo_texto": "11/01 a11/02/2027",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "be213cc159d2a8ad",
@@ -3239,6 +3215,28 @@
    "prazo_texto": "08/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": false
+  },
+  {
+   "id": "c1b2199a77c306b8",
+   "orgao": "Prefeitura de Estiva",
+   "titulo": "Prefeitura de Estiva - MG abre processo seletivo com sete vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-processo-seletivo-com-sete-vagas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 1689.78,
+   "salario_por_hora": false,
+   "cargos": "Gari, Auxiliar de serviços de infraestrutura, Agente de cantina e limpeza predial",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-13",
+   "prazo_texto": "13/11/2026",
+   "visto_em": "2026-11-08T10:29:21+00:00",
+   "novo": true
   },
   {
    "id": "6b0cad351e21cbba",
@@ -4178,7 +4176,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "16 a30/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f24294b1c36b665e",
@@ -4317,7 +4315,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "18/11 a14/12/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "88d7c4f412178520",
@@ -4739,7 +4737,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b0b030fe2708151f",
@@ -4966,7 +4964,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "dd0cc5474677c0d2",
@@ -5786,7 +5784,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "09 a13/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e5df3d0f690262be",
@@ -5879,7 +5877,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fc2591a549b6c6d4",
@@ -6150,7 +6148,7 @@
    "inscricoes_ate": "2026-11-10",
    "prazo_texto": "10/11/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f751ebf3f1fdca78",
@@ -6312,7 +6310,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "278dbb3716663487",
@@ -6579,7 +6577,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c51da9b96fc9da33",
@@ -6676,7 +6674,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "10d0d9fcb1edc903",
@@ -7372,6 +7370,28 @@
    "novo": false
   },
   {
+   "id": "fc26ef3a68a5b9a9",
+   "orgao": "SAMU - Serviço de Atendimento Móvel de Urgência de Criciúma",
+   "titulo": "FAHECE - SC abre vaga de assistente administrativo para pessoa com deficiência em Criciúma",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-assistente-administrativo-para-pessoa-com-deficiencia-em-criciuma",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 1289.06,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-08",
+   "prazo_texto": "08/11/2026",
+   "visto_em": "2026-11-08T10:29:21+00:00",
+   "novo": true
+  },
+  {
    "id": "4fb238fe107e1977",
    "orgao": "SANEFRAI - Autarquia Municipal de Saneamento de Fraiburgo",
    "titulo": "SANEFRAI - SC abre processo seletivo para formação de cadastro de reserva",
@@ -7935,29 +7955,6 @@
    "novo": false
   },
   {
-   "id": "03ac81c33f57aaf0",
-   "orgao": "Câmara de Cuiabá",
-   "titulo": "Câmara de Cuiabá - MT abre concurso público com salários de até R$ 11.629,67",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629",
-   "uf": "MT",
-   "uf_nome": "Mato Grosso",
-   "vagas": 26,
-   "cadastro_reserva": false,
-   "salario": 11629.67,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "30/11/2026",
-   "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": false
-  },
-  {
    "id": "f702113fa01bec2e",
    "orgao": "Prefeitura de Brasnorte",
    "titulo": "Prefeitura de Brasnorte - MT abre concurso público para profissionais da educação",
@@ -8097,7 +8094,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3c07704ac9d33b89",
@@ -8358,7 +8355,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "11/11 a14/12/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "959fe2e43eca18bc",
@@ -8475,28 +8472,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-23T13:30:55+00:00",
-   "novo": false
-  },
-  {
-   "id": "8629cd29a5498e35",
-   "orgao": "HOL - Hospital Ophir Loyola",
-   "titulo": "Hospital Ophir Loyola - PA anuncia processos seletivos com vagas para médicos",
-   "url": "https://www.pciconcursos.com.br/noticias/hospital-ophir-loyola-pa-anuncia-processos-seletivos-com-vagas-para-medicos",
-   "uf": "PA",
-   "uf_nome": "Pará",
-   "vagas": 54,
-   "cadastro_reserva": false,
-   "salario": 2176.75,
-   "salario_por_hora": false,
-   "cargos": "Médico",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-07",
-   "prazo_texto": "07/11/2026",
-   "visto_em": "2026-11-04T15:29:12+00:00",
    "novo": false
   },
   {
@@ -9467,31 +9442,6 @@
    "novo": false
   },
   {
-   "id": "de115dbab725495a",
-   "orgao": "Prefeitura de São José do Sabugi",
-   "titulo": "Prefeitura de São José do Sabugi - PB abre concurso para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 48,
-   "cadastro_reserva": false,
-   "salario": 3847.97,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-07",
-   "prazo_texto": "07/11/2026",
-   "visto_em": "2026-10-05T22:42:16+00:00",
-   "novo": false
-  },
-  {
    "id": "41401994f03510d0",
    "orgao": "Prefeitura de Serra Grande",
    "titulo": "Prefeitura de Serra Grande - PB retifica concurso público com vagas para diversos cargos",
@@ -9582,7 +9532,7 @@
    "inscricoes_ate": "2026-12-05",
    "prazo_texto": "05/12/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "be76192613e44b36",
@@ -9847,31 +9797,6 @@
    "novo": false
   },
   {
-   "id": "45f1e6aafd071f78",
-   "orgao": "Prefeitura de Canto do Buriti",
-   "titulo": "Prefeitura de Canto do Buriti - PI retifica edital de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 257,
-   "cadastro_reserva": false,
-   "salario": 16210.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-26",
-   "prazo_texto": "26/11/2026",
-   "visto_em": "2026-11-04T15:29:12+00:00",
-   "novo": false
-  },
-  {
    "id": "924236bc510edd97",
    "orgao": "Prefeitura de Cristalândia do Piauí",
    "titulo": "Prefeitura de Cristalândia do Piauí - PI abre concurso público para diversos cargos",
@@ -10013,7 +9938,7 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3650820e4e0e1dbb",
