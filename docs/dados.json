@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-09T00:57:47+00:00",
+ "gerado_em": "2026-11-09T08:02:06+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 426,
- "novos": 2,
- "encerrados": 0,
+ "total": 409,
+ "novos": 1,
+ "encerrados": 17,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -498,9 +498,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "09 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-06T00:21:19+00:00",
    "novo": false
   },
@@ -620,29 +620,6 @@
    "novo": false
   },
   {
-   "id": "61bb548932a0b56f",
-   "orgao": "FUNCABES - Fundação Caixa Beneficente dos Servidores da Universidade de Taubaté",
-   "titulo": "Funcabes - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/funcabes-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 33,
-   "cadastro_reserva": false,
-   "salario": 4457.35,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-26T23:10:45+00:00",
-   "novo": false
-  },
-  {
    "id": "71a2a43118e68ecc",
    "orgao": "FUNCAMP - Fundação de Desenvolvimento da Unicamp",
    "titulo": "FUNCAMP - SP abre vaga para Auxiliar Administrativo no AME de Santa Bárbara d'Oeste",
@@ -680,9 +657,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-27",
-   "prazo_texto": "09 a27/11/2026",
+   "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-05T18:47:57+00:00",
    "novo": false
   },
@@ -748,9 +725,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-27",
-   "prazo_texto": "09 a27/11/2026",
+   "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
   },
@@ -859,9 +836,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-22",
-   "prazo_texto": "09/11 a22/12/2026",
+   "prazo_texto": "22/12/2026",
    "visto_em": "2026-11-05T18:47:57+00:00",
    "novo": false
   },
@@ -1547,31 +1524,6 @@
    "novo": false
   },
   {
-   "id": "d78517746aa90b57",
-   "orgao": "Prefeitura de Macedônia",
-   "titulo": "Prefeitura de Macedônia - SP abre concurso público com salários de até R$ 8.189,58",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macedonia-sp-abre-concurso-publico-com-salarios-de-ate-8189",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 8189.58,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-20T15:08:46+00:00",
-   "novo": false
-  },
-  {
    "id": "446314f68a296f2f",
    "orgao": "Prefeitura de Marapoama",
    "titulo": "Prefeitura de Marapoama - SP abre processo seletivo com vagas imediatas e cadastro de reserva",
@@ -1757,9 +1709,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "09 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
   },
@@ -2182,53 +2134,6 @@
    "novo": false
   },
   {
-   "id": "7972687051bbc3a7",
-   "orgao": "Prefeitura de Iguaba Grande",
-   "titulo": "Prefeitura de Iguaba Grande - RJ abre processo seletivo com salários de até R$ 6.596,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iguaba-grande-rj-abre-processo-seletivo-com-salarios-de-ate-6596",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 6596.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-11-07T00:57:29+00:00",
-   "novo": false
-  },
-  {
-   "id": "e45eedd9e954f771",
-   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
-   "titulo": "RioSaúde - RJ abre processo seletivo para os cargos de enfermeiro e terapeuta ocupacional",
-   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-os-cargos-de-enfermeiro-e-terapeuta-ocupacional",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 6969.53,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro, Terapeuta Ocupacional",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-28T23:15:44+00:00",
-   "novo": false
-  },
-  {
    "id": "65f2d00e717bd005",
    "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
    "titulo": "RioSaúde - RJ abre vagas para maqueiro, auxiliar de suprimentos e instrumentador cirúrgico",
@@ -2270,28 +2175,6 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-11-07T00:57:29+00:00",
-   "novo": false
-  },
-  {
-   "id": "d8c68dbd88223dee",
-   "orgao": "SMS - Secretaria Municipal de Saúde do Rio de Janeiro",
-   "titulo": "Secretaria Municipal de Saúde - RJ abre processo seletivo com vagas para médicos",
-   "url": "https://www.pciconcursos.com.br/noticias/secretaria-municipal-de-saude-rj-abre-processo-seletivo-com-vagas-para-medicos",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 62,
-   "cadastro_reserva": false,
-   "salario": 8565.25,
-   "salario_por_hora": false,
-   "cargos": "Médico I, Médico II",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-29T21:50:03+00:00",
    "novo": false
   },
   {
@@ -3028,9 +2911,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-12",
-   "prazo_texto": "09 a12/11/2026",
+   "prazo_texto": "12/11/2026",
    "visto_em": "2026-10-19T23:45:27+00:00",
    "novo": false
   },
@@ -3192,28 +3075,6 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "Prorrogado até12/11/2026",
    "visto_em": "2026-11-06T00:21:19+00:00",
-   "novo": false
-  },
-  {
-   "id": "01665661b92d6d99",
-   "orgao": "Prefeitura de Curvelo",
-   "titulo": "Prefeitura de Curvelo - MG abre processo seletivo para agentes comunitários de saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-processo-seletivo-para-agentes-comunitarios-de-saude",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-27T20:07:10+00:00",
    "novo": false
   },
   {
@@ -3985,9 +3846,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-19",
-   "prazo_texto": "09 a19/11/2026",
+   "prazo_texto": "19/11/2026",
    "visto_em": "2026-10-07T22:02:14+00:00",
    "novo": false
   },
@@ -4482,51 +4343,6 @@
    "novo": false
   },
   {
-   "id": "68b56371b3015efe",
-   "orgao": "SAMU 192 - Irmandade da Santa Casa de Misericórdia de Vitória",
-   "titulo": "Irmandade da Santa Casa de Misericórdia de Vitória - ES abre seleções para Rádio Operador e TARM",
-   "url": "https://www.pciconcursos.com.br/noticias/irmandade-da-santa-casa-de-misericordia-de-vitoria-es-abre-selecoes-para-radio-operador-e-tarm",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 2221.48,
-   "salario_por_hora": false,
-   "cargos": "Rádio Operador, Telefonista Auxiliar de Regulação Médica (TARM)",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-29T21:50:03+00:00",
-   "novo": false
-  },
-  {
-   "id": "706117d50072aa5d",
-   "orgao": "Câmara de Iporã",
-   "titulo": "Câmara de Iporã - PR abre concurso público para Assistente Administrativo e Zelador",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-ipora-pr-abre-concurso-publico-para-assistente-administrativo-e-zelador",
-   "uf": "PR",
-   "uf_nome": "Paraná",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 3252.03,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo, Zelador",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-22T19:16:17+00:00",
-   "novo": false
-  },
-  {
    "id": "26d3cf51bcbcdbf0",
    "orgao": "Câmara de Quatro Barras",
    "titulo": "Câmara de Quatro Barras - PR reabre inscrições para concurso público",
@@ -4894,9 +4710,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-09",
-   "prazo_texto": "09/11 a09/12/2026",
+   "prazo_texto": "09/12/2026",
    "visto_em": "2026-10-30T20:50:42+00:00",
    "novo": false
   },
@@ -5481,9 +5297,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-19",
-   "prazo_texto": "09 a19/11/2026",
+   "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
   },
@@ -5780,9 +5596,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "09 a13/11/2026",
+   "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
    "novo": false
   },
@@ -5973,28 +5789,6 @@
    "novo": false
   },
   {
-   "id": "b8df0ba8179b3e78",
-   "orgao": "Câmara de Vereadores de Santiago do Sul",
-   "titulo": "Câmara de Santiago do Sul - SC abre processo seletivo para auxiliar administrativo",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santiago-do-sul-sc-abre-processo-seletivo-para-auxiliar-administrativo",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2000.0,
-   "salario_por_hora": false,
-   "cargos": "Auxiliar Administrativo",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-22T00:01:30+00:00",
-   "novo": false
-  },
-  {
    "id": "8cd68db560a9938a",
    "orgao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Arabutã",
    "titulo": "CMDCA de Arabutã - SC abre processo para escolha suplementar de conselheiro tutelar",
@@ -6036,50 +5830,6 @@
    "inscricoes_ate": "2026-11-09",
    "prazo_texto": "09/11/2026",
    "visto_em": "2026-10-28T18:53:38+00:00",
-   "novo": false
-  },
-  {
-   "id": "e561ae9ba79cddd3",
-   "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-   "titulo": "FAHECE - SC abre vaga para Assistente de Almoxarifado PCD no SAMU de Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-almoxarifado-pcd-no-samu-de-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2519.21,
-   "salario_por_hora": false,
-   "cargos": "Assistente de Almoxarifado I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-11-04T21:56:09+00:00",
-   "novo": false
-  },
-  {
-   "id": "e72358ffe8d35bab",
-   "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-   "titulo": "FAHECE - SC abre vaga para técnico auxiliar de regulação médica PCD em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-auxiliar-de-regulacao-medica-pcd-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2499.35,
-   "salario_por_hora": false,
-   "cargos": "Técnico(a) Auxiliar de Regulação Médica (TARM)",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-11-06T00:21:19+00:00",
    "novo": false
   },
   {
@@ -7107,31 +6857,6 @@
    "novo": false
   },
   {
-   "id": "27e507e6e0661530",
-   "orgao": "Prefeitura de São João Batista",
-   "titulo": "Município de São João Batista - SC abre processos seletivos para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-sao-joao-batista-sc-abre-processos-seletivos-para-diversos-cargos",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 6897.09,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
-   "novo": false
-  },
-  {
    "id": "a37440d68905a555",
    "orgao": "Prefeitura de São Pedro de Alcântara",
    "titulo": "Prefeitura de São Pedro de Alcântara - SC abre seleção para a Secretaria de Educação",
@@ -7200,31 +6925,6 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-13T19:19:47+00:00",
-   "novo": false
-  },
-  {
-   "id": "e31b1a47ec1ea407",
-   "orgao": "Prefeitura de Urussanga",
-   "titulo": "Prefeitura de Urussanga - SC abre processo seletivo com salários de até R$ 23.930,19",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urussanga-sc-abre-processo-seletivo-com-salarios-de-ate-23930",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 20,
-   "cadastro_reserva": false,
-   "salario": 23930.19,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
   },
   {
@@ -7370,28 +7070,6 @@
    "novo": false
   },
   {
-   "id": "fc26ef3a68a5b9a9",
-   "orgao": "SAMU - Serviço de Atendimento Móvel de Urgência de Criciúma",
-   "titulo": "FAHECE - SC abre vaga de assistente administrativo para pessoa com deficiência em Criciúma",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-assistente-administrativo-para-pessoa-com-deficiencia-em-criciuma",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 1289.06,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-11-08T10:29:21+00:00",
-   "novo": true
-  },
-  {
    "id": "4fb238fe107e1977",
    "orgao": "SANEFRAI - Autarquia Municipal de Saneamento de Fraiburgo",
    "titulo": "SANEFRAI - SC abre processo seletivo para formação de cadastro de reserva",
@@ -7432,9 +7110,9 @@
     "Médio",
     "Técnico"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "09 a13/11/2026",
+   "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-23T22:15:36+00:00",
    "novo": false
   },
@@ -7687,9 +7365,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "09 a13/11/2026",
+   "prazo_texto": "13/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
   },
@@ -7709,9 +7387,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "09 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
@@ -7754,9 +7432,9 @@
    "niveis": [
     "Médio"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "09 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-05T22:42:16+00:00",
    "novo": false
   },
@@ -7828,9 +7506,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "09 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
   },
@@ -8211,9 +7889,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-22",
-   "prazo_texto": "09 a22/11/2026",
+   "prazo_texto": "22/11/2026",
    "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
@@ -8654,9 +8332,9 @@
     "Fundamental",
     "Médio"
    ],
-   "inscricoes_de": "2026-11-09",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "09 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-05T18:47:57+00:00",
    "novo": false
   },
@@ -8919,28 +8597,6 @@
    "novo": false
   },
   {
-   "id": "bd6471240f4a170e",
-   "orgao": "TJBA - Tribunal de Justiça do Estado da Bahia",
-   "titulo": "TJBA abre seleção para cadastro de reserva na função de mediador judicial",
-   "url": "https://www.pciconcursos.com.br/noticias/tjba-abre-selecao-para-cadastro-de-reserva-na-funcao-de-mediador-judicial",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4285.0,
-   "salario_por_hora": false,
-   "cargos": "Mediador Judicial",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "08/11/2026",
-   "visto_em": "2026-11-06T00:21:19+00:00",
-   "novo": false
-  },
-  {
    "id": "16c23610d5cf8151",
    "orgao": "Câmara de Camocim",
    "titulo": "Câmara de Camocim - CE abre concurso público com 11 vagas",
@@ -9123,31 +8779,6 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "Reaberto até15/11/2026",
    "visto_em": "2026-10-24T05:57:32+00:00",
-   "novo": false
-  },
-  {
-   "id": "28658f7b9be54ca0",
-   "orgao": "Prefeitura de Horizonte",
-   "titulo": "Prefeitura de Horizonte - CE retifica edital de concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-horizonte-ce-retifica-edital-de-concurso-publico",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 15,
-   "cadastro_reserva": false,
-   "salario": 5620.27,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "Reaberto até08/11/2026",
-   "visto_em": "2026-10-28T18:53:38+00:00",
    "novo": false
   },
   {
@@ -9389,31 +9020,6 @@
    "inscricoes_ate": "2026-11-15",
    "prazo_texto": "15/11/2026",
    "visto_em": "2026-10-15T17:06:05+00:00",
-   "novo": false
-  },
-  {
-   "id": "9464277f9cdf3f98",
-   "orgao": "Prefeitura de Conceição",
-   "titulo": "Prefeitura de Conceição - PB reabre inscrições para concurso público",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-conceicao-pb-reabre-inscricoes-para-concurso-publico",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 129,
-   "cadastro_reserva": false,
-   "salario": 7000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-08",
-   "prazo_texto": "Reaberto até08/11/2026",
-   "visto_em": "2026-10-20T19:19:49+00:00",
    "novo": false
   },
   {
