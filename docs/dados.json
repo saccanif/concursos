@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-09T18:52:34+00:00",
+ "gerado_em": "2026-11-10T02:12:05+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 435,
- "novos": 27,
- "encerrados": 0,
+ "total": 439,
+ "novos": 31,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "a2373ab7ac0c2dea",
@@ -2400,10 +2400,10 @@
    "novo": false
   },
   {
-   "id": "54a0893161f8e272",
+   "id": "41ad2ad0421ec69e",
    "orgao": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
-   "titulo": "CBMERJ - RJ retifica edital de processo seletivo para 1º tenente temporário",
-   "url": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-retifica-edital-de-processo-seletivo-para-1-tenente-temporario",
+   "titulo": "CBMERJ - RJ prorroga inscrições de processo seletivo para 1º tenente temporário",
+   "url": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-prorroga-inscricoes-de-processo-seletivo-para-1-tenente-temporario",
    "uf": "RJ",
    "uf_nome": "Rio de Janeiro",
    "vagas": 192,
@@ -2416,10 +2416,10 @@
     "Superior"
    ],
    "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-09",
-   "prazo_texto": "09/11/2026",
-   "visto_em": "2026-10-19T19:58:43+00:00",
-   "novo": false
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "Prorrogado até16/11/2026",
+   "visto_em": "2026-11-10T02:12:05+00:00",
+   "novo": true
   },
   {
    "id": "8b66a190cf5b6021",
@@ -3105,6 +3105,31 @@
    "novo": false
   },
   {
+   "id": "53a6cd5a363d096e",
+   "orgao": "FAEPU - Fundação de Assistência, Estudo e Pesquisa de Uberlândia",
+   "titulo": "FAEPU - MG abre processo seletivo para unidades de saúde de Araguari",
+   "url": "https://www.pciconcursos.com.br/noticias/faepu-mg-abre-processo-seletivo-para-unidades-de-saude-de-araguari",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6062.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-11-10T02:12:05+00:00",
+   "novo": true
+  },
+  {
    "id": "28fa63ee8eb0c9fc",
    "orgao": "FUMEP - Fundação Municipal de Ensino Profissionalizante de Sete Lagoas",
    "titulo": "FUMEP de Sete Lagoas - MG retifica concurso público para diversos níveis de escolaridade",
@@ -3480,7 +3505,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-08T10:29:21+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b0cad351e21cbba",
@@ -3594,6 +3619,28 @@
    "inscricoes_ate": "2027-02-25",
    "prazo_texto": "25/01 a25/02/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
+   "novo": true
+  },
+  {
+   "id": "b570059201ac70c8",
+   "orgao": "Prefeitura de Lagoa dos Patos",
+   "titulo": "Prefeitura de Lagoa dos Patos - MG abre processo seletivo para psicólogos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-dos-patos-mg-abre-processo-seletivo-para-psicologos",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3323.66,
+   "salario_por_hora": false,
+   "cargos": "Psicólogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "10 a16/11/2026",
+   "visto_em": "2026-11-10T02:12:05+00:00",
    "novo": true
   },
   {
@@ -4445,6 +4492,29 @@
    "novo": false
   },
   {
+   "id": "141f0f87ca72bc0b",
+   "orgao": "SUDECAP - Superintendência de Desenvolvimento da Capital",
+   "titulo": "SUDECAP - MG abre processo seletivo com salários de até R$ 9.375,06",
+   "url": "https://www.pciconcursos.com.br/noticias/sudecap-mg-abre-processo-seletivo-com-salarios-de-ate-9375",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 27,
+   "cadastro_reserva": false,
+   "salario": 9375.06,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-10",
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "10 a16/11/2026",
+   "visto_em": "2026-11-10T02:12:05+00:00",
+   "novo": true
+  },
+  {
    "id": "cca489f02cf1afb4",
    "orgao": "Câmara de Aracruz",
    "titulo": "Câmara de Aracruz - ES abre concurso público com salários de até R$ 6.614,93",
@@ -5097,6 +5167,29 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-02T23:00:58+00:00",
    "novo": false
+  },
+  {
+   "id": "01cf3142e780d76d",
+   "orgao": "Câmara de Boa Vista do Incra",
+   "titulo": "Câmara de Boa Vista do Incra - RS abre concurso público para Agente Administrativo e Agente de Apoio",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-boa-vista-do-incra-rs-abre-concurso-publico-para-agente-administrativo-e-agente-de-apoio",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2072.69,
+   "salario_por_hora": false,
+   "cargos": "Agente Administrativo, Agente de Apoio",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "08/12/2026",
+   "visto_em": "2026-11-10T02:12:05+00:00",
+   "novo": true
   },
   {
    "id": "0bbda2fee222200a",
