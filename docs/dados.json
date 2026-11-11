@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-11T06:35:02+00:00",
+ "gerado_em": "2026-11-11T15:18:59+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 401,
- "novos": 62,
- "encerrados": 39,
+ "total": 418,
+ "novos": 48,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "1a077602b368c763",
@@ -348,7 +348,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6a9d94dd80898cc6",
@@ -666,7 +666,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "04/01/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4d57ba593929ff63",
@@ -801,7 +801,7 @@
    "inscricoes_ate": "2027-01-01",
    "prazo_texto": "23/11/2026 a01/01/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8b462a3d79e93021",
@@ -827,6 +827,28 @@
    "prazo_texto": "16/11 a15/12/2026",
    "visto_em": "2026-11-04T15:29:12+00:00",
    "novo": false
+  },
+  {
+   "id": "9b2c95abaaf3cd67",
+   "orgao": "Prefeitura da Estância Turística de Itu",
+   "titulo": "Prefeitura de Itu - SP abre concurso público com vagas para cuidador e educador social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itu-sp-abre-concurso-publico-com-vagas-para-cuidador-e-educador-social",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 2738.09,
+   "salario_por_hora": false,
+   "cargos": "Cuidador, Educador Social",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "616c3a552c424c6c",
@@ -1082,7 +1104,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "713b1e1fc4bff3d2",
@@ -1150,7 +1172,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f49cc19be7b51e31",
@@ -1197,6 +1219,28 @@
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "b6bbbaf4851712c4",
+   "orgao": "Prefeitura de Cubatão",
+   "titulo": "Prefeitura de Cubatão - SP abre concurso público para assistente social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concurso-publico-para-assistente-social",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5565.0,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-17",
+   "prazo_texto": "17/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "3853c9601f8f7de2",
@@ -1246,7 +1290,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "Prorrogado até12/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bbd9d4dbf9aea969",
@@ -1321,7 +1365,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0ab99c73678ddee2",
@@ -1580,7 +1624,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "19e5c657c776e547",
@@ -1651,7 +1695,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "636317cade8127ec",
@@ -1701,7 +1745,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "34da023f339f5a24",
@@ -1725,7 +1769,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c2511577f7d19ea3",
@@ -1866,7 +1910,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c28c0884b4a106cb",
@@ -1891,6 +1935,29 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
+   "novo": false
+  },
+  {
+   "id": "f0f9583abbe67efc",
+   "orgao": "Prefeitura de São Carlos",
+   "titulo": "Prefeitura de São Carlos - SP abre concurso público com salários de até R$ 9.701,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-carlos-sp-abre-concurso-publico-com-salarios-de-ate-9701",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 21,
+   "cadastro_reserva": false,
+   "salario": 9701.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2026-12-01",
+   "prazo_texto": "12/11 a01/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": true
   },
   {
@@ -1988,6 +2055,31 @@
    "novo": false
   },
   {
+   "id": "c23c6153bba26e70",
+   "orgao": "Prefeitura de Tapiraí",
+   "titulo": "Prefeitura de Tapiraí - SP abre concurso público com salários de até R$ 7.991,27",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tapirai-sp-abre-concurso-publico-com-salarios-de-ate-7991",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 24,
+   "cadastro_reserva": false,
+   "salario": 7991.27,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-14",
+   "prazo_texto": "14/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "67519b3f370ac706",
    "orgao": "Prefeitura de Tuiuti",
    "titulo": "Prefeitura de Tuiuti - SP retifica edital de concurso público com vagas imediatas e cadastro de reserva",
@@ -2011,6 +2103,30 @@
    "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-10-26T13:17:15+00:00",
    "novo": false
+  },
+  {
+   "id": "73c56e46906cbc5d",
+   "orgao": "Prefeitura de Uru",
+   "titulo": "Prefeitura de Uru - SP abre concurso público com vagas em diversas áreas de atuação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uru-sp-abre-concurso-publico-com-vagas-em-diversas-areas-de-atuacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 5217.7,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "25/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "b880605e52e21ce0",
@@ -2104,6 +2220,28 @@
    "novo": true
   },
   {
+   "id": "25997ad791151d86",
+   "orgao": "UNESP - Universidade Estadual Paulista",
+   "titulo": "UNESP abre concurso para assistente administrativo II na área de Materiais em Araçatuba - SP",
+   "url": "https://www.pciconcursos.com.br/noticias/unesp-abre-concurso-para-assistente-administrativo-ii-na-area-de-materiais-em-aracatuba-sp",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 6537.74,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo II",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-19",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "19/11 a03/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "f9a32d917a2c5b2f",
    "orgao": "USCS - Universidade Municipal de São Caetano do Sul, HFASP e Barueri",
    "titulo": "FAUSCS - SP abre seleção para residência médica em diversas áreas",
@@ -2168,7 +2306,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "Prorrogado até16/11/2026",
    "visto_em": "2026-11-10T02:12:05+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8b66a190cf5b6021",
@@ -2213,7 +2351,7 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "13/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7ff574d8ebfa0642",
@@ -2441,6 +2579,29 @@
    "prazo_texto": "31/12/2026 a30/01/2027",
    "visto_em": "2026-10-21T11:57:45+00:00",
    "novo": false
+  },
+  {
+   "id": "e46059566f5fc2da",
+   "orgao": "Câmara de Estrela do Sul",
+   "titulo": "Câmara de Estrela do Sul - MG abre concurso público com sete vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-estrela-do-sul-mg-abre-concurso-publico-com-sete-vagas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 2250.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2027-01-11",
+   "inscricoes_ate": "2027-02-11",
+   "prazo_texto": "11/01 a11/02/2027",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "c254a77858bea5f4",
@@ -2809,7 +2970,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-11-10T02:12:05+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "28fa63ee8eb0c9fc",
@@ -2953,7 +3114,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "52fc2af5949d5698",
@@ -3027,7 +3188,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7cef90725f294e15",
@@ -3280,7 +3441,7 @@
    "inscricoes_ate": "2027-02-24",
    "prazo_texto": "26/01 a24/02/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c932d7b9aed6cf56",
@@ -3303,7 +3464,7 @@
    "inscricoes_ate": "2027-02-25",
    "prazo_texto": "25/01 a25/02/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b570059201ac70c8",
@@ -3325,7 +3486,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-10T02:12:05+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "344dc83d26ac207e",
@@ -3847,6 +4008,30 @@
    "novo": false
   },
   {
+   "id": "e93f4ce66db6a192",
+   "orgao": "Prefeitura de São José da Lapa",
+   "titulo": "Prefeitura de São José da Lapa - MG abre processo seletivo com 8 vagas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lapa-mg-abre-processo-seletivo-com-8-vagas-e-cadastro-de-reserva",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 2931.8,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-11-20",
+   "prazo_texto": "16 a20/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "db678a6373d20c3b",
    "orgao": "Prefeitura de São José do Divino",
    "titulo": "Prefeitura de São José do Divino - MG abre concurso público para diversos cargos",
@@ -4125,7 +4310,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-10T02:12:05+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca489f02cf1afb4",
@@ -4407,6 +4592,30 @@
    "novo": true
   },
   {
+   "id": "db1cfca17683f874",
+   "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Iconha",
+   "titulo": "SAAE de Iconha - ES prorroga inscrições para concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/saae-de-iconha-es-prorroga-inscricoes-para-concurso-publico",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": 3236.14,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "Prorrogado até16/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "26d3cf51bcbcdbf0",
    "orgao": "Câmara de Quatro Barras",
    "titulo": "Câmara de Quatro Barras - PR reabre inscrições para concurso público",
@@ -4682,7 +4891,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-10T02:12:05+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0bbda2fee222200a",
@@ -4795,7 +5004,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "dd0cc5474677c0d2",
@@ -5270,7 +5479,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1aa9fc313072d53b",
@@ -5480,6 +5689,28 @@
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-10-09T16:17:16+00:00",
    "novo": false
+  },
+  {
+   "id": "6039277417e5d574",
+   "orgao": "Prefeitura de Torres",
+   "titulo": "Prefeitura de Torres - RS abre processo seletivo para Monitor PSR",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-processo-seletivo-para-monitor-psr",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2100.0,
+   "salario_por_hora": false,
+   "cargos": "Monitor",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "24/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "13dec98e95d689a4",
@@ -5709,6 +5940,28 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
+   "novo": false
+  },
+  {
+   "id": "ab41966900c9ff7c",
+   "orgao": "Conselho Tutelar de Arabutã",
+   "titulo": "CMDCA de Arabutã - SC prorroga inscrições de processo para escolha suplementar de conselheiro tutelar",
+   "url": "https://www.pciconcursos.com.br/noticias/cmdca-de-arabuta-sc-prorroga-inscricoes-de-processo-para-escolha-suplementar-de-conselheiro-tutelar",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2735.45,
+   "salario_por_hora": false,
+   "cargos": "Membro do Conselho Tutelar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-20",
+   "prazo_texto": "Prorrogado até20/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": true
   },
   {
@@ -6129,7 +6382,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77c5fa2341e8c1db",
@@ -7014,7 +7267,7 @@
    "inscricoes_ate": "2026-11-12",
    "prazo_texto": "12/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5eccd1f14510f07b",
@@ -7409,6 +7662,30 @@
    "novo": false
   },
   {
+   "id": "3a0e1fd751d181ef",
+   "orgao": "Prefeitura de Campo Limpo de Goiás e Câmara de Campo Limpo de Goiás",
+   "titulo": "Prefeitura e Câmara de Campo Limpo de Goiás - GO anunciam concurso público com diversas vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-campo-limpo-de-goias-go-anunciam-concurso-publico-com-diversas-vagas",
+   "uf": "GO",
+   "uf_nome": "Goiás",
+   "vagas": 105,
+   "cadastro_reserva": false,
+   "salario": 4042.61,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-21",
+   "inscricoes_ate": "2027-01-21",
+   "prazo_texto": "21/12/2026 a21/01/2027",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "f81a2ef7ff78fe74",
    "orgao": "Prefeitura de Goianira",
    "titulo": "Prefeitura de Goianira - GO abre seleção com remunerações de até R$ 3.203,66",
@@ -7577,6 +7854,30 @@
    "novo": false
   },
   {
+   "id": "3f6dd589fbfe5077",
+   "orgao": "Câmara de Aral Moreira",
+   "titulo": "Câmara de Aral Moreira - MS abre concurso público com salários de até R$ 7.566,00",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-aral-moreira-ms-abre-concurso-publico-com-salarios-de-ate-7566",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 7566.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "12 a22/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "7acf0e8bf829134a",
    "orgao": "Prefeitura de Batayporã - Secretaria Municipal de Educação, Cultura, Esporte e Lazer",
    "titulo": "Secretaria de Educação de Batayporã - MS abre processo seletivo para diversos cargos",
@@ -7620,6 +7921,29 @@
    "inscricoes_ate": "2026-11-13",
    "prazo_texto": "12 a13/11/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
+   "novo": true
+  },
+  {
+   "id": "1589ae2e3cd9adde",
+   "orgao": "Secretaria Municipal de Educação, Esporte e Cultura de Eldorado",
+   "titulo": "Prefeitura de Eldorado - MS abre seleção para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-eldorado-ms-abre-selecao-para-profissionais-da-educacao",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Professor, Profissional de Apoio Escolar, Monitor Escolar",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": true
   },
   {
@@ -7788,6 +8112,30 @@
    "novo": false
   },
   {
+   "id": "4ea88db5797ecd21",
+   "orgao": "Prefeitura de Cotriguaçu",
+   "titulo": "Prefeitura de Cotriguaçu - MT abre processo seletivo para cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cotriguacu-mt-abre-processo-seletivo-para-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 4749.42,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "24/11 a02/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "82d21ec9ee745492",
    "orgao": "Prefeitura de Mirassol d'Oeste",
    "titulo": "Prefeitura de Mirassol d'Oeste - MT abre processo seletivo com salários de até R$ 27.645,05",
@@ -7811,6 +8159,31 @@
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
    "novo": false
+  },
+  {
+   "id": "ce0357d9a7216da4",
+   "orgao": "Prefeitura de Nova Bandeirantes",
+   "titulo": "Prefeitura de Nova Bandeirantes - MT abre seleção com salários de até R$ 4.928,75",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-bandeirantes-mt-abre-selecao-com-salarios-de-ate-4928",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 189,
+   "cadastro_reserva": false,
+   "salario": 4928.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-25",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "25/11 a03/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
   },
   {
    "id": "c0a70b128bd493b5",
@@ -8026,7 +8399,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "23/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cc0e965e25b8723a",
@@ -8380,7 +8753,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "185da28d2fbe68fe",
@@ -8906,6 +9279,30 @@
    "novo": false
   },
   {
+   "id": "cff1b691218ba080",
+   "orgao": "Prefeitura de Natuba",
+   "titulo": "Prefeitura de Natuba - PB abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-natuba-pb-abre-concurso-publico-para-diversos-cargos",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 141,
+   "cadastro_reserva": false,
+   "salario": 3988.96,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-12",
+   "inscricoes_ate": "2026-12-13",
+   "prazo_texto": "12/11 a13/12/2026",
+   "visto_em": "2026-11-11T15:18:59+00:00",
+   "novo": true
+  },
+  {
    "id": "ab176de271652179",
    "orgao": "Prefeitura de Parari",
    "titulo": "Prefeitura de Parari - PB abre concurso público com salários de até R$ 10.000,00",
@@ -8928,7 +9325,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "41401994f03510d0",
