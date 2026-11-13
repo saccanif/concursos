@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-12T20:00:04+00:00",
+ "gerado_em": "2026-11-13T01:09:24+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 444,
- "novos": 65,
- "encerrados": 1,
+ "total": 454,
+ "novos": 75,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "1a077602b368c763",
@@ -987,6 +987,31 @@
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-10-21T20:40:06+00:00",
    "novo": false
+  },
+  {
+   "id": "fb48ca79f6d14e2c",
+   "orgao": "Prefeitura de Bofete",
+   "titulo": "Prefeitura de Bofete - SP abre concurso público com vagas em diversas áreas de atuação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bofete-sp-abre-concurso-publico-com-vagas-em-diversas-areas-de-atuacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 3820.32,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "16 a30/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
   },
   {
    "id": "74a5e1889eb14762",
@@ -2378,6 +2403,29 @@
    "novo": false
   },
   {
+   "id": "e0cfc9af613d6159",
+   "orgao": "CMTC - Companhia Municipal de Transportes Coletivos",
+   "titulo": "Mobi-Rio - RJ abre seleção com salários até R$ 5.960,63",
+   "url": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-selecao-com-salarios-ate-5960",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 63,
+   "cadastro_reserva": false,
+   "salario": 5960.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-13",
+   "inscricoes_ate": "2026-11-21",
+   "prazo_texto": "13 a21/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
+  },
+  {
    "id": "dcb42eb76b33d0ce",
    "orgao": "CRP/05 - Conselho Regional de Psicologia da 5ª Região",
    "titulo": "CRP 05 - RJ abre concurso público com salários de até R$ 7.313,35",
@@ -2466,6 +2514,29 @@
    "prazo_texto": "17/11 a22/12/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
+  },
+  {
+   "id": "419d969243f45724",
+   "orgao": "Prefeitura de Sumidouro",
+   "titulo": "Prefeitura de Sumidouro - RJ abre seleção com salários de até R$ 3.206,64",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sumidouro-rj-abre-selecao-com-salarios-de-ate-3206",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 65,
+   "cadastro_reserva": false,
+   "salario": 3206.64,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "25/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
   },
   {
    "id": "98bb89bca5556142",
@@ -4093,6 +4164,50 @@
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
    "novo": false
+  },
+  {
+   "id": "2fa55a81181a0469",
+   "orgao": "Prefeitura de Rio Novo",
+   "titulo": "Prefeitura de Rio Novo - MG abre seleção para condutores com ganhos extras de até R$ 500 por plantão",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-selecao-para-condutores-com-ganhos-extras-de-ate-500-por-plantao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Condutor de Veículos e Máquinas",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-13",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "13 a18/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
+  },
+  {
+   "id": "a096c7758c32546e",
+   "orgao": "Prefeitura de Rio Novo",
+   "titulo": "Prefeitura de Rio Novo - MG abre processo seletivo para Condutor de Veículos e Máquinas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-novo-mg-abre-processo-seletivo-para-condutor-de-veiculos-e-maquinas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Condutor de Veículos e Máquinas",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-13",
+   "inscricoes_ate": "2026-11-18",
+   "prazo_texto": "13 a18/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
   },
   {
    "id": "02b699512be03d5a",
@@ -6491,6 +6606,28 @@
    "novo": false
   },
   {
+   "id": "68812c4fe44cc7a0",
+   "orgao": "HEMOSC",
+   "titulo": "FAHECE - SC abre processo seletivo para o HEMOSC de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-hemosc-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4826.37,
+   "salario_por_hora": false,
+   "cargos": "Biomédico - Biólogo - Bioquímico/Farmacêutico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
+  },
+  {
    "id": "bcd1a28ad1085521",
    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
    "titulo": "FAHECE - SC prorroga inscrições de processo seletivo para técnico de enfermagem PcD no HEMOSC de Joinville",
@@ -7275,6 +7412,30 @@
    "novo": false
   },
   {
+   "id": "a327299df099600a",
+   "orgao": "Prefeitura de Rancho Queimado",
+   "titulo": "Prefeitura de Rancho Queimado - SC abre processo seletivo para formação de cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5111.16,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
+  },
+  {
    "id": "412919817aa8af84",
    "orgao": "Prefeitura de Rio do Campo",
    "titulo": "Prefeitura de Rio do Campo - SC abre processo seletivo para profissionais da educação",
@@ -7884,6 +8045,30 @@
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
+  },
+  {
+   "id": "a439c491dc281136",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre processo seletivo para técnicos em enfermagem e enfermeiros em Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnicos-em-enfermagem-e-enfermeiros-em-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 5670.38,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem, Enfermeiro",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
   },
   {
    "id": "777f80837830419f",
@@ -9187,6 +9372,29 @@
    "novo": false
   },
   {
+   "id": "cbeff73a657ee505",
+   "orgao": "FESF-SUS - Fundação Estatal Saúde da Família",
+   "titulo": "FESF-SUS - BA abre seleção com salários de até R$ 10.270,75",
+   "url": "https://www.pciconcursos.com.br/noticias/fesf-sus-ba-abre-selecao-com-salarios-de-ate-10270",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 10270.75,
+   "salario_por_hora": false,
+   "cargos": "Operador(a) de Sistemas de Informática, Consultor(a) de Tecnologia da Informação",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-17",
+   "prazo_texto": "17/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
+  },
+  {
    "id": "337a6565e5767331",
    "orgao": "Prefeitura de Aracatu",
    "titulo": "Prefeitura de Aracatu - BA retifica edital de processo seletivo para a Secretaria de Educação",
@@ -9379,6 +9587,28 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "cab1c0a0df7d49ca",
+   "orgao": "Prefeitura de Maraú",
+   "titulo": "Prefeitura de Maraú - BA reabre inscrições de processo seletivo para agentes comunitários de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-ba-reabre-inscricoes-de-processo-seletivo-para-agentes-comunitarios-de-saude",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 34,
+   "cadastro_reserva": true,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Agente comunitário de saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "Reaberto até16/11/2026",
+   "visto_em": "2026-11-13T01:09:24+00:00",
+   "novo": true
   },
   {
    "id": "5eef8026f8512135",
