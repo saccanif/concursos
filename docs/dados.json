@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-13T08:04:47+00:00",
+ "gerado_em": "2026-11-13T16:29:59+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 425,
- "novos": 57,
- "encerrados": 30,
+ "total": 430,
+ "novos": 45,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "1a077602b368c763",
@@ -985,7 +985,7 @@
    "inscricoes_ate": "2027-01-08",
    "prazo_texto": "25/11/2026 a08/01/2027",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2d210b10685eb375",
@@ -1291,7 +1291,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8dc74eaf85fe3581",
@@ -1885,7 +1885,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f0f9583abbe67efc",
@@ -2124,7 +2124,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "93b937f6da445ac4",
@@ -3084,7 +3084,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "be213cc159d2a8ad",
@@ -3230,7 +3230,7 @@
    "inscricoes_ate": "2026-11-17",
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fa813f456681f2a5",
@@ -3368,7 +3368,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c1b2199a77c306b8",
@@ -4300,7 +4300,7 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "18/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ae8e0768d448dad4",
@@ -4415,7 +4415,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "346ebecaddafd2bf",
@@ -4437,7 +4437,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca489f02cf1afb4",
@@ -5204,6 +5204,28 @@
    "novo": false
   },
   {
+   "id": "b52d22708435bc8d",
+   "orgao": "Prefeitura de Arroio do Padre",
+   "titulo": "Prefeitura de Arroio do Padre - RS abre processo seletivo para terapeuta ocupacional",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-do-padre-rs-abre-processo-seletivo-para-terapeuta-ocupacional",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4427.71,
+   "salario_por_hora": false,
+   "cargos": "Terapeuta Ocupacional",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-16",
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "16 a23/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
+   "novo": true
+  },
+  {
    "id": "f6d6c9277072d814",
    "orgao": "Prefeitura de Arvorezinha",
    "titulo": "Prefeitura de Arvorezinha - RS retoma concurso público para Fiscal Ambiental e Fiscal Sanitário",
@@ -5365,7 +5387,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5f9e2a29cbe9cf3a",
@@ -5438,31 +5460,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-16T21:16:34+00:00",
-   "novo": false
-  },
-  {
-   "id": "e276dca51be99986",
-   "orgao": "Prefeitura de Montenegro",
-   "titulo": "Prefeitura de Montenegro - RS abre concurso público com salários de até R$ 9.848,34",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
-   "uf": "RS",
-   "uf_nome": "Rio Grande do Sul",
-   "vagas": 84,
-   "cadastro_reserva": false,
-   "salario": 9848.34,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-13",
-   "prazo_texto": "13/11/2026",
-   "visto_em": "2026-10-15T23:06:45+00:00",
    "novo": false
   },
   {
@@ -5836,7 +5833,7 @@
    "inscricoes_ate": "2026-11-24",
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0b6f23db633fac62",
@@ -6089,6 +6086,29 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
+   "novo": true
+  },
+  {
+   "id": "52652e32e1e142ee",
+   "orgao": "FAHECE",
+   "titulo": "FAHECE - SC anuncia vaga de Assistente de Laboratório I em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-de-laboratorio-i-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 3373.62,
+   "salario_por_hora": false,
+   "cargos": "Assistente de Laboratório I",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-16",
+   "prazo_texto": "16/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
    "novo": true
   },
   {
@@ -6512,6 +6532,29 @@
    "novo": false
   },
   {
+   "id": "cd191e7503337143",
+   "orgao": "Prefeitura de Florianópolis",
+   "titulo": "Prefeitura de Florianópolis - SC abre seleção para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florianopolis-sc-abre-selecao-para-a-secretaria-de-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6493.56,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
+   "novo": true
+  },
+  {
    "id": "77c5fa2341e8c1db",
    "orgao": "Prefeitura de Fraiburgo",
    "titulo": "Prefeitura de Fraiburgo - SC abre processo seletivo para cadastro de reserva",
@@ -6580,7 +6623,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "16/11 a04/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e874917d78d7f7a9",
@@ -7467,6 +7510,28 @@
    "novo": true
   },
   {
+   "id": "632f761dbbf32866",
+   "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+   "titulo": "SES - SC abre seleção para profissionais de saúde em Joinville",
+   "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-selecao-para-profissionais-de-saude-em-joinville",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 10581.16,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
+   "novo": true
+  },
+  {
    "id": "777f80837830419f",
    "orgao": "TJSC - Tribunal de Justiça do Estado de Santa Catarina",
    "titulo": "TJSC abre concurso público para o cargo de Juiz Substituto",
@@ -8172,6 +8237,28 @@
    "novo": false
   },
   {
+   "id": "157bb2a3ecae1aac",
+   "orgao": "Prefeitura de Guarantã do Norte",
+   "titulo": "Prefeitura de Guarantã do Norte - MT abre processo seletivo para Agentes de Saúde e Endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaranta-do-norte-mt-abre-processo-seletivo-para-agentes-de-saude-e-endemias",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
+   "novo": true
+  },
+  {
    "id": "82d21ec9ee745492",
    "orgao": "Prefeitura de Mirassol d'Oeste",
    "titulo": "Prefeitura de Mirassol d'Oeste - MT abre processo seletivo com salários de até R$ 27.645,05",
@@ -8858,7 +8945,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "Prorrogado até16/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e73c5765cbb41c24",
@@ -8883,7 +8970,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "Prorrogado até16/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c7293fe853e8a827",
@@ -9023,6 +9110,29 @@
    "inscricoes_ate": "2026-11-18",
    "prazo_texto": "Prorrogado até18/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
+   "novo": false
+  },
+  {
+   "id": "a9496254474b6c90",
+   "orgao": "Câmara de Croatá",
+   "titulo": "Câmara de Croatá - CE abre concurso público com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-croata-ce-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "27/11/2026",
+   "visto_em": "2026-11-13T16:29:59+00:00",
    "novo": true
   },
   {
@@ -9353,7 +9463,7 @@
    "inscricoes_ate": "2026-12-27",
    "prazo_texto": "23/11 a27/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1b654a1f3024c3ff",
@@ -9946,7 +10056,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": true
+   "novo": false
   }
  ]
 }
