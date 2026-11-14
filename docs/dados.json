@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-11-14T17:10:58+00:00",
+ "gerado_em": "2026-11-14T21:32:30+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 425,
+ "total": 426,
  "novos": 29,
  "encerrados": 0,
  "concursos": [
@@ -1628,6 +1628,30 @@
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-11-04T15:29:12+00:00",
    "novo": false
+  },
+  {
+   "id": "2e15a7f3fd6211c6",
+   "orgao": "Prefeitura de Onda Verde",
+   "titulo": "Prefeitura de Onda Verde - SP abre processo seletivo com salários de até R$ 4.104,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onda-verde-sp-abre-processo-seletivo-com-salarios-de-ate-4104",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 4104.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-17",
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "17 a29/11/2026",
+   "visto_em": "2026-11-14T21:32:30+00:00",
+   "novo": true
   },
   {
    "id": "9b7f5d79635e335a",
@@ -8559,7 +8583,7 @@
    "inscricoes_ate": "2026-12-28",
    "prazo_texto": "17/11 a28/12/2026",
    "visto_em": "2026-11-13T08:04:47+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "97af49bfcf4e0be4",
