@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-15T01:57:39+00:00",
+ "gerado_em": "2026-11-15T09:31:46+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 426,
- "novos": 29,
- "encerrados": 0,
+ "total": 424,
+ "novos": 23,
+ "encerrados": 2,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -5207,7 +5207,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "16 a23/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6ddf9935d8bec266",
@@ -6028,7 +6028,7 @@
    "inscricoes_ate": "2026-11-16",
    "prazo_texto": "16/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "117cd7b4bdb689e1",
@@ -6540,7 +6540,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "77c5fa2341e8c1db",
@@ -6709,31 +6709,6 @@
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": true
-  },
-  {
-   "id": "c51da9b96fc9da33",
-   "orgao": "Prefeitura de Ilhota",
-   "titulo": "Prefeitura de Ilhota - SC publica edital de concurso público com salários de até R$ 21.113,16",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 36,
-   "cadastro_reserva": false,
-   "salario": 21113.16,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-14",
-   "prazo_texto": "14/11/2026",
-   "visto_em": "2026-10-15T20:22:07+00:00",
-   "novo": false
   },
   {
    "id": "7e6d078b72546e06",
@@ -7470,7 +7445,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "777f80837830419f",
@@ -8198,7 +8173,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "82d21ec9ee745492",
@@ -9054,7 +9029,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0ed919a6717d71d3",
@@ -9814,31 +9789,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-21T17:17:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "3662eb09c81f3e9a",
-   "orgao": "Prefeitura de Francisco Macedo",
-   "titulo": "Prefeitura de Francisco Macedo - PI abre concurso público com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 49,
-   "cadastro_reserva": false,
-   "salario": 4318.18,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-14",
-   "prazo_texto": "14/11/2026",
-   "visto_em": "2026-10-14T13:47:05+00:00",
    "novo": false
   },
   {
