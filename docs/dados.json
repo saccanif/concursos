@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-16T02:12:24+00:00",
+ "gerado_em": "2026-11-16T09:50:29+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 424,
- "novos": 1,
- "encerrados": 0,
+ "total": 408,
+ "novos": 0,
+ "encerrados": 16,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -118,30 +118,6 @@
    "novo": false
   },
   {
-   "id": "2ed675025297d026",
-   "orgao": "Câmara da Estância Turística de Paraguaçu Paulista",
-   "titulo": "Câmara de Paraguaçu Paulista - SP abre concurso público com salários de até R$ 11.065,27",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-paraguacu-paulista-sp-abre-concurso-publico-com-salarios-de-ate-11065",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 11065.27,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-20T15:08:46+00:00",
-   "novo": false
-  },
-  {
    "id": "73d3441d74790ff6",
    "orgao": "Câmara de Carapicuíba",
    "titulo": "Câmara de Carapicuíba - SP abre concurso público para Oficial de Manutenção e Técnico em Tecnologia da Informação",
@@ -158,9 +134,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-06",
-   "prazo_texto": "16/11 a06/12/2026",
+   "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -184,28 +160,6 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-07T00:57:29+00:00",
-   "novo": false
-  },
-  {
-   "id": "daa94ef976404d33",
-   "orgao": "Câmara de João Ramalho",
-   "titulo": "Câmara de João Ramalho - SP abre concurso público para cargos de nível médio",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-joao-ramalho-sp-abre-concurso-publico-para-cargos-de-nivel-medio",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 2,
-   "cadastro_reserva": false,
-   "salario": 4813.83,
-   "salario_por_hora": false,
-   "cargos": "Secretário, Assistente Administrativo, Financeiro, Compras e Tesouraria",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-26T23:10:45+00:00",
    "novo": false
   },
   {
@@ -659,9 +613,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-15",
-   "prazo_texto": "16/11 a15/12/2026",
+   "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
   },
@@ -751,9 +705,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-15",
-   "prazo_texto": "16/11 a15/12/2026",
+   "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-04T15:29:12+00:00",
    "novo": false
   },
@@ -915,9 +869,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "16 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-13T01:09:24+00:00",
    "novo": false
   },
@@ -1315,9 +1269,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-16",
-   "prazo_texto": "16/11 a16/12/2026",
+   "prazo_texto": "16/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -1387,9 +1341,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2027-01-04",
-   "prazo_texto": "16/11/2026 a04/01/2027",
+   "prazo_texto": "04/01/2027",
    "visto_em": "2026-11-06T20:55:42+00:00",
    "novo": false
   },
@@ -1412,9 +1366,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2027-01-04",
-   "prazo_texto": "16/11/2026 a04/01/2027",
+   "prazo_texto": "04/01/2027",
    "visto_em": "2026-11-06T20:55:42+00:00",
    "novo": false
   },
@@ -1438,30 +1392,6 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
-   "novo": false
-  },
-  {
-   "id": "692985076be9cfb8",
-   "orgao": "Prefeitura de Lençóis Paulista",
-   "titulo": "Prefeitura de Lençóis Paulista - SP abre concurso público com salários de até R$ 5.044,35",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lencois-paulista-sp-abre-concurso-publico-com-salarios-de-ate-5044",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 14,
-   "cadastro_reserva": false,
-   "salario": 5044.35,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
   },
   {
@@ -1651,7 +1581,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "17 a29/11/2026",
    "visto_em": "2026-11-14T21:32:30+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9b7f5d79635e335a",
@@ -1670,9 +1600,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-01",
-   "prazo_texto": "16/11 a01/12/2026",
+   "prazo_texto": "01/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
   },
@@ -1836,9 +1766,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-01",
-   "prazo_texto": "16/11 a01/12/2026",
+   "prazo_texto": "01/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -2324,9 +2254,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-17",
-   "prazo_texto": "16/11 a17/12/2026",
+   "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -2348,9 +2278,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-16",
-   "prazo_texto": "16/11 a16/12/2026",
+   "prazo_texto": "16/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
   },
@@ -2397,28 +2327,6 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-13T01:09:24+00:00",
-   "novo": false
-  },
-  {
-   "id": "98bb89bca5556142",
-   "orgao": "RioSaúde - Empresa Pública de Saúde do Rio de Janeiro S/A",
-   "titulo": "RioSaúde - RJ abre processo seletivo para enfermeiros",
-   "url": "https://www.pciconcursos.com.br/noticias/riosaude-rj-abre-processo-seletivo-para-enfermeiros",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 15,
-   "cadastro_reserva": false,
-   "salario": 5239.4,
-   "salario_por_hora": false,
-   "cargos": "Enfermeiro",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-07T00:57:29+00:00",
    "novo": false
   },
   {
@@ -2987,9 +2895,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-27",
-   "prazo_texto": "16 a27/11/2026",
+   "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -3131,9 +3039,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-15",
-   "prazo_texto": "16/11 a15/12/2026",
+   "prazo_texto": "15/12/2026",
    "visto_em": "2026-10-27T14:35:16+00:00",
    "novo": false
   },
@@ -4020,9 +3928,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-18",
-   "prazo_texto": "16 a18/11/2026",
+   "prazo_texto": "18/11/2026",
    "visto_em": "2026-10-29T16:57:28+00:00",
    "novo": false
   },
@@ -4044,9 +3952,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "16 a20/11/2026",
+   "prazo_texto": "20/11/2026",
    "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": false
   },
@@ -4392,9 +4300,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "16 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-06T15:07:18+00:00",
    "novo": false
   },
@@ -4436,9 +4344,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-25",
-   "prazo_texto": "16 a25/11/2026",
+   "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
   },
@@ -4626,30 +4534,6 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-06T00:21:19+00:00",
-   "novo": false
-  },
-  {
-   "id": "8504d069a74665be",
-   "orgao": "Prefeitura de Santa Maria de Jetibá",
-   "titulo": "Prefeitura de Santa Maria de Jetibá - ES abre processos seletivos para cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-maria-de-jetiba-es-abre-processos-seletivos-para-cadastro-de-reserva",
-   "uf": "ES",
-   "uf_nome": "Espírito Santo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 4727.46,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-03T23:28:00+00:00",
    "novo": false
   },
   {
@@ -4949,9 +4833,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "16 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
   },
@@ -5203,9 +5087,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "16 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-13T16:29:59+00:00",
    "novo": false
   },
@@ -5321,9 +5205,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-23",
-   "prazo_texto": "16 a23/11/2026",
+   "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
   },
@@ -5562,9 +5446,9 @@
    "niveis": [
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-14",
-   "prazo_texto": "16/11 a14/12/2026",
+   "prazo_texto": "14/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
   },
@@ -6393,9 +6277,9 @@
     "Fundamental",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-15",
-   "prazo_texto": "16/11 a15/12/2026",
+   "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
   },
@@ -6607,9 +6491,9 @@
    "niveis": [
     "Fundamental"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-04",
-   "prazo_texto": "16/11 a04/12/2026",
+   "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
    "novo": false
   },
@@ -6974,31 +6858,6 @@
    "novo": false
   },
   {
-   "id": "5f00580ab2a11c94",
-   "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
-   "titulo": "Prefeitura de Rio Negrinho - SC e órgãos municipais abrem novos concursos públicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 27,
-   "cadastro_reserva": false,
-   "salario": 18538.78,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-16T23:38:51+00:00",
-   "novo": false
-  },
-  {
    "id": "5ad951699a4aa842",
    "orgao": "Prefeitura de Salete",
    "titulo": "Prefeitura de Salete - SC abre processo seletivo com salários de até R$ 6.347,69",
@@ -7068,28 +6927,6 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
-   "novo": false
-  },
-  {
-   "id": "446c9521b9b9906d",
-   "orgao": "Prefeitura de São Bonifácio",
-   "titulo": "Prefeitura de São Bonifácio - SC abre processo seletivo para formação de cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bonifacio-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": null,
-   "cadastro_reserva": false,
-   "salario": 5159.83,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-07T00:57:29+00:00",
    "novo": false
   },
   {
@@ -7209,30 +7046,6 @@
    "novo": false
   },
   {
-   "id": "462f5199d9767629",
-   "orgao": "Prefeitura de Vitor Meireles",
-   "titulo": "Prefeitura de Vitor Meireles - SC abre concurso público e processo seletivo com salários de até R$ 11.050,85",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitor-meireles-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-11050",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 11050.85,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-28T23:15:44+00:00",
-   "novo": false
-  },
-  {
    "id": "0a6819ac80fc7f3b",
    "orgao": "Prefeitura do Município de Curitibanos",
    "titulo": "Prefeitura de Curitibanos - SC abre seleções com salários de até R$ 26.193,56",
@@ -7275,9 +7088,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-16",
-   "prazo_texto": "16/11 a16/12/2026",
+   "prazo_texto": "16/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -8244,9 +8057,9 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-16",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-11-30",
-   "prazo_texto": "16 a30/11/2026",
+   "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
@@ -8630,30 +8443,6 @@
    "novo": false
   },
   {
-   "id": "b2e8bc859e589fb8",
-   "orgao": "Semusa - Secretaria de Saúde de Rolim de Moura",
-   "titulo": "Prefeitura de Rolim de Moura - RO abre seleção para a Secretaria de Saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rolim-de-moura-ro-abre-selecao-para-a-secretaria-de-saude",
-   "uf": "RO",
-   "uf_nome": "Rondônia",
-   "vagas": 36,
-   "cadastro_reserva": false,
-   "salario": 3477.96,
-   "salario_por_hora": false,
-   "cargos": "Técnico de Enfermagem, Enfermeiro, Fisioterapeuta",
-   "escolaridade": "Médio / Técnico / Superior",
-   "niveis": [
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-13T22:41:36+00:00",
-   "novo": false
-  },
-  {
    "id": "721572dfb92c23b1",
    "orgao": "SEMUSA - Secretaria Municipal de Saúde de Porto Velho",
    "titulo": "Prefeitura de Porto Velho - RO prorroga inscrições para concurso público",
@@ -8795,30 +8584,6 @@
    "novo": false
   },
   {
-   "id": "337a6565e5767331",
-   "orgao": "Prefeitura de Aracatu",
-   "titulo": "Prefeitura de Aracatu - BA retifica edital de processo seletivo para a Secretaria de Educação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-retifica-edital-de-processo-seletivo-para-a-secretaria-de-educacao",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": 278,
-   "cadastro_reserva": false,
-   "salario": 2565.32,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "Prorrogado até15/11/2026",
-   "visto_em": "2026-11-10T17:54:51+00:00",
-   "novo": false
-  },
-  {
    "id": "0d9168f350102453",
    "orgao": "Prefeitura de Firmino Alves",
    "titulo": "Prefeitura de Firmino Alves - BA retifica concurso público com salários de até R$ 4.867,77",
@@ -8890,31 +8655,6 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
-   "novo": false
-  },
-  {
-   "id": "185da28d2fbe68fe",
-   "orgao": "Prefeitura de Luís Eduardo Magalhães",
-   "titulo": "Prefeitura de Luís Eduardo Magalhães - BA abre processo seletivo para diversos cargos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luis-eduardo-magalhaes-ba-abre-processo-seletivo-para-diversos-cargos",
-   "uf": "BA",
-   "uf_nome": "Bahia",
-   "vagas": 2355,
-   "cadastro_reserva": false,
-   "salario": 9216.9,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
   },
   {
@@ -9124,53 +8864,6 @@
    "novo": false
   },
   {
-   "id": "3dcc8b4861bdb5d7",
-   "orgao": "Prefeitura de Groaíras",
-   "titulo": "Prefeitura de Groaíras - CE reabre inscrições para concursos públicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-groairas-ce-reabre-inscricoes-para-concursos-publicos",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 72,
-   "cadastro_reserva": false,
-   "salario": 11000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "Reaberto até15/11/2026",
-   "visto_em": "2026-10-24T05:57:32+00:00",
-   "novo": false
-  },
-  {
-   "id": "72bf9fa3d042152a",
-   "orgao": "Prefeitura de Groaíras",
-   "titulo": "Prefeitura de Groaíras - CE reabre inscrições de concurso para agentes de saúde e de endemias",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-groairas-ce-reabre-inscricoes-de-concurso-para-agentes-de-saude-e-de-endemias",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Agente de Combate às Endemias, Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "Reaberto até15/11/2026",
-   "visto_em": "2026-10-24T05:57:32+00:00",
-   "novo": false
-  },
-  {
    "id": "47f9bc804fdabbca",
    "orgao": "Prefeitura de Itapipoca",
    "titulo": "Prefeitura de Itapipoca - CE abre processo seletivo para a educação",
@@ -9359,29 +9052,6 @@
    "inscricoes_ate": "2026-12-27",
    "prazo_texto": "23/11 a27/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
-   "novo": false
-  },
-  {
-   "id": "1b654a1f3024c3ff",
-   "orgao": "Prefeitura de Água Branca",
-   "titulo": "Prefeitura de Água Branca - PB republica editais de concursos públicos",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-branca-pb-republica-editais-de-concursos-publicos",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 24,
-   "cadastro_reserva": false,
-   "salario": 3242.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Médio / Superior",
-   "niveis": [
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-15T17:06:05+00:00",
    "novo": false
   },
   {
@@ -9817,28 +9487,6 @@
    "novo": false
   },
   {
-   "id": "1d4d7bf0899e6451",
-   "orgao": "Prefeitura de São João do Piauí",
-   "titulo": "Prefeitura de São João do Piauí - PI revoga suspensão de processo seletivo para Agente de Endemias e de Saúde",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-piaui-pi-revoga-suspensao-de-processo-seletivo-para-agente-de-endemias-e-de-saude",
-   "uf": "PI",
-   "uf_nome": "Piauí",
-   "vagas": 80,
-   "cadastro_reserva": false,
-   "salario": 1621.0,
-   "salario_por_hora": false,
-   "cargos": "Agente de Combate às Endemias, Agente Comunitário de Saúde",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-11-06T15:07:18+00:00",
-   "novo": false
-  },
-  {
    "id": "0f2ee29f7ad4ab78",
    "orgao": "Câmara de Alto do Rodrigues",
    "titulo": "Câmara de Alto do Rodrigues - RN abre concurso público com 12 vagas",
@@ -9859,28 +9507,6 @@
    "inscricoes_ate": "2026-12-13",
    "prazo_texto": "13/12/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
-   "novo": false
-  },
-  {
-   "id": "3650820e4e0e1dbb",
-   "orgao": "CREF16/RN - Conselho Regional de Educação Física da 16ª Região",
-   "titulo": "CREF16 - RN abre concurso público para profissionais de nível superior",
-   "url": "https://www.pciconcursos.com.br/noticias/cref16-rn-abre-concurso-publico-para-profissionais-de-nivel-superior",
-   "uf": "RN",
-   "uf_nome": "Rio Grande do Norte",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 4169.55,
-   "salario_por_hora": false,
-   "cargos": "Advogado, Contador, Agente de Licitações e Contratos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-15",
-   "prazo_texto": "15/11/2026",
-   "visto_em": "2026-10-23T18:24:51+00:00",
    "novo": false
   },
   {
