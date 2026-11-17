@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-17T03:57:00+00:00",
+ "gerado_em": "2026-11-17T13:32:22+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 409,
- "novos": 36,
- "encerrados": 32,
+ "total": 414,
+ "novos": 41,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -803,6 +803,29 @@
    "novo": false
   },
   {
+   "id": "b9c1eaf945c56fb7",
+   "orgao": "Prefeitura de Alvinlândia",
+   "titulo": "Prefeitura de Alvinlândia - SP abre processo seletivo com salários de até R$ 9.742,35",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinlandia-sp-abre-processo-seletivo-com-salarios-de-ate-9742",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 9742.35,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-17T13:32:22+00:00",
+   "novo": true
+  },
+  {
    "id": "fb48ca79f6d14e2c",
    "orgao": "Prefeitura de Bofete",
    "titulo": "Prefeitura de Bofete - SP abre concurso público com vagas em diversas áreas de atuação",
@@ -1586,6 +1609,29 @@
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
    "novo": false
+  },
+  {
+   "id": "d31bc5326263c6b2",
+   "orgao": "Prefeitura de Pilar do Sul",
+   "titulo": "Prefeitura de Pilar do Sul - SP abre concurso público com salários de até R$ 6.593,75",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-concurso-publico-com-salarios-de-ate-6593",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 6593.75,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-26",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "26/11 a28/12/2026",
+   "visto_em": "2026-11-17T13:32:22+00:00",
+   "novo": true
   },
   {
    "id": "34da023f339f5a24",
@@ -8305,6 +8351,31 @@
    "novo": false
   },
   {
+   "id": "6feda5b56432873f",
+   "orgao": "Prefeitura de Tabaporã",
+   "titulo": "Prefeitura de Tabaporã - MT abre seleção com salários de até R$ 9.677,25",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tabapora-mt-abre-selecao-com-salarios-de-ate-9677",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 165,
+   "cadastro_reserva": false,
+   "salario": 9677.25,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-01",
+   "prazo_texto": "01/12/2026",
+   "visto_em": "2026-11-17T13:32:22+00:00",
+   "novo": true
+  },
+  {
    "id": "e472b49d17376ef0",
    "orgao": "SECITECI - Secretaria de Estado de Ciência, Tecnologia e Inovação de Mato Grosso",
    "titulo": "SECITECI - MT retifica edital de processo seletivo para formação de cadastro de reserva",
@@ -8563,6 +8634,29 @@
    "novo": false
   },
   {
+   "id": "380a1f2421ed1457",
+   "orgao": "Prefeitura de Uiramutã",
+   "titulo": "Prefeitura de Uiramutã - RR abre seleção para agentes de saúde e endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uiramuta-rr-abre-selecao-para-agentes-de-saude-e-endemias",
+   "uf": "RR",
+   "uf_nome": "Roraima",
+   "vagas": 26,
+   "cadastro_reserva": true,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "24/11/2026",
+   "visto_em": "2026-11-17T13:32:22+00:00",
+   "novo": true
+  },
+  {
    "id": "30b8ca3b65c4e62d",
    "orgao": "Câmara de Oliveira de Fátima",
    "titulo": "Câmara de Oliveira de Fátima - TO abre concurso público com cinco vagas imediatas",
@@ -8655,6 +8749,28 @@
    "prazo_texto": "17/11/2026",
    "visto_em": "2026-11-13T01:09:24+00:00",
    "novo": false
+  },
+  {
+   "id": "16c2b0e7da1c8bbb",
+   "orgao": "Prefeitura de Formosa do Rio Preto",
+   "titulo": "Prefeitura de Formosa do Rio Preto - BA abre processo seletivo para profissionais da saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-formosa-do-rio-preto-ba-abre-processo-seletivo-para-profissionais-da-saude",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 68,
+   "cadastro_reserva": false,
+   "salario": 1808.33,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "23 a29/11/2026",
+   "visto_em": "2026-11-17T13:32:22+00:00",
+   "novo": true
   },
   {
    "id": "c7293fe853e8a827",
