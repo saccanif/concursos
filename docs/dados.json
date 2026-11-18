@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-18T04:29:04+00:00",
+ "gerado_em": "2026-11-18T14:07:55+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 410,
- "novos": 63,
- "encerrados": 17,
+ "total": 420,
+ "novos": 41,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -92,7 +92,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "Prorrogado até23/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "73d3441d74790ff6",
@@ -871,7 +871,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "30/11 a21/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d223de98bb3ab22f",
@@ -1299,7 +1299,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "80f7f0cabc2b8a38",
@@ -1958,6 +1958,52 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
+   "novo": false
+  },
+  {
+   "id": "c07ef68ae9778b9f",
+   "orgao": "SAAE - Saneamento Ambiental de Águas de Lindóia",
+   "titulo": "SAAE de Águas de Lindóia - SP abre concurso com salários de até R$ 6.112,00",
+   "url": "https://www.pciconcursos.com.br/noticias/saae-de-aguas-de-lindoia-sp-abre-concurso-com-salarios-de-ate-6112",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 6112.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-20",
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "20/11 a21/12/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
+  },
+  {
+   "id": "4c0da0aeacdff4a3",
+   "orgao": "Sebrae - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
+   "titulo": "Sebrae - SP abre processo seletivo para Analista de Marketing Pleno",
+   "url": "https://www.pciconcursos.com.br/noticias/sebrae-sp-abre-processo-seletivo-para-analista-de-marketing-pleno",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 9365.0,
+   "salario_por_hora": false,
+   "cargos": "Analista de Marketing Pleno",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-24",
+   "prazo_texto": "24/11/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": true
   },
   {
@@ -2116,6 +2162,28 @@
    "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
+  },
+  {
+   "id": "a3a8339771fc990f",
+   "orgao": "Prefeitura de Angra dos Reis",
+   "titulo": "Prefeitura de Angra dos Reis - RJ abre concurso público com 200 vagas para Guarda Civil Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-angra-dos-reis-rj-abre-concurso-publico-com-200-vagas-para-guarda-civil-municipal",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 200,
+   "cadastro_reserva": false,
+   "salario": 3872.27,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "21/12/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
   },
   {
    "id": "8b06f466f09b6bbe",
@@ -2621,7 +2689,7 @@
    "inscricoes_ate": "2027-01-14",
    "prazo_texto": "09 a14/01/2027",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "66c1f15a2c0d9b03",
@@ -2778,7 +2846,7 @@
    "inscricoes_ate": "2026-12-17",
    "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "305aff8251bcc11c",
@@ -2849,7 +2917,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "67a6954206d23439",
@@ -2871,7 +2939,7 @@
    "inscricoes_ate": "2026-11-24",
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "518f909ad194f412",
@@ -3010,6 +3078,29 @@
    "prazo_texto": "11/01 a11/02/2027",
    "visto_em": "2026-11-06T15:07:18+00:00",
    "novo": false
+  },
+  {
+   "id": "174a4da8f831707f",
+   "orgao": "Prefeitura de Alfenas",
+   "titulo": "Prefeitura de Alfenas - MG abre processo seletivo para a área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alfenas-mg-abre-processo-seletivo-para-a-area-da-educacao",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 90,
+   "cadastro_reserva": false,
+   "salario": 3078.38,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Desenvolvimento Humano, Professor",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
   },
   {
    "id": "48147989c509850f",
@@ -3239,7 +3330,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "25 a26/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e713007788d42a34",
@@ -3312,7 +3403,7 @@
    "inscricoes_ate": "2026-11-20",
    "prazo_texto": "20/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b773cc57a21ac064",
@@ -3520,7 +3611,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "25/11 a04/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "40310717d84e5c5e",
@@ -3567,7 +3658,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1bd20bc92e1f5a3d",
@@ -4199,7 +4290,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "43bec15e2c0d6c7b",
@@ -4428,7 +4519,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ccb7c8c705b4dbcf",
@@ -4594,7 +4685,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "33ea5c680dc3abcc",
@@ -4616,7 +4707,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "26d3cf51bcbcdbf0",
@@ -4923,7 +5014,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f03eb745a93606c7",
@@ -5245,7 +5336,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "23 a27/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b52d22708435bc8d",
@@ -5315,7 +5406,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "13250eb382ba58d9",
@@ -5434,7 +5525,7 @@
    "inscricoes_ate": "2026-11-24",
    "prazo_texto": "Prorrogado até24/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d4b39c4c4526df7f",
@@ -5481,7 +5572,7 @@
    "inscricoes_ate": "2026-11-19",
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "57905e5e25d0ff7d",
@@ -6062,7 +6153,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ab41966900c9ff7c",
@@ -6152,6 +6243,28 @@
    "prazo_texto": "19/11/2026",
    "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
+  },
+  {
+   "id": "2e83a2aabe7bb9a5",
+   "orgao": "FAHECE",
+   "titulo": "FAHECE - SC abre vaga para Assistente Administrativo I no CEPON de Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-administrativo-i-no-cepon-de-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2519.21,
+   "salario_por_hora": false,
+   "cargos": "Assistente Administrativo I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-20",
+   "prazo_texto": "20/11/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
   },
   {
    "id": "fb36d6008406cb5e",
@@ -6292,7 +6405,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e38dd8892545a213",
@@ -6669,7 +6782,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a1a4f870385bdd81",
@@ -7100,7 +7213,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "10a3633da3cb5406",
@@ -7196,6 +7309,30 @@
    "novo": false
   },
   {
+   "id": "0199f53636e37949",
+   "orgao": "Prefeitura de Tijucas",
+   "titulo": "Prefeitura de Tijucas - SC abre concursos públicos com salários de até R$ 9.941,61",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concursos-publicos-com-salarios-de-ate-9941",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 97,
+   "cadastro_reserva": false,
+   "salario": 9941.61,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2027-01-05",
+   "prazo_texto": "24/11/2026 a05/01/2027",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
+  },
+  {
    "id": "a2c11dfcc2c612d6",
    "orgao": "Prefeitura de Urussanga",
    "titulo": "Prefeitura de Urussanga - SC abre seleção para cadastro de reserva na educação",
@@ -7240,7 +7377,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0a6819ac80fc7f3b",
@@ -7362,7 +7499,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9f226be791c624da",
@@ -7710,7 +7847,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "24 a25/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "abe6ed395c0b5d6e",
@@ -7734,7 +7871,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "24/11 a23/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca2a82a7a59f231",
@@ -8017,6 +8154,28 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "07/01/2027",
    "visto_em": "2026-11-16T20:31:33+00:00",
+   "novo": false
+  },
+  {
+   "id": "2657afbcad2cdf48",
+   "orgao": "Prefeitura de Barra do Garças",
+   "titulo": "Prefeitura de Barra do Garças - MT abre concurso público para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-garcas-mt-abre-concurso-publico-para-medicos",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 13800.0,
+   "salario_por_hora": false,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "07/01/2027",
+   "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": true
   },
   {
@@ -8691,6 +8850,30 @@
    "novo": false
   },
   {
+   "id": "4342d53c192f0509",
+   "orgao": "Câmara de Santa Rita de Cássia",
+   "titulo": "Câmara de Santa Rita de Cássia - BA retifica edital de concurso público",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-rita-de-cassia-ba-retifica-edital-de-concurso-publico",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 4400.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "Prorrogado até25/11/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
+  },
+  {
    "id": "16c2b0e7da1c8bbb",
    "orgao": "Prefeitura de Formosa do Rio Preto",
    "titulo": "Prefeitura de Formosa do Rio Preto - BA abre processo seletivo para profissionais da saúde",
@@ -8993,6 +9176,30 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
+   "novo": false
+  },
+  {
+   "id": "81d6c20a71ebba1b",
+   "orgao": "SEAD - Secretaria de Estado da Administração",
+   "titulo": "SEAD - MA abre concurso público com salários de até R$ 14.950,78",
+   "url": "https://www.pciconcursos.com.br/noticias/sead-ma-abre-concurso-publico-com-salarios-de-ate-14950",
+   "uf": "MA",
+   "uf_nome": "Maranhão",
+   "vagas": 2317,
+   "cadastro_reserva": false,
+   "salario": 14950.78,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-14",
+   "inscricoes_ate": "2027-01-29",
+   "prazo_texto": "14/12/2026 a29/01/2027",
+   "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": true
   },
   {
@@ -9064,6 +9271,28 @@
    "prazo_texto": "23/11 a27/12/2026",
    "visto_em": "2026-11-11T22:00:17+00:00",
    "novo": false
+  },
+  {
+   "id": "16bb6dec98bc0f57",
+   "orgao": "CBMPB - Corpo de Bombeiros Militar da Paraíba",
+   "titulo": "Corpo de Bombeiros Militar - PB: Concurso abre vagas para Curso de Formação de Oficiais",
+   "url": "https://www.pciconcursos.com.br/noticias/corpo-de-bombeiros-militar-pb-concurso-abre-vagas-para-curso-de-formacao-de-oficiais",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 11142.96,
+   "salario_por_hora": false,
+   "cargos": "Oficial Bombeiro Militar",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-19",
+   "inscricoes_ate": "2026-12-11",
+   "prazo_texto": "19/11 a11/12/2026",
+   "visto_em": "2026-11-18T14:07:55+00:00",
+   "novo": true
   },
   {
    "id": "4f1ceb9e6ab3b1cc",
@@ -9470,7 +9699,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "924236bc510edd97",
