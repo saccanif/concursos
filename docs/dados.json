@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-19T13:20:12+00:00",
+ "gerado_em": "2026-11-19T21:39:15+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 406,
- "novos": 26,
- "encerrados": 1,
+ "total": 429,
+ "novos": 49,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -186,6 +186,29 @@
    "novo": false
   },
   {
+   "id": "21a33460a1863c8d",
+   "orgao": "CIOP - Consórcio Intermunicipal do Oeste Paulista",
+   "titulo": "CIOP - SP abre concurso público para motoristas e técnicos em enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/ciop-sp-abre-concurso-publico-para-motoristas-e-tecnicos-em-enfermagem",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 21,
+   "cadastro_reserva": false,
+   "salario": 2522.36,
+   "salario_por_hora": false,
+   "cargos": "Motorista Condutor de Ambulância, Técnico em Enfermagem",
+   "escolaridade": "Médio / Técnico",
+   "niveis": [
+    "Médio",
+    "Técnico"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "44ffa60d005b9612",
    "orgao": "CIS - Companhia Ituana de Saneamento",
    "titulo": "CIS Itu - SP abre concurso público com salários de até R$ 7.553,69",
@@ -324,6 +347,28 @@
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-04T21:56:09+00:00",
    "novo": false
+  },
+  {
+   "id": "71d3bd4b736edc2a",
+   "orgao": "Funcamp - Fundação de Desenvolvimento da Unicamp",
+   "titulo": "Funcamp - SP abre vaga para Camareiro na Casa do Professor Visitante",
+   "url": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-vaga-para-camareiro-na-casa-do-professor-visitante",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2178.0,
+   "salario_por_hora": false,
+   "cargos": "Camareiro",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "27/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "ba824311bda5dd21",
@@ -480,6 +525,55 @@
    "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "9242f9df8fb1756f",
+   "orgao": "Irmandade da Santa Casa de Misericórdia e Maternidade de Dracena",
+   "titulo": "Santa Casa de Dracena - SP abre processo seletivo com salários de até R$ 5.231,08",
+   "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-dracena-sp-abre-processo-seletivo-com-salarios-de-ate-5231",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 5231.08,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "10/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "e2518a390be0df0e",
+   "orgao": "Município da Estância Balneária de Praia Grande",
+   "titulo": "Prefeitura de Praia Grande - SP abre concurso público para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sp-abre-concurso-publico-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 33,
+   "cadastro_reserva": false,
+   "salario": 25000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-20",
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "20/11 a21/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "0528bd2038ac238b",
@@ -641,6 +735,29 @@
    "novo": false
   },
   {
+   "id": "302eb48d4fe09cac",
+   "orgao": "Prefeitura de Bernardino de Campos",
+   "titulo": "Prefeitura de Bernardino de Campos - SP abre processo seletivo para a educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bernardino-de-campos-sp-abre-processo-seletivo-para-a-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5130.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "23/11 a03/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "fb48ca79f6d14e2c",
    "orgao": "Prefeitura de Bofete",
    "titulo": "Prefeitura de Bofete - SP abre concurso público com vagas em diversas áreas de atuação",
@@ -708,6 +825,31 @@
    "prazo_texto": "25/11/2026 a08/01/2027",
    "visto_em": "2026-11-11T22:00:17+00:00",
    "novo": false
+  },
+  {
+   "id": "750af6919c3dfec8",
+   "orgao": "Prefeitura de Cândido Rodrigues",
+   "titulo": "Prefeitura de Cândido Rodrigues - SP abre concurso público com salários de até R$ 8.862,24",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 27,
+   "cadastro_reserva": false,
+   "salario": 8862.24,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-20",
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "20/11 a04/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "988d6b1bdbd7b665",
@@ -1092,6 +1234,29 @@
    "novo": false
   },
   {
+   "id": "58d219cb77bf8128",
+   "orgao": "Prefeitura de Itararé",
+   "titulo": "Prefeitura de Itararé - SP abre processo seletivo para profissionais da educação com salários de até R$ 5.905,92",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itarare-sp-abre-processo-seletivo-para-profissionais-da-educacao-com-salarios-de-ate-5905",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 5905.92,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-16",
+   "prazo_texto": "16/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "92b552d846dd74f6",
    "orgao": "Prefeitura de Jandira",
    "titulo": "Prefeitura de Jandira - SP abre concurso público com salários de até R$ 6.812,14",
@@ -1161,6 +1326,29 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-03T23:28:00+00:00",
    "novo": false
+  },
+  {
+   "id": "cb29e945d5b73bea",
+   "orgao": "Prefeitura de Mirante do Paranapanema",
+   "titulo": "Prefeitura de Mirante do Paranapanema - SP abre seleção para profissionais da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirante-do-paranapanema-sp-abre-selecao-para-profissionais-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 25.65,
+   "salario_por_hora": true,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2027-01-10",
+   "prazo_texto": "10/01/2027",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "b3794785d903c3b7",
@@ -1467,6 +1655,31 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-05T18:47:57+00:00",
    "novo": false
+  },
+  {
+   "id": "14dd153fad51b4e1",
+   "orgao": "Prefeitura de Ribeirão Corrente",
+   "titulo": "Prefeitura de Ribeirão Corrente - SP abre processo seletivo para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ribeirao-corrente-sp-abre-processo-seletivo-para-diversos-cargos",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5798.33,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-27",
+   "prazo_texto": "27/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "8173945c620c04ae",
@@ -1957,6 +2170,30 @@
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": false
+  },
+  {
+   "id": "0d1d5a50e6ad0248",
+   "orgao": "Unicamp - Universidade Estadual de Campinas",
+   "titulo": "Unicamp - SP abre processos seletivos para Enfermeiro e Técnico de Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/unicamp-sp-abre-processos-seletivos-para-enfermeiro-e-tecnico-de-enfermagem",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 9659.46,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Técnico de Enfermagem",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "23 a27/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "f9a32d917a2c5b2f",
@@ -3147,6 +3384,28 @@
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
+  },
+  {
+   "id": "cc9b1ec5843ea3a9",
+   "orgao": "Prefeitura de Cordisburgo",
+   "titulo": "Prefeitura de Cordisburgo - MG abre processo seletivo para Assistente Social",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cordisburgo-mg-abre-processo-seletivo-para-assistente-social",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2507.45,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "94d61778ece95502",
@@ -4642,6 +4901,28 @@
    "novo": true
   },
   {
+   "id": "6b0a440b7da69527",
+   "orgao": "Prefeitura de Sengés",
+   "titulo": "Prefeitura de Sengés - PR abre concurso público para Guarda Civil Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-senges-pr-abre-concurso-publico-para-guarda-civil-municipal",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5097.76,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "23/11 a21/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "76aa11818fe06f97",
    "orgao": "Prefeitura de Umuarama",
    "titulo": "Prefeitura de Umuarama - PR abre seleção com salários de até R$ 5.130,62",
@@ -4686,6 +4967,30 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
    "novo": false
+  },
+  {
+   "id": "e46977e627b6c377",
+   "orgao": "SBMG S.A. - Terminais Aéreos de Maringá",
+   "titulo": "Terminais Aéreos de Maringá - PR abrem concurso público com salários de até R$ 9.921,22",
+   "url": "https://www.pciconcursos.com.br/noticias/terminais-aereos-de-maringa-pr-abrem-concurso-publico-com-salarios-de-ate-9921",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 9921.22,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2026-12-17",
+   "prazo_texto": "24/11 a17/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "f03eb745a93606c7",
@@ -5549,6 +5854,28 @@
    "novo": false
   },
   {
+   "id": "de393385208672b3",
+   "orgao": "Prefeitura de Tio Hugo",
+   "titulo": "Prefeitura de Tio Hugo - RS abre concurso público para o cargo de Tesoureiro",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-publico-para-o-cargo-de-tesoureiro",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5573.07,
+   "salario_por_hora": false,
+   "cargos": "Tesoureiro",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-22",
+   "prazo_texto": "30/11 a22/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "6039277417e5d574",
    "orgao": "Prefeitura de Torres",
    "titulo": "Prefeitura de Torres - RS abre processo seletivo para Monitor PSR",
@@ -6244,6 +6571,31 @@
    "novo": false
   },
   {
+   "id": "cff0a864388eb95e",
+   "orgao": "Prefeitura de Chapadão do Lageado",
+   "titulo": "Prefeitura de Chapadão do Lageado - SC abre processo seletivo com salários de até R$ 21.291,71",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 21291.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-24",
+   "inscricoes_ate": "2026-12-23",
+   "prazo_texto": "24/11 a23/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "5f4be3059556f950",
    "orgao": "Prefeitura de Concórdia",
    "titulo": "Prefeitura de Concórdia - SC abre concurso público com salários de até R$ 6.057,51",
@@ -6597,6 +6949,30 @@
    "novo": false
   },
   {
+   "id": "3deefb8b22f50450",
+   "orgao": "Prefeitura de Jaraguá do Sul",
+   "titulo": "Prefeitura de Jaraguá do Sul - SC abre processo seletivo para diversos cargos na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "08/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "0d0b1c6292206be2",
    "orgao": "Prefeitura de Luiz Alves",
    "titulo": "Prefeitura de Luiz Alves - SC abre concurso público com salários de até R$ 8.889,30",
@@ -6645,6 +7021,56 @@
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-03T17:52:35+00:00",
    "novo": false
+  },
+  {
+   "id": "0dcf363e6ed70da9",
+   "orgao": "Prefeitura de Major Gercino",
+   "titulo": "Prefeitura de Major Gercino - SC abre processo seletivo com salários de até R$ 13.301,74",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-gercino-sc-abre-processo-seletivo-com-salarios-de-ate-13301",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 26,
+   "cadastro_reserva": false,
+   "salario": 13301.74,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "800fb6625cbaacca",
+   "orgao": "Prefeitura de Mirim Doce",
+   "titulo": "Prefeitura de Mirim Doce - SC abre processo seletivo com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirim-doce-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 5998.72,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "29/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "265006d405c139a8",
@@ -6911,6 +7337,30 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "876a5e4bf4946979",
+   "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
+   "titulo": "Prefeitura e Fundação Cultural de São Bento do Sul - SC abrem processo seletivo com salários de até R$ 20.795,15",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-sao-bento-do-sul-sc-abrem-processo-seletivo-com-salarios-de-ate-20795",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 20795.15,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-18",
+   "prazo_texto": "18/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "44d73afef76acba5",
@@ -7781,6 +8231,31 @@
    "novo": false
   },
   {
+   "id": "678bc74cae91dd48",
+   "orgao": "Prefeitura de Coronel Sapucaia",
+   "titulo": "Prefeitura de Coronel Sapucaia - MS abre processo seletivo para a Secretaria Municipal de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-sapucaia-ms-abre-processo-seletivo-para-a-secretaria-municipal-de-saude",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 14,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "7595a654d63ece72",
    "orgao": "Câmara de Colíder",
    "titulo": "Câmara de Colíder - MT abre concurso público com salários de até R$ 4.778,09",
@@ -8231,6 +8706,30 @@
    "prazo_texto": "01/12/2026",
    "visto_em": "2026-11-17T13:32:22+00:00",
    "novo": false
+  },
+  {
+   "id": "bd9bfd001455e4ba",
+   "orgao": "Prefeitura de Vila Bela da Santíssima Trindade",
+   "titulo": "Prefeitura de Vila Bela da Santíssima Trindade - MT abre seleção com vagas imediatas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 54,
+   "cadastro_reserva": false,
+   "salario": 7700.67,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "e472b49d17376ef0",
@@ -8754,6 +9253,31 @@
    "novo": false
   },
   {
+   "id": "b3638b0e6022bfbd",
+   "orgao": "Prefeitura de Juazeiro do Norte",
+   "titulo": "Prefeitura de Juazeiro do Norte - CE abre processo seletivo para a Secretaria de Saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juazeiro-do-norte-ce-abre-processo-seletivo-para-a-secretaria-de-saude",
+   "uf": "CE",
+   "uf_nome": "Ceará",
+   "vagas": 672,
+   "cadastro_reserva": false,
+   "salario": 12000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "10/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
    "id": "20bf2cd33106be6b",
    "orgao": "Prefeitura de Orós",
    "titulo": "Prefeitura de Orós - CE abre concurso público com vagas para diversas áreas",
@@ -9232,6 +9756,30 @@
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-17T03:57:00+00:00",
    "novo": false
+  },
+  {
+   "id": "21360c96b4c31333",
+   "orgao": "Prefeitura de Toritama",
+   "titulo": "Prefeitura de Toritama - PE abre seleção com vagas para diversos cargos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toritama-pe-abre-selecao-com-vagas-para-diversos-cargos",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 61,
+   "cadastro_reserva": false,
+   "salario": 1800.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "23/11 a04/12/2026",
+   "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
   },
   {
    "id": "34c5901a0525eec4",
