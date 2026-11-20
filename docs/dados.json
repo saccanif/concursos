@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-11-20T13:00:17+00:00",
+ "gerado_em": "2026-11-20T21:12:19+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 409,
- "novos": 36,
+ "total": 412,
+ "novos": 39,
  "encerrados": 0,
  "concursos": [
   {
@@ -6601,6 +6601,31 @@
    "novo": false
   },
   {
+   "id": "45a9d2edd42b4134",
+   "orgao": "Prefeitura de Itaiópolis",
+   "titulo": "Prefeitura de Itaiópolis - SC abre processo seletivo para cadastro reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaiopolis-sc-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 16487.72,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "08/12/2026",
+   "visto_em": "2026-11-20T21:12:19+00:00",
+   "novo": true
+  },
+  {
    "id": "10d0d9fcb1edc903",
    "orgao": "Prefeitura de Itapiranga",
    "titulo": "Prefeitura de Itapiranga - SC divulga editais de concursos públicos e processo seletivo",
@@ -6688,6 +6713,31 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "a66422ffaca5b9e7",
+   "orgao": "Prefeitura de Lebon Régis e Secretaria Municipal de Educação",
+   "titulo": "Prefeitura de Lebon Régis - SC abre seleções com 85 vagas e salários de até R$ 24,4 mil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lebon-regis-sc-abre-selecoes-com-85-vagas-e-salarios-de-ate-24-4-mil",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 85,
+   "cadastro_reserva": false,
+   "salario": 24488.28,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-05",
+   "prazo_texto": "05/12/2026",
+   "visto_em": "2026-11-20T21:12:19+00:00",
    "novo": true
   },
   {
@@ -8478,6 +8528,28 @@
    "prazo_texto": "23 a27/11/2026",
    "visto_em": "2026-11-17T22:27:00+00:00",
    "novo": false
+  },
+  {
+   "id": "ebe7a9316cbf960e",
+   "orgao": "SMS - Secretaria Municipal de Saúde de São Miguel do Guamá",
+   "titulo": "SMS de São Miguel do Guamá - PA abre seleção com 85 vagas para agente de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/sms-de-sao-miguel-do-guama-pa-abre-selecao-com-85-vagas-para-agente-de-saude",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente comunitário de saúde",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-18",
+   "prazo_texto": "23/11 a18/12/2026",
+   "visto_em": "2026-11-20T21:12:19+00:00",
+   "novo": true
   },
   {
    "id": "249119851ded8308",
