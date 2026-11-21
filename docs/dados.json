@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-11-20T21:12:19+00:00",
+ "gerado_em": "2026-11-21T02:23:38+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
  "total": 412,
- "novos": 39,
+ "novos": 38,
  "encerrados": 0,
  "concursos": [
   {
@@ -8644,7 +8644,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-19T13:20:12+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4342d53c192f0509",
