@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-21T18:01:22+00:00",
+ "gerado_em": "2026-11-21T23:24:45+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 403,
- "novos": 5,
- "encerrados": 4,
+ "total": 405,
+ "novos": 7,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -4427,6 +4427,29 @@
    "novo": false
   },
   {
+   "id": "da2d2c4455a9eecf",
+   "orgao": "Prefeitura de Bandeirantes",
+   "titulo": "Prefeitura de Bandeirantes - PR abre seleção com 29 vagas para Motorista e Vigia",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirantes-pr-abre-selecao-com-29-vagas-para-motorista-e-vigia",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 29,
+   "cadastro_reserva": false,
+   "salario": 2250.92,
+   "salario_por_hora": false,
+   "cargos": "Motorista, Vigia",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "23/11 a02/12/2026",
+   "visto_em": "2026-11-21T23:24:45+00:00",
+   "novo": true
+  },
+  {
    "id": "913f441e4a78e41d",
    "orgao": "Prefeitura de Céu Azul",
    "titulo": "Prefeitura de Céu Azul - PR abre processo seletivo com salários de até R$ 4.552,48",
@@ -5100,6 +5123,29 @@
    "prazo_texto": "24/11/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
    "novo": false
+  },
+  {
+   "id": "d6b3577e10d60643",
+   "orgao": "Prefeitura de Encruzilhada do Sul",
+   "titulo": "Prefeitura de Encruzilhada do Sul - RS abre processo seletivo para cadastro reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-encruzilhada-do-sul-rs-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3552.97,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-03",
+   "prazo_texto": "03/12/2026",
+   "visto_em": "2026-11-21T23:24:45+00:00",
+   "novo": true
   },
   {
    "id": "46e23d2a9ef26e2e",
