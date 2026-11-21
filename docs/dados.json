@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-21T02:23:38+00:00",
+ "gerado_em": "2026-11-21T11:15:10+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 412,
- "novos": 38,
- "encerrados": 0,
+ "total": 405,
+ "novos": 15,
+ "encerrados": 7,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -206,7 +206,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "44ffa60d005b9612",
@@ -320,7 +320,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ba824311bda5dd21",
@@ -500,7 +500,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e2518a390be0df0e",
@@ -525,7 +525,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "21/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0528bd2038ac238b",
@@ -707,7 +707,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "23/11 a03/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fb48ca79f6d14e2c",
@@ -801,7 +801,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "988d6b1bdbd7b665",
@@ -1157,7 +1157,7 @@
    "inscricoes_ate": "2026-12-16",
    "prazo_texto": "16/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "92b552d846dd74f6",
@@ -1251,7 +1251,7 @@
    "inscricoes_ate": "2027-01-10",
    "prazo_texto": "10/01/2027",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b3794785d903c3b7",
@@ -1583,7 +1583,7 @@
    "inscricoes_ate": "2026-12-27",
    "prazo_texto": "27/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8173945c620c04ae",
@@ -1863,9 +1863,9 @@
     "Médio",
     "Superior"
    ],
-   "inscricoes_de": "2026-11-21",
+   "inscricoes_de": null,
    "inscricoes_ate": "2026-12-20",
-   "prazo_texto": "21/11 a20/12/2026",
+   "prazo_texto": "20/12/2026",
    "visto_em": "2026-11-17T22:27:00+00:00",
    "novo": false
   },
@@ -2142,7 +2142,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "23 a27/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f9a32d917a2c5b2f",
@@ -3308,7 +3308,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "94d61778ece95502",
@@ -3353,31 +3353,6 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "23 a27/11/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
-   "novo": false
-  },
-  {
-   "id": "0d4753ccfdc0f7f0",
-   "orgao": "Prefeitura de Ibertioga",
-   "titulo": "Prefeitura de Ibertioga - MG abre processo seletivo com salários de até R$ 15.479,20",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-processo-seletivo-com-salarios-de-ate-15479",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 47,
-   "cadastro_reserva": false,
-   "salario": 15479.2,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-11-16T20:31:33+00:00",
    "novo": false
   },
   {
@@ -3539,31 +3514,6 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-10-27T20:07:10+00:00",
-   "novo": false
-  },
-  {
-   "id": "0ce3871dd3aced06",
-   "orgao": "Prefeitura de Leopoldina",
-   "titulo": "Prefeitura de Leopoldina - MG abre seleção com salários de até R$ 4.462,11",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-com-salarios-de-ate-4462",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 9,
-   "cadastro_reserva": false,
-   "salario": 4462.11,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-11-07T00:57:29+00:00",
    "novo": false
   },
   {
@@ -3913,30 +3863,6 @@
    "inscricoes_ate": "2027-01-21",
    "prazo_texto": "23/12/2026 a21/01/2027",
    "visto_em": "2026-10-20T22:23:00+00:00",
-   "novo": false
-  },
-  {
-   "id": "e93f4ce66db6a192",
-   "orgao": "Prefeitura de São José da Lapa",
-   "titulo": "Prefeitura de São José da Lapa - MG abre processo seletivo com 8 vagas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lapa-mg-abre-processo-seletivo-com-8-vagas-e-cadastro-de-reserva",
-   "uf": "MG",
-   "uf_nome": "Minas Gerais",
-   "vagas": 8,
-   "cadastro_reserva": false,
-   "salario": 2931.8,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-11-11T15:18:59+00:00",
    "novo": false
   },
   {
@@ -4798,7 +4724,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "23/11 a21/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "76aa11818fe06f97",
@@ -4868,7 +4794,7 @@
    "inscricoes_ate": "2026-12-17",
    "prazo_texto": "24/11 a17/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f03eb745a93606c7",
@@ -5641,7 +5567,7 @@
    "inscricoes_ate": "2026-12-22",
    "prazo_texto": "30/11 a22/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6039277417e5d574",
@@ -5758,30 +5684,6 @@
    "novo": false
   },
   {
-   "id": "fc2591a549b6c6d4",
-   "orgao": "Câmara de Vereadores de Erval Velho",
-   "titulo": "Câmara de Erval Velho - SC abre concurso público com salários de até R$ 6.497,10",
-   "url": "https://www.pciconcursos.com.br/noticias/camara-de-erval-velho-sc-abre-concurso-publico-com-salarios-de-ate-6497",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 3,
-   "cadastro_reserva": false,
-   "salario": 6497.1,
-   "salario_por_hora": false,
-   "cargos": "Agente de Asseio e Conservação, Oficial Legislativo, Contador",
-   "escolaridade": "Fundamental / Médio / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-10-22T22:23:11+00:00",
-   "novo": false
-  },
-  {
    "id": "2a71f93a8169685c",
    "orgao": "Câmara de Vereadores de Matos Costa",
    "titulo": "Câmara de Matos Costa - SC abre concurso público com salários de até R$ 4.209,63",
@@ -5851,28 +5753,6 @@
    "novo": false
   },
   {
-   "id": "ab41966900c9ff7c",
-   "orgao": "Conselho Tutelar de Arabutã",
-   "titulo": "CMDCA de Arabutã - SC prorroga inscrições de processo para escolha suplementar de conselheiro tutelar",
-   "url": "https://www.pciconcursos.com.br/noticias/cmdca-de-arabuta-sc-prorroga-inscricoes-de-processo-para-escolha-suplementar-de-conselheiro-tutelar",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2735.45,
-   "salario_por_hora": false,
-   "cargos": "Membro do Conselho Tutelar",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "Prorrogado até20/11/2026",
-   "visto_em": "2026-11-11T15:18:59+00:00",
-   "novo": false
-  },
-  {
    "id": "74a5677dee3be6a1",
    "orgao": "Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe",
    "titulo": "Casa Lar Pequeno Príncipe - SC abre seleção para Psicóloga",
@@ -5914,28 +5794,6 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "Prorrogado até22/11/2026",
    "visto_em": "2026-11-10T17:54:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "2e83a2aabe7bb9a5",
-   "orgao": "FAHECE",
-   "titulo": "FAHECE - SC abre vaga para Assistente Administrativo I no CEPON de Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-administrativo-i-no-cepon-de-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 2519.21,
-   "salario_por_hora": false,
-   "cargos": "Assistente Administrativo I",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": false
   },
   {
@@ -6288,7 +6146,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "24/11 a23/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5f4be3059556f950",
@@ -6713,7 +6571,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a66422ffaca5b9e7",
@@ -6813,7 +6671,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "800fb6625cbaacca",
@@ -6838,7 +6696,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "265006d405c139a8",
@@ -7080,7 +6938,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "44d73afef76acba5",
@@ -7906,7 +7764,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7595a654d63ece72",
@@ -8358,7 +8216,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e472b49d17376ef0",
@@ -8902,7 +8760,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "20bf2cd33106be6b",
@@ -9117,31 +8975,6 @@
    "inscricoes_ate": "2026-12-16",
    "prazo_texto": "16/12/2026",
    "visto_em": "2026-11-10T17:54:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "2f5a63bfbdc07616",
-   "orgao": "Prefeitura de Itapororoca",
-   "titulo": "Prefeitura de Itapororoca - PB abre concurso com salários de até R$ 10.000,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
-   "uf": "PB",
-   "uf_nome": "Paraíba",
-   "vagas": 175,
-   "cadastro_reserva": false,
-   "salario": 10000.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-20",
-   "prazo_texto": "20/11/2026",
-   "visto_em": "2026-10-19T13:28:23+00:00",
    "novo": false
   },
   {
@@ -9381,7 +9214,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "23/11 a04/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "34c5901a0525eec4",
