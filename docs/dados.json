@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-21T11:15:10+00:00",
+ "gerado_em": "2026-11-21T18:01:22+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 405,
- "novos": 15,
- "encerrados": 7,
+ "total": 403,
+ "novos": 5,
+ "encerrados": 4,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -25,28 +25,6 @@
    "inscricoes_ate": "2026-12-17",
    "prazo_texto": "23/11 a17/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
-   "novo": false
-  },
-  {
-   "id": "b6c59efba8a7cc75",
-   "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
-   "titulo": "SAA MS abre processo seletivo com salários de até R$ 10.354,29",
-   "url": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
-   "uf": "NACIONAL",
-   "uf_nome": "Nacional",
-   "vagas": 300,
-   "cadastro_reserva": false,
-   "salario": 10354.29,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-12-14",
-   "prazo_texto": "14/12/2026",
-   "visto_em": "2026-11-12T20:00:04+00:00",
    "novo": false
   },
   {
@@ -754,28 +732,6 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
-   "novo": false
-  },
-  {
-   "id": "1d0e593892e3a43b",
-   "orgao": "Prefeitura de Campinas",
-   "titulo": "Prefeitura de Campinas - SP abre 100 vagas para Guarda Municipal de 3ª Classe",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campinas-sp-abre-100-vagas-para-guarda-municipal-de-3-classe",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 100,
-   "cadastro_reserva": false,
-   "salario": 3796.61,
-   "salario_por_hora": false,
-   "cargos": "Guarda Municipal",
-   "escolaridade": "Ensino Médio",
-   "niveis": [
-    "Médio"
-   ],
-   "inscricoes_de": "2026-11-25",
-   "inscricoes_ate": "2027-01-08",
-   "prazo_texto": "25/11/2026 a08/01/2027",
-   "visto_em": "2026-11-11T22:00:17+00:00",
    "novo": false
   },
   {
@@ -1558,7 +1514,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "25/11 a07/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "14dd153fad51b4e1",
@@ -1914,7 +1870,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "30/11 a15/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e6daf1043ee8667f",
@@ -1936,7 +1892,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "21/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4d6d7014bc5d9d7e",
@@ -2074,28 +2030,6 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-09-23T06:28:27+00:00",
-   "novo": false
-  },
-  {
-   "id": "f224737130b27302",
-   "orgao": "SP-Águas - Agência de Águas do Estado de São Paulo",
-   "titulo": "SP-Águas - SP abre concurso público com salários de até R$ 12.070,00",
-   "url": "https://www.pciconcursos.com.br/noticias/sp-aguas-sp-abre-concurso-publico-com-salarios-de-ate-12070",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": 190,
-   "cadastro_reserva": false,
-   "salario": 12070.0,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-12-17",
-   "prazo_texto": "17/12/2026",
-   "visto_em": "2026-11-10T17:54:51+00:00",
    "novo": false
   },
   {
@@ -3031,7 +2965,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b4070f0d424261f6",
@@ -3585,7 +3519,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "04f4dbc2e3da7f5c",
@@ -3607,7 +3541,7 @@
    "inscricoes_ate": "2026-11-23",
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1bd20bc92e1f5a3d",
@@ -4212,6 +4146,29 @@
    "novo": false
   },
   {
+   "id": "1074885756000924",
+   "orgao": "FAFIA - Faculdade de Filosofia, Ciências e Letras de Alegre",
+   "titulo": "FAFIA - ES abre processos seletivos para docentes e agentes administrativos",
+   "url": "https://www.pciconcursos.com.br/noticias/fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": 10,
+   "cadastro_reserva": false,
+   "salario": 1621.0,
+   "salario_por_hora": false,
+   "cargos": "Docente, Docente não habilitado, Agente Administrativo",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "23 a25/11/2026",
+   "visto_em": "2026-11-21T18:01:22+00:00",
+   "novo": true
+  },
+  {
    "id": "ccb7c8c705b4dbcf",
    "orgao": "IDAF - Instituto de Defesa Agropecuária e Florestal do Espírito Santo",
    "titulo": "IDAF - ES abre concurso público com salários de até R$ 8.477,66",
@@ -4325,7 +4282,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "25 a26/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "d8161c356413a828",
@@ -5545,7 +5502,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "de393385208672b3",
@@ -5816,7 +5773,7 @@
    "inscricoes_ate": "2026-11-21",
    "prazo_texto": "21/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "291a6e5269d028f1",
@@ -5838,7 +5795,7 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "22/11/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fb36d6008406cb5e",
@@ -6027,7 +5984,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "23/11 a07/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "278dbb3716663487",
@@ -6547,7 +6504,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "23/11 a08/12/2026",
    "visto_em": "2026-11-20T03:25:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "3deefb8b22f50450",
@@ -8690,31 +8647,6 @@
    "novo": false
   },
   {
-   "id": "b18045db36d7de8c",
-   "orgao": "Prefeitura de Boa Viagem",
-   "titulo": "Prefeitura de Boa Viagem - CE abre concurso público com vagas para diversas áreas de atuação",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
-   "uf": "CE",
-   "uf_nome": "Ceará",
-   "vagas": 1001,
-   "cadastro_reserva": false,
-   "salario": 14718.92,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-12-07",
-   "prazo_texto": "07/12/2026",
-   "visto_em": "2026-11-06T00:21:19+00:00",
-   "novo": false
-  },
-  {
    "id": "47f9bc804fdabbca",
    "orgao": "Prefeitura de Itapipoca",
    "titulo": "Prefeitura de Itapipoca - CE abre processo seletivo para a educação",
@@ -9096,6 +9028,31 @@
    "prazo_texto": "05/12/2026",
    "visto_em": "2026-11-06T20:55:42+00:00",
    "novo": false
+  },
+  {
+   "id": "7e72de4e69e9fbab",
+   "orgao": "Prefeitura de Araripina",
+   "titulo": "Prefeitura de Araripina - PE abre 1.099 vagas em processos seletivos",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos",
+   "uf": "PE",
+   "uf_nome": "Pernambuco",
+   "vagas": 1099,
+   "cadastro_reserva": false,
+   "salario": 16100.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-23",
+   "inscricoes_ate": "2026-12-06",
+   "prazo_texto": "23/11 a06/12/2026",
+   "visto_em": "2026-11-21T18:01:22+00:00",
+   "novo": true
   },
   {
    "id": "242ec26565018342",
