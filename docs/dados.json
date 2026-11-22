@@ -1,8 +1,8 @@
 {
- "gerado_em": "2026-11-22T15:25:08+00:00",
+ "gerado_em": "2026-11-22T21:51:36+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 407,
- "novos": 9,
+ "total": 418,
+ "novos": 20,
  "encerrados": 0,
  "concursos": [
   {
@@ -432,6 +432,26 @@
    "prazo_texto": "04/01/2027",
    "visto_em": "2026-11-09T18:52:34+00:00",
    "novo": false
+  },
+  {
+   "id": "6ff7d3d01dcaf216",
+   "orgao": "IBFC - Instituto Brasileiro de Formação e Capacitação",
+   "titulo": "IBFC - SP abre seleção para curso gratuito de capacitação profissional em Taboão da Serra",
+   "url": "https://www.pciconcursos.com.br/noticias/ibfc-sp-abre-selecao-para-curso-gratuito-de-capacitacao-profissional-em-taboao-da-serra",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 40,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Não informada",
+   "niveis": [],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-01",
+   "prazo_texto": "01/12/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
   },
   {
    "id": "4d57ba593929ff63",
@@ -2142,6 +2162,26 @@
    "prazo_texto": "01/12/2026 a07/01/2027",
    "visto_em": "2026-10-23T18:24:51+00:00",
    "novo": false
+  },
+  {
+   "id": "53d746dfc5fb9a0e",
+   "orgao": "Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+   "titulo": "Cefet/RJ - RJ abre processo seletivo com 310 vagas para cursos técnicos subsequentes",
+   "url": "https://www.pciconcursos.com.br/noticias/cefet-rj-rj-abre-processo-seletivo-com-310-vagas-para-cursos-tecnicos-subsequentes",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": 310,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Não informada",
+   "niveis": [],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
   },
   {
    "id": "dcb42eb76b33d0ce",
@@ -5865,6 +5905,51 @@
    "novo": false
   },
   {
+   "id": "240e165a55255615",
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo para aprimoramento profissional em medicina veterinária",
+   "url": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-aprimoramento-profissional-em-medicina-veterinaria",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": null,
+   "salario_por_hora": false,
+   "cargos": "Aprimorando",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
+   "id": "e5fb3818e22bedc5",
+   "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+   "titulo": "FURB - SC abre processo seletivo para formação de cadastro reserva com ganhos de até R$ 5.906,88",
+   "url": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-formacao-de-cadastro-reserva-com-ganhos-de-ate-5906",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5906.88,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
    "id": "f751ebf3f1fdca78",
    "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
    "titulo": "IMA - SC abre concurso público com salários de até R$ 12.300,00",
@@ -6055,6 +6140,28 @@
    "novo": false
   },
   {
+   "id": "840b07a62d8bc81a",
+   "orgao": "Prefeitura de Blumenau",
+   "titulo": "Prefeitura de Blumenau - SC abre concurso com 19 vagas e cadastro de reserva no magistério",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 19,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Coordenador Pedagógico, Professor, Professor I",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/12/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
    "id": "bd8935a1679a3fbe",
    "orgao": "Prefeitura de Bom Retiro",
    "titulo": "Prefeitura de Bom Retiro - SC abre concurso público com salários de até R$ 20.138,46",
@@ -6104,6 +6211,30 @@
    "novo": false
   },
   {
+   "id": "01391baa2e0376cb",
+   "orgao": "Prefeitura de Brusque",
+   "titulo": "Prefeitura de Brusque - SC abre seleção com 20 vagas e cadastro reserva na Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-selecao-com-20-vagas-e-cadastro-reserva-na-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 5780.1,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-06",
+   "prazo_texto": "06/12/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
    "id": "b3e0c817f184f6be",
    "orgao": "Prefeitura de Canelinha",
    "titulo": "Prefeitura de Canelinha - SC abre novo concurso público para diversos cargos",
@@ -6150,6 +6281,29 @@
    "prazo_texto": "24/11 a23/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
    "novo": false
+  },
+  {
+   "id": "1b032169ccd909d2",
+   "orgao": "Prefeitura de Cocal do Sul",
+   "titulo": "Prefeitura de Cocal do Sul - SC abre processo seletivo para a Secretaria de Educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5208.14,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
   },
   {
    "id": "5f4be3059556f950",
@@ -6751,6 +6905,30 @@
    "novo": false
   },
   {
+   "id": "dd7c33f7ca59b701",
+   "orgao": "Prefeitura de Orleans",
+   "titulo": "Prefeitura de Orleans - SC abre processo seletivo para o setor da educação em 2027",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-para-o-setor-da-educacao-em-2027",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "27/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
    "id": "f3cdfe785e8738f0",
    "orgao": "Prefeitura de Palmitos",
    "titulo": "Prefeitura de Palmitos - SC abre processo seletivo com salários de até R$ 26.258,84",
@@ -6945,6 +7123,31 @@
    "novo": false
   },
   {
+   "id": "8e2501f3e23b2042",
+   "orgao": "Prefeitura de Santa Terezinha do Progresso",
+   "titulo": "Prefeitura de Santa Terezinha do Progresso - SC abre concurso público com salários de até R$ 10.000,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-publico-com-salarios-de-ate-10000",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 8,
+   "cadastro_reserva": false,
+   "salario": 10000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-25",
+   "prazo_texto": "25/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
+  },
+  {
    "id": "876a5e4bf4946979",
    "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
    "titulo": "Prefeitura e Fundação Cultural de São Bento do Sul - SC abrem processo seletivo com salários de até R$ 20.795,15",
@@ -7015,6 +7218,30 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "7674968329217681",
+   "orgao": "Prefeitura de São Joaquim",
+   "titulo": "Prefeitura de São Joaquim - SC abre seleção para cadastro reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-selecao-para-cadastro-reserva-em-diversas-areas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-06",
+   "prazo_texto": "06/12/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
   },
   {
    "id": "fa03535ae3cc5d7d",
@@ -7109,6 +7336,30 @@
    "prazo_texto": "24/11/2026 a05/01/2027",
    "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": false
+  },
+  {
+   "id": "53b54ffda7024840",
+   "orgao": "Prefeitura de Treze de Maio",
+   "titulo": "Prefeitura de Treze de Maio - SC altera edital de processo seletivo para cargos temporários",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-altera-edital-de-processo-seletivo-para-cargos-temporarios",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 17435.11,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-11-22T21:51:36+00:00",
+   "novo": true
   },
   {
    "id": "a2c11dfcc2c612d6",
