@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-21T23:24:45+00:00",
+ "gerado_em": "2026-11-22T06:58:16+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 405,
- "novos": 7,
- "encerrados": 0,
+ "total": 403,
+ "novos": 8,
+ "encerrados": 3,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -210,6 +210,28 @@
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-09T18:52:34+00:00",
    "novo": false
+  },
+  {
+   "id": "426be1f3436e58d0",
+   "orgao": "Conselho Tutelar de Timburi",
+   "titulo": "Prefeitura de Timburi - SP abre processo seletivo para conselheiros tutelares com salário de R$ 2.600,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timburi-sp-abre-processo-seletivo-para-conselheiros-tutelares-com-salario-de-2600",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 2600.0,
+   "salario_por_hora": false,
+   "cargos": "Conselheiro Tutelar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-22",
+   "prazo_texto": "22/11/2026",
+   "visto_em": "2026-11-22T06:58:16+00:00",
+   "novo": true
   },
   {
    "id": "1884585e0e004514",
@@ -971,31 +993,6 @@
    "inscricoes_ate": "2026-12-17",
    "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-11T15:18:59+00:00",
-   "novo": false
-  },
-  {
-   "id": "3853c9601f8f7de2",
-   "orgao": "Prefeitura de Cunha",
-   "titulo": "Prefeitura de Cunha - SP abre concurso público com salários de até R$ 9.147,62",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
-   "uf": "SP",
-   "uf_nome": "São Paulo",
-   "vagas": null,
-   "cadastro_reserva": true,
-   "salario": 9147.62,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio / Técnico / Superior",
-   "niveis": [
-    "Fundamental",
-    "Médio",
-    "Técnico",
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-21",
-   "prazo_texto": "21/11/2026",
-   "visto_em": "2026-10-26T13:17:15+00:00",
    "novo": false
   },
   {
@@ -2121,29 +2118,6 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "01/12/2026 a07/01/2027",
    "visto_em": "2026-10-23T18:24:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "e0cfc9af613d6159",
-   "orgao": "CMTC - Companhia Municipal de Transportes Coletivos",
-   "titulo": "Mobi-Rio - RJ abre seleção com salários até R$ 5.960,63",
-   "url": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-selecao-com-salarios-ate-5960",
-   "uf": "RJ",
-   "uf_nome": "Rio de Janeiro",
-   "vagas": 63,
-   "cadastro_reserva": false,
-   "salario": 5960.63,
-   "salario_por_hora": false,
-   "cargos": "Vários Cargos",
-   "escolaridade": "Fundamental / Médio",
-   "niveis": [
-    "Fundamental",
-    "Médio"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-21",
-   "prazo_texto": "21/11/2026",
-   "visto_em": "2026-11-13T01:09:24+00:00",
    "novo": false
   },
   {
@@ -5797,28 +5771,6 @@
    "inscricoes_ate": "2026-11-22",
    "prazo_texto": "Prorrogado até22/11/2026",
    "visto_em": "2026-11-10T17:54:51+00:00",
-   "novo": false
-  },
-  {
-   "id": "69569f5daf987e60",
-   "orgao": "FAHECE",
-   "titulo": "FAHECE - SC abre processo seletivo para cargo de farmacêutico em Florianópolis",
-   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-farmaceutico-em-florianopolis",
-   "uf": "SC",
-   "uf_nome": "Santa Catarina",
-   "vagas": 1,
-   "cadastro_reserva": false,
-   "salario": 5126.88,
-   "salario_por_hora": false,
-   "cargos": "Farmacêutico I",
-   "escolaridade": "Superior",
-   "niveis": [
-    "Superior"
-   ],
-   "inscricoes_de": null,
-   "inscricoes_ate": "2026-11-21",
-   "prazo_texto": "21/11/2026",
-   "visto_em": "2026-11-20T03:25:26+00:00",
    "novo": false
   },
   {
