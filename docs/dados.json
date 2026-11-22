@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-22T06:58:16+00:00",
+ "gerado_em": "2026-11-22T15:25:08+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 403,
- "novos": 8,
- "encerrados": 3,
+ "total": 407,
+ "novos": 9,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -255,6 +255,29 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
    "novo": false
+  },
+  {
+   "id": "7c2852f47f5182ec",
+   "orgao": "FASCAMP - Fundação da Área da Saúde de Campinas",
+   "titulo": "FASCAMP - SP abre processos seletivos para o Hospital Regional de Piracicaba",
+   "url": "https://www.pciconcursos.com.br/noticias/fascamp-sp-abre-processos-seletivos-para-o-hospital-regional-de-piracicaba",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5297.44,
+   "salario_por_hora": false,
+   "cargos": "Auxiliar de Enfermagem, Nutricionista",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-23",
+   "prazo_texto": "23/11/2026",
+   "visto_em": "2026-11-22T15:25:08+00:00",
+   "novo": true
   },
   {
    "id": "c571a1f41fe3a7db",
@@ -5865,6 +5888,31 @@
    "novo": false
   },
   {
+   "id": "dcd7a9b5e0c8e471",
+   "orgao": "Prefeitura de Abelardo Luz",
+   "titulo": "Prefeitura de Abelardo Luz - SC abre processo seletivo com 12 vagas e cadastro reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-abelardo-luz-sc-abre-processo-seletivo-com-12-vagas-e-cadastro-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 5467.13,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-22T15:25:08+00:00",
+   "novo": true
+  },
+  {
    "id": "3d7759f856c32a2d",
    "orgao": "Prefeitura de Agronômica",
    "titulo": "Prefeitura de Agronômica - SC abre concurso público com salários de até R$ 19.660,06",
@@ -6436,7 +6484,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-20T21:12:19+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "10d0d9fcb1edc903",
@@ -6551,7 +6599,7 @@
    "inscricoes_ate": "2026-12-05",
    "prazo_texto": "05/12/2026",
    "visto_em": "2026-11-20T21:12:19+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0d0b1c6292206be2",
@@ -6701,6 +6749,31 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
    "novo": false
+  },
+  {
+   "id": "f3cdfe785e8738f0",
+   "orgao": "Prefeitura de Palmitos",
+   "titulo": "Prefeitura de Palmitos - SC abre processo seletivo com salários de até R$ 26.258,84",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 26258.84,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-12",
+   "prazo_texto": "12/12/2026",
+   "visto_em": "2026-11-22T15:25:08+00:00",
+   "novo": true
   },
   {
    "id": "8c302fb87b67ab24",
@@ -8362,7 +8435,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "23/11 a18/12/2026",
    "visto_em": "2026-11-20T21:12:19+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "249119851ded8308",
@@ -8552,6 +8625,29 @@
    "prazo_texto": "23/11/2026",
    "visto_em": "2026-10-30T15:58:23+00:00",
    "novo": false
+  },
+  {
+   "id": "f7263ad05f10c168",
+   "orgao": "Prefeitura de São Desidério",
+   "titulo": "Prefeitura de São Desidério - BA abre seleção com salários de até R$ 8.032,62",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-desiderio-ba-abre-selecao-com-salarios-de-ate-8032",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 236,
+   "cadastro_reserva": false,
+   "salario": 8032.62,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-26",
+   "prazo_texto": "26/11/2026",
+   "visto_em": "2026-11-22T15:25:08+00:00",
+   "novo": true
   },
   {
    "id": "5eef8026f8512135",
