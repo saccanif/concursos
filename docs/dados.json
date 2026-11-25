@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-25T04:16:26+00:00",
+ "gerado_em": "2026-11-25T14:29:46+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 415,
- "novos": 75,
- "encerrados": 22,
+ "total": 423,
+ "novos": 48,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -26,6 +26,28 @@
    "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
+  },
+  {
+   "id": "06763fd3041f0b1d",
+   "orgao": "Câmara de Cândido Mota",
+   "titulo": "Câmara de Cândido Mota - SP abre concurso público para motorista",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-candido-mota-sp-abre-concurso-publico-para-motorista",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5641.39,
+   "salario_por_hora": false,
+   "cargos": "Motorista",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
   },
   {
    "id": "73d3441d74790ff6",
@@ -92,7 +114,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "03/12/2026 a04/01/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "da09d6267673bc5c",
@@ -212,6 +234,29 @@
    "novo": false
   },
   {
+   "id": "65140c33bf502ebe",
+   "orgao": "Coren - Conselho Regional de Enfermagem de São Paulo",
+   "titulo": "Coren - SP abre concurso com 76 vagas e salários de até R$ 10.692,00",
+   "url": "https://www.pciconcursos.com.br/noticias/coren-sp-abre-concurso-com-76-vagas-e-salarios-de-ate-10692",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 76,
+   "cadastro_reserva": false,
+   "salario": 10692.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-26",
+   "inscricoes_ate": "2027-01-11",
+   "prazo_texto": "26/11/2026 a11/01/2027",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
    "id": "41cfa43fbf6cefb3",
    "orgao": "FAJ - Fundação Adib Jatene",
    "titulo": "Fundação Adib Jatene - SP abre seleção com salários de até R$ 7.000,00 na enfermagem",
@@ -232,7 +277,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c571a1f41fe3a7db",
@@ -613,7 +658,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "33f634674101776f",
@@ -635,7 +680,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "30/11 a21/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7c69eca0662d4283",
@@ -683,7 +728,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "b9c1eaf945c56fb7",
@@ -1134,7 +1179,7 @@
    "inscricoes_ate": "2026-12-20",
    "prazo_texto": "20/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "efe51d16e334b57f",
@@ -1206,7 +1251,7 @@
    "inscricoes_ate": "2026-12-27",
    "prazo_texto": "30/11 a27/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "92b552d846dd74f6",
@@ -1300,7 +1345,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cb29e945d5b73bea",
@@ -1585,6 +1630,31 @@
    "novo": false
   },
   {
+   "id": "a8c2ee573e450706",
+   "orgao": "Prefeitura de Rio Grande da Serra",
+   "titulo": "Prefeitura de Rio Grande da Serra - SP abre concursos com 61 vagas e salários de até R$ 11 mil",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-da-serra-sp-abre-concursos-com-61-vagas-e-salarios-de-ate-11-mil",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 61,
+   "cadastro_reserva": false,
+   "salario": 11066.44,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-23",
+   "prazo_texto": "23/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
    "id": "8173945c620c04ae",
    "orgao": "Prefeitura de Rosana",
    "titulo": "Prefeitura de Rosana - SP abre processo seletivo para profissionais da educação",
@@ -1746,7 +1816,7 @@
    "inscricoes_ate": "2026-12-20",
    "prazo_texto": "27/11 a20/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c23c6153bba26e70",
@@ -1818,7 +1888,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9663185c95a3ebe4",
@@ -2074,7 +2144,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "93b937f6da445ac4",
@@ -2229,7 +2299,7 @@
    "inscricoes_ate": "2026-11-28",
    "prazo_texto": "28/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "dcb42eb76b33d0ce",
@@ -3304,7 +3374,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "94d61778ece95502",
@@ -3442,7 +3512,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "26/11 a11/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1f8c14c4b86e63c6",
@@ -4053,7 +4123,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "01 a07/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9e254c8b4a232896",
@@ -4442,7 +4512,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "eabf586b14f117f0",
@@ -4726,6 +4796,28 @@
    "novo": false
   },
   {
+   "id": "f5c24a0ec83aa834",
+   "orgao": "Prefeitura de Salto do Lontra",
+   "titulo": "Município de Salto do Lontra - PR abre concurso com salários de até R$ 20,8 mil para médicos",
+   "url": "https://www.pciconcursos.com.br/noticias/municipio-de-salto-do-lontra-pr-abre-concurso-com-salarios-de-ate-20-8-mil-para-medicos",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 20845.24,
+   "salario_por_hora": false,
+   "cargos": "Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-03",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "03 a28/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
    "id": "6b0a440b7da69527",
    "orgao": "Prefeitura de Sengés",
    "titulo": "Prefeitura de Sengés - PR abre concurso público para Guarda Civil Municipal",
@@ -4789,7 +4881,7 @@
    "inscricoes_ate": "2026-12-22",
    "prazo_texto": "22/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e46977e627b6c377",
@@ -5113,7 +5205,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f12ed2fb68cc221c",
@@ -5485,7 +5577,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "935ffea7b06544b9",
@@ -5645,7 +5737,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "739dfc948bd70ead",
@@ -5668,7 +5760,7 @@
    "inscricoes_ate": "2026-11-25",
    "prazo_texto": "25/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "117cd7b4bdb689e1",
@@ -5784,7 +5876,7 @@
    "inscricoes_ate": "2026-12-05",
    "prazo_texto": "05/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f751ebf3f1fdca78",
@@ -5952,7 +6044,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c8574c57da32284f",
@@ -6068,7 +6160,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "04/01/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "01391baa2e0376cb",
@@ -6236,6 +6328,30 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-13T22:41:36+00:00",
    "novo": false
+  },
+  {
+   "id": "7a7c39fe19dd7c18",
+   "orgao": "Prefeitura de Faxinal dos Guedes",
+   "titulo": "Prefeitura de Faxinal dos Guedes - SC abre concurso e processo seletivo com 12 vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-dos-guedes-sc-abre-concurso-e-processo-seletivo-com-12-vagas-imediatas",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 12,
+   "cadastro_reserva": false,
+   "salario": 7454.79,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "21/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
   },
   {
    "id": "cd191e7503337143",
@@ -6644,6 +6760,31 @@
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
    "novo": false
+  },
+  {
+   "id": "d296b1a490c888e6",
+   "orgao": "Prefeitura de Nova Itaberaba",
+   "titulo": "Prefeitura de Nova Itaberaba - SC abre processo seletivo com 4 vagas e cadastro de reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-itaberaba-sc-abre-processo-seletivo-com-4-vagas-e-cadastro-de-reserva",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 25482.65,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
   },
   {
    "id": "9e0759cad6545175",
@@ -7362,6 +7503,30 @@
    "novo": false
   },
   {
+   "id": "98a2dd6a8be624b5",
+   "orgao": "Secretaria Municipal de Educação de Governador Celso Ramos",
+   "titulo": "Secretaria de Educação de Governador Celso Ramos - SC abre 82 vagas temporárias",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-educacao-de-governador-celso-ramos-sc-abre-82-vagas-temporarias",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 82,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-26",
+   "inscricoes_ate": "2026-12-26",
+   "prazo_texto": "26/11 a26/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
    "id": "a439c491dc281136",
    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
    "titulo": "SES - SC abre processo seletivo para técnicos em enfermagem e enfermeiros em Joinville",
@@ -7449,7 +7614,7 @@
    "inscricoes_ate": "2027-02-25",
    "prazo_texto": "25/02/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "21474aa95fce5fe4",
@@ -7471,7 +7636,7 @@
    "inscricoes_ate": "2027-02-25",
    "prazo_texto": "25/02/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1cacea473d4030e8",
@@ -7493,7 +7658,7 @@
    "inscricoes_ate": "2027-02-25",
    "prazo_texto": "25/02/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8ed478f58d5cc3c1",
@@ -7674,7 +7839,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cca2a82a7a59f231",
@@ -7912,7 +8077,7 @@
    "inscricoes_ate": "2026-12-01",
    "prazo_texto": "01/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "678bc74cae91dd48",
@@ -7981,7 +8146,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "584737a06bff6841",
@@ -8006,7 +8171,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7595a654d63ece72",
@@ -8455,7 +8620,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4a830ddd7bd99bd9",
@@ -8787,7 +8952,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "23/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4342d53c192f0509",
@@ -8857,6 +9022,29 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
+   "novo": true
+  },
+  {
+   "id": "f67c4ba9358d06da",
+   "orgao": "Prefeitura de Ourolândia",
+   "titulo": "Prefeitura de Ourolândia - BA abre concursos com 13 vagas e salários de até R$ 3.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ourolandia-ba-abre-concursos-com-13-vagas-e-salarios-de-ate-3500",
+   "uf": "BA",
+   "uf_nome": "Bahia",
+   "vagas": 13,
+   "cadastro_reserva": false,
+   "salario": 3500.0,
+   "salario_por_hora": false,
+   "cargos": "Técnica de Enfermagem, Técnica de Radiologia, Geólogo",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-10",
+   "prazo_texto": "10/12/2026",
+   "visto_em": "2026-11-25T14:29:46+00:00",
    "novo": true
   },
   {
@@ -9211,7 +9399,7 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "07/12/2026 a07/01/2027",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cff1b691218ba080",
@@ -9332,7 +9520,7 @@
    "inscricoes_ate": "2026-12-28",
    "prazo_texto": "26/11 a28/12/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0a3b28ab1e23b10b",
