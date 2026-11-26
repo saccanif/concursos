@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-26T08:28:32+00:00",
+ "gerado_em": "2026-11-26T19:05:15+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 424,
- "novos": 65,
- "encerrados": 20,
+ "total": 440,
+ "novos": 48,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -343,7 +343,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ba824311bda5dd21",
@@ -709,6 +709,28 @@
    "novo": false
   },
   {
+   "id": "51da00f5aa709bbd",
+   "orgao": "Prefeitura de Altair",
+   "titulo": "Prefeitura de Altair - SP abre concurso público com vagas para agentes de saúde e endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-altair-sp-abre-concurso-publico-com-vagas-para-agentes-de-saude-e-endemias",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-27",
+   "inscricoes_ate": "2026-12-13",
+   "prazo_texto": "27/11 a13/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "b9c1eaf945c56fb7",
    "orgao": "Prefeitura de Alvinlândia",
    "titulo": "Prefeitura de Alvinlândia - SP abre processo seletivo com salários de até R$ 9.742,35",
@@ -751,6 +773,31 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "27/11 a04/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
+   "novo": true
+  },
+  {
+   "id": "95be36b831811bb4",
+   "orgao": "Prefeitura de Barrinha",
+   "titulo": "Prefeitura de Barrinha - SP abre processo seletivo para cadastro reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barrinha-sp-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3333.55,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-27",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "27/11 a28/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
    "novo": true
   },
   {
@@ -949,10 +996,10 @@
    "novo": false
   },
   {
-   "id": "dc592a16079e340a",
+   "id": "53df1c66a6308461",
    "orgao": "Prefeitura de Corumbataí",
-   "titulo": "Prefeitura de Corumbataí - SP abre concurso público com vagas imediatas e cadastro de reserva",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-corumbatai-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+   "titulo": "Prefeitura de Corumbataí - SP abre concurso público com salários de até R$ 14.955,58",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-corumbatai-sp-abre-concurso-publico-com-salarios-de-ate-14955",
    "uf": "SP",
    "uf_nome": "São Paulo",
    "vagas": 13,
@@ -970,8 +1017,8 @@
    "inscricoes_de": null,
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
-   "visto_em": "2026-11-12T20:00:04+00:00",
-   "novo": false
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
   },
   {
    "id": "aea0e1e69518f949",
@@ -1041,7 +1088,7 @@
    "inscricoes_ate": "2027-01-04",
    "prazo_texto": "27/11/2026 a04/01/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f49cc19be7b51e31",
@@ -1156,7 +1203,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "86f226e1778fee46",
@@ -1180,6 +1227,28 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-17T22:27:00+00:00",
    "novo": false
+  },
+  {
+   "id": "32d9e34e7e1d2506",
+   "orgao": "Prefeitura de Guariba",
+   "titulo": "Prefeitura de Guariba - SP abre processo seletivo para profissionais de nível superior na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guariba-sp-abre-processo-seletivo-para-profissionais-de-nivel-superior-na-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6248.5,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "08/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
   },
   {
    "id": "f8e738c271a55220",
@@ -1912,7 +1981,7 @@
    "inscricoes_ate": "2026-12-13",
    "prazo_texto": "13/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "bc865663b2aac02a",
@@ -1985,6 +2054,30 @@
    "novo": false
   },
   {
+   "id": "069a2e50cc4248c1",
+   "orgao": "Prefeitura do Município de Cajobi",
+   "titulo": "Prefeitura de Cajobi - SP abre concurso público e processo seletivo para diversos níveis",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cajobi-sp-abre-concurso-publico-e-processo-seletivo-para-diversos-niveis",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 35,
+   "cadastro_reserva": false,
+   "salario": 2242.9,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "e6daf1043ee8667f",
    "orgao": "Prefeitura do Município de Itapecerica da Serra",
    "titulo": "Prefeitura de Itapecerica da Serra - SP abre concurso público para Pedreiro",
@@ -2052,7 +2145,7 @@
    "inscricoes_ate": "2027-01-18",
    "prazo_texto": "09/12/2026 a18/01/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "e3041c3c2ea07d7b",
@@ -2121,7 +2214,7 @@
    "inscricoes_ate": "2026-12-17",
    "prazo_texto": "17/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c07ef68ae9778b9f",
@@ -2460,7 +2553,7 @@
    "inscricoes_ate": "2027-02-18",
    "prazo_texto": "18/01 a18/02/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "54f6adb50d7e1820",
@@ -2484,7 +2577,7 @@
    "inscricoes_ate": "2027-02-18",
    "prazo_texto": "18/01 a18/02/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "46ef346d5520ca0e",
@@ -2967,6 +3060,30 @@
    "novo": false
   },
   {
+   "id": "2fce7f9d97695c64",
+   "orgao": "CRF/MG - Conselho Regional de Farmácia do Estado de Minas Gerais",
+   "titulo": "CRF - MG abre concurso para profissionais de diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/crf-mg-abre-concurso-para-profissionais-de-diversas-areas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 8889.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-21",
+   "prazo_texto": "21/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "518f909ad194f412",
    "orgao": "Fhemig - Fundação Hospitalar do Estado de Minas Gerais",
    "titulo": "Fhemig - MG abre processo seletivo para biomédicos, farmacêuticos e fonoaudiólogos",
@@ -3052,7 +3169,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "44dcfe3273b8956f",
@@ -3352,7 +3469,7 @@
    "inscricoes_ate": "2027-02-23",
    "prazo_texto": "25/01 a23/02/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "8efcab7debd252f3",
@@ -3534,7 +3651,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "30/11 a02/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "344dc83d26ac207e",
@@ -3935,7 +4052,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "02 a14/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "db678a6373d20c3b",
@@ -4329,7 +4446,7 @@
    "inscricoes_ate": "2026-12-06",
    "prazo_texto": "06/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "340a3eed957a7950",
@@ -4399,7 +4516,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-25T04:16:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "855cfd3f1ae3a11e",
@@ -4539,7 +4656,7 @@
    "inscricoes_ate": "2026-12-29",
    "prazo_texto": "30/11 a29/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6da360ae0c4c2b93",
@@ -4634,7 +4751,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "30efb13e15ff1f5a",
@@ -4749,6 +4866,29 @@
    "inscricoes_ate": "2026-12-28",
    "prazo_texto": "03 a28/12/2026",
    "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
+   "id": "3f9f19bd51c6c06e",
+   "orgao": "Prefeitura de São Pedro do Iguaçu",
+   "titulo": "Prefeitura de São Pedro do Iguaçu - PR abre seleção para a Casa Lar Nossa Senhora de Fátima",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-iguacu-pr-abre-selecao-para-a-casa-lar-nossa-senhora-de-fatima",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2295.27,
+   "salario_por_hora": false,
+   "cargos": "Cuidador(a) Social Residente, Auxiliar de Cuidador(a)",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-01",
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "01 a07/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
    "novo": true
   },
   {
@@ -5097,6 +5237,28 @@
    "novo": true
   },
   {
+   "id": "2964b1b1646c6917",
+   "orgao": "IPREC - Instituto de Previdência dos Servidores Públicos Municipais de Cachoeirinha",
+   "titulo": "IPREC de Cachoeirinha - RS abre concurso para Agente Previdenciário",
+   "url": "https://www.pciconcursos.com.br/noticias/iprec-de-cachoeirinha-rs-abre-concurso-para-agente-previdenciario",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3348.51,
+   "salario_por_hora": false,
+   "cargos": "Agente Previdenciário",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-25",
+   "prazo_texto": "25/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "67a6318523e06465",
    "orgao": "Prefeitura de Ajuricaba",
    "titulo": "Prefeitura de Ajuricaba - RS abre processo seletivo para servente",
@@ -5278,7 +5440,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1bcc5cf58d6166ab",
@@ -5300,7 +5462,7 @@
    "inscricoes_ate": "2026-11-30",
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-25T04:16:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "46e23d2a9ef26e2e",
@@ -5400,6 +5562,52 @@
    "novo": false
   },
   {
+   "id": "b14c8e08d0712e5f",
+   "orgao": "Prefeitura de Pareci Novo",
+   "titulo": "Prefeitura de Pareci Novo - RS abre concurso com 45 vagas e salários de até R$ 12.066,62",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pareci-novo-rs-abre-concurso-com-45-vagas-e-salarios-de-ate-12066",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 45,
+   "cadastro_reserva": false,
+   "salario": 12066.62,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-02",
+   "inscricoes_ate": "2026-12-22",
+   "prazo_texto": "02 a22/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "db44f2aeb79c3042",
+   "orgao": "Prefeitura de Pareci Novo",
+   "titulo": "Prefeitura de Pareci Novo - RS abre processo seletivo para agentes de saúde e endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pareci-novo-rs-abre-processo-seletivo-para-agentes-de-saude-e-endemias",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-02",
+   "inscricoes_ate": "2026-12-22",
+   "prazo_texto": "02 a22/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "57836dc9cbe028ac",
    "orgao": "Prefeitura de Porto Alegre",
    "titulo": "Prefeitura de Porto Alegre - RS abre seleção para Programa de Residência Técnico-Superior",
@@ -5486,6 +5694,52 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
+   "novo": true
+  },
+  {
+   "id": "5d664e501699fa4f",
+   "orgao": "Prefeitura de São José do Inhacorá",
+   "titulo": "Prefeitura de São José do Inhacorá - RS abre concurso para diversos níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-para-diversos-niveis-de-escolaridade",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 22,
+   "cadastro_reserva": false,
+   "salario": 9885.71,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "Prorrogado até30/11/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "7e281c1a897792b3",
+   "orgao": "Prefeitura de São José do Inhacorá",
+   "titulo": "Prefeitura de São José do Inhacorá - RS abre seleção para Agente de Saúde e de Endemias",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-selecao-para-agente-de-saude-e-de-endemias",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3265.28,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Combate às Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "Prorrogado até30/11/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
    "novo": true
   },
   {
@@ -5669,7 +5923,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2a71f93a8169685c",
@@ -5851,7 +6105,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "057f8adf852d6905",
@@ -6471,7 +6725,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "27/11 a08/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cbc1577a692bbfa9",
@@ -6563,7 +6817,7 @@
    "inscricoes_ate": "2026-12-03",
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a1a4f870385bdd81",
@@ -6882,7 +7136,7 @@
    "inscricoes_ate": "2026-11-28",
    "prazo_texto": "28/11/2026",
    "visto_em": "2026-11-25T04:16:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "fe9993a0e74faab0",
@@ -7048,7 +7302,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-25T04:16:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "5ad951699a4aa842",
@@ -7241,7 +7495,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "27/11 a09/12/2026",
    "visto_em": "2026-11-25T04:16:26+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "90aa2805f1b15529",
@@ -7499,7 +7753,7 @@
    "inscricoes_ate": "2026-11-29",
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "4fb238fe107e1977",
@@ -7792,7 +8046,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a8e43e9920503737",
@@ -7862,7 +8116,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7bdbcf3b321bf670",
@@ -7952,7 +8206,7 @@
    "inscricoes_ate": "2027-01-21",
    "prazo_texto": "24/12/2026 a21/01/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "09dd3ee8138c2562",
@@ -7977,7 +8231,7 @@
    "inscricoes_ate": "2027-01-26",
    "prazo_texto": "04 a26/01/2027",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "9ce9942527eb851e",
@@ -8601,6 +8855,54 @@
    "novo": false
   },
   {
+   "id": "fbb629ee49418123",
+   "orgao": "Prefeitura de Rio Branco e Câmara de Rio Branco",
+   "titulo": "Prefeitura e Câmara de Rio Branco - MT abrem concurso com 58 vagas e cadastro reserva",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-rio-branco-mt-abrem-concurso-com-58-vagas-e-cadastro-reserva",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 58,
+   "cadastro_reserva": false,
+   "salario": 6206.13,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-04",
+   "inscricoes_ate": "2027-01-07",
+   "prazo_texto": "04/12/2026 a07/01/2027",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "25d4037a8632dfb2",
+   "orgao": "Prefeitura de Sorriso",
+   "titulo": "Prefeitura de Sorriso - MT abre processo seletivo com 64 vagas na educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sorriso-mt-abre-processo-seletivo-com-64-vagas-na-educacao",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 64,
+   "cadastro_reserva": false,
+   "salario": 8424.82,
+   "salario_por_hora": false,
+   "cargos": "Professor, Intérprete de Libras, Profissional de Apoio Escolar",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-14",
+   "inscricoes_ate": "2026-12-29",
+   "prazo_texto": "14 a29/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "6feda5b56432873f",
    "orgao": "Prefeitura de Tabaporã",
    "titulo": "Prefeitura de Tabaporã - MT abre seleção com salários de até R$ 9.677,25",
@@ -8648,6 +8950,30 @@
    "prazo_texto": "03/12/2026",
    "visto_em": "2026-11-19T21:39:15+00:00",
    "novo": false
+  },
+  {
+   "id": "038127f6432949eb",
+   "orgao": "Prefeitura de Vila Bela da Santíssima Trindade",
+   "titulo": "Prefeitura de Vila Bela da Santíssima Trindade - MT abre processo seletivo com salários de até R$ 7.701,07",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-processo-seletivo-com-salarios-de-ate-7701",
+   "uf": "MT",
+   "uf_nome": "Mato Grosso",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 7701.07,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-27",
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "27/11 a07/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
   },
   {
    "id": "e472b49d17376ef0",
@@ -8741,7 +9067,7 @@
    "inscricoes_ate": "2026-12-07",
    "prazo_texto": "07/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "409559c5aa49a9d3",
@@ -8766,7 +9092,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6cf4e690d7f4afca",
@@ -8952,7 +9278,7 @@
    "inscricoes_ate": "2026-11-26",
    "prazo_texto": "26/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "30b8ca3b65c4e62d",
@@ -9071,7 +9397,7 @@
    "inscricoes_ate": "2026-11-27",
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "f67c4ba9358d06da",
@@ -9854,6 +10180,31 @@
    "novo": false
   },
   {
+   "id": "1d8c55c5e8260b02",
+   "orgao": "Prefeitura de Monsenhor Gil",
+   "titulo": "Prefeitura de Monsenhor Gil - PI abre concurso com vagas para todos os níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monsenhor-gil-pi-abre-concurso-com-vagas-para-todos-os-niveis-de-escolaridade",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 101,
+   "cadastro_reserva": false,
+   "salario": 8000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "Prorrogado até07/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
    "id": "0f2ee29f7ad4ab78",
    "orgao": "Câmara de Alto do Rodrigues",
    "titulo": "Câmara de Alto do Rodrigues - RN abre concurso público com 12 vagas",
@@ -9875,6 +10226,29 @@
    "prazo_texto": "13/12/2026",
    "visto_em": "2026-11-10T23:27:25+00:00",
    "novo": false
+  },
+  {
+   "id": "f4aa19f29de43101",
+   "orgao": "Câmara de Maxaranguape",
+   "titulo": "Câmara de Maxaranguape - RN abre concurso público com vagas para níveis médio e superior",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-maxaranguape-rn-abre-concurso-publico-com-vagas-para-niveis-medio-e-superior",
+   "uf": "RN",
+   "uf_nome": "Rio Grande do Norte",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 2800.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Legislativo, Controlador Interno",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-26",
+   "prazo_texto": "26/12/2026",
+   "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
   },
   {
    "id": "9c66490b11e6ceb1",
