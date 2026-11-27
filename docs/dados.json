@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-27T10:57:10+00:00",
+ "gerado_em": "2026-11-27T19:59:54+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 423,
- "novos": 52,
- "encerrados": 30,
+ "total": 442,
+ "novos": 49,
+ "encerrados": 1,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -366,6 +366,30 @@
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
    "novo": false
+  },
+  {
+   "id": "2a98784abc83d1e2",
+   "orgao": "Fundhas - Fundação Hélio Augusto de Souza",
+   "titulo": "Fundhas - SP abre concurso com 20 vagas e cadastro reserva em diversas áreas",
+   "url": "https://www.pciconcursos.com.br/noticias/fundhas-sp-abre-concurso-com-20-vagas-e-cadastro-reserva-em-diversas-areas",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 20,
+   "cadastro_reserva": false,
+   "salario": 5007.08,
+   "salario_por_hora": false,
+   "cargos": "Educador(a) Social, Orientador(a), Professor(a)",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "28/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "ba824311bda5dd21",
@@ -795,7 +819,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "95be36b831811bb4",
@@ -893,7 +917,7 @@
    "inscricoes_ate": "2026-12-25",
    "prazo_texto": "25/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "750af6919c3dfec8",
@@ -969,6 +993,28 @@
    "prazo_texto": "30/11 a21/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
    "novo": false
+  },
+  {
+   "id": "4af201092c8e934b",
+   "orgao": "Prefeitura de Cedral",
+   "titulo": "Prefeitura de Cedral - SP abre processo seletivo para 5 vagas e cadastro de reserva na área da saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cedral-sp-abre-processo-seletivo-para-5-vagas-e-cadastro-de-reserva-na-area-da-saude",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 3242.0,
+   "salario_por_hora": false,
+   "cargos": "Agente Comunitário de Saúde, Agente de Controle de Endemias",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-12-04",
+   "inscricoes_ate": "2027-01-03",
+   "prazo_texto": "04/12/2026 a03/01/2027",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "d223de98bb3ab22f",
@@ -1323,6 +1369,29 @@
    "novo": false
   },
   {
+   "id": "0739801aa85899a1",
+   "orgao": "Prefeitura de Itupeva",
+   "titulo": "Prefeitura de Itupeva - SP abre concurso com 7 vagas e salários de até R$ 5.009,64",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-com-7-vagas-e-salarios-de-ate-5009",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 7,
+   "cadastro_reserva": false,
+   "salario": 5009.64,
+   "salario_por_hora": false,
+   "cargos": "Agente de Infraestrutura",
+   "escolaridade": "Fundamental / Médio",
+   "niveis": [
+    "Fundamental",
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-27",
+   "prazo_texto": "30/11 a27/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "92b552d846dd74f6",
    "orgao": "Prefeitura de Jandira",
    "titulo": "Prefeitura de Jandira - SP abre concurso público com salários de até R$ 6.812,14",
@@ -1603,6 +1672,28 @@
    "prazo_texto": "28/12/2026",
    "visto_em": "2026-11-17T13:32:22+00:00",
    "novo": false
+  },
+  {
+   "id": "6e69c80986d7a536",
+   "orgao": "Prefeitura de Pilar do Sul",
+   "titulo": "Prefeitura de Pilar do Sul - SP abre vaga para guarda civil municipal feminina",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pilar-do-sul-sp-abre-vaga-para-guarda-civil-municipal-feminina",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2928.49,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "28/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "34da023f339f5a24",
@@ -1888,6 +1979,29 @@
    "novo": false
   },
   {
+   "id": "1e7b455d0e32210f",
+   "orgao": "Prefeitura de Taciba",
+   "titulo": "Prefeitura de Taciba - SP abre processo seletivo para cadastro reserva em cargos de todos os níveis",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taciba-sp-abre-processo-seletivo-para-cadastro-reserva-em-cargos-de-todos-os-niveis",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 4232.77,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-13",
+   "prazo_texto": "13/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "4ab1c03d3e786611",
    "orgao": "Prefeitura de Taiaçu",
    "titulo": "Prefeitura de Taiaçu - SP abre processo seletivo para professores e psicopedagogo",
@@ -1907,6 +2021,28 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
+   "novo": false
+  },
+  {
+   "id": "b90fcd009f6f8fff",
+   "orgao": "Prefeitura de Taiaçu",
+   "titulo": "Prefeitura de Taiaçu - SP abre concurso público com salários de R$ 5.130,63 na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiacu-sp-abre-concurso-publico-com-salarios-de-5130-na-area-da-educacao",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5130.63,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-18",
+   "prazo_texto": "30/11 a18/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
    "novo": true
   },
   {
@@ -2462,6 +2598,30 @@
    "novo": false
   },
   {
+   "id": "e2f0468758efa528",
+   "orgao": "Prefeitura de Rio Claro",
+   "titulo": "Prefeitura de Rio Claro - RJ abre processo seletivo para diversos níveis com salários de até R$ 3.170,03",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-claro-rj-abre-processo-seletivo-para-diversos-niveis-com-salarios-de-ate-3170",
+   "uf": "RJ",
+   "uf_nome": "Rio de Janeiro",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 3170.03,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-16",
+   "prazo_texto": "30/11 a16/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "7ff574d8ebfa0642",
    "orgao": "Prefeitura de Saquarema",
    "titulo": "Prefeitura de Saquarema - RJ abre seleção para agentes de saúde e endemias",
@@ -3010,6 +3170,31 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "21/12/2026",
    "visto_em": "2026-11-26T19:05:15+00:00",
+   "novo": true
+  },
+  {
+   "id": "60e8c7f58e936aea",
+   "orgao": "FAEPU - Fundação de Assistência, Estudo e Pesquisa de Uberlândia",
+   "titulo": "FAEPU - MG abre processo seletivo em Araguari para diversos níveis de escolaridade",
+   "url": "https://www.pciconcursos.com.br/noticias/faepu-mg-abre-processo-seletivo-em-araguari-para-diversos-niveis-de-escolaridade",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 6062.29,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-29",
+   "prazo_texto": "Reaberto até29/11/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
    "novo": true
   },
   {
@@ -3680,7 +3865,7 @@
    "inscricoes_ate": "2026-12-04",
    "prazo_texto": "30/11 a04/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2ae50becdea073be",
@@ -3752,13 +3937,13 @@
    "novo": false
   },
   {
-   "id": "b1d84953332cd133",
+   "id": "4d69fe1cc4d29008",
    "orgao": "Prefeitura de Patis",
-   "titulo": "Prefeitura de Patis - MG abre concurso público com salários de até R$ 13.500,00",
-   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-publico-com-salarios-de-ate-13500",
+   "titulo": "Prefeitura de Patis - MG abre concurso com salários de até R$ 13.500,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-com-salarios-de-ate-13500",
    "uf": "MG",
    "uf_nome": "Minas Gerais",
-   "vagas": 154,
+   "vagas": 155,
    "cadastro_reserva": false,
    "salario": 13500.0,
    "salario_por_hora": false,
@@ -3770,11 +3955,11 @@
     "Técnico",
     "Superior"
    ],
-   "inscricoes_de": "2026-12-03",
-   "inscricoes_ate": "2026-12-30",
-   "prazo_texto": "03 a30/12/2026",
-   "visto_em": "2026-09-25T22:25:38+00:00",
-   "novo": false
+   "inscricoes_de": "2026-12-18",
+   "inscricoes_ate": "2027-01-15",
+   "prazo_texto": "Prorrogado de18/12/2026 a15/01/2027",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "9f1fd70615666643",
@@ -3796,7 +3981,7 @@
    "inscricoes_ate": "2027-02-10",
    "prazo_texto": "27/01 a10/02/2027",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "046c2d02acc4770b",
@@ -3965,6 +4150,30 @@
    "prazo_texto": "11/01 a10/02/2027",
    "visto_em": "2026-11-03T23:28:00+00:00",
    "novo": false
+  },
+  {
+   "id": "2a1d63f25069df8c",
+   "orgao": "Prefeitura de São José do Divino",
+   "titulo": "Prefeitura de São José do Divino - MG abre processo seletivo com 18 vagas imediatas",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-divino-mg-abre-processo-seletivo-com-18-vagas-imediatas",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 18,
+   "cadastro_reserva": false,
+   "salario": 2990.99,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-21",
+   "inscricoes_ate": "2027-01-14",
+   "prazo_texto": "21/12/2026 a14/01/2027",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "4c131c8f60c69db6",
@@ -4865,7 +5074,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "30/11 a11/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "6b18b5ef34a79e3c",
@@ -5096,6 +5305,30 @@
    "novo": false
   },
   {
+   "id": "5ba61b85d6054f6d",
+   "orgao": "FMS-SL - Fundação Municipal de Saúde de São Leopoldo",
+   "titulo": "FMS de São Leopoldo - RS abre seleção com 23 vagas e salários de até R$ 19.574,72",
+   "url": "https://www.pciconcursos.com.br/noticias/fms-de-sao-leopoldo-rs-abre-selecao-com-23-vagas-e-salarios-de-ate-19574",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 23,
+   "cadastro_reserva": false,
+   "salario": 19574.72,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Técnico / Superior",
+   "niveis": [
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-29",
+   "prazo_texto": "29/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "2c76d83976767539",
    "orgao": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha",
    "titulo": "Fundação Escola Técnica Liberato Salzano Vieira da Cunha - RS abre concurso público para diversos cargos",
@@ -5164,7 +5397,7 @@
    "inscricoes_ate": "2026-12-21",
    "prazo_texto": "21/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "2964b1b1646c6917",
@@ -5208,7 +5441,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "30/11 a14/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a33b32324c224dbb",
@@ -5258,6 +5491,28 @@
    "novo": false
   },
   {
+   "id": "b286d2bfc3f2601d",
+   "orgao": "Prefeitura de Boa Vista do Sul",
+   "titulo": "Prefeitura de Boa Vista do Sul - RS abre vaga para Secretário de Escola",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-vaga-para-secretario-de-escola",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2499.03,
+   "salario_por_hora": false,
+   "cargos": "Secretário de Escola",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "bbcc749686ab7a0f",
    "orgao": "Prefeitura de Carazinho",
    "titulo": "Prefeitura de Carazinho - RS abre seleção para cadastro reserva com salários de até R$ 5.417,95",
@@ -5279,7 +5534,7 @@
    "inscricoes_ate": "2026-12-09",
    "prazo_texto": "09/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "cb86bd9da999eb16",
@@ -5445,6 +5700,50 @@
    "novo": false
   },
   {
+   "id": "51cd956e8a7f487b",
+   "orgao": "Prefeitura de Maquiné",
+   "titulo": "Prefeitura de Maquiné - RS abre seleção para Monitor Escolar",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecao-para-monitor-escolar",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": true,
+   "salario": 1583.17,
+   "salario_por_hora": false,
+   "cargos": "Monitor Escolar",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "30/11 a04/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
+   "id": "58754c4399706ec1",
+   "orgao": "Prefeitura de Nova Prata",
+   "titulo": "Prefeitura de Nova Prata - RS abre seleção com 30 vagas para servente",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-selecao-com-30-vagas-para-servente",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 1936.49,
+   "salario_por_hora": false,
+   "cargos": "Servente",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": "2026-12-02",
+   "inscricoes_ate": "2026-12-11",
+   "prazo_texto": "02 a11/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "36cb07f5f7848120",
    "orgao": "Prefeitura de Novo Xingu",
    "titulo": "Prefeitura de Novo Xingu - RS abre concurso público com salários de até R$ 8.797,52",
@@ -5602,7 +5901,7 @@
    "inscricoes_ate": "2026-12-11",
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "38cdc8c6b17c12d3",
@@ -5784,7 +6083,7 @@
    "inscricoes_ate": "2026-12-02",
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "935ffea7b06544b9",
@@ -6155,7 +6454,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "15/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "7c9521122d7f9d2a",
@@ -6440,7 +6739,7 @@
    "inscricoes_ate": "2027-01-07",
    "prazo_texto": "07/12/2026 a07/01/2027",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "1b032169ccd909d2",
@@ -6968,7 +7267,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "23/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "800fb6625cbaacca",
@@ -7140,7 +7439,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a327299df099600a",
@@ -7475,7 +7774,7 @@
    "inscricoes_ate": "2026-12-23",
    "prazo_texto": "23/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0199f53636e37949",
@@ -7641,6 +7940,28 @@
    "prazo_texto": "29/11/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
    "novo": false
+  },
+  {
+   "id": "8c6f10e9ffda90fe",
+   "orgao": "SAMU - Serviço de Atendimento Móvel de Urgência",
+   "titulo": "FAHECE - SC abre vaga para Assistente de Departamento Pessoal PCD no SAMU em Florianópolis",
+   "url": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-departamento-pessoal-pcd-no-samu-em-florianopolis",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2259.6,
+   "salario_por_hora": false,
+   "cargos": "Assistente de Departamento Pessoal I",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-30",
+   "prazo_texto": "30/11/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "4fb238fe107e1977",
@@ -7844,7 +8165,7 @@
    "inscricoes_ate": "2027-01-11",
    "prazo_texto": "11/01/2027",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "623defef8ecfc345",
@@ -8144,7 +8465,7 @@
    "inscricoes_ate": "2026-12-18",
    "prazo_texto": "Reaberto até18/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "c02f47bb2a3fc178",
@@ -8244,6 +8565,29 @@
    "prazo_texto": "27/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
    "novo": false
+  },
+  {
+   "id": "e393bc542d20eae6",
+   "orgao": "Secretaria Municipal de Educação, Cultura e Esportes",
+   "titulo": "Secretaria de Educação de Alcinópolis - MS abre 42 vagas em novos processos seletivos",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-educacao-de-alcinopolis-ms-abre-42-vagas-em-novos-processos-seletivos",
+   "uf": "MS",
+   "uf_nome": "Mato Grosso do Sul",
+   "vagas": 42,
+   "cadastro_reserva": false,
+   "salario": 7804.74,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "02/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "7595a654d63ece72",
@@ -8455,7 +8799,7 @@
    "inscricoes_ate": "2026-12-10",
    "prazo_texto": "10/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "ce0357d9a7216da4",
@@ -8505,7 +8849,7 @@
    "inscricoes_ate": "2026-12-08",
    "prazo_texto": "08/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "0b76bf1661eb1d9f",
@@ -8867,6 +9211,28 @@
    "novo": false
   },
   {
+   "id": "eae43b658c55f921",
+   "orgao": "Prefeitura de Novo Repartimento",
+   "titulo": "Prefeitura de Novo Repartimento - PA anuncia processo seletivo para Técnico em Enfermagem",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-repartimento-pa-anuncia-processo-seletivo-para-tecnico-em-enfermagem",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 2494.94,
+   "salario_por_hora": false,
+   "cargos": "Técnico em Enfermagem",
+   "escolaridade": "Ensino Técnico",
+   "niveis": [
+    "Técnico"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-02",
+   "prazo_texto": "30/11 a02/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "871f1fcc250e3b5a",
    "orgao": "Prefeitura de Pacajá",
    "titulo": "Prefeitura de Pacajá - PA abre processo seletivo com 427 vagas na área da educação",
@@ -9010,6 +9376,29 @@
    "novo": false
   },
   {
+   "id": "3d53f07cedb4e6e2",
+   "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Santa Fé do Araguaia",
+   "titulo": "Prefeitura de Santa Fé do Araguaia - TO abre concurso para o SAAE",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-fe-do-araguaia-to-abre-concurso-para-o-saae",
+   "uf": "TO",
+   "uf_nome": "Tocantins",
+   "vagas": 9,
+   "cadastro_reserva": false,
+   "salario": 3000.0,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Superior",
+   "niveis": [
+    "Fundamental",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "30/11 a28/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
+  },
+  {
    "id": "276bedc44890a972",
    "orgao": "Prefeitura de São Miguel dos Milagres",
    "titulo": "Prefeitura de São Miguel dos Milagres - AL abre concurso com 232 vagas e salários de até R$ 10 mil",
@@ -9125,7 +9514,7 @@
    "inscricoes_ate": "2026-12-14",
    "prazo_texto": "14/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "a9496254474b6c90",
@@ -9315,7 +9704,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "01 a15/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "137a33984f072976",
@@ -9338,7 +9727,7 @@
    "inscricoes_ate": "2026-12-15",
    "prazo_texto": "01 a15/12/2026",
    "visto_em": "2026-11-25T23:39:55+00:00",
-   "novo": true
+   "novo": false
   },
   {
    "id": "be1233932f0fe129",
@@ -9407,6 +9796,28 @@
    "prazo_texto": "11/12/2026",
    "visto_em": "2026-11-18T14:07:55+00:00",
    "novo": false
+  },
+  {
+   "id": "87915b0b63f7e1e6",
+   "orgao": "PMPB - Polícia Militar do Estado da Paraíba",
+   "titulo": "PMPB - PB abre concurso público para o Quadro de Oficiais com 30 vagas",
+   "url": "https://www.pciconcursos.com.br/noticias/pmpb-pb-abre-concurso-publico-para-o-quadro-de-oficiais-com-30-vagas",
+   "uf": "PB",
+   "uf_nome": "Paraíba",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 8745.75,
+   "salario_por_hora": false,
+   "cargos": "Oficial do Quadro de Oficiais do Estado-Maior",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-12-04",
+   "inscricoes_ate": "2026-12-23",
+   "prazo_texto": "04 a23/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "4f1ceb9e6ab3b1cc",
@@ -9812,6 +10223,28 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
    "novo": false
+  },
+  {
+   "id": "05752d20e891802b",
+   "orgao": "Prefeitura de Lagoa do Barro do Piauí",
+   "titulo": "Prefeitura de Lagoa do Barro do Piauí - PI abre seleção com salários de R$ 5.198,96",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-do-barro-do-piaui-pi-abre-selecao-com-salarios-de-5198",
+   "uf": "PI",
+   "uf_nome": "Piauí",
+   "vagas": 30,
+   "cadastro_reserva": false,
+   "salario": 5198.96,
+   "salario_por_hora": false,
+   "cargos": "Professor, Psicopedagogo",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-27T19:59:54+00:00",
+   "novo": true
   },
   {
    "id": "1d8c55c5e8260b02",
