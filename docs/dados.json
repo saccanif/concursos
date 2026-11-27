@@ -1,9 +1,9 @@
 {
- "gerado_em": "2026-11-26T19:05:15+00:00",
+ "gerado_em": "2026-11-27T02:14:39+00:00",
  "fonte": "https://www.pciconcursos.com.br/concursos/",
- "total": 440,
- "novos": 48,
- "encerrados": 1,
+ "total": 453,
+ "novos": 61,
+ "encerrados": 0,
  "concursos": [
   {
    "id": "245ef79c5e2829f8",
@@ -256,6 +256,28 @@
    "prazo_texto": "30/11/2026",
    "visto_em": "2026-11-24T00:57:44+00:00",
    "novo": false
+  },
+  {
+   "id": "a3f06cd949d0c160",
+   "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+   "titulo": "FAMESP - SP abre processos seletivos para cargos de nível superior com ganhos de R$ 12,1 mil",
+   "url": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-cargos-de-nivel-superior-com-ganhos-de-12-1-mil",
+   "uf": "SP",
+   "uf_nome": "São Paulo",
+   "vagas": 5,
+   "cadastro_reserva": false,
+   "salario": 12154.19,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Analista de Sistemas Júnior, Médico",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-29",
+   "inscricoes_ate": "2026-12-08",
+   "prazo_texto": "29/11 a08/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "c571a1f41fe3a7db",
@@ -3701,6 +3723,28 @@
    "novo": false
   },
   {
+   "id": "a33eb5acaad0468d",
+   "orgao": "Prefeitura de Leopoldina",
+   "titulo": "Prefeitura de Leopoldina - MG abre concurso com vagas para Guarda Civil Municipal",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-concurso-com-vagas-para-guarda-civil-municipal",
+   "uf": "MG",
+   "uf_nome": "Minas Gerais",
+   "vagas": 4,
+   "cadastro_reserva": false,
+   "salario": 2467.44,
+   "salario_por_hora": false,
+   "cargos": "Guarda Civil Municipal",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2027-01-25",
+   "inscricoes_ate": "2027-02-23",
+   "prazo_texto": "25/01 a23/02/2027",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
+  },
+  {
    "id": "40310717d84e5c5e",
    "orgao": "Prefeitura de Luislândia",
    "titulo": "Prefeitura de Luislândia - MG abre concurso público com vagas em diversas áreas",
@@ -4614,6 +4658,28 @@
    "novo": false
   },
   {
+   "id": "109ab53c6f3d2140",
+   "orgao": "SEDU - Secretaria de Estado da Educação",
+   "titulo": "SEDU - ES abre processo seletivo para Agente de Integração Escolar com bolsa de R$ 2.300,00",
+   "url": "https://www.pciconcursos.com.br/noticias/sedu-es-abre-processo-seletivo-para-agente-de-integracao-escolar-com-bolsa-de-2300",
+   "uf": "ES",
+   "uf_nome": "Espírito Santo",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2300.0,
+   "salario_por_hora": false,
+   "cargos": "Agente de Integração Escolar",
+   "escolaridade": "Ensino Médio",
+   "niveis": [
+    "Médio"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "30/11 a09/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
+  },
+  {
    "id": "33ea5c680dc3abcc",
    "orgao": "TCEES - Tribunal de Contas do Estado do Espírito Santo",
    "titulo": "TCE - ES abre processo seletivo com vagas na área de tecnologia",
@@ -4634,6 +4700,30 @@
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
    "novo": false
+  },
+  {
+   "id": "360c0555de8cd47b",
+   "orgao": "Câmara de Pinhão",
+   "titulo": "Câmara de Pinhão - PR abre concurso público com salários de até R$ 7.785,77",
+   "url": "https://www.pciconcursos.com.br/noticias/camara-de-pinhao-pr-abre-concurso-publico-com-salarios-de-ate-7785",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 6,
+   "cadastro_reserva": false,
+   "salario": 7785.77,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-27",
+   "inscricoes_ate": "2026-12-28",
+   "prazo_texto": "27/11 a28/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "d232cc666a275b0e",
@@ -4657,6 +4747,29 @@
    "prazo_texto": "30/11 a29/12/2026",
    "visto_em": "2026-11-24T21:18:28+00:00",
    "novo": false
+  },
+  {
+   "id": "f2e40a738e223177",
+   "orgao": "FASMO - Fundação de Atenção à Saúde de Morretes",
+   "titulo": "FASMO de Morretes - PR abre processo seletivo para cadastro reserva em cargos de saúde",
+   "url": "https://www.pciconcursos.com.br/noticias/fasmo-de-morretes-pr-abre-processo-seletivo-para-cadastro-reserva-em-cargos-de-saude",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 4750.0,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro, Técnico de Enfermagem, Médico",
+   "escolaridade": "Médio / Superior",
+   "niveis": [
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "6da360ae0c4c2b93",
@@ -4705,6 +4818,28 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-21T23:24:45+00:00",
    "novo": false
+  },
+  {
+   "id": "5cf6945f9fccdc1e",
+   "orgao": "Prefeitura de Cerro Azul",
+   "titulo": "Prefeitura de Cerro Azul - PR abre seleção para assistente social com salário de R$ 5.210,92",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-azul-pr-abre-selecao-para-assistente-social-com-salario-de-5210",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 5210.92,
+   "salario_por_hora": false,
+   "cargos": "Assistente Social",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "04/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "ff3dabfd756c6941",
@@ -4776,6 +4911,28 @@
    "prazo_texto": "04/12/2026",
    "visto_em": "2026-11-17T22:27:00+00:00",
    "novo": false
+  },
+  {
+   "id": "ccb35371e410858d",
+   "orgao": "Prefeitura de Mandaguari",
+   "titulo": "Prefeitura de Mandaguari - PR abre seleção para enfermeiro com salário de R$ 4.919,11",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mandaguari-pr-abre-selecao-para-enfermeiro-com-salario-de-4919",
+   "uf": "PR",
+   "uf_nome": "Paraná",
+   "vagas": 1,
+   "cadastro_reserva": false,
+   "salario": 4919.11,
+   "salario_por_hora": false,
+   "cargos": "Enfermeiro",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-30",
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "30/11 a09/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "ca3c56d0319c275e",
@@ -5697,6 +5854,28 @@
    "novo": true
   },
   {
+   "id": "38cdc8c6b17c12d3",
+   "orgao": "Prefeitura de São José do Hortêncio",
+   "titulo": "Prefeitura de São José do Hortêncio - RS abre seleção para cadastro reserva em serviços gerais",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-hortencio-rs-abre-selecao-para-cadastro-reserva-em-servicos-gerais",
+   "uf": "RS",
+   "uf_nome": "Rio Grande do Sul",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 2231.5,
+   "salario_por_hora": false,
+   "cargos": "Serviços Gerais",
+   "escolaridade": "Fundamental",
+   "niveis": [
+    "Fundamental"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
+  },
+  {
    "id": "5d664e501699fa4f",
    "orgao": "Prefeitura de São José do Inhacorá",
    "titulo": "Prefeitura de São José do Inhacorá - RS abre concurso para diversos níveis de escolaridade",
@@ -5993,6 +6172,28 @@
    "prazo_texto": "18/12/2026",
    "visto_em": "2026-11-16T20:31:33+00:00",
    "novo": false
+  },
+  {
+   "id": "f106df9678ba790a",
+   "orgao": "CIMPLASC - Campos Novos",
+   "titulo": "CIMPLASC - SC abre processo seletivo para Engenheiro Agrônomo e Médico Veterinário",
+   "url": "https://www.pciconcursos.com.br/noticias/cimplasc-sc-abre-processo-seletivo-para-engenheiro-agronomo-e-medico-veterinario",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 2,
+   "cadastro_reserva": false,
+   "salario": 5005.01,
+   "salario_por_hora": false,
+   "cargos": "Engenheiro Agrônomo, Médico Veterinário",
+   "escolaridade": "Superior",
+   "niveis": [
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-11-27",
+   "prazo_texto": "27/11/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "cd42e2e80ca00469",
@@ -7014,6 +7215,30 @@
    "novo": false
   },
   {
+   "id": "3f3d950a70fdc187",
+   "orgao": "Prefeitura de Macieira",
+   "titulo": "Prefeitura de Macieira - SC abre processo seletivo com salários de até R$ 24.960,42",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macieira-sc-abre-processo-seletivo-com-salarios-de-ate-24960",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 15,
+   "cadastro_reserva": false,
+   "salario": 24960.42,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-07",
+   "prazo_texto": "07/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
+  },
+  {
    "id": "0dcf363e6ed70da9",
    "orgao": "Prefeitura de Major Gercino",
    "titulo": "Prefeitura de Major Gercino - SC abre processo seletivo com salários de até R$ 13.301,74",
@@ -7352,6 +7577,31 @@
    "prazo_texto": "02/12/2026",
    "visto_em": "2026-11-18T22:01:48+00:00",
    "novo": false
+  },
+  {
+   "id": "92d5b40a55711388",
+   "orgao": "Prefeitura de Santo Amaro da Imperatriz",
+   "titulo": "Prefeitura de Santo Amaro da Imperatriz - SC abre processos seletivos com salários de até R$ 10.800,00",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-amaro-da-imperatriz-sc-abre-processos-seletivos-com-salarios-de-ate-10800",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": null,
+   "cadastro_reserva": false,
+   "salario": 10885.6,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Técnico / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-23",
+   "prazo_texto": "23/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "876a5e4bf4946979",
@@ -7824,6 +8074,29 @@
    "inscricoes_ate": "2026-12-26",
    "prazo_texto": "26/12/2026",
    "visto_em": "2026-11-25T14:29:46+00:00",
+   "novo": true
+  },
+  {
+   "id": "dc08542aeed4ca3f",
+   "orgao": "SES - Secretaria de Estado da Saúde",
+   "titulo": "Secretaria de Estado da Saúde - SC abre seleção para médicos e técnicos em Lages",
+   "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-estado-da-saude-sc-abre-selecao-para-medicos-e-tecnicos-em-lages",
+   "uf": "SC",
+   "uf_nome": "Santa Catarina",
+   "vagas": 3,
+   "cadastro_reserva": false,
+   "salario": 10581.16,
+   "salario_por_hora": false,
+   "cargos": "Médico especialista, Técnico em Enfermagem",
+   "escolaridade": "Técnico / Superior",
+   "niveis": [
+    "Técnico",
+    "Superior"
+   ],
+   "inscricoes_de": null,
+   "inscricoes_ate": "2026-12-09",
+   "prazo_texto": "09/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
    "novo": true
   },
   {
@@ -9186,6 +9459,30 @@
    "prazo_texto": "28/12/2026",
    "visto_em": "2026-11-13T08:04:47+00:00",
    "novo": false
+  },
+  {
+   "id": "871f1fcc250e3b5a",
+   "orgao": "Prefeitura de Pacajá",
+   "titulo": "Prefeitura de Pacajá - PA abre processo seletivo com 427 vagas na área da educação",
+   "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pacaja-pa-abre-processo-seletivo-com-427-vagas-na-area-da-educacao",
+   "uf": "PA",
+   "uf_nome": "Pará",
+   "vagas": 426,
+   "cadastro_reserva": false,
+   "salario": 4047.78,
+   "salario_por_hora": false,
+   "cargos": "Vários Cargos",
+   "escolaridade": "Fundamental / Médio / Superior",
+   "niveis": [
+    "Fundamental",
+    "Médio",
+    "Superior"
+   ],
+   "inscricoes_de": "2026-11-27",
+   "inscricoes_ate": "2026-12-04",
+   "prazo_texto": "27/11 a04/12/2026",
+   "visto_em": "2026-11-27T02:14:39+00:00",
+   "novo": true
   },
   {
    "id": "e94f803ed4c6294b",
